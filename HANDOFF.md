@@ -1,7 +1,7 @@
 # HANDOFF — 시장 아침 브리핑 자동 생성기 (Market Morning Brief)
 
 > **이 파일의 목적**: Claude Code 세션이 끊겨도 이 파일 하나만 읽으면 지금까지의 모든 대화 맥락·결정·진행 단계를 그대로 이어갈 수 있게 하는 인수인계 문서.
-> 마지막 갱신: 2026-09-15 (월) 오후, 세션 2 — Step 6까지 구현·push 완료 후 **결정 12(v3 로컬 대시보드 모드)** 로 방향 전환, 구현 중
+> 마지막 갱신: 2026-09-15 (월) 14:30 KST, 세션 2 종료 시점 — **v3 로컬 대시보드 모드 구현 완료, 모든 단계 opus.** 남은 것: 사용자가 대시보드에서 오늘 보고서 생성 확인(US-008) + (선택) GitHub Pages 설정 후 게시 버튼 확인
 > 사용자 불러오기 명령: **`HANDOFF.md 읽고 이어서 진행해줘`**
 > **새 세션은 이 파일 + 루트 `PLAN.md` 두 개만 읽으면 전체 맥락이 복원된다.** (`PLAN.md` = `.omc/plans/market-morning-brief-plan.md`의 루트 사본, 내용 동일. 계획을 고치면 두 파일 모두 갱신할 것 — ralph/omc 스킬은 `.omc/plans/` 경로를 읽는다.)
 
@@ -10,47 +10,27 @@
 ## 1. 지금 어디까지 왔나 (현재 단계)
 
 ```
-[완료] 1. 딥 인터뷰 (8라운드, 모호도 15.4% ≤ 20% 임계값 통과)
-[완료] 2. 스펙 작성 → .omc/specs/deep-interview-market-morning-brief.md
-[완료] 3. 사용자가 "omc-plan 합의 정제" 선택
-[완료] 4. 계획 전 사전 검증: 더벨 robots.txt 문제 → 사용자가 Google News RSS 대안(1번) 선택 → 스펙 반영
-[완료] 5a. 소스 접근 테스트 14개 (결과는 계획서 §3 표) + Planner 계획 v1 작성 → .omc/plans/market-morning-brief-plan.md
-[완료] 5b. Architect 검토 v1 → APPROVE_WITH_IMPROVEMENTS, 개선 11건 → .omc/plans/reviews/architect-review-v1.md
-[완료] 5c. Critic 검토 v1 → REVISE (Critical 2: stage1 토큰 절단, 월요일 24h 필터로 금요일 US 마감 뉴스 유실 / Major 8 / Minor 12) → .omc/plans/reviews/critic-review-v1.md
-[완료] 5d. Planner 계획 v2 → Architect v2 APPROVE_WITH_IMPROVEMENTS + Critic v2 조건부 APPROVE → 필수 패치를 인라인 반영해 **계획 v2.1 확정** (Changelog v2.1 참조). ralplan-state active=false
-[완료] 6. 사용자가 실행 경로 **ralph** 승인 (2026-09-15). 단, 시작 전 HANDOFF.md + PLAN.md 두 파일로 맥락 복원 가능하게 정리 요청 → 완료
-[대기]   7. **ralph 실행** (Skill `oh-my-claudecode:ralph`, 계획 = PLAN.md/.omc/plans/market-morning-brief-plan.md) → Step 0(사용자 GitHub 작업) → Step 0.5 러너 프로브 → Step 1~7 → 검증 → GitHub Actions + Pages 배포
+[완료] 1~5. 딥 인터뷰 → 스펙 → 소스 테스트 → 계획 v1 → Architect/Critic 합의 → 계획 v2.1 확정
+[완료] 6.   실행 경로 ralph 승인
+[완료] 7.   v2.1 구현 (Step 0~6): 수집·윈도·dedupe·분석·렌더·run.py·워크플로, Architect 코드 검증 반영
+[완료] 8.   결정 12 → v3 로컬 대시보드 모드로 전환 구현: Claude Code CLI 엔진, brief.serve 대시보드, 바로가기, GitHub 게시 버튼, cron/API 제거
+[완료] 9.   결정 13: 모든 단계 모델 opus
+[진행]  10.  사용자가 바로가기 → 대시보드 → 오늘 보고서 생성 (US-008). 제가 API로 돌린 1회(2026-09-15, sonnet 시절)는 성공(degraded: stage1 타임아웃) — 이후 예산·모델 조정됨
+[대기]  11.  (선택) GitHub Pages 설정(main //docs) 후 [GitHub에 게시] 버튼 확인
 ```
 
-**다음 세션에서 바로 할 일**: 실행 승인은 이미 받았다(ralph). 되묻지 말고 **`Skill oh-my-claudecode:ralph`를 PLAN.md 기준으로 호출**해 구현을 시작/재개하라. 재개 시엔 프로젝트 루트에 어떤 파일이 생성돼 있는지(`brief/`, `tests/`, `.github/workflows/`, `docs/`) 먼저 확인해 어느 Step까지 됐는지 판단하고 이어서 진행. Step 순서: Step 0(사용자 작업: GitHub 공개 리포 생성 + `ANTHROPIC_API_KEY` 시크릿 + Pages Source=main //docs — 이건 사용자에게 요청) → Step 0.5 러너 프로브(더벨 Google News가 러너에서 FAIL이면 Step 1 차단하고 사용자와 상의) → Step 1~7. 각 Step의 "완료 기준"을 통과해야 다음 Step.
+**지금 쓰는 방법**: 폴더의 `시장브리핑 대시보드.lnk` 더블클릭 → 브라우저 `http://127.0.0.1:8765/` → 날짜(오늘~3일 전) → [보고서 생성] → 8~12분 → [보고서 열기]. 결과는 `docs/reports/YYYY-MM-DD.html`, `docs/index.html`(최신), `docs/status/YYYY-MM-DD.json`(소스·토큰·경고).
 
-**구현 진행 상황 (ralph가 Step 완료 시마다 여기 갱신)**:
-- Step 0: **완료** (2026-09-15, commit ebc7f6e — git init, pyproject, .venv, requirements.lock, README 런북, docs/.nojekyll). 남은 사용자 작업: GitHub 공개 리포 생성·push, `ANTHROPIC_API_KEY` 시크릿, Pages Source=main //docs (README §1 절차)
-- Step 0.5: **파일 완료, 러너 실행 대기** — `brief/sources.yaml`, `scripts/probe.py`, `.github/workflows/probe.yml`. 로컬 프로브 17/20 OK(RSS 9·Yahoo 8 전부 OK, **news.google.com 3건 ConnectTimeout = 로컬 네트워크 문제**, 전일엔 성공). 사용자가 리포 만든 뒤 Actions → Source Probe 실행 → 더벨 행 OK/FAIL을 PLAN §3 표 "러너 결과" 열에 기록. FAIL이면 사용자와 상의.
-- Step 1~2: **완료** (commit d8f28ef) — collect 어댑터, window(직전 영업일 06:50), dedupe
-- Step 3: **완료** (commit 6d86154) — schemas(전달용/검증용 분리), LLMClient(호출 캡·데드라인), stage1/select/stage2
-- Step 4: **완료** (commit 4bbbbc3) — 템플릿 3종 + 배너/stale JS, 수치 대조, fallback + `python -m brief.fallback`
-- Step 5~6: **완료** (commit 다음 항목 참조) — run.py(최상위 BaseException → 배너 + exit 0, --skip-if-done, --dry-run), brief.yml(이중 cron, 킬 폴백, publish). 테스트 85개 통과, `python -m brief.run --dry-run` E2E OK
-- Architect 코드 검증(Steps 0–6): APPROVE_WITH_FIXES → Yahoo 일간 등락률 버그, 단계별 LLM timeout 예산, stage2 최소 잔여 240s 반영 (commit d28f2e2). 87 tests.
-- GitHub: 사용자가 공개 리포 생성·push 완료 → `https://github.com/holymolygwakamoly/market-morning-brief` (main = origin/main). 시크릿·프로브는 **결정 12로 불필요**. Pages는 게시 버튼용으로만 설정하면 됨(main //docs).
-- **v3 (결정 12) 구현 상태** — PRD US-009~012:
-  - US-009 LLM 엔진 → Claude Code CLI(`claude -p`) 교체, anthropic SDK 제거: 진행 중
-  - US-010 로컬 서버 + 대시보드 + 바로가기: 진행 중
-  - US-011 [GitHub에 게시] 버튼 + index.html = 최신 날짜: 대기
-  - US-012 워크플로 제거·README·PLAN 정리: 대기
-  - US-008 첫 실제 실행(대시보드에서, 사용자와): 대기
-- 확인된 사실: `claude -p --model sonnet --no-session-persistence --tools "" --output-format json --json-schema <schema> --system-prompt <sys>` 가 이 PC에서 동작(구독, 결과 JSON의 `structured_output` 필드). **`--bare`는 자격 증명을 안 읽어 "Not logged in" → 쓰지 말 것.** Claude Code 세션 안에서 호출할 땐 `CLAUDECODE` 등 `CLAUDE*` 환경변수를 제거해야 함(코드에서 항상 제거).
-- ralph PRD: `.omc/prd.json`(US-000~008), 진행 로그 `.omc/progress.txt` (둘 다 gitignore)
+**코드 상태 (2026-09-15 14:30)**: 커밋 `7cf7c60`까지 push됨(`https://github.com/holymolygwakamoly/market-morning-brief`, main). 테스트 119개 통과(`.venv/Scripts/python -m pytest -q`). `python -m brief.run --dry-run` E2E OK.
 
-**계획 v2.1 핵심 (구현 시 반드시 지킬 것)**:
-- 이중 cron `50 21`(06:50 KST 주) + `35 22`(07:35 KST 백업), 두 schedule 모두 `--skip-if-done`(success|degraded면 비용 0 종료), `workflow_dispatch`만 강제 실행. `docs/.nojekyll`.
-- LLM: stage1·stage2 모두 `claude-sonnet-5`(stage1은 `claude-haiku-4-5`로 다운그레이드 가능), max_tokens 16k, stage2 스트리밍 + `effort: medium` + adaptive thinking, stage1 thinking disabled. `Anthropic(max_retries=0)` + 자체 호출 캡(stage1 ≤2, stage2 ≤3) + 잔여시간 데드라인.
-- **구조화 출력은 SDK `output_format=<pydantic 모델>` 헬퍼만** — 원시 `model_json_schema()`를 `output_config.format`에 넣으면 400. 전달용(`Stage1Result{items[]}`, `ReportOut`, `extra="forbid"`, 제약 없음) / 검증용(`Report` validator: ai_sector ≥300자, leaders 1..5 등) 모델 분리.
-- 수집 윈도 = 직전 영업일 06:50 KST 이후(월요일 72h). KST 전면(`--date` 기본 Asia/Seoul, 커밋 메시지 `TZ=Asia/Seoul date +%F`).
-- 실패 처리: run.py 최상위 `except BaseException` + 14분 내부 데드라인 → 어떤 경로든 error 배너 + exit 0; 워크플로 publish 전 `if: always()` 킬 폴백(`brief.fallback --reason runner_killed`); 클라이언트 stale 배너(`data-generated` + 인라인 JS); stage1 실패 시 degrade.
-- 수치 환각 가드: 시장 시그널 표는 Quote에서 템플릿 직접 렌더, 프롬프트 "입력에 없는 수치 금지", 렌더 후 % 대조. Jinja autoescape.
-- 비용 산정: happy ≈ $0.27/회, 캡 도달 ≈ $0.68, 월 ≈ $5.9~7.1 (₩8~10k).
-
+**주요 구현 사실 (코드 안 읽어도 되게)**:
+- 파이프라인: `brief/run.py` — collect(12 소스, ThreadPool, 3분 예산) → window(직전 영업일 06:50 KST~) → dedupe(소스당 40, 총 200) → stage1 태깅(opus, 호출 ≤2, 480s 예산) → select(쿼터 US25/KR25/MACRO10 + AI≤15 + 더벨≤30) → stage2 본문(opus, 호출 ≤3, 480s 예산, ai_sector≥300자 검증) → render. 내부 데드라인 30분. 어떤 예외든 error 배너 + exit 0.
+- LLM 엔진 `brief/analyze/client.py`: `claude -p --model <m> --no-session-persistence --tools "" --output-format json --json-schema <pydantic schema> --system-prompt <sys>` (user 프롬프트는 stdin). `--bare` 금지(로그인 정보 안 읽음). 자식 env에서 `CLAUDE*` 변수 제거. 결과 JSON `structured_output` → pydantic. 비용은 CLI 추정치만 기록(`billed: false`, 청구 없음).
+- 모델: `BRIEF_MODEL`(기본 opus) = stage1·stage2. 단계별 `STAGE1_MODEL`/`STAGE2_MODEL`.
+- 대시보드 `brief/serve.py`: stdlib http.server 127.0.0.1:8765(`BRIEF_PORT`). `GET /`, `POST /api/generate {date}`(오늘−3~오늘 KST 아니면 400, 실행 중 409), `GET /api/status`(stage·log tail·result·recent), `POST /api/publish`(git add docs → commit → pull --rebase → push ×3), `GET /docs/*`(경로 탈출 차단). 포트 사용 중이면 브라우저만 열고 종료.
+- 런처: `시장브리핑 대시보드.bat`(ASCII만 — 한글 넣으면 cmd가 멈춤) + `.lnk`(`scripts/make_shortcut.ps1`로 재생성 가능).
+- 렌더: `index.html` = reports 중 **최신 날짜**(과거 날짜 생성이 덮지 않음). 시장 시그널 표는 Yahoo Quote 직접 렌더(일간 등락률 = `regularMarketChangePercent`). 수치 대조 경고, Jinja autoescape, 클라이언트 stale 배너.
+- 첫 실제 실행 관측(sonnet, 13:43 KST): 12/12 소스 OK(더벨 Google News 포함 — 오전엔 로컬 네트워크에서 news.google.com 접속 불가였다가 회복), 기사 167건, stage1 sonnet 180s×2 타임아웃 → 이후 예산 480s로 상향, stage2 2분40초·13.6k 토큰, 보고서 39KB·섹터 17개·AI 섹터 645자.
 
 ## 1-1. 합의 루프에서 나온 핵심 판단 (리뷰 파일 안 읽어도 되게 요약)
 
@@ -62,7 +42,8 @@
 
 ## 2. 프로젝트 한 줄 요약
 
-평일마다 사용자 PC가 꺼져 있어도 클라우드(GitHub Actions)에서 07:30 KST에 자동 실행 → 미국·한국 증시 뉴스 + 거시경제 이슈를 무료 공개 소스에서 수집 → Claude API로 **섹터 중심** 매매 참고 해석 생성 → **핵심 요약 / 상세 분석 / 참고 자료** 3부 구성 한국어 HTML 보고서를 **08:30 KST 이전**에 공개 웹 페이지(GitHub Pages)로 게시.
+(v3) 사용자가 폴더의 바로가기로 로컬 대시보드를 열고 날짜(오늘 KST~3일 전)를 골라 [보고서 생성]을 누르면 → 미국·한국 증시 뉴스 + 거시경제 이슈를 무료 공개 소스에서 수집 → **Claude Code CLI(Max 구독, 결제 0, 모델 opus)** 로 **섹터 중심** 매매 참고 해석 생성 → **핵심 요약 / 상세 분석 / 참고 자료** 3부 구성 한국어 HTML 보고서를 `docs/`에 생성(선택: [GitHub에 게시]로 GitHub Pages 공개 URL).
+(v2.1 원안은 GitHub Actions cron 06:50 KST + Claude API 자동 게시였으나 결정 12로 철회 — 사용자가 API 결제를 원치 않음.)
 
 ---
 
@@ -83,12 +64,15 @@
 | 10 | 더벨 robots.txt가 검색봇 외 전면 `Disallow: /`. 직접 크롤링은 정책 위반. Google News RSS로 헤드라인만 가능한데? | "1번으로 해줘 (Google News RSS로 더벨 헤드라인만)" + 이 HANDOFF 파일 요청 | **더벨 직접 크롤링 금지.** `https://news.google.com/rss/search?q=site:thebell.co.kr&hl=ko&gl=KR&ceid=KR:ko` 로 제목·링크·발행시각만 수집. LLM이 제목 기준 중요도 판단 |
 | 11 | 계획 v2.1을 어떤 방식으로 구현? (ralph / team / autopilot) | "ralph로 해줘. 그 전에 토큰이 떨어질 수 있으니 HANDOFF.md + PLAN.md 두 개만 읽어도 맥락 전부 복원되게 저장해줘" | **실행 경로 = ralph.** 루트 `PLAN.md` 생성(계획 사본). 세션 재개 시 두 파일만 읽고 ralph 이어서 실행 |
 | 12 | (Step 6까지 구현 후) API 결제 없이 갈 수 없나? | "API 호출은 결제가 필요하잖아. 이미 Pro/Max 구독에 10만 원 넘게 씀. 폴더 안 대시보드 바로가기 아이콘 → 날짜 지정(한국시간 오늘 기준 3일 전까지만) → [오늘 보고서 생성] 버튼 → 자동 생성되게. 추가 결제 없이" + 질문 답: "cron 끄되 GitHub Pages 게시 버튼 유지" / "LLM은 Claude Code CLI로 교체, API 코드 제거" | **v3 로컬 대시보드 모드.** LLM = `claude -p --json-schema`(Max 구독, 결제 0). GitHub Actions cron·API 키·anthropic SDK 제거. 로컬 서버(`python -m brief.serve`) + 대시보드(날짜 오늘~3일 전, 생성 버튼, 진행 상태, 과거 목록, [GitHub에 게시] 버튼). 폴더에 바로가기(.bat/.lnk). **"PC 꺼져 있어도 08:30 전 자동" 요구는 사용자가 비용 우선으로 철회**(출근 후 버튼 클릭, 3~5분 소요). PLAN.md §10 참조 |
+| 13 | 태깅(stage1)에 haiku를 쓰는 게 맞나? | "stage1도 앞으로 opus 써줘. 저 보고서를 쓸 때 쓰는 모든 토큰은 다 opus 써줘" | **모든 LLM 단계 기본 opus**(`BRIEF_MODEL=opus`). stage1 예산 480s, 내부 데드라인 30분 |
 
 **Claude가 제시하고 사용자가 이의 없이 수용한 가정**: 보고서 언어 = 한국어 / LLM = Claude API(비용상 Sonnet급 기본) / 시간대 = KST.
 
 ---
 
 ## 4. 확정 요구사항 요약
+
+> **v3 변경(결정 12·13)**: 아래 "시간/실행 환경/비용" 항목은 원안. 현재는 **로컬 수동 실행**(PC 켜고 버튼), **비용 0**(구독 CLI, opus), 호스팅은 로컬 `docs/` + 선택적 GitHub Pages 게시. 나머지(소스·분석·보고서·실패 처리·비목표)는 그대로 유효.
 
 **시간**: 평일(KST 월~금) 07:30 시작, 08:30 이전 게시. 주말 미실행. 수동 즉시 실행 가능해야 함.
 **실행 환경**: GitHub Actions 무료 티어(주 cron `50 21 * * 0-4` = KST 06:50 + 백업 `35 22 * * 0-4` = KST 07:35, 월~금; 스펙의 07:30에서 마감 안전을 위해 앞당김) + `workflow_dispatch`. PC 의존 없음.
@@ -113,7 +97,9 @@
 | 파일 | 용도 |
 |------|------|
 | `HANDOFF.md` (이 파일) | 세션 인수인계. 결정이 추가되면 3절 표와 1절 진행 단계를 갱신할 것 |
-| `PLAN.md` (루트) | **확정 계획 v2.1 사본** — 새 세션은 HANDOFF.md + 이 파일만 읽으면 됨 |
+| `PLAN.md` (루트) | **확정 계획 v2.1 + §10 v3 변경표** — 새 세션은 HANDOFF.md + 이 파일만 읽으면 됨 |
+| `README.md` | 사용자용 설치·사용법·런북(v3 기준) |
+| `.omc/prd.json`, `.omc/progress.txt` | ralph PRD(US-000~012)·진행 로그 (gitignore) |
 | `.omc/specs/deep-interview-market-morning-brief.md` | 딥 인터뷰 최종 스펙 (목표/제약/비목표/AC 19개/가정/기술 컨텍스트/온톨로지/전체 Q&A) |
 | `.omc/state/deep-interview-state.json` | 인터뷰 상태(점수·토폴로지·온톨로지 스냅샷) |
 | `.omc/plans/market-morning-brief-plan.md` | **계획 v2.1 (합의 확정본)** — RALPLAN-DR, 아키텍처, LLM 호출 설계, 토큰·비용·시간 산정표, 소스 표, AC 1~19, Step 0~7, 리스크, ADR, 리뷰 반영 매트릭스, Changelog |
@@ -122,15 +108,16 @@
 | `.omc/plans/reviews/plan-v1-snapshot.md` | 계획 v1 원본 스냅샷 |
 | `.omc/state/ralplan-state.json` | 합의 루프 상태 — **active=false, consensus_reached** |
 
-프로젝트 루트: `C:\Users\jack8\OneDrive\Desktop\project\Research` (git 미초기화, 소스 코드 없음 — greenfield)
+프로젝트 루트: `C:\Users\jack8\OneDrive\Desktop\project\Research` — git 초기화됨, 원격 `https://github.com/holymolygwakamoly/market-morning-brief.git` (main). 소스: `brief/`(collect, analyze, render, run.py, serve.py, fallback.py, sources.yaml, fixtures), `tests/`(119개), `scripts/`(probe.py, make_shortcut.ps1), `docs/`(생성 결과), `.venv/`(gitignore).
 
 ---
 
 ## 6. 다음 세션의 Claude에게
 
-- 사용자는 한국어로 대화한다. 질문은 한 번에 하나씩.
-- **실행 승인은 완료됨(ralph).** 계획은 PLAN.md. 세션 시작 시 되묻지 말고 구현 상태 확인 → ralph 재개. 단, Step 0의 GitHub 작업은 사용자만 할 수 있으니 필요한 시점에 한 번 요청.
-- 계획과 다르게 가야 할 상황(예: 러너에서 더벨 FAIL, 소스 URL 변경)이 생기면 코드로 우회하지 말고 사용자에게 한 번 묻고 3절 표에 결정을 기록.
-- 더벨 관련 결정(직접 크롤링 금지, Google News RSS 헤드라인만)은 사용자가 명시적으로 내린 것이니 되묻지 마라.
-- 사용자는 토큰/컨텍스트 용량을 신경 쓰고 있다. 장황한 재확인 대신 이 문서를 근거로 바로 진행하라.
-- 이 문서에 없는 새 결정이 생기면 3절 표에 행을 추가하고 1절 단계를 갱신하라.
+- 사용자는 한국어로 대화한다. 질문은 한 번에 하나씩. 토큰/컨텍스트 소모를 신경 쓰므로 이 문서를 근거로 바로 진행.
+- **구현은 끝났고 사용 단계다.** 시작하면 (1) `git status`/`git log -1`로 코드 상태 확인, (2) `docs/status/`에 새 status.json이 있으면 읽어서 사용자가 대시보드 생성을 해봤는지·결과(success/degraded/failed, stage1_degraded, warnings)를 확인하고 문제가 있으면 그것부터 다룬다.
+- 되묻지 말 것: 더벨은 Google News 헤드라인만 / API 결제 없음(CLI 구독) / 모든 단계 opus / 날짜는 오늘~3일 전 / cron·Actions 없음.
+- 코드 변경 후에는 `.venv/Scripts/python -m pytest -q` → commit → `git push origin main`. 대시보드 서버는 config를 import 시점에 읽으므로 **설정 바꾸면 서버 재시작**(포트 8765 프로세스 종료 후 `.lnk` 실행).
+- Claude Code 세션 안에서 `claude -p`를 직접 테스트할 땐 `env -u CLAUDECODE ...` 처럼 `CLAUDE*` 환경변수를 빼야 한다(코드는 이미 그렇게 함).
+- 새 결정이 생기면 3절 표에 행 추가, 1절 갱신. 계획 변경은 PLAN.md §10 이어서 쓰고 `.omc/plans/market-morning-brief-plan.md`에 복사.
+- 알려진 follow-up(우선순위 낮음): Yahoo 시세 병렬화, RSS bytes 파싱(인코딩), 미파싱 pubDate None 처리, 당일 success 뒤 수동 실패 시 배너 격하, href 스킴 화이트리스트, BOK 피드가 오래됨(MACRO는 사실상 Fed), stage1 opus가 느리면 배치 분할(2회 병렬) 고려.
