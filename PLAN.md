@@ -347,7 +347,34 @@
 | Minor 12 | README 런북 | §5 Step 0·Step 7, AC-19 |
 | 커버리지 표 | AC-1 coverage_ok 배너 연동, AC-17 소스명 assert | AC-1, AC-17 |
 
+
+## 10. v3 — 로컬 대시보드 모드 (결정 12, 2026-09-15)
+
+**배경**: 사용자가 API 결제를 원치 않음(Max 구독 보유). 클라우드 cron은 API 키 없이는 불가 → **로컬 실행 + Claude Code CLI(구독)** 로 전환. §1~9의 수집·분석·렌더 설계는 그대로 유효하며 아래만 바뀐다.
+
+| 항목 | v2.1 | v3 |
+|------|------|----|
+| 트리거 | GitHub Actions cron 06:50/07:35 KST | 사용자가 폴더의 바로가기 → 대시보드에서 날짜 선택 + [보고서 생성] 클릭 |
+| LLM | anthropic SDK + API 키 | `claude -p --model sonnet --no-session-persistence --tools "" --output-format json --json-schema <schema> --system-prompt <sys>` (stdin=user 프롬프트). 결제 0, Max 사용량 한도 소모. `--bare` 금지(자격 증명 미로딩). `CLAUDE*` 환경변수 제거 후 실행 |
+| 구조화 출력 | `output_format=<pydantic>` | 전달용 모델의 `model_json_schema()`를 `--json-schema`로 전달, 결과 `structured_output` → 앱 측 `Report` validator(동일) |
+| 호출 캡·데드라인 | stage1 ≤2, stage2 ≤3, 내부 14분 | 동일(subprocess timeout = min(단계 예산, 잔여−60)) |
+| 날짜 | 오늘(KST) 고정 | 대시보드에서 **오늘(KST) ~ 3일 전**만 선택 가능(서버·클라이언트 이중 검증). 과거 날짜는 RSS 잔존분만 수집됨을 화면에 표시 |
+| 게시 | 워크플로가 docs/ 커밋·push | `docs/` 로컬 생성이 기본. 대시보드 [GitHub에 게시] 버튼 → `git add docs && commit && pull --rebase && push`(사용자 git 자격 증명 사용) → GitHub Pages(main //docs) |
+| index.html | 당일 보고서 | **가장 최신 날짜** 보고서(과거 날짜 생성이 최신을 덮지 않음) |
+| 실패 처리 | 전일 유지 + 배너 + exit 0 | 동일 + 대시보드에 오류·로그 표시 |
+| 워크플로 | brief.yml, probe.yml | 모두 제거(API 키 없이는 실행 불가). `scripts/probe.py`는 로컬 진단용으로 유지 |
+| 의존성 | anthropic | 제거. Claude Code CLI(`claude`) 설치·로그인 필요 |
+
+**구성요소 추가**
+- `brief/analyze/client.py` → CLI 엔진: `LLMClient.structured(stage, *, system, user, output_format, model) -> pydantic`; usage는 CLI JSON의 `usage`/`total_cost_usd`(참고용, 미청구) 기록.
+- `brief/serve.py`: 127.0.0.1:8765 로컬 HTTP 서버(stdlib). `GET /` 대시보드, `POST /api/generate {date}`, `GET /api/status`(진행 단계·로그 tail·결과), `POST /api/publish`, `GET /docs/*` 정적. 시작 시 브라우저 자동 열기, 동시 생성 1개 제한.
+- `brief/render/templates/dashboard.html.j2`: 날짜 input(min=오늘−3, max=오늘, KST), 생성 버튼, 진행 표시(폴링 2s), 최근 보고서 목록(archive), 게시 버튼·결과, 오류 표시.
+- 루트 `시장브리핑 대시보드.bat`(+ `.lnk`): `.venv\Scripts\python -m brief.serve`.
+
+**AC 변경**: AC-14/15/16(cron·08:30)은 **철회**(사용자 결정 12). AC-19는 "대시보드 버튼 + CLI `python -m brief.run --date`"로 대체. 나머지 AC 유지. 신규 AC-20: 날짜 범위 검증(오늘−4 이하·미래 → 400). AC-21: 대시보드 생성 클릭 → 3~6분 내 보고서 표시, 실패 시 오류 메시지·로그.
+
 ## Changelog
 - v1 (2026-09-14): 초안. 소스 14개 접근 테스트 반영, 더벨=Google News RSS 결정 반영.
 - v2 (2026-09-15): Architect·Critic v1 리뷰 전면 반영 — (1) 이중 cron 06:50/07:35 KST(멱등 백업, 정각 회피) + `.nojekyll` + 클라이언트 stale 배너; (2) stage1·stage2 모두 `claude-sonnet-5` 기본(Haiku 4.5 설정 다운그레이드), 구조화 출력(`messages.parse`/`output_config.format`), max_tokens 16k, stage2 스트리밍 + `effort: medium` + adaptive thinking, stage1 thinking 비활성; (3) SDK `max_retries=0` + stage별 총 호출 캡(2/3) + 잔여 시간 데드라인 + 내부 데드라인 14분; (4) 수집 윈도 "직전 영업일 06:50 KST"(월요일 72h), tz-aware 파싱·소스별 `tz`, Yahoo `asof` 배지; (5) 최상위 예외 처리·`if: always()` 커밋·stage1 degrade·첫 실행 폴백·배너 중첩 방지; (6) Step 0.5 러너 프로브 + 소스 표 러너 결과 열; (7) KST 전면 적용(`--date`, 커밋 메시지, 21:50Z 테스트); (8) git bot identity·`pull --rebase` 재시도·`fetch-depth: 0`·requirements.lock·pip cache; (9) stage2 쿼터 입력 + `story_key` + Google News 접미사 제거 + bigram dedupe; (10) 수치 환각 가드(시그널 표 직접 렌더, 프롬프트 금지, 렌더 후 대조, leaders 스키마); (11) Jinja autoescape + XSS 테스트, feedparser 텍스트 파싱; (12) AC-6 최종 동작 확정(≥300자, 캡 후 경고 배너 게시), AC-9 자동 감축 삭제, AC-15 Pages URL curl 기준, AC-4 스펙 편차 명시; (13) 신설 "토큰·비용·시간 산정표", "리뷰 반영 매트릭스"; Option B CPU 수치 정정, ADR consequences 보강, README 런북, 공개 리포 필수 명시.
 - v2.1 (2026-09-15): Architect v2(APPROVE_WITH_IMPROVEMENTS)·Critic v2(조건부 APPROVE) 필수 패치 — (1) 구조화 출력은 SDK `output_format=<pydantic 모델>` 헬퍼만 사용, 원시 `model_json_schema()` 전달 금지(minLength/minItems/additionalProperties 제약), 전달용(`Stage1Result{items[]}`, `ReportOut`, `extra="forbid"`, object 루트) / 검증용(`Report` validator) 모델 분리, 테스트 assert 추가; (2) 두 schedule 트리거 모두 `--skip-if-done`, skip 판정 `success|degraded`; (3) 러너 SIGKILL 경로용 `brief.fallback --reason runner_killed` step 추가, publish 스크립트 서브셸 `exit` 제거 + `rebase --abort`; (4) 산정표 정정(happy $0.27, 캡 $0.68, 월 $5.9~7.1, worst 32.5~34분, cron 허용치 66/21분, KR 입력 토큰 주석, 스키마 컴파일 캐시 행); (5) `is_ai` ≤15, degrade 시 `market`=`Article.category`, 폴백 배너 날짜 = 로드한 `data-generated`, concurrency pending 주석, 첫 월요일 금요일 기사 건수 체크.
+- v3 (2026-09-15): 결정 12 — 로컬 대시보드 모드(§10). Claude Code CLI 구독 엔진, cron/API 제거, 날짜 선택(오늘~3일 전), GitHub 게시 버튼.

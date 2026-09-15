@@ -1,0 +1,129 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1789446534062,
+  "projectRoot": "C:\\Users\\jack8\\OneDrive\\Desktop\\project\\Research",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Python",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "pyproject.toml"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "pytest",
+        "version": null,
+        "category": "testing"
+      }
+    ],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": "pytest",
+    "lintCommand": "ruff check",
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "docs",
+      "scripts",
+      "tests"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "brief": {
+      "path": "brief",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1789446534003,
+      "keyFiles": [
+        "config.py",
+        "dedupe.py",
+        "fallback.py",
+        "run.py",
+        "sources.yaml"
+      ]
+    },
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 1,
+      "lastAccessed": 1789446534004,
+      "keyFiles": []
+    },
+    "market_morning_brief.egg-info": {
+      "path": "market_morning_brief.egg-info",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1789446534005,
+      "keyFiles": [
+        "dependency_links.txt",
+        "PKG-INFO",
+        "requires.txt",
+        "SOURCES.txt",
+        "top_level.txt"
+      ]
+    },
+    "scripts": {
+      "path": "scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 1,
+      "lastAccessed": 1789446534006,
+      "keyFiles": [
+        "probe.py"
+      ]
+    },
+    "tests": {
+      "path": "tests",
+      "purpose": "Test files",
+      "fileCount": 8,
+      "lastAccessed": 1789446534006,
+      "keyFiles": [
+        "test_analyze.py",
+        "test_collect.py",
+        "test_dedupe.py",
+        "test_render.py",
+        "test_run.py"
+      ]
+    },
+    "brief\\fixtures": {
+      "path": "brief\\fixtures",
+      "purpose": "Test fixtures",
+      "fileCount": 3,
+      "lastAccessed": 1789446534007,
+      "keyFiles": [
+        "articles_dry_run.json",
+        "quotes_dry_run.json",
+        "report_dry_run.json"
+      ]
+    },
+    "tests\\fixtures": {
+      "path": "tests\\fixtures",
+      "purpose": "Test fixtures",
+      "fileCount": 1,
+      "lastAccessed": 1789446534008,
+      "keyFiles": [
+        "report_valid.json"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

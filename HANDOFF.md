@@ -1,7 +1,7 @@
 # HANDOFF — 시장 아침 브리핑 자동 생성기 (Market Morning Brief)
 
 > **이 파일의 목적**: Claude Code 세션이 끊겨도 이 파일 하나만 읽으면 지금까지의 모든 대화 맥락·결정·진행 단계를 그대로 이어갈 수 있게 하는 인수인계 문서.
-> 마지막 갱신: 2026-09-15 (월), 세션 2 — 합의 완료(계획 v2.1) + 실행 경로 ralph 승인. 다음: ralph 실행
+> 마지막 갱신: 2026-09-15 (월) 오후, 세션 2 — Step 6까지 구현·push 완료 후 **결정 12(v3 로컬 대시보드 모드)** 로 방향 전환, 구현 중
 > 사용자 불러오기 명령: **`HANDOFF.md 읽고 이어서 진행해줘`**
 > **새 세션은 이 파일 + 루트 `PLAN.md` 두 개만 읽으면 전체 맥락이 복원된다.** (`PLAN.md` = `.omc/plans/market-morning-brief-plan.md`의 루트 사본, 내용 동일. 계획을 고치면 두 파일 모두 갱신할 것 — ralph/omc 스킬은 `.omc/plans/` 경로를 읽는다.)
 
@@ -31,7 +31,15 @@
 - Step 3: **완료** (commit 6d86154) — schemas(전달용/검증용 분리), LLMClient(호출 캡·데드라인), stage1/select/stage2
 - Step 4: **완료** (commit 4bbbbc3) — 템플릿 3종 + 배너/stale JS, 수치 대조, fallback + `python -m brief.fallback`
 - Step 5~6: **완료** (commit 다음 항목 참조) — run.py(최상위 BaseException → 배너 + exit 0, --skip-if-done, --dry-run), brief.yml(이중 cron, 킬 폴백, publish). 테스트 85개 통과, `python -m brief.run --dry-run` E2E OK
-- Step 7: **대기** — (1) 사용자 GitHub 리포 생성·push·시크릿·Pages, (2) Source Probe 실행 → 더벨 OK/FAIL 기록, (3) 로컬 실제 실행 1회(API 키) → cost·ai_sector 확인, (4) workflow_dispatch 1회 → Pages URL 확인, (5) 첫 주 체크리스트
+- Architect 코드 검증(Steps 0–6): APPROVE_WITH_FIXES → Yahoo 일간 등락률 버그, 단계별 LLM timeout 예산, stage2 최소 잔여 240s 반영 (commit d28f2e2). 87 tests.
+- GitHub: 사용자가 공개 리포 생성·push 완료 → `https://github.com/holymolygwakamoly/market-morning-brief` (main = origin/main). 시크릿·프로브는 **결정 12로 불필요**. Pages는 게시 버튼용으로만 설정하면 됨(main //docs).
+- **v3 (결정 12) 구현 상태** — PRD US-009~012:
+  - US-009 LLM 엔진 → Claude Code CLI(`claude -p`) 교체, anthropic SDK 제거: 진행 중
+  - US-010 로컬 서버 + 대시보드 + 바로가기: 진행 중
+  - US-011 [GitHub에 게시] 버튼 + index.html = 최신 날짜: 대기
+  - US-012 워크플로 제거·README·PLAN 정리: 대기
+  - US-008 첫 실제 실행(대시보드에서, 사용자와): 대기
+- 확인된 사실: `claude -p --model sonnet --no-session-persistence --tools "" --output-format json --json-schema <schema> --system-prompt <sys>` 가 이 PC에서 동작(구독, 결과 JSON의 `structured_output` 필드). **`--bare`는 자격 증명을 안 읽어 "Not logged in" → 쓰지 말 것.** Claude Code 세션 안에서 호출할 땐 `CLAUDECODE` 등 `CLAUDE*` 환경변수를 제거해야 함(코드에서 항상 제거).
 - ralph PRD: `.omc/prd.json`(US-000~008), 진행 로그 `.omc/progress.txt` (둘 다 gitignore)
 
 **계획 v2.1 핵심 (구현 시 반드시 지킬 것)**:
@@ -74,6 +82,7 @@
 | 9 | 스펙 완성 후 진행 방식? | "omc-plan 합의 정제 (Recommended)" | Planner/Architect/Critic 합의 계획 → 별도 실행 승인 |
 | 10 | 더벨 robots.txt가 검색봇 외 전면 `Disallow: /`. 직접 크롤링은 정책 위반. Google News RSS로 헤드라인만 가능한데? | "1번으로 해줘 (Google News RSS로 더벨 헤드라인만)" + 이 HANDOFF 파일 요청 | **더벨 직접 크롤링 금지.** `https://news.google.com/rss/search?q=site:thebell.co.kr&hl=ko&gl=KR&ceid=KR:ko` 로 제목·링크·발행시각만 수집. LLM이 제목 기준 중요도 판단 |
 | 11 | 계획 v2.1을 어떤 방식으로 구현? (ralph / team / autopilot) | "ralph로 해줘. 그 전에 토큰이 떨어질 수 있으니 HANDOFF.md + PLAN.md 두 개만 읽어도 맥락 전부 복원되게 저장해줘" | **실행 경로 = ralph.** 루트 `PLAN.md` 생성(계획 사본). 세션 재개 시 두 파일만 읽고 ralph 이어서 실행 |
+| 12 | (Step 6까지 구현 후) API 결제 없이 갈 수 없나? | "API 호출은 결제가 필요하잖아. 이미 Pro/Max 구독에 10만 원 넘게 씀. 폴더 안 대시보드 바로가기 아이콘 → 날짜 지정(한국시간 오늘 기준 3일 전까지만) → [오늘 보고서 생성] 버튼 → 자동 생성되게. 추가 결제 없이" + 질문 답: "cron 끄되 GitHub Pages 게시 버튼 유지" / "LLM은 Claude Code CLI로 교체, API 코드 제거" | **v3 로컬 대시보드 모드.** LLM = `claude -p --json-schema`(Max 구독, 결제 0). GitHub Actions cron·API 키·anthropic SDK 제거. 로컬 서버(`python -m brief.serve`) + 대시보드(날짜 오늘~3일 전, 생성 버튼, 진행 상태, 과거 목록, [GitHub에 게시] 버튼). 폴더에 바로가기(.bat/.lnk). **"PC 꺼져 있어도 08:30 전 자동" 요구는 사용자가 비용 우선으로 철회**(출근 후 버튼 클릭, 3~5분 소요). PLAN.md §10 참조 |
 
 **Claude가 제시하고 사용자가 이의 없이 수용한 가정**: 보고서 언어 = 한국어 / LLM = Claude API(비용상 Sonnet급 기본) / 시간대 = KST.
 
