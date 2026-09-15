@@ -90,8 +90,9 @@ sources:
 quotes:
   type: yahoo_chart
   url_template: https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=5d&interval=1d
-  timeout_s: 15
-  retries: 2
+  # 8심볼 순차 호출이라 최악 8×(2×10+2)s ≈ 3분으로 상한. 등락률은 meta.regularMarketChangePercent 우선(일간).
+  timeout_s: 10
+  retries: 1
   symbols:
     - {symbol: "^GSPC", name: "S&P 500"}
     - {symbol: "^IXIC", name: "나스닥"}

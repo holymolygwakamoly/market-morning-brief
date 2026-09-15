@@ -70,6 +70,6 @@ def run_stage1(
         return result
 
     try:
-        return llm.call("stage1", fn, max_calls=STAGE1_MAX_CALLS, deadline=deadline)
+        return llm.call("stage1", fn, max_calls=STAGE1_MAX_CALLS, deadline=deadline, budget_s=180)
     except (CallCapExceeded, SkippedForDeadline) as e:
         raise Stage1Degraded(str(e)) from e

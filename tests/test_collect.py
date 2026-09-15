@@ -164,9 +164,10 @@ def test_yahoo_chart_quote_change_pct(monkeypatch):
                 {
                     "meta": {
                         "regularMarketPrice": 105.0,
-                        "chartPreviousClose": 100.0,
+                        "chartPreviousClose": 90.0,  # 5d 범위 시작 전 종가 — 일간 등락에 쓰면 안 됨
                         "regularMarketTime": 1758000000,
-                    }
+                    },
+                    "indicators": {"quote": [{"close": [90.0, 95.0, None, 100.0, 105.0]}]},
                 }
             ]
         }
@@ -190,3 +191,29 @@ def test_yahoo_chart_quote_change_pct(monkeypatch):
     assert q.close == 105.0
     assert q.prev_close == 100.0
     assert q.change_pct == 5.0
+
+
+def test_yahoo_chart_prefers_regular_market_change_percent(monkeypatch):
+    fixture = {
+        "chart": {
+            "result": [
+                {
+                    "meta": {
+                        "regularMarketPrice": 7656.98,
+                        "chartPreviousClose": 7718.6,
+                        "regularMarketChangePercent": -0.483,
+                        "regularMarketTime": 1758000000,
+                    },
+                    "indicators": {"quote": [{"close": [7718.6, 7700.0, 7656.98]}]},
+                }
+            ]
+        }
+    }
+    monkeypatch.setattr("brief.collect.yahoo_chart.fetch_text", lambda *a, **k: json.dumps(fixture))
+    quotes, errors = fetch_quotes(
+        {"url_template": "u/{symbol}", "timeout_s": 1, "retries": 0, "symbols": [{"symbol": "^GSPC", "name": "S&P"}]},
+        {"user_agent": "UA"},
+    )
+    assert errors == []
+    assert quotes[0].change_pct == -0.48
+    assert abs(quotes[0].prev_close - 7694.14) < 0.1

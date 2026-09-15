@@ -272,7 +272,13 @@ def test_deadline_too_close_skips_without_calls():
 def test_call_timeout_derived_from_remaining():
     fake = FakeAnthropic([_msg(_stage1_result(1))])
     run_stage1(_llm(fake), [_article(0)], deadline=time.monotonic() + 100)
-    assert 90 <= fake.timeouts[0] <= 95
+    assert 35 <= fake.timeouts[0] <= 40  # min(budget 180, remaining-60)
+
+
+def test_call_timeout_capped_by_stage_budget():
+    fake = FakeAnthropic([_msg(_stage1_result(1))])
+    run_stage1(_llm(fake), [_article(0)], deadline=time.monotonic() + 800)
+    assert 175 <= fake.timeouts[0] <= 180
 
 
 # --- select -------------------------------------------------------------------------

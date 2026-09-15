@@ -41,7 +41,7 @@ logger = logging.getLogger(__name__)
 INTERNAL_DEADLINE_S = 14 * 60
 COLLECT_BUDGET_S = 180
 # 단계 진입 시 요구하는 최소 잔여 시간(초). 부족하면 TimeoutError("deadline").
-MIN_REMAINING = {"collect": 30, "stage1": 60, "stage2": 90, "render": 5}
+MIN_REMAINING = {"collect": 30, "stage1": 60, "stage2": 240, "render": 5}
 # collect 이후 단계(LLM·렌더)를 위해 남겨 둘 시간.
 POST_COLLECT_RESERVE_S = 300
 

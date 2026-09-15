@@ -13,6 +13,23 @@ from .http import fetch_text
 logger = logging.getLogger(__name__)
 
 
+def daily_change(meta: dict, result: dict) -> tuple[float | None, float]:
+    """일간 등락률. `chartPreviousClose`는 차트 범위(5d) 시작 전 종가라 쓰지 않는다.
+
+    우선순위: meta.regularMarketChangePercent → 일봉 close 배열의 마지막 두 유효값 → 0.0
+    """
+    close = float(meta["regularMarketPrice"])
+    closes = [c for c in (result.get("indicators", {}).get("quote") or [{}])[0].get("close") or [] if c is not None]
+    if meta.get("regularMarketChangePercent") is not None:
+        pct = float(meta["regularMarketChangePercent"])
+        prev = round(close / (1 + pct / 100), 4) if pct != -100 else None
+        return prev, round(pct, 2)
+    if len(closes) >= 2:
+        prev = float(closes[-2]) if abs(float(closes[-1]) - close) < 1e-9 else float(closes[-1])
+        return prev, round((close / prev - 1) * 100, 2)
+    return None, 0.0
+
+
 def fetch_quotes(
     quotes_cfg: dict,
     defaults: dict,
@@ -36,10 +53,8 @@ def fetch_quotes(
             result = data["chart"]["result"][0]
             meta = result["meta"]
             close = float(meta["regularMarketPrice"])
-            prev_close_raw = meta.get("chartPreviousClose", meta.get("previousClose"))
-            prev_close = float(prev_close_raw) if prev_close_raw is not None else None
+            prev_close, change_pct = daily_change(meta, result)
             asof = datetime.fromtimestamp(int(meta["regularMarketTime"]), tz=timezone.utc)
-            change_pct = round((close / prev_close - 1) * 100, 2) if prev_close else 0.0
             quotes.append(
                 Quote(
                     symbol=symbol,

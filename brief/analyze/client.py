@@ -66,11 +66,13 @@ class LLMClient:
         max_calls: int,
         deadline: float,
         min_seconds: float = 45.0,
+        budget_s: float = 300.0,
         backoffs: tuple[float, ...] = (5, 15),
     ) -> Any:
         """`fn(client_with_timeout)`을 최대 `max_calls`회 시도한다.
 
         - 매 시도 전 잔여 시간 < min_seconds 이면 SkippedForDeadline
+        - 호출 timeout = min(budget_s, 잔여−60s) — 한 단계가 행(hang)으로 전체 데드라인을 먹지 않게
         - 예외(API 오류·ValidationError 등)는 기록 후 백오프(잔여 시간 내) 뒤 재시도
         - 상한 도달 시 CallCapExceeded(last_error)
         """
@@ -83,7 +85,8 @@ class LLMClient:
                 )
             self.calls[stage] = self.calls.get(stage, 0) + 1
             try:
-                return fn(self.client.with_options(timeout=max(10.0, remaining - 5)))
+                timeout = max(10.0, min(budget_s, remaining - 60))
+                return fn(self.client.with_options(timeout=timeout))
             except SkippedForDeadline:
                 raise
             except Exception as e:  # noqa: BLE001 — API/검증 오류 모두 재시도 대상
