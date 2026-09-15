@@ -23,3 +23,6 @@ include = ["brief*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[tool.setuptools.package-data]
+brief = ["fixtures/*.json", "render/templates/*.j2", "sources.yaml"]
