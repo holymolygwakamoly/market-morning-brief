@@ -12,6 +12,7 @@ dependencies = [
   "python-dateutil>=2.9,<3",
   "pyyaml>=6.0,<7",
   "beautifulsoup4>=4.12,<5",
+  "tzdata; sys_platform == 'win32'",
 ]
 
 [project.optional-dependencies]
