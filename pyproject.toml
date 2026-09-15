@@ -1,0 +1,24 @@
+[project]
+name = "market-morning-brief"
+version = "0.1.0"
+description = "평일 아침 미국·한국 증시 브리핑 자동 생성기 (GitHub Actions + Claude API + GitHub Pages)"
+requires-python = ">=3.12"
+dependencies = [
+  "feedparser>=6.0.11,<7",
+  "httpx>=0.27,<1",
+  "anthropic>=0.80",
+  "jinja2>=3.1,<4",
+  "pydantic>=2.9,<3",
+  "python-dateutil>=2.9,<3",
+  "pyyaml>=6.0,<7",
+  "beautifulsoup4>=4.12,<5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "respx>=0.21", "freezegun>=1.5"]
+
+[tool.setuptools.packages.find]
+include = ["brief*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
