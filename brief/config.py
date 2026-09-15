@@ -25,14 +25,16 @@ def load_sources(path: str | Path | None = None) -> dict:
 
 
 # --- 분석 계층(Step 3) ---------------------------------------------------------
-STAGE1_MODEL = os.getenv("STAGE1_MODEL", "claude-sonnet-5")
-STAGE2_MODEL = os.getenv("STAGE2_MODEL", "claude-sonnet-5")
+# LLM 엔진: Claude Code CLI(`claude -p`, Max 구독). 모델 alias(sonnet/opus/haiku) 또는 전체 ID.
+BRIEF_MODEL = os.getenv("BRIEF_MODEL", "sonnet")
+STAGE1_MODEL = os.getenv("STAGE1_MODEL", BRIEF_MODEL)
+STAGE2_MODEL = os.getenv("STAGE2_MODEL", BRIEF_MODEL)
+CLAUDE_BIN = os.getenv("CLAUDE_BIN", "claude")
 STAGE1_MAX_CALLS = 2
 STAGE2_MAX_CALLS = 3
-MAX_TOKENS = 16000
-STAGE2_EFFORT = "medium"
+# CLI가 보고하는 total_cost_usd(추정치, 미청구) 기준 소프트 캡
 COST_SOFT_CAP_USD = 0.50
-# (입력 $/MTok, 출력 $/MTok)
+# 참고용 단가 (입력 $/MTok, 출력 $/MTok) — 구독 실행에서는 사용하지 않음
 PRICES_PER_MTOK: dict[str, tuple[float, float]] = {
     "claude-sonnet-5": (2.0, 10.0),
     "claude-haiku-4-5": (1.0, 5.0),

@@ -1,4 +1,4 @@
-"""stage2 — 브리핑 본문 작성(스트리밍 구조화 출력) + 앱 측 Report 검증·재시도."""
+"""stage2 — 브리핑 본문 작성(CLI 구조화 출력) + 앱 측 Report 검증·재시도."""
 from __future__ import annotations
 
 from datetime import date
@@ -8,7 +8,7 @@ from brief.analyze.client import LLMClient
 from brief.analyze.schemas import Report, ReportOut, report_violations
 from brief.analyze.select import Selected
 from brief.collect.base import Quote
-from brief.config import KST, MAX_TOKENS, STAGE2_EFFORT, STAGE2_MAX_CALLS, STAGE2_MODEL
+from brief.config import KST, STAGE2_MAX_CALLS, STAGE2_MODEL
 
 DISCLAIMER = "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
 
@@ -105,21 +105,12 @@ def run_stage2(
     base_calls = llm.calls.get("stage2", 0)
     state: dict[str, Any] = {"prev": None}
 
-    def fn(client: Any) -> tuple[Report, list[str]]:
+    def fn(timeout: float) -> tuple[Report, list[str]]:
         attempt = llm.calls.get("stage2", 0) - base_calls
         system, user = build_stage2_prompt(selected, quotes, run_date, state["prev"])
-        with client.messages.stream(
-            model=model,
-            max_tokens=MAX_TOKENS,
-            system=system,
-            messages=[{"role": "user", "content": user}],
-            thinking={"type": "adaptive"},
-            output_config={"effort": STAGE2_EFFORT},
-            output_format=ReportOut,
-        ) as stream:
-            msg = stream.get_final_message()
-        llm.record_usage("stage2", model, msg)
-        out: ReportOut = msg.parsed_output
+        out = llm.structured_once(
+            "stage2", system=system, user=user, output_format=ReportOut, model=model, timeout=timeout
+        )
         errs = report_violations(out)
         if not errs:
             return Report.model_validate(out.model_dump()), []

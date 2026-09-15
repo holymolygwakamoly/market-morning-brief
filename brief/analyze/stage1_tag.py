@@ -1,12 +1,10 @@
 """stage1 — 기사 태깅(중요도·시장·AI 여부·섹터 코드·story_key)."""
 from __future__ import annotations
 
-from typing import Any
-
 from brief.analyze.client import CallCapExceeded, LLMClient, SkippedForDeadline
 from brief.analyze.schemas import SECTOR_CODES, Stage1Result
 from brief.collect.base import Article
-from brief.config import MAX_TOKENS, STAGE1_MAX_CALLS, STAGE1_MODEL
+from brief.config import STAGE1_MAX_CALLS, STAGE1_MODEL
 
 
 class Stage1Degraded(Exception):
@@ -51,25 +49,23 @@ def run_stage1(
 ) -> Stage1Result:
     system, user = build_stage1_prompt(articles)
     valid_ids = set(range(len(articles)))
-    extra: dict[str, Any] = {} if "haiku" in model else {"thinking": {"type": "disabled"}}
 
-    def fn(client: Any) -> Stage1Result:
-        msg = client.messages.parse(
-            model=model,
-            max_tokens=MAX_TOKENS,
-            system=system,
-            messages=[{"role": "user", "content": user}],
-            output_format=Stage1Result,
-            **extra,
-        )
-        llm.record_usage("stage1", model, msg)
-        result: Stage1Result = msg.parsed_output
+    def check(result: Stage1Result) -> None:
         bad = [it.i for it in result.items if it.i not in valid_ids or not 1 <= it.p <= 5]
         if bad:
             raise ValueError(f"stage1 결과 오류: 존재하지 않는 i 또는 p 범위(1~5) 위반: {bad[:10]}")
-        return result
 
     try:
-        return llm.call("stage1", fn, max_calls=STAGE1_MAX_CALLS, deadline=deadline, budget_s=180)
+        return llm.structured(
+            "stage1",
+            system=system,
+            user=user,
+            output_format=Stage1Result,
+            model=model,
+            deadline=deadline,
+            max_calls=STAGE1_MAX_CALLS,
+            budget_s=180,
+            check=check,
+        )
     except (CallCapExceeded, SkippedForDeadline) as e:
         raise Stage1Degraded(str(e)) from e

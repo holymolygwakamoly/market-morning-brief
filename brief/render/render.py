@@ -20,6 +20,7 @@ if TYPE_CHECKING:  # 런타임 import 회피 — fallback CLI가 pydantic/anthro
     from brief.collect.base import Article, Quote
 
 PCT_RE = re.compile(r"[-+]?\d+(?:\.\d+)?\s?%")
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 env = Environment(
     loader=PackageLoader("brief.render", "templates"),
@@ -219,7 +220,9 @@ def render_report(
     reports_dir.mkdir(parents=True, exist_ok=True)
     out = reports_dir / f"{date}.html"
     out.write_text(html, encoding="utf-8")
-    shutil.copyfile(out, docs_dir / "index.html")
+    # index.html = 날짜가 가장 최신인 보고서(과거 날짜 생성이 최신 index를 덮지 않음, PLAN §10)
+    latest = max((f for f in reports_dir.glob("*.html") if DATE_RE.match(f.stem)), key=lambda f: f.stem, default=out)
+    shutil.copyfile(latest, docs_dir / "index.html")
     write_status(docs_dir, status)
     render_archive(docs_dir)
     return out

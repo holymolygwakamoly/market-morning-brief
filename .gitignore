@@ -11,3 +11,5 @@ build/
 dist/
 .DS_Store
 Thumbs.db
+.omc/project-memory.json
+.omc/notepads/

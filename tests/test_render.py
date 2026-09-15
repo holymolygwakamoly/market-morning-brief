@@ -129,6 +129,15 @@ def test_outputs_written(tmp_path):
     assert "success" in archive
 
 
+def test_index_is_latest_date_not_last_rendered(tmp_path):
+    """index.html = 날짜가 가장 최신인 보고서 — 과거 날짜를 나중에 생성해도 최신 index를 덮지 않는다."""
+    _render(tmp_path, date="2026-09-16", status=_status(date="2026-09-16"))
+    _render(tmp_path, date="2026-09-14", status=_status(date="2026-09-14"))
+    assert (tmp_path / "reports" / "2026-09-14.html").exists()
+    index = _soup((tmp_path / "index.html").read_text(encoding="utf-8"))
+    assert index.html["data-generated"] == "2026-09-16"
+
+
 def test_references_lists_sources_and_articles(tmp_path):
     _, html = _render(tmp_path)
     soup = _soup(html)

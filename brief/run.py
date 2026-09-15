@@ -165,6 +165,7 @@ def run(
 
         # 1) collect + quotes
         require("collect")
+        logger.info("stage: collect")
         if args.dry_run:
             articles = [Article(**x) for x in _load_fixture("articles_dry_run.json")]
             results = _dry_run_sources(articles)
@@ -195,6 +196,7 @@ def run(
         else:
             llm = llm_factory(sleep=sleep)
             require("stage1")
+            logger.info("stage: stage1")
             try:
                 stage1 = run_stage1(llm, articles, deadline=deadline)
             except Stage1Degraded as e:
@@ -202,6 +204,7 @@ def run(
                 status.stage1_degraded = True
             selected = select_for_stage2(articles, stage1)
             require("stage2")
+            logger.info("stage: stage2")
             try:
                 report, warnings = run_stage2(llm, selected, quotes, run_date, deadline=deadline)
             except (CallCapExceeded, SkippedForDeadline) as e:
@@ -216,6 +219,7 @@ def run(
             if w not in status.warnings:
                 status.warnings.append(w)
         require("render")
+        logger.info("stage: render")
         status.result = (
             "degraded"
             if (status.failed_sources or status.stage1_degraded or status.warnings or not status.coverage_ok)
