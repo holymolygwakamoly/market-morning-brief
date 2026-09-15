@@ -26,7 +26,7 @@ def load_sources(path: str | Path | None = None) -> dict:
 
 # --- 분석 계층(Step 3) ---------------------------------------------------------
 # LLM 엔진: Claude Code CLI(`claude -p`, Max 구독). 모델 alias(sonnet/opus/haiku) 또는 전체 ID.
-BRIEF_MODEL = os.getenv("BRIEF_MODEL", "sonnet")
+BRIEF_MODEL = os.getenv("BRIEF_MODEL", "opus")  # 보고서 본문(stage2) 모델. 사용자 결정: opus
 # stage1(태깅)은 CLI 경유 시 Sonnet으로 167건에 180s+ 걸려 시간 초과 → 기본 haiku(분류 작업, 2~3배 빠름)
 STAGE1_MODEL = os.getenv("STAGE1_MODEL", "haiku")
 STAGE2_MODEL = os.getenv("STAGE2_MODEL", BRIEF_MODEL)

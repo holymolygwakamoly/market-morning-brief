@@ -38,7 +38,7 @@
 .venv\Scripts\python scripts\probe.py               :: 소스 접근 진단
 .venv\Scripts\python -m pytest -q
 ```
-모델은 환경변수 `BRIEF_MODEL` (기본 `sonnet`)로 바꿀 수 있습니다.
+모델: 보고서 본문(stage2)은 환경변수 `BRIEF_MODEL` (기본 `opus`), 기사 태깅(stage1)은 `STAGE1_MODEL` (기본 `haiku`, 분류 작업이라 빠른 모델 사용).
 
 ---
 

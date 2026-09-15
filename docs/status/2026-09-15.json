@@ -1,10 +1,19 @@
 {
   "date": "2026-09-15",
   "run_kind": "manual",
-  "started_at_kst": "2026-09-15T13:43:44.401807+09:00",
-  "finished_at_kst": "2026-09-15T13:52:40.176433+09:00",
+  "started_at_kst": "2026-09-15T13:58:43.541003+09:00",
+  "finished_at_kst": "2026-09-15T14:09:11.336210+09:00",
   "result": "degraded",
   "sources": [
+    {
+      "name": "Fed 보도자료",
+      "ok": true,
+      "count": 20,
+      "error": null,
+      "required": false,
+      "category": "MACRO",
+      "elapsed_s": 1.1
+    },
     {
       "name": "연합뉴스 경제",
       "ok": true,
@@ -12,7 +21,7 @@
       "error": null,
       "required": false,
       "category": "KR",
-      "elapsed_s": 1.3
+      "elapsed_s": 1.22
     },
     {
       "name": "한국은행 보도자료",
@@ -21,7 +30,7 @@
       "error": null,
       "required": false,
       "category": "MACRO",
-      "elapsed_s": 0.66
+      "elapsed_s": 0.64
     },
     {
       "name": "한국경제 증권",
@@ -30,7 +39,7 @@
       "error": null,
       "required": false,
       "category": "KR",
-      "elapsed_s": 4.21
+      "elapsed_s": 4.17
     },
     {
       "name": "매일경제 증권",
@@ -39,25 +48,7 @@
       "error": null,
       "required": false,
       "category": "KR",
-      "elapsed_s": 4.34
-    },
-    {
-      "name": "Fed 보도자료",
-      "ok": true,
-      "count": 20,
-      "error": null,
-      "required": false,
-      "category": "MACRO",
-      "elapsed_s": 4.4
-    },
-    {
-      "name": "CNBC Finance",
-      "ok": true,
-      "count": 30,
-      "error": null,
-      "required": false,
-      "category": "US",
-      "elapsed_s": 4.5
+      "elapsed_s": 4.2
     },
     {
       "name": "CNBC Top News",
@@ -66,7 +57,16 @@
       "error": null,
       "required": false,
       "category": "US",
-      "elapsed_s": 4.5
+      "elapsed_s": 4.39
+    },
+    {
+      "name": "CNBC Finance",
+      "ok": true,
+      "count": 30,
+      "error": null,
+      "required": false,
+      "category": "US",
+      "elapsed_s": 4.41
     },
     {
       "name": "Yahoo Finance News",
@@ -75,7 +75,7 @@
       "error": null,
       "required": false,
       "category": "US",
-      "elapsed_s": 4.57
+      "elapsed_s": 4.68
     },
     {
       "name": "MarketWatch Top Stories",
@@ -84,68 +84,82 @@
       "error": null,
       "required": false,
       "category": "US",
-      "elapsed_s": 4.7
-    },
-    {
-      "name": "Google News 코스피",
-      "ok": true,
-      "count": 40,
-      "error": null,
-      "required": false,
-      "category": "KR",
-      "elapsed_s": 1.13
+      "elapsed_s": 4.84
     },
     {
       "name": "더벨 (Google News)",
-      "ok": true,
-      "count": 40,
-      "error": null,
+      "ok": false,
+      "count": 0,
+      "error": "timed out",
       "required": true,
       "category": "KR",
-      "elapsed_s": 3.54
+      "elapsed_s": 0.0
     },
     {
       "name": "Google News AI stocks",
-      "ok": true,
-      "count": 40,
-      "error": null,
+      "ok": false,
+      "count": 0,
+      "error": "timed out",
       "required": false,
       "category": "US",
-      "elapsed_s": 1.95
+      "elapsed_s": 0.0
+    },
+    {
+      "name": "Google News 코스피",
+      "ok": false,
+      "count": 0,
+      "error": "timed out",
+      "required": false,
+      "category": "KR",
+      "elapsed_s": 0.0
     }
   ],
-  "failed_sources": [],
+  "failed_sources": [
+    "더벨 (Google News)",
+    "Google News AI stocks",
+    "Google News 코스피"
+  ],
   "coverage_ok": true,
-  "stage1_degraded": true,
+  "stage1_degraded": false,
   "llm": {
     "engine": "claude-cli",
-    "model": "sonnet",
+    "model": [
+      "haiku",
+      "sonnet"
+    ],
     "billed": false,
     "stages": {
-      "stage2": {
-        "model": "sonnet",
-        "input_tokens": 4,
-        "output_tokens": 13622,
-        "cost_estimate_usd": 0.264841,
+      "stage1": {
+        "model": "haiku",
+        "input_tokens": 10,
+        "output_tokens": 17034,
+        "cost_estimate_usd": 0.118293,
         "calls": 1
       },
-      "stage1": {
-        "model": null,
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "cost_estimate_usd": 0.0,
+      "stage2": {
+        "model": "sonnet",
+        "input_tokens": 8,
+        "output_tokens": 29598,
+        "cost_estimate_usd": 0.491424,
         "calls": 2
       }
     },
-    "total_input_tokens": 4,
-    "total_output_tokens": 13622,
-    "total_cost_usd": 0.264841,
+    "total_input_tokens": 18,
+    "total_output_tokens": 46632,
+    "total_cost_usd": 0.609717,
     "total_calls": 3,
-    "warnings": []
+    "warnings": [
+      "cost_over_soft_cap"
+    ]
   },
-  "cost_usd": 0.264841,
-  "warnings": [],
-  "unverified_numbers": [],
+  "cost_usd": 0.609717,
+  "warnings": [
+    "cost_over_soft_cap",
+    "unverified_numbers"
+  ],
+  "unverified_numbers": [
+    "-1%"
+  ],
   "error": null,
-  "article_count": 167
+  "article_count": 112
 }

@@ -295,7 +295,7 @@ def test_stage2_cli_argv_and_stdin():
     report, warnings = run_stage2(_llm(fake), _selected(), [_quote()], date(2026, 9, 18), deadline=FAR)
     assert isinstance(report, Report) and warnings == []
     argv = fake.runs[0]["argv"]
-    assert argv[1] == "-p" and fake.opt(0, "--model") == "sonnet"
+    assert argv[1] == "-p" and fake.opt(0, "--model") == "opus"
     assert "--no-session-persistence" in argv and "--bare" not in argv
     assert fake.opt(0, "--tools") == "" and fake.opt(0, "--output-format") == "json"
     assert json.loads(fake.opt(0, "--json-schema")) == ReportOut.model_json_schema()
