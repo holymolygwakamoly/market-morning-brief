@@ -1,0 +1,103 @@
+# 소스 정의 — PLAN.md §3 "검증된 소스 목록". type은 rss / google_news / yahoo_chart 만 허용(페이지 크롤링 없음).
+# tz: pubDate에 시간대가 없을 때 가정할 시간대. category: US / KR / MACRO. required: 매 실행 반드시 시도·누락 시 배너 명시.
+defaults:
+  timeout_s: 15
+  retries: 2
+  user_agent: "MarketMorningBrief/0.1 (+https://github.com; RSS reader; contact via repo issues)"
+
+sources:
+  - name: CNBC Top News
+    type: rss
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    category: US
+    lang: en
+    tz: UTC
+  - name: CNBC Finance
+    type: rss
+    url: https://www.cnbc.com/id/10000664/device/rss/rss.html
+    category: US
+    lang: en
+    tz: UTC
+  - name: MarketWatch Top Stories
+    type: rss
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    category: US
+    lang: en
+    tz: UTC
+  - name: Yahoo Finance News
+    type: rss
+    url: https://finance.yahoo.com/news/rssindex
+    category: US
+    lang: en
+    tz: UTC
+  - name: Fed 보도자료
+    type: rss
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    category: MACRO
+    lang: en
+    tz: America/New_York
+  - name: 연합뉴스 경제
+    type: rss
+    url: https://www.yna.co.kr/rss/economy.xml
+    category: KR
+    lang: ko
+    tz: Asia/Seoul
+  - name: 한국경제 증권
+    type: rss
+    url: https://www.hankyung.com/feed/finance
+    category: KR
+    lang: ko
+    tz: Asia/Seoul
+  - name: 매일경제 증권
+    type: rss
+    url: https://www.mk.co.kr/rss/50200011/
+    category: KR
+    lang: ko
+    tz: Asia/Seoul
+  - name: 한국은행 보도자료
+    type: rss
+    url: https://www.bok.or.kr/portal/bbs/B0000245/news.rss?menuNo=200761
+    category: MACRO
+    lang: ko
+    tz: Asia/Seoul
+  - name: 더벨 (Google News)
+    type: google_news
+    url: https://news.google.com/rss/search?q=site:thebell.co.kr&hl=ko&gl=KR&ceid=KR:ko
+    category: KR
+    lang: ko
+    tz: UTC
+    required: true
+    source_name: 더벨
+    timeout_s: 20
+    retries: 3
+  - name: Google News AI stocks
+    type: google_news
+    url: https://news.google.com/rss/search?q=AI+stocks&hl=en-US&gl=US&ceid=US:en
+    category: US
+    lang: en
+    tz: UTC
+    timeout_s: 20
+    retries: 3
+  - name: Google News 코스피
+    type: google_news
+    url: https://news.google.com/rss/search?q=%EC%BD%94%EC%8A%A4%ED%94%BC&hl=ko&gl=KR&ceid=KR:ko
+    category: KR
+    lang: ko
+    tz: UTC
+    timeout_s: 20
+    retries: 3
+
+quotes:
+  type: yahoo_chart
+  url_template: https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=5d&interval=1d
+  timeout_s: 15
+  retries: 2
+  symbols:
+    - {symbol: "^GSPC", name: "S&P 500"}
+    - {symbol: "^IXIC", name: "나스닥"}
+    - {symbol: "^DJI", name: "다우"}
+    - {symbol: "^KS11", name: "코스피"}
+    - {symbol: "^KQ11", name: "코스닥"}
+    - {symbol: "KRW=X", name: "원/달러"}
+    - {symbol: "^TNX", name: "미 10년물 금리"}
+    - {symbol: "CL=F", name: "WTI 유가"}

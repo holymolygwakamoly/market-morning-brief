@@ -1,0 +1,23 @@
+name: Source Probe
+
+# 러너(Azure IP)에서 소스 접근 가능 여부를 확인한다. 파이프라인 첫 실행 전에 수동으로 1회 실행.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TZ: Asia/Seoul
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install httpx pyyaml
+      - name: Probe all sources (never fails the job)
+        run: python scripts/probe.py || true

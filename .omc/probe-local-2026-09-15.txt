@@ -1,0 +1,24 @@
+source                       type         code                  bytes  items    sec  result
+CNBC Top News                rss          200                   21011     30    3.9  OK
+CNBC Finance                 rss          200                   21221     30    0.7  OK
+MarketWatch Top Stories      rss          200                    8445     10    4.2  OK
+Yahoo Finance News           rss          200                   31994     50    4.0  OK
+Fed 보도자료                     rss          200                   14610     20    0.4  OK
+연합뉴스 경제                      rss          200                   74433    120    2.5  OK
+한국경제 증권                      rss          200                   15242     50    3.8  OK
+매일경제 증권                      rss          200                   29897     50    3.6  OK
+한국은행 보도자료                    rss          200                   47041    100    0.8  OK
+더벨 (Google News)             google_news  ConnectTimeout            0      0   20.4  FAIL
+Google News AI stocks        google_news  ConnectTimeout            0      0   20.4  FAIL
+Google News 코스피              google_news  ConnectTimeout            0      0   20.3  FAIL
+Yahoo ^GSPC                  yahoo_chart  200                    1694      1    0.7  OK
+Yahoo ^IXIC                  yahoo_chart  200                    1704      1    0.7  OK
+Yahoo ^DJI                   yahoo_chart  200                    1698      1    0.7  OK
+Yahoo ^KS11                  yahoo_chart  200                    1543      1    0.6  OK
+Yahoo ^KQ11                  yahoo_chart  200                    1593      1    0.6  OK
+Yahoo KRW=X                  yahoo_chart  200                    1743      1    0.6  OK
+Yahoo ^TNX                   yahoo_chart  200                    1735      1    0.7  OK
+Yahoo CL=F                   yahoo_chart  200                    1690      1    0.6  OK
+
+17/20 OK
+THEBELL_GOOGLE_NEWS: FAIL

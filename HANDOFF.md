@@ -25,9 +25,11 @@
 **다음 세션에서 바로 할 일**: 실행 승인은 이미 받았다(ralph). 되묻지 말고 **`Skill oh-my-claudecode:ralph`를 PLAN.md 기준으로 호출**해 구현을 시작/재개하라. 재개 시엔 프로젝트 루트에 어떤 파일이 생성돼 있는지(`brief/`, `tests/`, `.github/workflows/`, `docs/`) 먼저 확인해 어느 Step까지 됐는지 판단하고 이어서 진행. Step 순서: Step 0(사용자 작업: GitHub 공개 리포 생성 + `ANTHROPIC_API_KEY` 시크릿 + Pages Source=main //docs — 이건 사용자에게 요청) → Step 0.5 러너 프로브(더벨 Google News가 러너에서 FAIL이면 Step 1 차단하고 사용자와 상의) → Step 1~7. 각 Step의 "완료 기준"을 통과해야 다음 Step.
 
 **구현 진행 상황 (ralph가 Step 완료 시마다 여기 갱신)**:
-- Step 0: 미착수
-- Step 0.5: 미착수
-- Step 1~7: 미착수
+- Step 0: **완료** (2026-09-15, commit ebc7f6e — git init, pyproject, .venv, requirements.lock, README 런북, docs/.nojekyll). 남은 사용자 작업: GitHub 공개 리포 생성·push, `ANTHROPIC_API_KEY` 시크릿, Pages Source=main //docs (README §1 절차)
+- Step 0.5: **파일 완료, 러너 실행 대기** — `brief/sources.yaml`, `scripts/probe.py`, `.github/workflows/probe.yml`. 로컬 프로브 17/20 OK(RSS 9·Yahoo 8 전부 OK, **news.google.com 3건 ConnectTimeout = 로컬 네트워크 문제**, 전일엔 성공). 사용자가 리포 만든 뒤 Actions → Source Probe 실행 → 더벨 행 OK/FAIL을 PLAN §3 표 "러너 결과" 열에 기록. FAIL이면 사용자와 상의.
+- Step 1~2: 진행 중(executor 위임) — Google News 도달성과 무관한 어댑터/윈도/dedupe
+- Step 3~7: 미착수
+- ralph PRD: `.omc/prd.json`(US-000~008), 진행 로그 `.omc/progress.txt` (둘 다 gitignore)
 
 **계획 v2.1 핵심 (구현 시 반드시 지킬 것)**:
 - 이중 cron `50 21`(06:50 KST 주) + `35 22`(07:35 KST 백업), 두 schedule 모두 `--skip-if-done`(success|degraded면 비용 0 종료), `workflow_dispatch`만 강제 실행. `docs/.nojekyll`.
