@@ -210,7 +210,7 @@ def test_stage1_cli_argv_env_and_stdin():
 def test_stage1_default_model_from_config():
     fake = FakeRunner([_msg(_stage1_result(1))])
     run_stage1(_llm(fake), [_article(0)], deadline=FAR)
-    assert fake.opt(0, "--model") == "haiku"
+    assert fake.opt(0, "--model") == "opus"
 
 
 def test_missing_claude_binary_raises_clierror(monkeypatch):
@@ -376,7 +376,7 @@ def test_call_timeout_derived_from_remaining():
 def test_call_timeout_capped_by_stage_budget():
     fake = FakeRunner([_msg(_stage1_result(1))])
     run_stage1(_llm(fake), [_article(0)], deadline=time.monotonic() + 800)
-    assert 295 <= fake.timeouts[0] <= 300
+    assert 475 <= fake.timeouts[0] <= 480
 
 
 def test_stage2_timeout_capped_by_stage_budget_480():
@@ -471,7 +471,7 @@ def test_usage_recorded_per_cli_run_through_stages():
     run_stage1(llm, [_article(0)], deadline=FAR)
     run_stage2(llm, _selected(), [], date(2026, 9, 18), deadline=FAR)
     s = llm.summary()
-    assert s["stages"]["stage1"] == {"model": "haiku", "input_tokens": 3000, "output_tokens": 400,
+    assert s["stages"]["stage1"] == {"model": "opus", "input_tokens": 3000, "output_tokens": 400,
                                      "cost_estimate_usd": 0.01, "calls": 1}
     assert s["stages"]["stage2"]["calls"] == 1 and s["total_calls"] == 2
     assert s["total_cost_usd"] == pytest.approx(0.15) and s["warnings"] == []

@@ -38,7 +38,7 @@
 .venv\Scripts\python scripts\probe.py               :: 소스 접근 진단
 .venv\Scripts\python -m pytest -q
 ```
-모델: 보고서 본문(stage2)은 환경변수 `BRIEF_MODEL` (기본 `opus`), 기사 태깅(stage1)은 `STAGE1_MODEL` (기본 `haiku`, 분류 작업이라 빠른 모델 사용).
+모델: 모든 단계 기본 `opus` (환경변수 `BRIEF_MODEL`, 단계별로는 `STAGE1_MODEL`/`STAGE2_MODEL`).
 
 ---
 

@@ -64,7 +64,7 @@ def run_stage1(
             model=model,
             deadline=deadline,
             max_calls=STAGE1_MAX_CALLS,
-            budget_s=300,
+            budget_s=480,
             check=check,
         )
     except (CallCapExceeded, SkippedForDeadline) as e:
