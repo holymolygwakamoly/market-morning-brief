@@ -47,7 +47,7 @@
 | 증상 | 확인 | 조치 |
 |------|------|------|
 | 대시보드가 안 열림 | `.bat` 콘솔에 `.venv 가 없습니다` | §1 2번 다시 실행 |
-| 생성 버튼 → 오류 `claude 실행 파일을 찾을 수 없음` | 터미널 `claude --version` | Claude Code 설치, PATH 확인. 필요하면 환경변수 `CLAUDE_BIN` 에 전체 경로 |
+| 생성 버튼 → 오류 `Claude Code CLI를 찾을 수 없음` | 터미널 `claude --version` | Claude Code 설치, PATH 확인. 필요하면 환경변수 `CLAUDE_BIN` 에 전체 경로 |
 | 로그에 `Not logged in` | `claude` 실행 후 `/login` | 로그인 후 다시 생성 |
 | 로그에 `rate limit` / 사용량 한도 | 구독 사용량 창(5시간) 소진 | 시간 지나서 재시도 |
 | 빨간 "보고서 생성 실패" 배너 | `docs/status/YYYY-MM-DD.json` 의 `error`, 대시보드 로그 | 일시 오류면 다시 생성. 같은 오류 반복이면 로그를 이슈로 |
