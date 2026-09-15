@@ -1,0 +1,5 @@
+<header id="status-banner"{% if failed_on %} data-failed-on="{{ failed_on }}"{% endif %}>
+{% if error_banner %}<div class="banner banner-error" role="alert">{{ error_banner }}</div>
+{% endif %}{% if warn_banner %}<div class="banner banner-warn">{{ warn_banner }}</div>
+{% endif %}<div id="stale-banner" class="banner banner-warn stale" hidden></div>
+</header>
