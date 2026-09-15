@@ -119,4 +119,4 @@ def run_stage2(
         state["prev"] = "; ".join(errs)
         raise ValueError(state["prev"])
 
-    return llm.call("stage2", fn, max_calls=STAGE2_MAX_CALLS, deadline=deadline, min_seconds=180, budget_s=360)
+    return llm.call("stage2", fn, max_calls=STAGE2_MAX_CALLS, deadline=deadline, min_seconds=180, budget_s=480)

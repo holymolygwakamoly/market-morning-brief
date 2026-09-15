@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-15",
+  "run_kind": "manual",
+  "started_at_kst": "2026-09-15T13:43:44.401807+09:00",
+  "finished_at_kst": "2026-09-15T13:52:40.176433+09:00",
+  "result": "degraded",
+  "sources": [
+    {
+      "name": "연합뉴스 경제",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "KR",
+      "elapsed_s": 1.3
+    },
+    {
+      "name": "한국은행 보도자료",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "MACRO",
+      "elapsed_s": 0.66
+    },
+    {
+      "name": "한국경제 증권",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "KR",
+      "elapsed_s": 4.21
+    },
+    {
+      "name": "매일경제 증권",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "KR",
+      "elapsed_s": 4.34
+    },
+    {
+      "name": "Fed 보도자료",
+      "ok": true,
+      "count": 20,
+      "error": null,
+      "required": false,
+      "category": "MACRO",
+      "elapsed_s": 4.4
+    },
+    {
+      "name": "CNBC Finance",
+      "ok": true,
+      "count": 30,
+      "error": null,
+      "required": false,
+      "category": "US",
+      "elapsed_s": 4.5
+    },
+    {
+      "name": "CNBC Top News",
+      "ok": true,
+      "count": 30,
+      "error": null,
+      "required": false,
+      "category": "US",
+      "elapsed_s": 4.5
+    },
+    {
+      "name": "Yahoo Finance News",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "US",
+      "elapsed_s": 4.57
+    },
+    {
+      "name": "MarketWatch Top Stories",
+      "ok": true,
+      "count": 10,
+      "error": null,
+      "required": false,
+      "category": "US",
+      "elapsed_s": 4.7
+    },
+    {
+      "name": "Google News 코스피",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "KR",
+      "elapsed_s": 1.13
+    },
+    {
+      "name": "더벨 (Google News)",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": true,
+      "category": "KR",
+      "elapsed_s": 3.54
+    },
+    {
+      "name": "Google News AI stocks",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "US",
+      "elapsed_s": 1.95
+    }
+  ],
+  "failed_sources": [],
+  "coverage_ok": true,
+  "stage1_degraded": true,
+  "llm": {
+    "engine": "claude-cli",
+    "model": "sonnet",
+    "billed": false,
+    "stages": {
+      "stage2": {
+        "model": "sonnet",
+        "input_tokens": 4,
+        "output_tokens": 13622,
+        "cost_estimate_usd": 0.264841,
+        "calls": 1
+      },
+      "stage1": {
+        "model": null,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "cost_estimate_usd": 0.0,
+        "calls": 2
+      }
+    },
+    "total_input_tokens": 4,
+    "total_output_tokens": 13622,
+    "total_cost_usd": 0.264841,
+    "total_calls": 3,
+    "warnings": []
+  },
+  "cost_usd": 0.264841,
+  "warnings": [],
+  "unverified_numbers": [],
+  "error": null,
+  "article_count": 167
+}

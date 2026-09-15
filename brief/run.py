@@ -38,7 +38,7 @@ from brief.window import filter_window
 
 logger = logging.getLogger(__name__)
 
-INTERNAL_DEADLINE_S = 14 * 60
+INTERNAL_DEADLINE_S = 25 * 60  # 로컬 실행(v3): 러너 20분 킬 제약 없음. stage1 ≤2×300s + stage2 ≤3×480s 상한
 COLLECT_BUDGET_S = 180
 # 단계 진입 시 요구하는 최소 잔여 시간(초). 부족하면 TimeoutError("deadline").
 MIN_REMAINING = {"collect": 30, "stage1": 60, "stage2": 240, "render": 5}

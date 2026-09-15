@@ -36,7 +36,7 @@ class CallCapExceeded(Exception):
     def __init__(self, stage: str, last_error: BaseException | None) -> None:
         self.stage = stage
         self.last_error = last_error
-        super().__init__(f"{stage}: 호출 상한 도달 (마지막 오류: {last_error!r})")
+        super().__init__(f"{stage}: 호출 상한 도달 (마지막 오류: {type(last_error).__name__}: {str(last_error)[:200]})")
 
 
 class CLIError(Exception):
@@ -131,7 +131,7 @@ class LLMClient:
                 raise
             except Exception as e:  # noqa: BLE001 — CLI/검증 오류 모두 재시도 대상
                 last_error = e
-                self.errors.setdefault(stage, []).append(f"{type(e).__name__}: {e}")
+                self.errors.setdefault(stage, []).append(f"{type(e).__name__}: {str(e)[:200]}")
                 if attempt + 1 < max_calls:
                     backoff = backoffs[min(attempt, len(backoffs) - 1)]
                     wait = min(backoff, deadline - time.monotonic() - min_seconds)
