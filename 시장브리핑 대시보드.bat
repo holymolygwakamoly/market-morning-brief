@@ -1,10 +1,14 @@
 @echo off
-chcp 65001 >nul
+rem Market Morning Brief - local dashboard launcher (ASCII only: cmd parses batch files in the OEM codepage)
 cd /d "%~dp0"
 if not exist ".venv\Scripts\python.exe" (
-  echo [오류] .venv 가 없습니다. README 의 설치 절차를 먼저 실행하세요: python -m venv .venv ^&^& .venv\Scripts\pip install -r requirements.lock -e .
+  echo [ERROR] .venv not found. Run the install steps in README first:
+  echo   python -m venv .venv
+  echo   .venv\Scripts\pip install -r requirements.lock -e .
   pause
   exit /b 1
 )
+chcp 65001 >nul
+set PYTHONIOENCODING=utf-8
 ".venv\Scripts\python.exe" -m brief.serve
-pause
+if errorlevel 1 pause
