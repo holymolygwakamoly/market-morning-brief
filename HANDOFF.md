@@ -27,8 +27,11 @@
 **구현 진행 상황 (ralph가 Step 완료 시마다 여기 갱신)**:
 - Step 0: **완료** (2026-09-15, commit ebc7f6e — git init, pyproject, .venv, requirements.lock, README 런북, docs/.nojekyll). 남은 사용자 작업: GitHub 공개 리포 생성·push, `ANTHROPIC_API_KEY` 시크릿, Pages Source=main //docs (README §1 절차)
 - Step 0.5: **파일 완료, 러너 실행 대기** — `brief/sources.yaml`, `scripts/probe.py`, `.github/workflows/probe.yml`. 로컬 프로브 17/20 OK(RSS 9·Yahoo 8 전부 OK, **news.google.com 3건 ConnectTimeout = 로컬 네트워크 문제**, 전일엔 성공). 사용자가 리포 만든 뒤 Actions → Source Probe 실행 → 더벨 행 OK/FAIL을 PLAN §3 표 "러너 결과" 열에 기록. FAIL이면 사용자와 상의.
-- Step 1~2: 진행 중(executor 위임) — Google News 도달성과 무관한 어댑터/윈도/dedupe
-- Step 3~7: 미착수
+- Step 1~2: **완료** (commit d8f28ef) — collect 어댑터, window(직전 영업일 06:50), dedupe
+- Step 3: **완료** (commit 6d86154) — schemas(전달용/검증용 분리), LLMClient(호출 캡·데드라인), stage1/select/stage2
+- Step 4: **완료** (commit 4bbbbc3) — 템플릿 3종 + 배너/stale JS, 수치 대조, fallback + `python -m brief.fallback`
+- Step 5~6: **완료** (commit 다음 항목 참조) — run.py(최상위 BaseException → 배너 + exit 0, --skip-if-done, --dry-run), brief.yml(이중 cron, 킬 폴백, publish). 테스트 85개 통과, `python -m brief.run --dry-run` E2E OK
+- Step 7: **대기** — (1) 사용자 GitHub 리포 생성·push·시크릿·Pages, (2) Source Probe 실행 → 더벨 OK/FAIL 기록, (3) 로컬 실제 실행 1회(API 키) → cost·ai_sector 확인, (4) workflow_dispatch 1회 → Pages URL 확인, (5) 첫 주 체크리스트
 - ralph PRD: `.omc/prd.json`(US-000~008), 진행 로그 `.omc/progress.txt` (둘 다 gitignore)
 
 **계획 v2.1 핵심 (구현 시 반드시 지킬 것)**:
