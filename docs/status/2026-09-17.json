@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "run_kind": "manual",
-  "started_at_kst": "2026-09-15T14:21:13.551698+09:00",
-  "finished_at_kst": "2026-09-15T14:27:49.845259+09:00",
+  "started_at_kst": "2026-09-17T09:24:09.133654+09:00",
+  "finished_at_kst": "2026-09-17T09:30:32.385156+09:00",
   "result": "degraded",
   "sources": [
     {
@@ -12,7 +12,7 @@
       "error": null,
       "required": false,
       "category": "MACRO",
-      "elapsed_s": 1.53
+      "elapsed_s": 2.3
     },
     {
       "name": "연합뉴스 경제",
@@ -21,7 +21,7 @@
       "error": null,
       "required": false,
       "category": "KR",
-      "elapsed_s": 1.6
+      "elapsed_s": 2.31
     },
     {
       "name": "한국은행 보도자료",
@@ -30,25 +30,7 @@
       "error": null,
       "required": false,
       "category": "MACRO",
-      "elapsed_s": 0.96
-    },
-    {
-      "name": "더벨 (Google News)",
-      "ok": true,
-      "count": 40,
-      "error": null,
-      "required": true,
-      "category": "KR",
-      "elapsed_s": 1.41
-    },
-    {
-      "name": "Google News AI stocks",
-      "ok": true,
-      "count": 40,
-      "error": null,
-      "required": false,
-      "category": "US",
-      "elapsed_s": 1.7
+      "elapsed_s": 0.98
     },
     {
       "name": "한국경제 증권",
@@ -57,7 +39,7 @@
       "error": null,
       "required": false,
       "category": "KR",
-      "elapsed_s": 4.48
+      "elapsed_s": 5.03
     },
     {
       "name": "매일경제 증권",
@@ -66,16 +48,7 @@
       "error": null,
       "required": false,
       "category": "KR",
-      "elapsed_s": 4.53
-    },
-    {
-      "name": "Google News 코스피",
-      "ok": true,
-      "count": 40,
-      "error": null,
-      "required": false,
-      "category": "KR",
-      "elapsed_s": 1.61
+      "elapsed_s": 5.15
     },
     {
       "name": "CNBC Top News",
@@ -84,7 +57,7 @@
       "error": null,
       "required": false,
       "category": "US",
-      "elapsed_s": 4.65
+      "elapsed_s": 5.26
     },
     {
       "name": "CNBC Finance",
@@ -93,16 +66,7 @@
       "error": null,
       "required": false,
       "category": "US",
-      "elapsed_s": 4.66
-    },
-    {
-      "name": "Yahoo Finance News",
-      "ok": true,
-      "count": 40,
-      "error": null,
-      "required": false,
-      "category": "US",
-      "elapsed_s": 4.68
+      "elapsed_s": 5.32
     },
     {
       "name": "MarketWatch Top Stories",
@@ -111,7 +75,43 @@
       "error": null,
       "required": false,
       "category": "US",
-      "elapsed_s": 4.98
+      "elapsed_s": 5.36
+    },
+    {
+      "name": "Yahoo Finance News",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "US",
+      "elapsed_s": 5.43
+    },
+    {
+      "name": "더벨 (Google News)",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": true,
+      "category": "KR",
+      "elapsed_s": 45.51
+    },
+    {
+      "name": "Google News AI stocks",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "US",
+      "elapsed_s": 45.35
+    },
+    {
+      "name": "Google News 코스피",
+      "ok": true,
+      "count": 40,
+      "error": null,
+      "required": false,
+      "category": "KR",
+      "elapsed_s": 45.57
     }
   ],
   "failed_sources": [],
@@ -125,31 +125,31 @@
       "stage1": {
         "model": "opus",
         "input_tokens": 2,
-        "output_tokens": 18081,
-        "cost_estimate_usd": 0.646519,
+        "output_tokens": 13998,
+        "cost_estimate_usd": 0.638574,
         "calls": 1
       },
       "stage2": {
         "model": "opus",
         "input_tokens": 2,
-        "output_tokens": 11237,
-        "cost_estimate_usd": 0.517084,
+        "output_tokens": 9788,
+        "cost_estimate_usd": 0.509678,
         "calls": 1
       }
     },
     "total_input_tokens": 4,
-    "total_output_tokens": 29318,
-    "total_cost_usd": 1.163603,
+    "total_output_tokens": 23786,
+    "total_cost_usd": 1.148252,
     "total_calls": 2,
     "warnings": [
       "cost_over_soft_cap"
     ]
   },
-  "cost_usd": 1.163603,
+  "cost_usd": 1.148252,
   "warnings": [
     "cost_over_soft_cap"
   ],
   "unverified_numbers": [],
   "error": null,
-  "article_count": 166
+  "article_count": 200
 }
