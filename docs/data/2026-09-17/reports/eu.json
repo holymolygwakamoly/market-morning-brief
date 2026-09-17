@@ -1,0 +1,254 @@
+{
+ "topic": "eu",
+ "name": "유럽시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-17T14:16:08.596173+09:00",
+ "report": {
+  "title": "유럽 증시 데일리 (2026-09-16 세션) — 유가 반락에 일제 상승, 마감 후 연준 인상은 부담",
+  "overview": "9월 16일 유럽 증시는 주요 지수가 일제히 상승 마감했다. 스톡스600은 637.09(+0.46%), 유로스톡스50은 6266.50(+0.48%), DAX는 25,538(+0.53%), FTSE100은 10,688(+0.29%), CAC40은 8140.59(+0.62%)로 마감했으며, 미국 정부가 피격된 사우디 송유관이 수일 내 재가동된다고 밝히면서 유가가 4개월 고점에서 반락한 것이 위험선호를 뒷받침했다. 다만 유럽 마감 이후 미 연준이 3년 만에 기준금리를 0.25%p 인상하고 연내 추가 인상을 시사했고, 미 10년물 금리가 5%를 회복하며 다우가 1.21% 하락하는 등 미국장이 약세로 돌아섰다. 원/달러 환율은 1363.57원으로 1.33% 급등해 달러 강세가 뚜렷했다. 오늘 유럽 세션은 연준 매파 전환과 이란 전쟁·유가 100달러 상회 국면을 반영해 전일 상승분 되돌림 여부가 관건이다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "9월 16일 유럽 주요 지수는 전 지수가 상승 마감했다. 범유럽 스톡스600은 전일 대비 2.91포인트(+0.46%) 오른 637.09, 유로스톡스50은 30.00포인트(+0.48%) 오른 6266.50으로 마감했다. 국가별로는 프랑스 CAC40이 50.31포인트(+0.62%) 오른 8140.59로 상승폭이 가장 컸고, 독일 DAX가 135.47포인트(+0.53%) 오른 25,538, 영국 FTSE100이 30.40포인트(+0.29%) 오른 10,688로 뒤를 이었다. 상승 배경으로는 미국 정부가 공격으로 손상된 사우디 송유관이 수일 내 재가동될 것이라고 밝히면서 유가가 4개월 고점에서 반락(WSJ·CNBC)한 점이 꼽힌다. 이란 전쟁 이후 유가 상승이 인플레이션·금리 부담으로 이어져 주식과 채권을 동시에 압박해 왔던 만큼, 공급 차질 완화 신호가 유럽 세션 중 위험선호 회복으로 작용한 것으로 해석된다. 유로/달러는 1.15로 0.09% 소폭 하락해 유로 약세가 수출주에 우호적으로 작용했을 가능성도 있다. 다만 미국 FOMC 결과는 유럽 마감 이후(한국시간 17일 새벽 3시) 발표됐기 때문에 이번 세션의 상승에는 연준 인상이 반영되지 않았으며, 미국장이 다우 -1.21%, S&P500 -0.45%로 약세 마감한 점은 오늘 유럽 개장에 부담 요인이다. 상대적으로 영국 FTSE100의 상승폭이 작았던 점은 에너지 비중이 높은 지수 특성상 유가 반락의 영향이 상쇄됐을 가능성이 있으나, 입력 기사에 직접 근거는 없다.",
+    "bullets": [
+     "스톡스600 637.09 (+0.46%), 유로스톡스50 6266.50 (+0.48%)",
+     "DAX 25,538 (+0.53%), FTSE100 10,688 (+0.29%), CAC40 8140.59 (+0.62%)",
+     "유가 4개월 고점서 반락(사우디 송유관 재가동 전망)이 상승 배경",
+     "연준 인상은 유럽 마감 이후 발표 — 이번 세션 미반영, 다음 세션 부담"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "입력된 기사에는 이번 세션의 유럽 업종별 등락이나 개별 종목 시세가 직접 제시되지 않아, 섹터 흐름은 거시 재료를 바탕으로 한 추정에 그친다. 유가가 4개월 고점에서 반락한 만큼 에너지 업종은 상대적 약세, 반대로 항공·운송·소비재 등 유가 민감 업종은 반등 압력을 받았을 가능성이 있다. CAC40의 상승폭(+0.62%)이 가장 컸다는 점은 프랑스 지수에 비중이 큰 럭셔리·산업재 등 경기민감 업종에 매수세가 유입됐을 가능성을 시사하나, 기사 근거는 없다. 방산 업종과 관련해서는 '장기 매출 순풍을 가진 유럽 방산주 3선'(Simply Wall St) 기사가 포착돼 이란 전쟁과 러시아 제재 강화 국면에서 유럽 방산주에 대한 관심이 지속되고 있음을 보여주지만, 요약에 구체 종목명이 포함되지 않아 leaders에는 반영하지 않았다. 또한 미국 하원이 러시아 제재 법안을 통과시킨 점은 유럽 방산·에너지 관련주의 재료가 될 수 있다. 개별 종목 수준의 근거가 확보되지 않은 만큼, 주도주 판단은 다음 세션 기사와 구성종목 데이터가 보강된 뒤 업데이트가 필요하다.",
+    "bullets": [
+     "유가 반락 → 에너지 상대 약세·유가 민감 업종 반등 가능성(추정)",
+     "유럽 방산주 장기 매출 순풍 기사(Simply Wall St) — 구체 종목명 미제공",
+     "미 하원 러시아 제재 법안 통과, 방산·에너지 관련주 재료",
+     "개별 종목 시세·업종 지수 데이터 부재로 leaders 미기재"
+    ]
+   },
+   {
+    "heading": "ECB·BoE·거시",
+    "body": "이번 입력에는 ECB·BoE의 정책 결정이나 위원 발언, 유로존·영국 물가·성장 지표 관련 기사가 포함되지 않아 유럽 통화정책 자체의 신규 재료는 확인되지 않았다. 대신 글로벌 금리 환경을 좌우하는 미국 연준 결정이 핵심 거시 재료였다. 연준은 16일(현지) FOMC에서 3년 만에 처음으로 기준금리를 0.25%p 인상했으며, 결정은 만장일치였으나 향후 가이던스에서는 위원 간 의견이 갈렸다(MarketWatch). 워시 의장은 '인플레이션이 너무 높다'며 지속적인 물가 위험을 강조했고, 연내 한 차례 추가 인상을 시사했다(CNBC·한국경제·매일경제). 이에 미 10년물 국채금리는 5% 선을 다시 넘어섰고, 미국 증시는 다우 -1.21%, S&P500 -0.45%, 러셀2000 -0.40%로 하락했으며 VIX는 17.71(+2.97%)로 올랐다. 달러인덱스는 100.31(+0.66%)로 강세를 보였고 유로/달러는 1.15(-0.09%)로 소폭 밀렸다. 한편 트럼프 대통령은 워시 의장에 대한 신뢰를 유지한다면서도 금리를 1% 이하로 낮추라고 요구했고, 연준이 금리를 내리지 않으면 대미 무역흑자국과의 교역을 끊겠다고 위협한 바 있어(CNBC) 정책 불확실성은 여전하다. 유럽 관점에서는 이란 전쟁발 유가 100달러 상회로 인한 물가 압력과 미 금리 5%의 글로벌 채권시장 파급이 ECB·BoE의 정책 여지를 좁히는 요인이며, 유럽 국채금리 동조 상승 여부를 주시할 필요가 있다.",
+    "bullets": [
+     "연준 0.25%p 인상(3년 만), 만장일치·가이던스는 분열, 연내 1회 추가 인상 시사",
+     "워시 의장 '인플레 너무 높다' — 미 10년물 5% 재돌파",
+     "달러인덱스 100.31(+0.66%), 유로/달러 1.15(-0.09%)",
+     "트럼프, 워시 신뢰 표명하면서도 금리 1% 이하 요구",
+     "ECB·BoE 관련 기사 없음 — 유럽 통화정책 신규 재료 미확인"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "지정학·에너지가 뉴스의 중심이었다. 사우디 송유관 피격 이후 중국 내 유가가 사상 최고치를 기록(FT)하는 등 공급 불안이 확산됐으나, 미국 정부가 손상된 송유관이 수일 내 재가동된다고 밝히면서 유가는 4개월 고점에서 반락했다(CNBC·WSJ). 그럼에도 국제유가는 여전히 배럴당 100달러를 웃돌고 있으며, 이로 인해 미국 연료 가격이 사상 최고치를 경신했다(OilPrice.com). 이란 전쟁이 주식·채권·원유 간 상관관계를 바꾸고 있다는 분석(MarketWatch)도 나왔는데, 유가 상승이 인플레이션 기대와 금리를 동시에 밀어올리며 주식과 채권이 함께 약세를 보이는 구도가 강화되고 있다는 취지다. 정책 측면에서는 미 하원이 린지 그레이엄 상원의원의 이름을 딴 포괄적 러시아 제재 법안을 통과시켜 트럼프 대통령 서명만 남겨두게 됐다(CNBC). 러시아 에너지 수출 제재가 강화될 경우 유럽의 에너지 조달 비용과 방산 수요에 영향을 줄 수 있어 유럽 시장에 직접적 함의가 있다. 기업 뉴스로는 유럽 방산주의 장기 매출 순풍을 다룬 기사가 있었고, 한국 관련으로는 SK하이닉스가 인텔의 오하이오 공장 일부를 활용해 미국에서 메모리 반도체를 생산하는 방안을 협상 중이라는 보도(매일경제)가 있었다.",
+    "bullets": [
+     "사우디 송유관 피격 → 중국 유가 사상 최고, 이후 재가동 전망에 유가 반락",
+     "유가 100달러 상회 지속, 미 연료 가격 사상 최고",
+     "미 하원 러시아 제재 법안 통과, 트럼프 서명 대기",
+     "이란 전쟁이 주식·채권·원유 상관관계 변화시켜(MarketWatch)",
+     "SK하이닉스, 인텔 오하이오 공장 활용 미국 메모리 생산 협상(매일경제)"
+    ]
+   },
+   {
+    "heading": "미국·한국 영향",
+    "body": "유럽 세션은 유가 반락을 반영해 상승했지만, 마감 후 연준의 3년 만의 금리 인상과 미 10년물 5% 재돌파, 다우 1.21% 하락으로 글로벌 분위기가 반전됐다. 오늘 유럽 개장은 이 영향을 뒤늦게 반영할 가능성이 높으며, 특히 금리 민감도가 큰 성장주·부동산·유틸리티와 달러 강세의 영향을 받는 원자재 관련주의 흐름을 살펴볼 필요가 있다. 한국 시장 관점에서 가장 눈에 띄는 변수는 환율이다. 원/달러 환율이 1363.57원으로 17.96원(+1.33%) 급등했고 달러인덱스가 100.31(+0.66%), 엔/달러가 155.27(+0.57%)로 오르는 등 달러 강세가 전방위적이다. 연준의 추가 인상 시사로 한미 금리차 부담이 커지면 외국인 수급에 부정적일 수 있으나, 원화 약세는 자동차·조선·기계 등 대유럽·대미 수출주에는 가격 경쟁력 측면에서 우호적이다. 유로/달러가 1.15로 소폭 하락한 점은 유럽 수출 비중이 큰 한국 기업에는 원화 환산 이익에 다소 부정적일 수 있다. 업종별로는 필라델피아 반도체지수가 11,246(+0.63%)로 미국장 약세 속에서도 상승했고, SK하이닉스의 미국 내 메모리 생산 협상 보도가 나와 한국 반도체주에는 상대적으로 우호적인 환경이다. 반면 유가 100달러 상회 지속은 항공·화학·정유 원가 부담과 무역수지 악화 요인이며, 이란 전쟁·러시아 제재 강화로 인한 유럽 방산 수요 증가는 한국 방산 수출주에도 간접 재료가 될 수 있다.",
+    "bullets": [
+     "원/달러 1363.57원(+1.33%) 급등, 달러인덱스 100.31(+0.66%)",
+     "연준 추가 인상 시사 → 외국인 수급 부담, 원화 약세는 수출주에 우호",
+     "필라델피아 반도체 +0.63%, SK하이닉스 미국 생산 협상 보도 — 반도체주 상대 우위",
+     "유가 100달러 상회 지속 → 항공·화학·정유 원가 부담, 무역수지 악화 요인",
+     "러시아 제재·이란 전쟁발 유럽 방산 수요는 한국 방산 수출주 간접 재료"
+    ]
+   }
+  ],
+  "leaders": [],
+  "events_today": [
+   "미 러시아 제재 법안 트럼프 대통령 서명 여부 (하원 통과, 대통령 송부)",
+   "사우디 피격 송유관 재가동 시점 (미국 정부 '수일 내' 발표) — 유가 방향성",
+   "연준 인상 이후 유럽 국채금리·유로 환율의 동조 반응 (오늘 유럽 세션)"
+  ],
+  "headlines": [
+   {
+    "text": "유럽 증시 일제 상승 — 사우디 송유관 재가동 전망에 유가 4개월 고점서 반락, 스톡스600 +0.46%·DAX +0.53%·CAC40 +0.62%",
+    "importance": 4
+   },
+   {
+    "text": "유럽 마감 후 연준 3년 만의 0.25%p 인상·연내 추가 인상 시사, 미 10년물 5% 재돌파·다우 -1.21% — 오늘 유럽 세션 부담",
+    "importance": 5
+   },
+   {
+    "text": "원/달러 1363.57원(+1.33%) 급등, 달러인덱스 100.31 — 연준 매파 전환에 달러 강세, 유가 100달러 상회 지속",
+    "importance": 4
+   }
+  ],
+  "data_caveats": [
+   "ECB·BoE 정책 결정·위원 발언, 유로존·영국 물가·성장 지표 관련 기사가 입력에 없어 유럽 통화정책 섹션은 미 연준 재료 중심으로 작성",
+   "유럽 업종별 지수·개별 종목 시세 데이터가 없어 섹터 흐름은 거시 재료 기반 추정이며, 기사에 구체 종목명이 없어 leaders는 비워둠",
+   "방산주 기사(Simply Wall St)는 제목·요약만 제공되어 종목명 확인 불가",
+   "유가 수준(100달러 상회, 4개월 고점 반락)은 기사 표현 인용이며 정확한 유가 시세 표는 입력에 없음",
+   "무료 소스 기반으로 수급(외국인·기관) 데이터 없음",
+   "기사 URL 다수가 Google News 리다이렉트 링크로 본문 확인 불가, 제목·요약 기준으로 해석"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "3 European Defence Stocks With Long Term Revenue Tailwinds",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHhTX01IdkdEUUpwenFzYjNweFNCRm1yamhHb1hXUW9CcW42b05zNm5lNnJ0SEhHMHBvUTNxVGd6QUJMYTFNNk9La3NUeFpoWXMwYVYxMHpidzFqSEctTnJnYVlYdWpULU5QdmtfWTY2REptT29SeVpPUng1cGp5dTRIc2ltYU9JSThtUERtQlV2dkFYUVo2TzNVaFBmSkRXLXRPRjA0WDJqWUVVRkVYNmp5RHIweXNuMG1DWU1EYUc4WmNndFBhQ2lOSnpwSVZqRGc?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "simplywall.st",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:58"
+  },
+  {
+   "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+   "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 07:25"
+  },
+  {
+   "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+   "url": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:23"
+  },
+  {
+   "title": "Fed approves interest rate hike, signals one more to come this year",
+   "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:07"
+  },
+  {
+   "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+   "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 05:10"
+  },
+  {
+   "title": "美, 기준금리 0.25%p 인상…\"연내 한 번 더 올린다\" [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179760i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 05:08"
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Fed 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 03:00"
+  },
+  {
+   "title": "美연준, 3년만에 금리인상.. 워시 “인플레 너무 높다”",
+   "url": "https://www.mk.co.kr/news/stock/12155024",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:13"
+  },
+  {
+   "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+   "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 08:45"
+  },
+  {
+   "title": "Chinese oil prices hit record highs after attacks on Saudi pipeline",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenN5ekEzNkpYSjhXa2lGdU5YaFhDWlZaSGNIMjUyRXNqT29IZ25HR2RzZWoxaVhCVFNUbzYtZTNmY25FSkpoZktXSEVjeUg1Unk5UWFGVU5YSzdMRWZvWXNybXZsYmp0OHFfX0ZUVDJ4X0lsWmJ5c0luTGVETzhVOWJlRG4?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Financial Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 22:24"
+  },
+  {
+   "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NDUHo5NmlRRGkwQVd6UlBBa1ZPSVBzQmFwRVhqZm9kM1p5LTNOWHdXTWJHSm1FWXVfRzlJTHZBNVA0MjlHWHROcEczTHRSZHYzUEREeUNqTmlDdmpoNVVReGRBRkRiYUl3RTFpc0tvejB5Mm44bGdKUVB4QVFOUlBzSkhfR05EOG5tY0t0V1VjNHI2dk1NUzNjV0lFcjBfSjlOOWx0bU1CdV8wWkpkWXlfSkh0azQ?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "MarketWatch",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:51"
+  },
+  {
+   "title": "Iran war: Oil surges as Middle East supply concerns grip markets",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDNjaDVMbjJQS29uTHBvekhEdHNOeEVFV09FYXFHRGtQMG5oNzh0cUdyYTlmNlZ6eE9pNENad19RZWZKVmFEZzRDSENLMXNmYUhONDI4czBfNV9xbmhmNGNLUlEzTTJZaWEzenN0YkNvbFNYcTRYWUtpNlZIVmNpWkxhS3plVFA0eU8tUEZtWTExdVlvLTk1RHJvUTFOVXc1?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "engine.online",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:47"
+  },
+  {
+   "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHhhbUJlYVhVblRVeDJlSVdxNmw4bGJMSnFoeG85bTY0Qm1maEhHNWdvSmhhYWR5MFV1TDB0UnExSkxheXdZSlVweXNJWDRkTGN3TmQ0dnl1TkFBcFBVSnJnbldSUEh4U2lteVdqeFlqcjF2Zjk1MEw2UmVHaFppTnV2OEVpd9IBiwFBVV95cUxNYS0xcVVDOXlQVkZ0RUVtZ1JzdThtandDbnJxQk85MW9lMTZPaFNrRjljdnRSRGI1UlZidm5meTRDdG5jT0d6dkpEMllsRUpVNlVCWkRVTnVqSDcxN2VOOFZta2xFelQxbTU3bXFOdzJfLXpWNEFDODNyeFJ1SmNnU3Z6T3B6dFlXdTZj?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 13:14"
+  },
+  {
+   "title": "Former Energy chief breaks down oil prices above $100",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YeDZUSFJUZnJad0ROQWlpRHhQVzJmb1E5ekFaUEM2UjFiQ0JGNXZSTHVxaEZad0JxRTBCbWh1TnpJOFlidXVWUEdSYmtFNG1qMlNhdmZvdmhWem8?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 08:58"
+  },
+  {
+   "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+   "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 07:32"
+  },
+  {
+   "title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaG1OOGdiN0dSQzJ5VDB6Qkl2RjdMN1NEZmJ3TFp3NWFnOVU5TEdlOUxDOGJ1Vzk3bzBFNDNtT0t5VDUwLWRMNFp1MkJZbWoyOVdYdlptQUx0MjBUb2MtdDR0Nk91NElWa0Uyd3pTa2E1YUpEek5VMEVOOUhrOXZxSnN3TnY4ZHFUWHp3TzhTdlhvd3ZtUkpMLXNiYkN4TlXSAaQBQVVfeXFMUEhzYUExUjFpYnJKZTA1QU5WN2x6UTVRVVoydV9UUmhCZWtiUkhGQlY4RENraS1CSnRTTlJlUnYtNm9GcUlpakxpVllFZ1l5SmVXV2hoTVFJYmx3U0dza2cyQ2FSVFNDX2RSSVZzbERTd0poS2s3NDZUUUlxaFlnb2VpQzU3eG1VTDFIMVRNaDVvTXF6SDZtbWxWMng5ejk0MFV4S00?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 07:00"
+  },
+  {
+   "title": "Oil Futures Pull Back From Four-Month Highs",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUlCM0QyM1lwZFlkZDZrN2lQV1kzSEZmTnJwU0hlMzlzbXVvQzhUWmtPOUxfTDZBNnlsamJVUHRQQXpZSXV0b1lOM2otZFMtVTlVVDExYUtzS3lDbjNuSzQwTUg2aUw1SENIdTJ0Tjg0N25vU0t2U1B2QnFVblltWEtibEVjaFlwQ1NpMFBvNGQ1UjJ6NXVv?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 04:27"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

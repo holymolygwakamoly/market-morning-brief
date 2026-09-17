@@ -1,0 +1,1111 @@
+{
+ "topic": "sectors",
+ "name": "섹터별 주요뉴스",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 2,
+ "generated_at_kst": "2026-09-17T14:16:08.580397+09:00",
+ "report": {
+  "title": "섹터별 주요뉴스 보고서 (2026-09-17) — 3년 만의 Fed 금리인상·유가 급락 속 반도체·방산·전력 인프라 차별화",
+  "overview": "미 연준(Fed)이 9월 FOMC에서 3년 만에 기준금리를 0.25%p 인상하고 워시 의장이 \"물가가 너무 오래 높았다\", \"금융여건은 긴축적이지 않다\"며 연내 추가 인상을 예고하자 뉴욕증시는 다우 -1.21%, S&P500 -0.45%로 하락 마감했고 10년물 국채금리는 5%를 다시 넘었습니다. 반면 미국이 피격된 사우디 송유관의 수일 내 재가동을 언급하고 사우디가 오만 경유 원유 공급을 늘리면서 WTI가 -3.21%(102.43달러) 급락, 에너지(XLE -2.88%)가 최대 하락 섹터가 된 반면 반도체(SOXX +0.64%)·방산(ITA +0.59%)은 상승했습니다. 종목별로는 광통신주 루멘텀(+9.59%)·코히런트(+6.92%), 인텔(+4.03%, SK하이닉스 미국 메모리 생산 협상 보도), GE버노바(+4.79%)와 아마존 계약을 따낸 제너랙이 AI 데이터센터 공급망 확산 기대를 반영했고, 유가 하락에도 디젤 사상 최고가 부담으로 J.B.헌트(-13.30%)가 급락했습니다. 한국은 16일 코스피가 기관 매수로 +1.37%(6717.97) 반등한 데 이어 17일 장중에도 상승 출발했으며, 한화시스템(+12.06%)·한화엔진(+12.59%)·HD현대중공업(+7.39%) 등 방산·조선주와 두산에너빌리티(+2.98%) 등 전력 인프라주가 주도하고 있습니다. 매파적 Fed와 100달러대 유가, AI 투자 속도조절 논란이 겹친 '금리·AI 쌍악재' 국면에서 \"믿을 건 반도체\"라는 국내 증권가 시각과 하이퍼스케일러 부채(CDS) 경고가 공존하는 만큼 변동성 확대에 유의할 시점입니다.",
+  "sectors": [
+   {
+    "name": "에너지(석유·가스 E&P)",
+    "direction": "down",
+    "markets": [
+     "US",
+     "KR",
+     "CN",
+     "EU"
+    ],
+    "reason": "사우디 송유관 피격으로 4개월 고점까지 올랐던 유가가 미국 정부의 '수일 내 재가동' 발언과 사우디의 오만 경유 원유 추가 공급 소식에 급락(WTI -3.21% 102.43달러, 브렌트 -2.69% 105.83달러)하면서 에너지 섹터 ETF XLE가 -2.88%로 전 섹터 중 최대 낙폭을 기록했습니다. S&P500 하락 상위 10종목 중 7종목이 에너지(다이아몬드백 -8.03%, 옥시덴탈 -6.55%, 텍사스퍼시픽랜드 -6.21%, 코노코필립스 -6.15%, 익스팬드에너지 -5.83%, EOG -5.73%, 데본 -5.63%)로, 그간 이란 전쟁 프리미엄으로 강했던 E&P주에 차익실현이 집중됐습니다. 다만 유가는 여전히 100달러 위에 있어 공급 충격 리스크가 해소된 것은 아닙니다.",
+    "news": "FT는 사우디 송유관 피격 이후 중국 내 유가가 사상 최고치를 기록했다고 보도했고, CNBC는 미국이 피격된 송유관이 수일 내 재가동된다고 밝히자 유가가 하락했다고 전했습니다. 로이터는 사우디가 오만 경유 원유 공급을 늘리며 유가가 밀렸다고 보도했고, WSJ는 유가 선물이 4개월 고점에서 후퇴했다고 분석했습니다. 폭스비즈니스는 전 에너지장관의 '100달러 유가' 분석을, 마켓워치는 이란 전쟁이 주식·채권·유가의 상관관계를 바꾸고 있다고 보도했습니다. 미 하원이 린지 그레이엄 러시아 제재법안을 통과시켜 트럼프 대통령 서명만 남겨두면서 러시아산 원유 공급 관련 변수도 추가됐습니다.",
+    "leaders": [
+     {
+      "name": "Diamondback Energy",
+      "ticker": "FANG",
+      "comment": "-8.03%. 에너지 섹터 내 최대 낙폭, 거래대금 30억으로 매물 집중"
+     },
+     {
+      "name": "Occidental Petroleum",
+      "ticker": "OXY",
+      "comment": "-6.55%. 유가 4개월 고점 후퇴에 동반 급락"
+     },
+     {
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "comment": "-6.15%. 대형 E&P도 예외 없이 차익실현"
+     },
+     {
+      "name": "EOG Resources",
+      "ticker": "EOG",
+      "comment": "-5.73%. 사우디 공급 정상화 기대에 하락"
+     },
+     {
+      "name": "Devon Energy",
+      "ticker": "DVN",
+      "comment": "-5.63%. 셰일 E&P 전반 약세"
+     }
+    ],
+    "etf_note": "XLE -2.88%(64.03) — 11개 S&P 섹터 ETF 중 최대 하락. WTI -3.21%, 브렌트 -2.69%"
+   },
+   {
+    "name": "반도체·메모리",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR",
+     "CN"
+    ],
+    "reason": "Fed 매파 인상으로 시장 전반이 흔들린 가운데 필라델피아반도체지수(+0.63%, 11,246)와 SOXX(+0.64%)는 상승했습니다. 인텔이 SK하이닉스와 오하이오 공장 일부를 활용한 미국 내 메모리 생산 협력을 초기 협상 중이라는 보도에 인텔이 +4.03%(거래대금 120억) 올랐고, 마벨(+3.61%)·AMD(+1.65%)·엔비디아(+0.82%)도 강세였습니다. 반면 온세미컨덕터는 -9.02%로 급락해 전력·차량용 반도체와 AI 반도체 간 온도차가 뚜렷했습니다. 한국에서는 메모리 점유율이 30%에서 55%로 '역사적 추월'을 이뤘다는 분석과 함께 삼성전자·SK하이닉스가 최대 수혜라는 전망이 나왔고, 17일 장중 SK하이닉스 +0.34%(거래대금 3조), 삼성전자 +0.69%(2조)로 지수를 지탱하고 있습니다.",
+    "news": "마켓워치는 인텔이 SK하이닉스와 미국 내 메모리 칩 생산 파트너십을 초기 협상 중이며 투자자들이 이를 턴어라운드의 다음 단계로 기대한다고 보도했습니다. 한국경제는 메모리 점유율 30%→55% 역사적 추월로 삼성전자·SK하이닉스가 최대 수혜라는 분석을, Fed 매파 인상 국면에서도 '믿을 건 반도체'라는 국내 증권가 시각을 전했습니다. 젠슨 황 엔비디아 CEO는 중국이 2030년까지 자체 첨단 노광장비를 개발하는 것은 '시간문제'라고 언급했습니다. 모틀리풀은 Direxion 반도체 불 ETF가 14% 급락한 칩 섹터 급매도를 다뤘고, 야후파이낸스는 소프트웨어·반도체주가 AI 리스크를 얼마나 우려해야 하는지 분석했습니다. 한국경제는 '초고수' 투자자들이 삼성전자·SK하이닉스를 팔고 원전·로봇주를 담았다고 보도했으며, 국내 NPU 설계기업 딥엑스는 NYSE·나스닥·SGX 등 글로벌 거래소 5곳의 상장 유치전 대상이 됐습니다.",
+    "leaders": [
+     {
+      "name": "Intel",
+      "ticker": "INTC",
+      "comment": "+4.03%. SK하이닉스와 미국 메모리 생산 협력 협상 보도로 급등, 거래대금 120억"
+     },
+     {
+      "name": "Nvidia",
+      "ticker": "NVDA",
+      "comment": "+0.82%. 거래대금 206억으로 미국 1위, 시가총액 5조달러"
+     },
+     {
+      "name": "Marvell Technology",
+      "ticker": "MRVL",
+      "comment": "+3.61%. AI 커스텀 반도체 수요 기대"
+     },
+     {
+      "name": "SK하이닉스",
+      "ticker": "000660.KS",
+      "comment": "+0.34%(장중). 인텔과 미국 메모리 생산 협상 보도, 거래대금 3조로 국내 1위"
+     },
+     {
+      "name": "삼성전자",
+      "ticker": "005930.KS",
+      "comment": "+0.69%(장중). 메모리 점유율 확대 최대 수혜 전망, 거래대금 2조"
+     }
+    ],
+    "etf_note": "SOXX +0.64%(502.06), 필라델피아반도체 +0.63%. 다만 온세미(ON) -9.02%로 전력·차량용 반도체는 약세"
+   },
+   {
+    "name": "광통신·AI 데이터센터 부품",
+    "direction": "up",
+    "markets": [
+     "US",
+     "CN",
+     "KR"
+    ],
+    "reason": "AI 투자 속도조절 우려 속에서 투자자들이 데이터센터 공급망의 더 아래 단계인 광통신·네트워킹 부품에서 수요 신호를 찾으면서 루멘텀(+9.59%, 919.40달러)과 코히런트(+6.92%)가 S&P500 상승 1·2위에 올랐습니다. 델(+3.64%)도 AI 서버 수요 기대로 강세였습니다. 중국 증시에서도 16일 광모듈 섹터가 초강세를 보이며 커촹50이 4.14% 급등했고, 한국에서는 통신장비 쇼티지(공급 부족) 전망에 대한광통신이 14% 급등하는 등 미·중·한 3개 시장에서 동시에 광통신 공급망 랠리가 나타났습니다.",
+    "news": "마켓워치는 루멘텀·코히런트가 이날 S&P500 최대 상승주가 된 이유로 'AI 지출 둔화 우려 속에서 투자자들이 데이터센터 공급망 하단에서 수요 신호를 찾고 있다'는 전문가 분석을 전했습니다. 중국 증시 마감 기사는 5일 만의 반등과 광모듈 섹터 초강세, 커촹50 4.14% 급등을 보도했습니다. 매일경제는 데이터센터 수요로 통신장비 쇼티지 전망이 나오며 대한광통신이 14% 급등했고, 연초부터 오름세였던 통신장비주가 5월 급락 후 다시 반등하고 있다고 전했습니다.",
+    "leaders": [
+     {
+      "name": "Lumentum",
+      "ticker": "LITE",
+      "comment": "+9.59%. S&P500 상승 1위, 거래대금 59억"
+     },
+     {
+      "name": "Coherent Corp.",
+      "ticker": "COHR",
+      "comment": "+6.92%. S&P500 상승 2위, 광통신 수요 기대"
+     },
+     {
+      "name": "Dell Technologies",
+      "ticker": "DELL",
+      "comment": "+3.64%. AI 서버 공급망 수혜, 거래대금 73억"
+     },
+     {
+      "name": "대한광통신",
+      "ticker": null,
+      "comment": "16일 14% 급등(기사 기준). 통신장비 쇼티지 전망"
+     }
+    ],
+    "etf_note": "XLK +0.10%(183.93). 기술 섹터 내에서 광통신·서버가 주도"
+   },
+   {
+    "name": "전력·AI 인프라(발전설비·백업전원·전력반도체)",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "아마존이 데이터센터용 백업 발전기 공급 계약과 함께 최대 3억4천만달러 규모 제너랙 주식 매수 워런트를 확보했다는 소식에 제너랙 주가가 30~40% 이상 급등했고(기사 기준), GE버노바도 +4.79%(925.09달러)로 S&P500 상승 4위에 올랐습니다. UBS는 AI 데이터센터 전력 반도체 유망주를 제시했고, 미 하원은 데이터센터 전력비용이 소비자에게 전가되는 것을 막는 초당적 법안을 진전시켰습니다. 한국에서는 두산에너빌리티(+2.98%)·두산(+3.60%)이 거래대금 상위에 오르며 원전·전력 인프라 수급이 이어졌고, '초고수' 투자자가 원전·로봇주를 담았다는 보도도 나왔습니다. KT는 2031년 AI 인프라 매출 4.8조원 목표를 제시하며 실수요 기반 데이터센터 전략을 구체화했습니다.",
+    "news": "마켓워치·CNBC는 제너랙이 아마존 데이터센터에 백업 발전기를 공급하는 계약(첫 납품 24억달러 규모)을 맺고 아마존에 최대 3억4천만달러 주식 매수 워런트를 부여하면서 주가가 30% 이상(CNBC 기준 40% 이상) 급등했다고 보도했습니다. CNBC는 미 하원이 AI 데이터센터 전력비용 소비자 전가를 막는 규제 틀을 만드는 초당적 법안을 진전시켰다고 전했습니다. 인베스팅닷컴은 UBS가 AI 데이터센터 전력 반도체 톱픽을 제시했다고 보도했습니다. 매일경제는 KT가 AI 데이터센터 기반 성장 전략과 2031년 AI 인프라 매출 4.8조원 목표, 자산 유동화·추가 주주환원 기대를 담은 보고서를 소개했습니다.",
+    "leaders": [
+     {
+      "name": "GE Vernova",
+      "ticker": "GEV",
+      "comment": "+4.79%. S&P500 상승 4위, 시가총액 2464억달러"
+     },
+     {
+      "name": "Generac",
+      "ticker": null,
+      "comment": "아마존 백업 발전기 계약·워런트 부여로 30%+ 급등(기사 기준, 표에는 미포함)"
+     },
+     {
+      "name": "두산에너빌리티",
+      "ticker": "034020.KS",
+      "comment": "+2.98%(장중). 원전·전력 인프라 수급, 거래대금 1064억"
+     },
+     {
+      "name": "두산",
+      "ticker": "000150.KS",
+      "comment": "+3.60%(장중). 거래대금 1844억"
+     },
+     {
+      "name": "KT",
+      "ticker": null,
+      "comment": "3분기 AI 인프라 수혜·주주환원 기대 보고서(매일경제)"
+     }
+    ],
+    "etf_note": "XLU 0.00%(41.32) 보합, XLI -0.08%. 유틸리티 ETF는 정체됐으나 발전설비·백업전원 개별주는 강세"
+   },
+   {
+    "name": "방산·조선·사이버보안",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR",
+     "EU"
+    ],
+    "reason": "미 하원이 린지 그레이엄 러시아 제재법안을 통과시켜 트럼프 대통령 서명만 남겨뒀고, 크렘린 네트워크 기소 이후 방산·사이버보안주에 투자자 관심이 집중되면서 방산 ETF ITA가 +0.59%, 액슨엔터프라이즈가 +5.96%로 S&P500 상승 3위에 올랐습니다. 한국에서는 17일 장중 한화시스템 +12.06%(거래대금 719억), 한화엔진 +12.59%(925억), HD현대중공업 +7.39%(998억), 한화에어로스페이스 +4.08%(1055억)로 방산·조선주가 상승 상위와 거래대금 상위를 동시에 차지했으며, 스페이스X 우주선 궤도 진입 소식에 따른 우주 관련주 급등도 한화시스템 등에 우호적으로 작용했습니다. 이란 전쟁 지속과 러시아 제재 강화라는 지정학 환경이 방산 수요 지속 기대를 뒷받침합니다.",
+    "news": "CNBC는 미 하원이 린지 그레이엄을 기리는 포괄적 러시아 제재법안을 통과시켜 법제화 수순에 들어갔다고 보도했습니다. 심플리월스트리트는 크렘린 네트워크 기소 이후 투자자들이 주목하는 방산·사이버보안주를 다뤘습니다. 에너지나우는 이란 전쟁이 글로벌 시장을 뚜렷한 승자와 패자로 갈라놓고 있다고 분석했습니다. 매일경제는 스페이스X 우주선 궤도 진입 소식에 센서뷰가 26%대 급등하는 등 관련주가 일제히 올랐다고 전했습니다.",
+    "leaders": [
+     {
+      "name": "한화시스템",
+      "ticker": "272210.KS",
+      "comment": "+12.06%(장중). 방산·우주 테마 동시 수혜, 거래대금 719억"
+     },
+     {
+      "name": "한화엔진",
+      "ticker": "082740.KS",
+      "comment": "+12.59%(장중). 코스피 상승 2위, 거래대금 925억"
+     },
+     {
+      "name": "HD현대중공업",
+      "ticker": "329180.KS",
+      "comment": "+7.39%(장중). 거래대금 998억, 시가총액 50조"
+     },
+     {
+      "name": "한화에어로스페이스",
+      "ticker": "012450.KS",
+      "comment": "+4.08%(장중). 거래대금 1055억"
+     },
+     {
+      "name": "Axon Enterprise",
+      "ticker": "AXON",
+      "comment": "+5.96%. S&P500 상승 3위, 방산·공공안전 수요"
+     }
+    ],
+    "etf_note": "ITA +0.59%(215.27). 시장 하락 속 상승한 소수 섹터 ETF"
+   },
+   {
+    "name": "운송·물류(트럭·철도)",
+    "direction": "down",
+    "markets": [
+     "US"
+    ],
+    "reason": "유가가 이날 급락했음에도 미국 디젤 가격이 갤런당 6.31달러로 사상 최고를 기록하면서 트럭·철도 운송업체의 연료비 부담이 극대화됐고, J.B.헌트가 -13.30%로 S&P500 최대 하락주가 됐습니다. CNBC는 운송업체들이 연료 가격을 두고 '공상과학 수준'이라며 경고음을 내고 있다고 전했으며, 이란 전쟁으로 인한 유가·금리 동반 상승이 가구당 1,700달러의 추가 비용을 발생시킨다는 추산도 나와 소비·물류 수요 둔화 우려가 겹쳤습니다. Fed의 금리 인상과 추가 인상 예고는 자본집약적 운송업의 조달비용도 높입니다.",
+    "news": "CNBC는 트럭·기차 연료인 디젤 가격이 수요일 갤런당 6.31달러로 사상 최고를 기록했으며 경제의 근간인 운송업체들이 연료 가격에 경고음을 내고 있다고 보도했습니다. 오일프라이스닷컴은 100달러 이상 유가가 미국 연료 가격을 신기록으로 밀어올렸다고 전했습니다. CNBC는 이란 전쟁발 유가·금리 이중 충격으로 가구당 추정 비용이 1,700달러에 달한다고 보도했습니다.",
+    "leaders": [
+     {
+      "name": "J.B. Hunt",
+      "ticker": "JBHT",
+      "comment": "-13.30%. S&P500 최대 하락, 디젤 사상 최고가 부담"
+     }
+    ],
+    "etf_note": "XLI -0.08%(168.71). 산업재 ETF는 GEV·AXON 강세로 낙폭이 제한됐으나 운송 하위섹터는 급락"
+   },
+   {
+    "name": "금융(은행·자산운용·크레딧)",
+    "direction": "down",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "Fed가 3년 만에 기준금리를 0.25%p 인상하고 워시 의장이 '금융여건은 긴축적이지 않다'며 추가 인상을 예고하자 10년물 금리가 5%를 재돌파했고, 금융 ETF XLF는 -1.62%로 에너지 다음으로 큰 낙폭을 기록했습니다. 통상 금리 상승은 은행 마진에 우호적이지만, 이번에는 장기금리 급등에 따른 채권 평가손실·크레딧 리스크 우려가 앞섰습니다. 아폴로는 데이터센터를 짓는 하이퍼스케일러의 CDS 프리미엄이 비싸지고 있으며 이는 은행 헤지 증가 때문이 아니라고 경고했고, 블룸버그는 채권시장의 '독성 스튜(toxic stew)'를 분석했습니다. 골드만삭스는 12월 한 차례 추가 인상을 전망했고, 건들락은 0.5%p 인상이 필요했다고 주장했습니다. 한국에서는 KB금융이 17일 장중 +1.47%(거래대금 1074억)로 국내 금리 상승 기대를 반영했으나, 환율 상승에 대해 증권가는 '추세 전환은 아니다'라고 진단했습니다.",
+    "news": "CNBC·마켓워치·한국경제·매일경제는 Fed가 만장일치로 0.25%p 인상하고 연내 한 차례 추가 인상을 시사했으며, 워시 의장이 '인플레이션이 너무 높다', '금융여건은 긴축적이지 않다'고 발언해 시장이 매파적으로 해석했다고 보도했습니다. CNBC는 10년물 금리가 5%를 재돌파했다고 전했고, 아폴로의 하이퍼스케일러 CDS 경고를 보도했습니다. 골드만삭스는 12월 추가 인상을 전망했고, 제프 건들락은 0.5%p 인상이 필요했다고 CNBC에 말했습니다. 트럼프 대통령은 워시에 대한 신뢰를 유지한다면서도 금리를 1% 이하로 낮추라고 요구해 Fed 독립성 논쟁 재점화 가능성이 제기됐습니다. 매일경제는 미 상원에서 가상자산 핵심 법안 상정이 무산되며 비트코인과 가상자산 관련 기업 주가가 급락했다고 보도했습니다(비트코인 -3.26%, 75,613달러, 09-15 기준). CNBC는 인도 UPI가 가맹점 수수료 부과를 시작한다고 전했습니다.",
+    "leaders": [
+     {
+      "name": "KB금융",
+      "ticker": "105560.KS",
+      "comment": "+1.47%(장중). 거래대금 1074억, 국내 금리 상승 수혜 기대"
+     }
+    ],
+    "etf_note": "XLF -1.62%(55.93) — 에너지 다음으로 큰 섹터 ETF 낙폭. XLRE -0.60%"
+   },
+   {
+    "name": "커뮤니케이션·빅테크(하이퍼스케일러)",
+    "direction": "down",
+    "markets": [
+     "US"
+    ],
+    "reason": "커뮤니케이션 ETF XLC가 -0.90%로 하락했고, 거래대금 상위 빅테크 중 마이크로소프트(-1.37%)·아마존(-0.99%)이 약세, 메타(+0.46%)·애플(+0.32%)·테슬라(+0.42%)는 소폭 강세로 엇갈렸습니다. 10년물 5% 재돌파에 따른 장기 성장주 밸류에이션 부담에 더해 아폴로가 데이터센터를 짓는 하이퍼스케일러의 CDS 프리미엄 상승을 경고하면서 AI 자본지출 조달 리스크가 부각됐습니다. 마켓워치는 알파벳이 다른 AI 게임을 하고 있으며 월가가 모델 성능 대신 클라우드 잠재력에 주목해야 한다는 분석을 전했고, 오픈AI의 '우려스러운 모델 행동' 6건 공개, 앤스로픽의 '자율규제 한계' 발언, 블루멘탈 상원의원의 AI 감독 촉구 등 규제 논쟁도 심화됐습니다.",
+    "news": "CNBC는 아폴로가 데이터센터 건설 기업들의 CDS 가격 상승을 경고 신호로 지적했다고 보도했습니다. 마켓워치는 알파벳의 클라우드 잠재력에 주목해야 한다는 분석을 전했습니다. CNBC는 오픈AI가 3월 이후 우려스러운 모델 행동 6건을 새로 공개하고 향후 공개 프레임워크를 제시했으며, 앤스로픽 정책 책임자가 AI 기업이 '명예 규범'으로 운영될 수는 없다고 말했고, 블루멘탈 상원의원이 '통제력을 잃기 직전'이라며 AI 감독을 촉구했다고 보도했습니다. 트럼프 행정부는 중국과의 AI 경쟁 우위를 최우선 목표로 내세우고 있으며, 중국 AI 기업들(Z.ai·문샷·미니맥스·알리바바·텐센트)은 미국의 리스크 경고에 침묵하고 있습니다.",
+    "leaders": [
+     {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "comment": "-1.37%. 거래대금 상위 빅테크 중 최대 낙폭, 시가총액 4조달러"
+     },
+     {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "comment": "-0.99%. 제너랙 계약 등 데이터센터 투자 확대 속 조달 리스크 부각"
+     },
+     {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "comment": "+0.46%. 거래대금 116억, 상대적 강세"
+     },
+     {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "comment": "+0.32%. 시가총액 5조달러, 방어적 흐름"
+     }
+    ],
+    "etf_note": "XLC -0.90%(113.00), XLY -0.63%(110.18). 나스닥100은 +0.02%로 보합"
+   },
+   {
+    "name": "헬스케어·의료기기·생명과학 장비",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "시장 전반 하락 속에서 헬스케어 ETF XLV(+0.07%)와 바이오 ETF XBI(+0.10%)가 소폭 상승하며 방어적 성격을 보였고, 에드워즈라이프사이언스(+4.13%)·레비티(+3.95%)·메틀러톨레도(+3.63%)가 S&P500 상승 상위 10위에 들며 의료기기·생명과학 장비주가 강세였습니다. 금리 인상·유가 변동 국면에서 경기 민감도가 낮은 헬스케어로 자금이 이동한 것으로 해석됩니다. 한국에서는 현대약품이 17일 장중 +4.81%에 거래대금 1665억으로 급증했고, 한컴라이프케어(+7.58%)가 상승 상위에 올랐습니다.",
+    "news": "이날 입력 기사 중 헬스케어 개별 종목 관련 보도는 없으며, 시세 표 기준으로 방어 섹터 로테이션이 관찰됩니다. 매일경제·한국경제는 Fed 매파 인상 후 코스피 변동성 확대에 유의하라고 전했습니다.",
+    "leaders": [
+     {
+      "name": "Edwards Lifesciences",
+      "ticker": "EW",
+      "comment": "+4.13%. S&P500 상승 5위"
+     },
+     {
+      "name": "Revvity",
+      "ticker": "RVTY",
+      "comment": "+3.95%. 생명과학 장비 강세"
+     },
+     {
+      "name": "Mettler Toledo",
+      "ticker": "MTD",
+      "comment": "+3.63%. 1378.69달러"
+     },
+     {
+      "name": "현대약품",
+      "ticker": "004310.KS",
+      "comment": "+4.81%(장중). 거래대금 1665억으로 코스피 거래대금 6위"
+     }
+    ],
+    "etf_note": "XLV +0.07%(167.77), XBI +0.10%(154.18) — 하락장 속 상승"
+   },
+   {
+    "name": "태양광·신재생",
+    "direction": "down",
+    "markets": [
+     "US"
+    ],
+    "reason": "퍼스트솔라가 -5.57%(191.07달러)로 S&P500 하락 상위 10위에 포함됐습니다. Fed의 금리 인상과 10년물 5% 재돌파는 프로젝트 파이낸싱 의존도가 높은 신재생 발전 사업의 자본비용을 높이고, 유가가 4개월 고점에서 급락하면서 화석연료 대비 상대 매력이 약화된 점이 부담으로 작용했습니다. 온세미컨덕터(-9.02%)의 급락도 태양광·전기차용 전력반도체 수요 우려와 맞물렸습니다.",
+    "news": "CNBC는 미 하원이 AI 데이터센터 전력비용 소비자 전가 방지 법안을 진전시켰다고 보도했고, Fed는 3년 만의 금리 인상과 연내 추가 인상을 시사했습니다. 태양광 개별 종목 관련 기사는 입력에 없어 시세 표 기준 해석입니다.",
+    "leaders": [
+     {
+      "name": "First Solar",
+      "ticker": "FSLR",
+      "comment": "-5.57%. S&P500 하락 10위, 금리 상승 부담"
+     },
+     {
+      "name": "ON Semiconductor",
+      "ticker": "ON",
+      "comment": "-9.02%. 전력반도체 수요 우려로 S&P500 하락 2위"
+     }
+    ],
+    "etf_note": null
+   },
+   {
+    "name": "우주·위성(한국 SpaceX 관련주)",
+    "direction": "issue",
+    "markets": [
+     "KR"
+    ],
+    "reason": "스페이스X가 우주선을 지구 궤도에 올린다는 소식에 17일 장 초반 국내 스페이스X 관련주가 일제히 급등했습니다. 오전 9시 33분 기준 센서뷰가 전일 대비 371원(26.56%) 오른 1,768원에 거래됐고, 코스피에서는 한화시스템이 +12.06%로 방산·우주 테마의 동시 수혜를 받았습니다. 다만 테마성 급등은 변동성이 크고 장중 값이므로 마감 기준 확인이 필요합니다.",
+    "news": "매일경제는 스페이스X 우주선 시험 비행·궤도 진입 소식에 센서뷰가 26%대 급등하는 등 관련주가 일제히 올랐다고 보도했습니다. 한화시스템은 코스피 상승 4위(+12.06%)에 올랐습니다.",
+    "leaders": [
+     {
+      "name": "센서뷰",
+      "ticker": null,
+      "comment": "장중 +26.56%(1,768원, 기사 기준). 스페이스X 관련주 대표"
+     },
+     {
+      "name": "한화시스템",
+      "ticker": "272210.KS",
+      "comment": "+12.06%(장중). 위성·방산 동시 테마"
+     }
+    ],
+    "etf_note": null
+   }
+  ],
+  "ai_sector": "AI 섹터는 '공급망 하단으로의 확산'과 '자금조달·규제 리스크'가 동시에 부각된 하루였습니다. 시세 면에서는 AI 투자 속도조절 논란에도 광통신주 루멘텀(+9.59%)·코히런트(+6.92%)가 S&P500 상승 1·2위에 오르고, GE버노바(+4.79%)·델(+3.64%)·마벨(+3.61%)·인텔(+4.03%)이 상위권에 포진했으며, 아마존이 데이터센터 백업 발전기 공급 계약과 함께 최대 3억4천만달러 규모 주식 매수 워런트를 확보한 제너랙은 30~40% 이상 급등했습니다. 마켓워치는 \"AI 지출 둔화 우려 속에서 투자자들이 데이터센터 공급망 더 아래 단계에서 수요 신호를 찾고 있다\"고 해석했고, 중국 증시에서도 광모듈 섹터 초강세로 커촹50이 4.14% 급등했으며 한국에서는 통신장비 쇼티지 전망에 대한광통신이 14% 올랐습니다. UBS는 AI 데이터센터 전력 반도체 톱픽을 제시했고, KT는 2031년 AI 인프라 매출 4.8조원 목표를 내놨습니다. 반도체 대형주는 엔비디아 +0.82%(거래대금 206억, 시총 5조달러), AMD +1.65%, 마이크론 -0.11%(시총 1조달러), 샌디스크 -0.71%로 혼조였으나 SOXX는 +0.64%로 시장을 아웃퍼폼했습니다. 인텔-SK하이닉스 미국 메모리 생산 협력 협상 보도는 국내 메모리 2사에 미국 내 생산거점 확보라는 새 옵션을 열어주며, 메모리 점유율 30%→55% 역사적 추월 분석과 함께 '믿을 건 반도체'라는 국내 증권가 시각을 뒷받침합니다. 반면 리스크 요인도 뚜렷합니다. 10년물 금리가 5%를 재돌파한 가운데 아폴로는 데이터센터를 짓는 하이퍼스케일러의 CDS가 비싸지고 있으며 이는 은행 헤지 증가 때문이 아니라고 경고했고, 소프트뱅크그룹은 연 4.75%에 1조엔 회사채를 10시간 만에 완판하며 AI 투자 자금을 고금리로 조달하고 있습니다. 마이크로소프트(-1.37%)·아마존(-0.99%)의 약세와 온세미(-9.02%) 급락, Direxion 반도체 불 ETF 14% 급락 보도는 밸류에이션·레버리지 수급의 취약성을 보여줍니다. 규제 측면에서는 오픈AI가 3월 이후 '우려스러운 모델 행동' 6건을 공개했고, 앤스로픽 정책 책임자는 AI 기업이 '명예 규범'으로 운영될 수 없다고 했으며, 블루멘탈 상원의원은 '통제력을 잃기 직전'이라며 감독을 촉구했습니다. 트럼프 행정부는 중국과의 AI 패권 경쟁을 최우선으로 내세우고, 젠슨 황은 중국이 2030년까지 자체 첨단 노광장비를 개발할 것이라고 전망했습니다. 미 하원의 데이터센터 전력비용 전가 방지 법안도 장기적으로 하이퍼스케일러의 전력 비용 구조에 영향을 줄 수 있습니다. 국내에서는 NPU 설계기업 딥엑스가 NYSE·나스닥·SGX 등 5개 거래소의 상장 유치전 대상이 됐고, '초고수' 투자자들이 삼성전자·SK하이닉스를 일부 정리하고 원전·로봇주로 이동했다는 보도가 나와 AI 내 주도주 교체 가능성을 시사합니다. 종합하면 AI 인프라 수요 자체는 광통신·전력·서버로 확산되며 견조하지만, 5% 금리 환경에서의 조달 비용과 크레딧 스프레드, 규제 논쟁이 밸류에이션 상단을 제약하는 국면입니다.",
+  "cross_events": [
+   {
+    "heading": "Fed 3년 만의 금리 인상·10년물 5% 재돌파 — 금융·성장주·신재생·운송에 동시 압박",
+    "body": "연준은 9월 15~16일 FOMC에서 만장일치로 기준금리를 0.25%p 인상하며 2023년 이후 첫 인상을 단행했고 연내 한 차례 추가 인상을 시사했습니다. 워시 의장은 기자회견에서 '물가가 너무 오래 높았다', '현재 금융여건은 긴축적이지 않다'고 발언했고, 금리 인상 자체에는 담담했던 시장이 기자회견 이후 하락으로 돌아섰습니다(다우 -1.21%, S&P500 -0.45%, VIX +2.97% 17.71). 10년물 국채금리는 5%를 재돌파했고 골드만삭스는 12월 추가 인상을, 건들락은 0.5%p 인상이 필요했다고 주장했습니다. 트럼프 대통령은 워시에 대한 신뢰를 유지한다면서도 1% 이하 금리를 요구해 Fed 독립성 논쟁 재점화 가능성이 제기됐습니다. 섹터별로는 금융(XLF -1.62%)·부동산(XLRE -0.60%)·커뮤니케이션(XLC -0.90%)이 약세였고, 퍼스트솔라(-5.57%) 등 금리 민감 신재생주와 자본집약적 운송주도 압박을 받았습니다. 한국은 환율 상승에도 증권가가 '추세 전환은 아니다'라고 진단했고 17일 코스피는 상승 출발했으나 '변동성 주의' 경고가 함께 나왔습니다. 미 상원에서 가상자산 핵심 법안 상정이 무산되며 비트코인이 -3.26%(75,613달러, 09-15 기준) 하락하고 관련 기업 주가가 급락한 것도 위험자산 전반의 유동성 위축과 맞물립니다.",
+    "bullets": [
+     "Fed 0.25%p 인상(만장일치), 연내 1회 추가 인상 시사 — 포워드 가이던스는 위원 간 분열",
+     "10년물 5% 재돌파, 골드만 '12월 추가 인상', 건들락 '0.5%p 필요했다'",
+     "다우 -1.21%(51,462), S&P500 -0.45%(7551.81), VIX 17.71(+2.97%)",
+     "XLF -1.62%, XLRE -0.60%, XLC -0.90% 하락 / XLV +0.07%, SOXX +0.64% 상승",
+     "트럼프 '1% 이하 금리' 요구 — Fed 독립성 논쟁 변수",
+     "미 가상자산법 상원 상정 무산 → 비트코인 -3.26%, 관련주 급락",
+     "한국: 환율 상승은 '추세 전환 아님'(증권가), 코스피 17일 상승 출발"
+    ]
+   },
+   {
+    "heading": "이란 전쟁·사우디 송유관 피격과 재가동 — 에너지·운송·소비·방산 엇갈린 영향",
+    "body": "이란 전쟁 장기화 속에 사우디 송유관이 피격돼 유가가 4개월 고점까지 오르고 중국 내 유가는 사상 최고를 기록했지만, 미국 정부가 피격 송유관이 수일 내 재가동된다고 밝히고 사우디가 오만 경유 원유 공급을 늘리면서 WTI가 -3.21%(102.43달러), 브렌트가 -2.69%(105.83달러)로 급락했습니다. 이에 에너지 ETF XLE가 -2.88%로 최대 하락 섹터가 되고 다이아몬드백(-8.03%)·옥시덴탈(-6.55%)·코노코필립스(-6.15%) 등 E&P주가 하락 상위를 휩쓸었습니다. 그러나 유가는 여전히 100달러 위이며 미국 디젤 가격은 갤런당 6.31달러로 사상 최고를 기록해 J.B.헌트(-13.30%) 등 운송업체가 직격탄을 맞았고, CNBC는 이란 전쟁발 유가·금리 이중 충격으로 가구당 1,700달러의 추가 비용이 발생한다고 추산해 소비재(XLY -0.63%, XLP -0.48%)에도 부담이 됐습니다. 마켓워치는 이란 전쟁이 주식·채권·유가의 전통적 상관관계를 바꾸고 있다고 분석했고, 에너지나우는 글로벌 시장이 명확한 승자와 패자로 갈리고 있다고 진단했습니다. 지정학 긴장은 방산(ITA +0.59%, 한국 한화시스템 +12.06%·한화에어로스페이스 +4.08%)에는 우호적이며, 금은 +1.26%(4387.50달러)로 안전자산 수요를 반영했습니다. 미 하원의 러시아 제재법안 통과도 러시아산 원유 공급 관련 추가 변수입니다.",
+    "bullets": [
+     "WTI -3.21%(102.43), 브렌트 -2.69%(105.83) — 사우디 송유관 재가동·오만 경유 공급 확대",
+     "XLE -2.88%, 에너지 7종목 S&P500 하락 상위 10위 내 포진",
+     "디젤 갤런당 6.31달러 사상 최고 → J.B.헌트 -13.30%, 운송업계 '공상과학' 경고",
+     "이란 전쟁 가구당 추정 비용 1,700달러(CNBC) → 소비재 약세",
+     "금 +1.26%(4387.50), 구리 +0.99%(6.43) — 안전자산·산업금속 동반 강세",
+     "방산 ITA +0.59%, 한국 방산·조선주 급등"
+    ]
+   },
+   {
+    "heading": "러시아 제재법안 하원 통과·크렘린 네트워크 기소 — 방산·사이버보안·에너지 공급 변수",
+    "body": "미 하원이 린지 그레이엄 상원의원을 기리는 포괄적 러시아 제재법안을 통과시켜 트럼프 대통령 서명만 남겨두고 법제화 수순에 들어갔으며, 크렘린 네트워크 기소 이후 투자자들은 방산·사이버보안주를 주목하고 있습니다. 이는 이란 전쟁과 함께 지정학 리스크 프리미엄을 높여 방산 ETF ITA(+0.59%)와 액슨(+5.96%)의 강세를 뒷받침했고, 한국에서도 한화시스템(+12.06%)·한화엔진(+12.59%)·HD현대중공업(+7.39%)·한화에어로스페이스(+4.08%) 등 방산·조선주가 17일 장중 상승·거래대금 상위를 동시에 차지했습니다. 제재 강화는 러시아산 원유·가스 공급 경로에도 영향을 줄 수 있어 100달러대 유가 환경에서 에너지 공급 불확실성을 더하는 요인이며, 유럽 증시(스톡스600 +0.46%, DAX +0.53%)는 16일 Fed 결정 전 상승 마감했습니다.",
+    "bullets": [
+     "하원, 그레이엄 러시아 제재법안 통과 → 트럼프 서명 시 법제화",
+     "크렘린 네트워크 기소 후 방산·사이버보안주 관심 집중(심플리월스트리트)",
+     "ITA +0.59%, AXON +5.96% / 한국 방산·조선주 장중 급등",
+     "러시아산 원유 공급 경로 변수 → 유가 하방 경직성 요인",
+     "유럽 증시: 스톡스600 +0.46%, DAX +0.53%, CAC40 +0.62%(Fed 결정 전 마감)"
+    ]
+   },
+   {
+    "heading": "AI 인프라 확산 vs 자금조달·규제 리스크 — 기술·전력·통신·금융에 걸친 양면성",
+    "body": "AI 데이터센터 수요는 광통신(루멘텀 +9.59%, 코히런트 +6.92%, 중국 광모듈 초강세, 대한광통신 14% 급등), 발전설비·백업전원(GE버노바 +4.79%, 제너랙 30%+ 급등), 서버(델 +3.64%), 전력반도체(UBS 톱픽), 통신(KT 2031년 AI 인프라 매출 4.8조원 목표)으로 확산되며 여러 섹터의 주가를 동시에 끌어올렸습니다. 그러나 10년물 5% 환경에서 아폴로가 하이퍼스케일러 CDS 상승을 경고하고 소프트뱅크그룹이 연 4.75%에 1조엔 회사채를 발행하는 등 AI 투자의 조달 비용이 급등하고 있으며, 미 하원은 데이터센터 전력비용의 소비자 전가를 막는 법안을 진전시켜 전력 비용 구조에 규제 변수를 더했습니다. 오픈AI의 모델 이상행동 공개, 앤스로픽의 자율규제 한계 발언, 블루멘탈 상원의원의 감독 촉구 등 AI 안전 규제 논쟁도 심화되고 있고, 젠슨 황은 중국의 2030년 자체 노광장비 개발을 전망해 미·중 반도체 경쟁 구도의 장기 변화를 시사했습니다. 국내에서는 '금리·AI 쌍악재'에도 전문가들이 '쫄지마'라며 보유를 권했고, 초고수 투자자들은 삼성전자·SK하이닉스에서 원전·로봇주로 일부 이동했습니다.",
+    "bullets": [
+     "광통신·전력·서버 등 AI 공급망 하단으로 매수 확산(마켓워치)",
+     "아폴로: 하이퍼스케일러 CDS 상승 경고 / 소프트뱅크G 1조엔 4.75% 회사채 완판",
+     "하원 AI 데이터센터 전력비용 전가 방지 법안 진전",
+     "오픈AI·앤스로픽·블루멘탈 — AI 안전 규제 논쟁 심화, 중국 AI 기업은 침묵",
+     "젠슨 황 '중국 2030년 자체 노광장비 개발은 시간문제'",
+     "인텔-SK하이닉스 미국 메모리 생산 협상 → 인텔 +4.03%"
+    ]
+   }
+  ],
+  "events_today": [
+   "일본은행(BOJ) 금리 결정 (9/17) — 닛케이225는 결정 앞두고 상승 출발",
+   "트럼프 대통령의 러시아 제재법안 서명 여부 — 하원 통과로 법제화 수순",
+   "사우디 피격 송유관 재가동 시점 — 미국 '수일 내' 언급, 유가 방향의 핵심 변수",
+   "Fed 추가 인상 경로 — 골드만삭스 '12월 한 차례 더 인상' 전망, 연준 경제전망(SEP) 공개",
+   "KT 3분기 실적 프리뷰 — AI 인프라 수혜·주주환원 기대(매일경제 보고서)",
+   "코스피 17일 장 마감 — 장중 상승 출발 후 'FOMC 예상보다 매파적, 변동성 주의' 경고"
+  ],
+  "headlines": [
+   {
+    "text": "Fed 3년 만의 0.25%p 인상·워시 '추가 인상' 예고에 10년물 5% 재돌파, 다우 -1.21%…금융(XLF -1.62%)·빅테크 약세",
+    "importance": 5
+   },
+   {
+    "text": "사우디 송유관 재가동 기대에 WTI -3.21%(102.43달러), 에너지(XLE -2.88%) 최대 낙폭…디젤은 사상 최고가로 J.B.헌트 -13.30%",
+    "importance": 4
+   },
+   {
+    "text": "AI 공급망 하단 랠리: 루멘텀 +9.59%·코히런트 +6.92%·GE버노바 +4.79%, 인텔은 SK하이닉스 미국 메모리 협력 보도에 +4.03%…한국은 방산·조선주 급등",
+    "importance": 4
+   }
+  ],
+  "data_caveats": [
+   "코스피 구성종목 표는 2026-09-17 장중 값(업데이트 시각 기준)으로 마감 후 변동 가능",
+   "비트코인 시세는 09-15 세션 기준으로 다른 자산(09-16)과 기준일이 다름",
+   "무료 소스 특성상 외국인·기관 수급 데이터 및 개별 종목 실적·목표가 수치는 포함되지 않음",
+   "Google News 경유 기사는 제목만 제공되어 본문 세부 수치(예: 제너랙 상승률, 센서뷰 시세)는 기사 요약 표현에 의존함",
+   "진원생명과학 -80.00%(거래대금 0)는 감자·권리락 등 기업행위에 따른 기준가 변동 가능성이 있어 실제 하락으로 해석 시 주의 필요",
+   "Direxion 반도체 불 ETF 14% 급락 기사는 레버리지 ETF 기준이며 당일 SOXX(+0.64%)와 방향이 달라 보도 시점 확인 필요",
+   "유럽·중국·일본 지수는 09-16 마감 기준으로 Fed 결정(한국시간 09-17 새벽) 이전 값임"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "Chinese oil prices hit record highs after attacks on Saudi pipeline",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenN5ekEzNkpYSjhXa2lGdU5YaFhDWlZaSGNIMjUyRXNqT29IZ25HR2RzZWoxaVhCVFNUbzYtZTNmY25FSkpoZktXSEVjeUg1Unk5UWFGVU5YSzdMRWZvWXNybXZsYmp0OHFfX0ZUVDJ4X0lsWmJ5c0luTGVETzhVOWJlRG4?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Financial Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 22:24"
+  },
+  {
+   "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NDUHo5NmlRRGkwQVd6UlBBa1ZPSVBzQmFwRVhqZm9kM1p5LTNOWHdXTWJHSm1FWXVfRzlJTHZBNVA0MjlHWHROcEczTHRSZHYzUEREeUNqTmlDdmpoNVVReGRBRkRiYUl3RTFpc0tvejB5Mm44bGdKUVB4QVFOUlBzSkhfR05EOG5tY0t0V1VjNHI2dk1NUzNjV0lFcjBfSjlOOWx0bU1CdV8wWkpkWXlfSkh0azQ?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "MarketWatch",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:51"
+  },
+  {
+   "title": "Iran war: Oil surges as Middle East supply concerns grip markets",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDNjaDVMbjJQS29uTHBvekhEdHNOeEVFV09FYXFHRGtQMG5oNzh0cUdyYTlmNlZ6eE9pNENad19RZWZKVmFEZzRDSENLMXNmYUhONDI4czBfNV9xbmhmNGNLUlEzTTJZaWEzenN0YkNvbFNYcTRYWUtpNlZIVmNpWkxhS3plVFA0eU8tUEZtWTExdVlvLTk1RHJvUTFOVXc1?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "engine.online",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:47"
+  },
+  {
+   "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHhhbUJlYVhVblRVeDJlSVdxNmw4bGJMSnFoeG85bTY0Qm1maEhHNWdvSmhhYWR5MFV1TDB0UnExSkxheXdZSlVweXNJWDRkTGN3TmQ0dnl1TkFBcFBVSnJnbldSUEh4U2lteVdqeFlqcjF2Zjk1MEw2UmVHaFppTnV2OEVpd9IBiwFBVV95cUxNYS0xcVVDOXlQVkZ0RUVtZ1JzdThtandDbnJxQk85MW9lMTZPaFNrRjljdnRSRGI1UlZidm5meTRDdG5jT0d6dkpEMllsRUpVNlVCWkRVTnVqSDcxN2VOOFZta2xFelQxbTU3bXFOdzJfLXpWNEFDODNyeFJ1SmNnU3Z6T3B6dFlXdTZj?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 13:14"
+  },
+  {
+   "title": "Former Energy chief breaks down oil prices above $100",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YeDZUSFJUZnJad0ROQWlpRHhQVzJmb1E5ekFaUEM2UjFiQ0JGNXZSTHVxaEZad0JxRTBCbWh1TnpJOFlidXVWUEdSYmtFNG1qMlNhdmZvdmhWem8?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 08:58"
+  },
+  {
+   "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+   "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 07:32"
+  },
+  {
+   "title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaG1OOGdiN0dSQzJ5VDB6Qkl2RjdMN1NEZmJ3TFp3NWFnOVU5TEdlOUxDOGJ1Vzk3bzBFNDNtT0t5VDUwLWRMNFp1MkJZbWoyOVdYdlptQUx0MjBUb2MtdDR0Nk91NElWa0Uyd3pTa2E1YUpEek5VMEVOOUhrOXZxSnN3TnY4ZHFUWHp3TzhTdlhvd3ZtUkpMLXNiYkN4TlXSAaQBQVVfeXFMUEhzYUExUjFpYnJKZTA1QU5WN2x6UTVRVVoydV9UUmhCZWtiUkhGQlY4RENraS1CSnRTTlJlUnYtNm9GcUlpakxpVllFZ1l5SmVXV2hoTVFJYmx3U0dza2cyQ2FSVFNDX2RSSVZzbERTd0poS2s3NDZUUUlxaFlnb2VpQzU3eG1VTDFIMVRNaDVvTXF6SDZtbWxWMng5ejk0MFV4S00?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 07:00"
+  },
+  {
+   "title": "Oil Futures Pull Back From Four-Month Highs",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUlCM0QyM1lwZFlkZDZrN2lQV1kzSEZmTnJwU0hlMzlzbXVvQzhUWmtPOUxfTDZBNnlsamJVUHRQQXpZSXV0b1lOM2otZFMtVTlVVDExYUtzS3lDbjNuSzQwTUg2aUw1SENIdTJ0Tjg0N25vU0t2U1B2QnFVblltWEtibEVjaFlwQ1NpMFBvNGQ1UjJ6NXVv?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 04:27"
+  },
+  {
+   "title": "Oil prices steady as Saudi pipeline closure pressures supply",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OSm5OVGRlRkFjTF9HM3BsOTE1QW5tZGFTU1hHdWJSSXJZV1FpTXVNSmdtcGpQVm5iRHFBTWJ1eHFfNThabUdSMmY1cHo4WGN5MHRWSnU1c3RZZ05Td3lSOENVWndwaV8z?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Transport Topics",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 22:21"
+  },
+  {
+   "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmR3RHcwRGxVczZOSFZNSE45djBxV3JfbTZ6bmtfc240UjE2QzRUSWJzNWRWWGpQRzZKbThJckRVeFYzSGFSV19TVUgtSTNXX2NNRXJoZnAzYXNaaFZLVDEtYTJUTDRHeDVrNVBKU1NmRUU4Z052TGhBd2UzY2FtQVlnVW3SAYoBQVVfeXFMT3RUOUFnbm5YZ1RUdE1xYVJVellUZ0lmRnBMTnc0Y1hvS0hselc4OEoyN1BJeVVrUkp4UjZWT0ZyUW43T19SYVZWQTZyY1BZS2F5X1RycldNVmhqR2dBdzFXMDZxYWdyQmJXTEQ5M2ZGZ0lpY3RLTGVQcFpJSGF5LUI1RGRLM1FBRGR3?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 21:02"
+  },
+  {
+   "title": "Oil slips as Saudi Arabia offers more crude via Oman",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUw2WF9wc1NsbDZJRTlsTzlIOFYzZWtQMEJUS0tNT3VPUEhJUnhIZTZBTlJTcG50M0IxOXNLYTFSQVZRb2VIWllBT2ZzNC14RnAwUkhWYW91MlJrVm5TX3BZR3RSeVU3dUtjZmJuWm1hZWNyd29LLUUyY3BIekxROHllS0xoME02UUNDWnJlakRUU3hnOFg2aUV3X0FVVWd3SUpkRkZUTjdoX3VTRm95UE5CTWQxVXk1?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "reuters.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 09:41"
+  },
+  {
+   "title": "WINNERS & LOSERS: Iran War Splits Global Markets Into Clear Winners and Losers",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDhVdHFPcmhBRjFHVDRQS3hIOFVqdlBPMmhwT3U1MWJDVzVnODhBTkhkbU53bzlqQkF2U2NjbGFkVllsdF9VSDNNSTdWWW9qd0xpRXpHVUZ1a3FUTVVVa3lFaUNLYXB5aUZXMjVmQ3ZiblQ3M1d0YW5HWnFtNE9haTdaQlM2QVFnVEYtc1ZrU0JXRUo4cUFPZVdZWkpnX0tpQUl2cEprRlk?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "EnergyNow",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 08:05"
+  },
+  {
+   "title": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all",
+   "url": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 09:33"
+  },
+  {
+   "title": "Defense And Cybersecurity Stocks Investors Are Watching After The Kremlin Network Indictment",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQjgzVVUtUWJGZG9rb3ppZlYzYzk3dVNKUGRoQ3ZCYVlhX1dJUHNpcTl1eXNLSERhbFZYNDN3RjJQcllGTTVzS0c4b1B0cjczLU1EVUJ2RkpHRXk2VTVjWmNsdnFDYTduekZ6NERVRDhIWnlDdDQtYjdFVF9SWkhZRGltUjBzSVdac295eDIzQ0xtVVk1Y1RzMlRLS1dVdktOak9TLXY4aHhNS2w4d1BTQkxBSDBaNVJITWhSYlNybjZnTnJ5R0ZuNkpwUUTSAdIBQVVfeXFMTmVLS1ZCTS0yYnVUSXZaRjdJMTZlZWJpbExCVTNaSnNGR3hOZk1SbjFJbXIyT3VPRVlLR1NXaHJIWWZocUpOTktFbkdVcE1KVDc0dTlCZ1p4TU9aRDlDYWVEVmdPU2RhVHJDNnUyWERXTmNvVkdtQWpaOXRYWlEwZnZfeE9pUXBGVmpVejVrV2hjMlhjMUNJaWVMVUhjQmVSeWI3ekR6V0kwN0FvMkYteTE5bTBjbTd1U1liWS1Ic1VSQTRNN1NKVXZMU2ttcExiSWpB?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "simplywall.st",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 07:38"
+  },
+  {
+   "title": "UBS Highlights Top AI Data-Center Power Semiconductor Stocks",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa0dDQ3ZhR3p6Y0k2bDdLMVZmNGRrTm43UG1LRUJaYUF6Qmt6UFBVblp1SVMzVHhDZWNlRUhfSERRYUMyOW1INFQ4clI2WlN5czRMRWwweF8xTDNYU0hWM05vb2g4bjQ0QVJIWnFRY1lWUXNKMjUybm95dVBUSFRYeEdDSGFzMWtLcWFUUXc0NkowTjNyak5Xdzl2WmZyWGd2X1QxVE8yRHJWbnRmR3hacWh1YndqQ3FycVEwN2pn?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 06:57"
+  },
+  {
+   "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+   "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 07:25"
+  },
+  {
+   "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+   "url": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:40"
+  },
+  {
+   "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+   "url": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:23"
+  },
+  {
+   "title": "Fed approves interest rate hike, signals one more to come this year",
+   "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:07"
+  },
+  {
+   "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+   "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 05:10"
+  },
+  {
+   "title": "美, 기준금리 0.25%p 인상…\"연내 한 번 더 올린다\" [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179760i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 05:08"
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Fed 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 03:00"
+  },
+  {
+   "title": "美연준, 3년만에 금리인상.. 워시 “인플레 너무 높다”",
+   "url": "https://www.mk.co.kr/news/stock/12155024",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:13"
+  },
+  {
+   "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+   "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 08:51"
+  },
+  {
+   "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+   "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 08:45"
+  },
+  {
+   "title": "\"중대한 발걸음\" 워시, 추가 인상 예고…10년물도 동반 상승 [김현석의 월스트리트나우]",
+   "url": "https://www.hankyung.com/article/202609179982i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:20"
+  },
+  {
+   "title": "3년 만에 금리인상·워시 매파 발언에 하락 마감…다우 1.2%↓[뉴욕증시 브리핑]",
+   "url": "https://www.hankyung.com/article/2026091798786",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 07:33"
+  },
+  {
+   "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
+   "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:50"
+  },
+  {
+   "title": "금리 인상에 트럼프 뿔났다…\"빨리 1% 이하로 낮춰라\" [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179777i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 06:04"
+  },
+  {
+   "title": "워시 매파 발언에 놀란 뉴욕증시…S&P·다우 동반 하락",
+   "url": "https://www.hankyung.com/article/202609179763i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 05:37"
+  },
+  {
+   "title": "워시 \"물가 너무 오래 높았다\"…독립성 논란엔 \"각자 영역 지켜야\" [FOMC 전문]",
+   "url": "https://www.hankyung.com/article/202609179752i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 04:45"
+  },
+  {
+   "title": "워시 \"물가 너무 높은 상태…금융 여건 긴축적이지 않아\" [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179742i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 04:10"
+  },
+  {
+   "title": "[속보] 케빈 워시 \"현재 금융여건 긴축적이지 않다\"...추가 인상 예고 [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179736i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 03:48"
+  },
+  {
+   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+   "source": "Fed 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 03:00"
+  },
+  {
+   "title": "Nikkei 225 Opens Higher as Bank of Japan Rate Decision Looms",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkhKZ2s4TUpta1hraGNfWEhQZDBFLTFta0Q1LUhaMWZpd1ZNLWRKN19SOEE5ZlhpMXZWMGpaVUc2eVNCM0VWNjdNU003WUkzM0ZGWlJPYnZBSE5fbTdVd1BfSjNRdDVCaEk3Tk44Vk14UHdRbGdMcmFWS0ZtY3JSTzZudFJUbmZEWHlwbGlwRkpzdEhfNlBHQ3dwUEVqeUJ0NGIwSExwdGdiV0hUY0lqekpBbGNhUzZGOW9rbnZianlRM2lmTzd0MnV3?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "24/7 Wall St.",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 09:44"
+  },
+  {
+   "title": "미국 금리 인상·뉴욕증시 하락에도…코스피, 6700선 상승 출발",
+   "url": "https://www.mk.co.kr/news/stock/12155032",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:20"
+  },
+  {
+   "title": "House advances bill to rein in AI data center utility costs",
+   "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 09:08"
+  },
+  {
+   "title": "코스피, 상승 출발 6780대…코스닥도 올라",
+   "url": "https://www.hankyung.com/article/2026091702366",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:06"
+  },
+  {
+   "title": "30%→55% '역사적 추월'…삼전닉스 '최대 수혜' 전망 나왔다 [분석+]",
+   "url": "https://www.hankyung.com/article/2026091700256",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:30"
+  },
+  {
+   "title": "美 금리 인상 후 환율 상승에 증권가 \"추세 전환은 아냐\"",
+   "url": "https://www.hankyung.com/article/2026091799727",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:29"
+  },
+  {
+   "title": "Fed '매파적 금리 인상'에 코스피도 긴장…\"믿을 건 반도체\"",
+   "url": "https://www.hankyung.com/article/202609179965i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:24"
+  },
+  {
+   "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+   "url": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:56"
+  },
+  {
+   "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+   "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:40"
+  },
+  {
+   "title": "골드만삭스 \"12월 한 차례 더 금리 인상\"",
+   "url": "https://www.hankyung.com/article/2026091798307",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 06:38"
+  },
+  {
+   "title": "금리인상에 평온했던 증시, 왜 워시 기자회견에 하락했나",
+   "url": "https://www.mk.co.kr/news/stock/12154963",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 06:35"
+  },
+  {
+   "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
+   "url": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 05:52"
+  },
+  {
+   "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+   "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 05:22"
+  },
+  {
+   "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+   "url": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 04:38"
+  },
+  {
+   "title": "Hyperscaler debt signals warning sign, Apollo cautions",
+   "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 04:29"
+  },
+  {
+   "title": "Here is what changed in the new Fed statement under Warsh",
+   "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 03:18"
+  },
+  {
+   "title": "Direxion Semiconductor Bull ETF Drops 14% as Chip Sector Faces Sharp Selloff",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTZ3Q0VEdDR5U3N6NlNhc2N6OWtfbTQ3UHh6UU1Ra2YxY0F6c1RtX1lRRmk2c3JHMmxKSTBEdE81NUhXVXZTaUVhZExMc2w0bU9qVlkxXy1IaVJreC1oclhWMHQtR0wyN1dEZENuSjdQX2MzSjhEN0dmU1NuOTdtN1VjZ2pocGpGekxqcG5HaVdWeGhRemp2dw?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "The Motley Fool",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 00:45"
+  },
+  {
+   "title": "US Stock Futures Rise as Oil Prices Retreat Ahead of Federal Reserve Decision: Dow Jones, S&P, Nasdaq, Wall Street",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGFDOWlmZ1dtNVBVTFo2TTg1R0FTQjFUXzloTFZ2VUFmdXU4U2M1SVJQaDhaeXdJTEpmV2hfU3Brc3gwT1kxRXg1QnNRbGJialpjWWNZU3I0bGVKaGIyb3NXOXgwak14OXc5eXBmTFdQTi1GUGJNRHNCQXFJN3UtMXV2cnV0UGdBSGVOWTdzclZyT0pq?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 22:12"
+  },
+  {
+   "title": "What’s Inside the Bond Market’s ‘Toxic Stew’",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVR5MTdHQXRPQzVYY0k4OU9VYjNvLVVZMC14bmhiLXVDLW5qemJGUFJsWW1PdGNJbjlSQnV6VmxUVFUtdVhzR0JoeEIyUXVSLXhqWGhKNE9YRXA1QmhtRmdhTzMxWTBpQlFGUmhIRzNxRlMyZExyOU1SZ3o2R3JNZHpwaUpNUVdNOWpTNml0Y2xEdHBNTTI0c3VZcWk0Z0M5aWNtc2hVajFjVU9FMVRuSjhQR2pYYmxtdVNN?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:00"
+  },
+  {
+   "title": "美가상자산법 무산에 … 비트코인 추풍낙엽",
+   "url": "https://www.mk.co.kr/news/stock/12154520",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:42"
+  },
+  {
+   "title": "Wall Street holds steady ahead of the Fed's decision as oil prices and bond yields ease - ABC News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHJpNEk1VHdXb0dkdEdqb3MwTU90Z0dHZTlrTWNXeHhyWXFySUlnWFRJUGZKSHE5QW1xSHhNb1NPWUdiZUtnaWVqMW5BUVhNVlg2b05SUmNVYkFuV1lYT3UtbF9FVURmSGlxZ1JFSUZSWGJ6Z0dlX25KYTRNTzFvWVFnbVRLeFBWSTNidTQxbE9oc3hqMDBPYXVxLVjSAaIBQVVfeXFMTkJ6WjR2SlR1anVkUi1WMmpXcGtXa3pXZjZqZ0xrdmNEUXhtOHM0RjFRYmF6ZkJtN3JhMTQ4VUU4RTdsOHEwY3poRl9ZZXZjb1lUWkRkUWlINGdQT2pWaV84WDZ3UGtkRTZFS2w3Y3kwa042LXNzQ0oxQnpfZC1sWWpCNjZ1WXJQS29nZzE4anczMnpWU2IzSzRSTWhMTWZPa0hB?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "ABC News - Breaking News, Latest News and Videos",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 16:40"
+  },
+  {
+   "title": "[중국증시 마감] 美 금리 인상 전망에도 기술주 질주…'커촹50' 4.14% 급등",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hMGRWTF94bHF5ZUQ1aTVKUFVIT1p6SHBCekVOUnVtSHN6NWlXakFWNDQ2TDVWUlc2RnRxZzZWY2IzUmsyckxEWHBvMDNENUdRT0Noc3huaGFLNXpE?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "newspim.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 16:15"
+  },
+  {
+   "title": "[中 증시 마감] 5일만에 반등...광모듈 섹터 초강세",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ldmdLNWZMWjJYV3V6TnFERXY0eDJpVkVnTl91ZnBOcF9ndzl3SWZ4RUROYlR4Q3p6MndPRlM3U0FjV3FtTVE?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 16:13"
+  },
+  {
+   "title": "장 초반부터 하락세였는데…반전 상승 코스피, 기관 매수에 6700선 회복",
+   "url": "https://www.mk.co.kr/news/stock/12154354",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 16:05"
+  },
+  {
+   "title": "국채금리 5.0% 도달에 미 증시↓",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0azFhUXQ4QXM3UnYtRnZNcmxuMmMyanZyZ0ROYWRUTXlRTDd6UjNJbWlOVktubWhXMWJYLVFmUDNoQTdqNUxqTks2MTgwdEktM3RTRjAxWHhGckkzVzlDYkRKYjg4UmRuUHF2bw?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 07:46"
+  },
+  {
+   "title": "스페이스X, 우주선 시험 비행 소식에 관련주 급등…센서뷰 26%대↑",
+   "url": "https://www.mk.co.kr/news/stock/12155093",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:43"
+  },
+  {
+   "title": "\"떨어질 때 사자\"…원전·로봇 담고 삼전·하닉 판 초고수",
+   "url": "https://www.hankyung.com/article/202609170162i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:21"
+  },
+  {
+   "title": "[AI MY 뉴스] 17일 중국증시 '美 금리인상 현실화...中 AI주, 긴축 파고 넘을까'",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5RUwtM1hPSXpGQk9JeWZPYlRseV8xSUpPN1lDUEtKdUswLWh5cHNOUjJlVWNxcXFJMFFhRjNJQ3dQZlFHaGU4N3FpellPNjRpZjl3ak9ScHhBT0Vn?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "newspim.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-17 08:52"
+  },
+  {
+   "title": "KT 3분기에 ‘좋을 일’만 있다는데…AI인프라 수혜·주주환원 기대감 [오늘 나온 보고서]",
+   "url": "https://www.mk.co.kr/news/stock/12154995",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:39"
+  },
+  {
+   "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+   "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 08:05"
+  },
+  {
+   "title": "연 4.75%…日소프트뱅크G 1조엔 회사채 10시간 만에 완판",
+   "url": "https://www.hankyung.com/article/202609179832i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 06:41"
+  },
+  {
+   "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
+   "url": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 04:56"
+  },
+  {
+   "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+   "url": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 03:57"
+  },
+  {
+   "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
+   "url": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 03:18"
+  },
+  {
+   "title": "How worried should software, semiconductor stocks be about AI risks?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZGdKSVdxT090RTJYUnBxWm9OOHlQaUVhSE5VaHBKUzdib0VYdEJSbXlCVE1Odi11X2pqNGdQN2QxTFdYZG8xYU5kRmtSMVBveUhhNERKcHJGTHFoVUNWLW5DZk5raEJjWGRFdF9nTGJYN3ItdDRpV3N0V2xXdzJkNlB5SEtYNzk0cXdyTFE4QVM?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 23:15"
+  },
+  {
+   "title": "Jensen Huang thinks China will develop its own advanced lithography chipmaking tools by 2030 — Nvidia CEO says achievement of that capability 'is just a matter of time'",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQam1oeFJpWDNIY1JuYW45OF83UDI1TDdPY1FTNHBuSXE5NENGb0RoaTN5S29Vd2JGSFV1R3FSZ3dvc3JKQmE1Y2xjaHdiOG5uX0V5X0FPcEVLRG1vUHJEWldmSXk5TFNCZWJNLWRKb3pHVGxldDE1RHNYbG5uclEtbUxMaml6WFI3dUt3azVHQ1BFcC0wYjYyQlJ3VEhUbDdoVGtLY1puRmpSbVJhS2lIZnFic3FtaHNfQ2pLWlZ2cjhjbXQ5NmU4cU9aTkZoRU9tRFdKQmhPc0lSR0xRU3pMdDgxRF9yQkNPaDlQQTNUWDdDX3A1cXczaGZMdFNmUHp1enNYb3E4Y0pFWTF0VENfcXY4V1E3WEc4RTEyaE5RdExRUXZNdXc2d08zSDc2dC16ZFpLcEFoTXI?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Tom's Hardware",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 20:30"
+  },
+  {
+   "title": "금리·AI 쌍악재, 주식 정리할까…“쫄지마” 외친 전문가들[머니닥터 시장진단]",
+   "url": "https://www.mk.co.kr/news/stock/12154634",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 18:45"
+  },
+  {
+   "title": "\"딥엑스 모셔라\"… 글로벌 거래소 5곳 유치전",
+   "url": "https://www.mk.co.kr/news/stock/12154547",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:47"
+  },
+  {
+   "title": "\"통신장비 부족해\"…대한광통신 14% 쑥",
+   "url": "https://www.mk.co.kr/news/stock/12154545",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:47"
+  },
+  {
+   "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+   "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-16 13:01"
+  },
+  {
+   "title": "같은 삼성전자 협력사인데…'47% vs -19%' 수익률 갈린 이유는 [대기업 협력사 전수분석]",
+   "url": "https://www.hankyung.com/article/202609179699i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 07:22"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

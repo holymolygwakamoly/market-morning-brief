@@ -321,24 +321,27 @@ def _norm(s: str) -> str:
 
 
 def top_headlines(results: dict[str, TopicResult], n: int = 5) -> list[dict]:
-    """토픽별 headlines를 중요도순으로 모아 중복을 제거하고 n개 반환. 토픽당 최대 2개."""
-    cands: list[tuple[int, int, str, str]] = []
+    """토픽별 headlines에서 n개. 1차: 토픽마다 최상위 1개(중요도순), 2차: 남은 것 중요도순. 비슷한 문장(bigram Dice ≥ 0.5)은 제외."""
+    from brief.dedupe import bigram_dice  # noqa: PLC0415
+
     order = {t: i for i, t in enumerate(("macro", "us", "kr", "sectors", "eu", "cn"))}
+    per_topic: dict[str, list] = {}
     for topic, r in results.items():
-        if not r.report:
-            continue
-        hs = sorted(getattr(r.report, "headlines", []), key=lambda h: h.importance, reverse=True)[:2]
-        for h in hs:
-            cands.append((h.importance, -order.get(topic, 9), topic, h.text.strip()))
-    cands.sort(reverse=True)
+        if r.report:
+            per_topic[topic] = sorted(getattr(r.report, "headlines", []), key=lambda h: h.importance, reverse=True)
+    rounds: list[list[tuple[int, int, str, str]]] = [[], []]
+    for topic, hs in per_topic.items():
+        for k, h in enumerate(hs[:2]):
+            rounds[k].append((h.importance, -order.get(topic, 9), topic, h.text.strip()))
     out: list[dict] = []
-    seen: set[str] = set()
-    for imp, _, topic, text in cands:
-        key = _norm(text)[:40]
-        if not text or key in seen:
-            continue
-        seen.add(key)
-        out.append({"text": text, "importance": imp, "topic": topic, "topic_name": TOPIC_NAMES.get(topic, topic)})
-        if len(out) >= n:
-            break
+    seen: list[str] = []
+    for cands in rounds:
+        for imp, _, topic, text in sorted(cands, reverse=True):
+            key = _norm(text)
+            if not text or any(bigram_dice(key, s) >= 0.5 for s in seen):
+                continue
+            seen.append(key)
+            out.append({"text": text, "importance": imp, "topic": topic, "topic_name": TOPIC_NAMES.get(topic, topic)})
+            if len(out) >= n:
+                return out
     return out

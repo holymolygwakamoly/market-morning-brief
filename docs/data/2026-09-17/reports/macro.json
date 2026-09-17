@@ -1,0 +1,508 @@
+{
+ "topic": "macro",
+ "name": "거시경제",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-17T14:16:08.564582+09:00",
+ "report": {
+  "title": "거시경제 데일리 브리프 (2026-09-17): 연준 3년 만의 금리 인상·10년물 5%·원/달러 1,360원대 복귀",
+  "overview": "연준(Fed)이 9월 15~16일 FOMC에서 만장일치로 기준금리를 0.25%p 인상하며 2023년 이후 3년 만의 인상을 단행했고, 연내 한 차례 추가 인상을 시사했습니다. 워시 의장은 \"물가가 너무 오래 높았다\", \"현재 금융여건은 긴축적이지 않다\"고 발언해 매파적 기조를 분명히 했고, 미 10년물 금리는 5.01%로 5% 선을 재돌파했습니다. 달러인덱스는 100.31(+0.66%)로 반등했고 원/달러는 1,363.57원(+17.96원, +1.33%)으로 급등했으며, 다우는 631포인트(-1.21%) 하락한 반면 나스닥은 보합, 필라델피아 반도체는 +0.63%로 차별화됐습니다. 원자재에서는 사우디 송유관 피격 이후 미국이 \"수일 내 재가동\"을 밝히면서 WTI가 102.43달러(-3.21%), 브렌트가 105.83달러(-2.69%)로 4개월 고점에서 되밀렸으나 여전히 100달러를 웃돌고 있고, 금은 4,387.50달러(+1.26%)로 상승했습니다. 오늘은 일본은행(BOJ) 금리 결정이 예정돼 있으며, 코스피는 미국 금리 인상에도 6,780선 상승 출발로 전날의 6,717.97(+1.37%) 강세 흐름을 이어가고 있습니다.",
+  "sections": [
+   {
+    "heading": "금리·채권",
+    "body": "미 국채 금리는 FOMC 이후 전 구간에서 상승했습니다. 표 기준 10년물은 5.01%(+0.01%p, +0.20%), 5년물은 4.86%(+0.03%p, +0.68%), 3개월물은 3.97%(+0.01%p, +0.25%)로 마감했습니다. CNBC에 따르면 10년물은 연준의 금리 인상과 워시 의장의 '지속적인 인플레이션 위험' 발언 직후 5% 선을 다시 넘어섰고, 한국경제도 '워시의 추가 인상 예고에 10년물이 동반 상승'했다고 전했습니다. 커브 형태를 보면 3개월물(3.97%)과 10년물(5.01%) 격차가 약 1.04%p로 정상 기울기의 우상향 곡선이며, 5년물(4.86%)이 가장 큰 폭으로 올라 중기 구간이 정책금리 경로 재평가의 중심에 있음을 시사합니다. 이는 시장이 단기 인상보다는 '고금리가 더 오래' 지속되는 시나리오와 인플레이션 프리미엄을 장기물에 반영하고 있다는 해석이 가능합니다. 금리 경로 기대와 관련해서는 연준 자체가 연내 한 차례 추가 인상을 시사했고, 골드만삭스는 '12월 한 차례 더 인상'을 전망했습니다. 반면 제프 건들락은 '0.25%p가 아니라 0.5%p를 올렸어야 했다'며 연준이 인플레이션에 뒤처졌다고 비판했고, 마켓워치는 결정 자체는 만장일치였으나 '포워드 가이던스는 분열됐다'고 지적해 향후 경로에 대한 위원 간 이견이 존재함을 보여줍니다. 블룸버그는 채권시장의 '유독한 혼합물(toxic stew)'을, 하버 애널리틱스는 미 국채 금리와 유가의 연동을 다루며 유가발 인플레이션이 금리 상방 압력의 핵심 변수임을 부각했습니다. 마켓워치는 '주식과 채권 모두 급격한 변동성이 더 이어질 것'으로 전망했습니다.",
+    "bullets": [
+     "미 10년물 5.01%(+0.01%p), 5년물 4.86%(+0.03%p), 3개월물 3.97%(+0.01%p) — 전 구간 상승, 10년물 5% 재돌파",
+     "3개월-10년 스프레드 약 +1.04%p로 우상향 커브 유지, 5년물 상승폭 최대",
+     "연준 연내 1회 추가 인상 시사, 골드만삭스 '12월 추가 인상' 전망, 건들락 '50bp 인상했어야'",
+     "FOMC 결정은 만장일치였으나 포워드 가이던스는 분열 — 경로 불확실성 잔존",
+     "유가·금리 동반 상승이 채권시장 압박 요인(블룸버그 '유독한 혼합물', 하버 애널리틱스)"
+    ]
+   },
+   {
+    "heading": "환율",
+    "body": "달러인덱스는 100.31로 0.66포인트(+0.66%) 상승하며 100선을 회복했습니다. 연준의 3년 만의 금리 인상과 워시 의장의 매파적 발언, 10년물 5% 재돌파가 달러 강세의 직접적 배경입니다. 원/달러 환율은 1,363.57원으로 전일 대비 17.96원(+1.33%) 급등해 주요 통화 중 가장 큰 변동을 보였습니다. 한국경제 보도에 따르면 증권가는 미국 금리 인상 이후의 환율 상승에 대해 '추세 전환은 아니다'라는 시각을 유지하고 있어, 이번 급등을 FOMC 이벤트에 따른 일시적 되돌림으로 해석하는 분위기입니다. 엔/달러는 155.27엔(+0.57%)으로 엔화 약세가 재개됐으며, 오늘 예정된 일본은행(BOJ) 금리 결정을 앞두고 미·일 금리차 확대 우려가 반영된 것으로 보입니다. 유로/달러는 1.15달러(-0.09%)로 소폭 약세에 그쳤고, 위안/달러는 6.71위안(+0.04%)으로 거의 변동이 없어 위안화는 상대적으로 안정적이었습니다. 한국 투자자 관점에서 원화 약세는 반도체 등 수출 대형주의 원화 환산 실적에는 긍정적이지만, 외국인 수급 측면에서는 환차손 우려로 자금 유입을 제약할 수 있는 양면성이 있습니다. 다만 코스피가 전날 6,717.97(+1.37%)로 마감한 데 이어 17일에도 6,780선 상승 출발한 점은 환율 급등이 아직 외국인 이탈로 이어지지는 않고 있음을 시사합니다. 무료 소스 특성상 외국인 순매수 등 실제 수급 데이터는 확인되지 않습니다.",
+    "bullets": [
+     "달러인덱스 100.31(+0.66%) — 연준 인상·10년물 5%에 달러 강세 재개",
+     "원/달러 1,363.57원(+17.96원, +1.33%) 급등, 증권가 '추세 전환은 아냐'",
+     "엔/달러 155.27엔(+0.57%) 엔 약세 — BOJ 결정 앞두고 미·일 금리차 부각",
+     "유로/달러 1.15(-0.09%), 위안/달러 6.71(+0.04%)로 상대적 안정",
+     "원화 약세는 수출주 실적에 우호적이나 외국인 수급에는 부담 가능"
+    ]
+   },
+   {
+    "heading": "원자재",
+    "body": "유가는 4개월 고점에서 되밀렸습니다. WTI는 102.43달러로 3.40달러(-3.21%), 브렌트는 105.83달러로 2.92달러(-2.69%) 하락했습니다. CNBC에 따르면 미국 측이 '피격된 사우디 송유관이 수일 내 재가동될 것'이라고 밝히면서 공급 차질 우려가 완화된 것이 낙폭의 배경이며, WSJ도 '원유 선물이 4개월 고점에서 후퇴'했다고 전했습니다. 그러나 이란 전쟁에 따른 중동 공급 불안은 여전하며, FT는 사우디 송유관 공격 이후 중국 내 유가가 사상 최고치를 기록했다고 보도했습니다. 유가가 100달러를 웃돌면서 미국 연료 가격은 사상 최고치를 경신했고(OilPrice.com), CNBC는 이란 전쟁발 유가와 금리의 '이중 타격'으로 가구당 약 1,700달러의 추가 부담이 발생할 것으로 추산했습니다. 이는 연준이 언급한 '너무 높은 인플레이션'의 핵심 원인이자 추가 인상 논거이기도 합니다. 금은 4,387.50달러로 54.70달러(+1.26%) 상승했습니다. 달러 강세와 금리 상승 속에서도 금이 오른 것은 지정학적 리스크 헤지 수요와 인플레이션 헤지 수요가 명목금리 상승의 부담을 상쇄했음을 시사합니다. 구리는 6.43달러(+0.99%) 상승해 실물 수요 측면의 위축 신호는 아직 나타나지 않았고, 필라델피아 반도체 지수 강세와 함께 산업 사이클에 대한 낙관이 유지되고 있음을 보여줍니다. 비트코인은 75,613달러(-3.26%, 9/15 기준)로 위험자산 회피 흐름에 동조했습니다.",
+    "bullets": [
+     "WTI 102.43달러(-3.21%), 브렌트 105.83달러(-2.69%) — 사우디 송유관 '수일 내 재가동' 소식에 4개월 고점서 후퇴",
+     "유가 100달러 상회 지속: 미국 연료가격 사상 최고, 중국 유가 사상 최고(FT), 가구당 1,700달러 부담 추산(CNBC)",
+     "금 4,387.50달러(+1.26%) — 달러·금리 상승에도 지정학·인플레 헤지 수요로 상승",
+     "구리 6.43달러(+0.99%) 상승, 실물 수요 위축 신호는 아직 없음",
+     "비트코인 75,613달러(-3.26%, 9/15 기준) 약세"
+    ]
+   },
+   {
+    "heading": "중앙은행",
+    "body": "연준은 9월 15~16일 FOMC에서 기준금리를 0.25%p 인상했습니다. 2023년 이후 3년 만의 첫 인상으로, 결정은 만장일치였으며 성명서와 함께 경제전망(SEP)도 발표됐습니다. CNBC는 연준이 연내 한 차례 추가 인상을 시사했다고 전했습니다. 워시 의장은 기자회견에서 '물가가 너무 오래 높은 상태였다', '현재 금융여건은 긴축적이지 않다'고 말해 추가 인상을 예고했고, 이번 결정을 '중대한 발걸음'이라고 표현했습니다. 연준 독립성 논란에 대해서는 '각자 영역을 지켜야 한다'고 답했습니다. 트럼프 대통령은 워시 의장에 대한 신뢰는 유지한다면서도 '빨리 1% 이하로 낮추라'고 요구했고, CNBC는 이번 인상이 트럼프-연준 독립성 갈등을 재점화할 수 있다고 분석했습니다. 유럽중앙은행(ECB)은 임금 트래커에서 2027년 상반기 협상임금 상승률을 2.7%로 제시하며 '완만한 상승'을 시사했는데, 이는 ECB의 물가 경계를 지속시키는 요인입니다. 영란은행(BoE)은 재무장관이 이사회(Court of Directors)에 신임 비상임이사 3명을 임명했다고 발표했으나 통화정책 관련 신호는 아닙니다. 일본은행(BOJ)은 오늘(17일) 금리 결정을 발표할 예정이며, 닛케이 225는 이를 앞두고 상승 출발했습니다. 엔/달러가 155엔대로 상승한 만큼 BOJ의 정책 방향 및 엔화 관련 언급이 아시아 시장의 관심사입니다. 한국은행과 인민은행 관련 발표·발언은 입력 기사에 포함되지 않았습니다.",
+    "bullets": [
+     "Fed: 0.25%p 인상(2023년 이후 첫 인상, 만장일치), 연내 1회 추가 인상 시사, SEP 발표",
+     "워시 의장: '물가 너무 오래 높았다', '금융여건 긴축적이지 않다', 독립성엔 '각자 영역 지켜야'",
+     "트럼프: 워시 신뢰 유지하되 '1% 이하 금리' 요구 — 독립성 갈등 재점화 가능성",
+     "ECB 임금 트래커: 2027년 상반기 협상임금 2.7%, 완만한 상승 시사",
+     "BoE: 이사회 비상임이사 3명 신규 임명(정책 신호 아님)",
+     "BOJ: 오늘(17일) 금리 결정 예정 — 엔/달러 155엔대에서 정책 방향 주목",
+     "한국은행·인민은행 관련 기사 없음"
+    ]
+   },
+   {
+    "heading": "경제지표",
+    "body": "어제 발표된 지표 중 시장 영향이 가장 컸던 것은 연준의 9월 경제전망(SEP)입니다. 연준이 성명과 함께 경제전망을 공개했고, CNBC는 이를 바탕으로 연준이 연내 추가 인상을 시사했다고 정리했습니다. 다만 입력 자료에는 SEP의 구체적 수치(성장률·물가·점도표 중앙값)가 포함돼 있지 않아 본 보고서에서는 인용하지 않습니다. 유럽에서는 ECB 임금 트래커가 2027년 상반기 협상임금 상승률 2.7%를 제시해 '완만한 상승'을 가리켰습니다. 이는 ECB가 임금발 서비스 물가 압력을 계속 경계할 근거가 됩니다. 물가 관련 정성 지표로는 유가 100달러 상회에 따른 미국 연료 가격 사상 최고치 경신(OilPrice.com), 그리고 이란 전쟁발 유가·금리 부담이 가구당 약 1,700달러로 추산된다는 CNBC 분석이 있습니다. 워시 의장이 '물가가 너무 높다'고 언급한 것과 맞물려 향후 CPI·PCE 등 물가 지표의 중요성이 한층 커진 상황입니다. 오늘 예정된 주요 이벤트는 일본은행 금리 결정입니다. 그 밖의 오늘·이번 주 미국·한국 지표 발표 일정은 입력 자료에 근거가 없어 기재하지 않습니다.",
+    "bullets": [
+     "연준 9월 SEP 발표 — 연내 추가 인상 시사(구체 수치는 입력 자료에 없어 미인용)",
+     "ECB 임금 트래커: 2027년 상반기 협상임금 2.7%, 완만한 상승",
+     "미국 연료가격 사상 최고(유가 100달러 상회), 가구당 1,700달러 부담 추산 — 물가 지표 상방 위험",
+     "오늘 BOJ 금리 결정 예정, 그 외 지표 일정은 근거 부족으로 미기재"
+    ]
+   },
+   {
+    "heading": "지정학·정책",
+    "body": "지정학 측면에서는 이란 전쟁과 사우디 송유관 피격이 시장의 핵심 변수입니다. 마켓워치는 이란 전쟁이 주식·채권·유가 간 상관관계를 바꾸고 있다고 분석했고, engine.online은 중동 공급 우려로 유가가 급등했다고 전했습니다. 사우디 송유관 폐쇄로 공급이 압박받았으나 미국이 '수일 내 재가동'을 밝히며 유가는 일단 되밀렸습니다. 다만 FT에 따르면 중국 내 유가는 사상 최고치로 치솟아 아시아 에너지 수입국의 부담이 커지고 있으며, 이는 에너지 수입 의존도가 높은 한국에도 무역수지·물가 측면의 부담 요인입니다. 정책 측면에서는 미 하원이 린지 그레이엄 의원을 기리는 광범위한 대러시아 제재 법안을 통과시켜 트럼프 대통령에게 송부했습니다. 법안이 발효되면 러시아산 에너지 관련 제재 강화로 유가 공급 측면에 추가 변수가 될 수 있습니다. 통화정책과 정치의 충돌도 이어지고 있습니다. 트럼프 대통령은 연준 금리 인상 직후 '1% 이하'로 낮추라고 요구했고, CNBC는 과거 트럼프가 연준이 금리를 내리지 않으면 대미 무역흑자국과의 교역을 끊겠다고 위협한 바 있다고 상기시켰습니다. 이는 한국처럼 대미 흑자를 기록하는 국가에 잠재적 통상 리스크입니다. 또 하원은 AI 데이터센터 관련 전력 비용이 소비자에게 전가되는 것을 막기 위한 초당적 법안을 진전시켰는데, 데이터센터 전력 규제 프레임워크는 AI 인프라 투자 비용 구조에 영향을 줄 수 있습니다. 산업 측면에서는 인텔이 SK하이닉스와 미국 내 메모리 반도체 생산 협력을 놓고 초기 협상 중이라는 보도가 나왔고, 인텔 주가가 이에 반응해 상승했습니다.",
+    "bullets": [
+     "이란 전쟁·사우디 송유관 피격 — 미국 '수일 내 재가동' 발표로 유가 일단 진정, 중국 유가는 사상 최고(FT)",
+     "미 하원, 대러시아 제재 법안(린지 그레이엄 법안) 통과·트럼프에 송부 — 에너지 공급 추가 변수",
+     "트럼프 '1% 이하 금리' 요구, 과거 '금리 미인하 시 대미 흑자국 교역 중단' 위협 — 한국 통상 리스크 잠재",
+     "하원, AI 데이터센터 전력비용 소비자 전가 방지 법안 진전",
+     "인텔-SK하이닉스, 미국 내 메모리 생산 협력 초기 협상 보도"
+    ]
+   },
+   {
+    "heading": "자산별 함의",
+    "body": "미국 주식은 연준의 매파적 인상에 지수별로 차별화된 반응을 보였습니다. 다우는 51,462(-631.21, -1.21%), S&P 500은 7,551.81(-0.45%), 러셀 2000은 2,858.81(-0.40%) 하락한 반면, 나스닥 종합은 25,978(-0.01%)로 보합, 나스닥 100은 28,945(+0.02%), 필라델피아 반도체는 11,246(+0.63%)로 상승했습니다. 금리 부담이 경기민감·전통 대형주에 집중되고 반도체·기술주는 상대적으로 견조했다는 점에서, 오늘 한국 시장에서도 반도체 중심의 차별화 장세가 이어질 가능성에 주목할 만합니다. VIX는 17.71(+2.97%)로 상승했으며, 마켓워치는 주식·채권의 급격한 변동성이 더 이어질 것으로 봤습니다. 한국 주식은 코스피가 전날 6,717.97(+1.37%), 코스닥 815.98(+0.44%)로 마감한 데 이어 17일 6,780선 상승 출발했습니다. 매일경제는 'FOMC가 예상보다 매파적이었다'며 변동성 주의를 권고했고, 인텔-SK하이닉스 협력 보도는 반도체 업종의 관심 재료입니다. 원/달러 1,363.57원(+1.33%)의 급등은 증권가가 '추세 전환은 아니다'라고 보는 만큼 외국인 수급 확인이 필요합니다. 채권은 10년물 5.01%, 5년물 4.86%로 상승 압력이 이어지고 있어 듀레이션 확대는 신중해야 하며, 연내 추가 인상(골드만 12월 전망)과 유가발 인플레이션이 상단을 열어둔 상태입니다. 환율은 달러인덱스 100선 회복과 엔/달러 155엔대에서 오늘 BOJ 결정이 아시아 통화의 단기 방향을 좌우할 수 있습니다. 원자재는 WTI 102.43달러로 4개월 고점에서 되밀렸으나 100달러 상회가 유지돼 에너지·정유주에는 우호적, 항공·운송·석유화학 등 원가 부담 업종에는 불리한 환경이며, 금 4,387.50달러(+1.26%)는 지정학·인플레 헤지 수요가 유효함을 보여줍니다.",
+    "bullets": [
+     "미 주식: 다우 -1.21%·S&P -0.45% vs 나스닥 보합·SOX +0.63% — 금리 부담은 전통 대형주에, 반도체 상대 강세",
+     "한국 주식: 코스피 6,717.97(+1.37%) 마감 후 6,780선 상승 출발, 반도체(인텔-SK하이닉스 재료) 주목, 변동성 주의",
+     "채권: 10년물 5.01%·5년물 4.86% 상승 압력, 연내 추가 인상·유가 인플레로 듀레이션 확대 신중",
+     "환율: 원/달러 1,363.57원 급등은 '추세 전환 아냐' 시각, 오늘 BOJ 결정이 엔·아시아 통화 단기 방향 변수",
+     "원자재: 유가 100달러 상회 유지 — 에너지주 우호·원가부담 업종 불리, 금 헤지 수요 지속",
+     "VIX 17.71(+2.97%) — 변동성 확대 국면, 포지션 규모 관리 필요"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "SK하이닉스",
+    "ticker": "000660.KS",
+    "comment": "인텔이 오하이오주에 건설 중인 반도체 시설 일부를 활용해 미국에서 메모리 반도체를 생산하는 방안을 놓고 SK하이닉스와 초기 협상 중이라는 보도(마켓워치·매일경제). 코스피 상승 출발과 함께 반도체 업종의 핵심 관심 종목."
+   },
+   {
+    "name": "인텔",
+    "ticker": "INTC",
+    "comment": "SK하이닉스와의 미국 내 메모리 생산 협력 보도에 투자자들이 턴어라운드 기대를 반영하며 주가 상승(마켓워치). 필라델피아 반도체 지수(+0.63%)도 매파적 FOMC 속에서 상대적 강세."
+   }
+  ],
+  "events_today": [
+   "일본은행(BOJ) 금리 결정 (9/17) — 엔/달러 155엔대에서 정책 방향·엔화 언급 주목",
+   "연준 9월 FOMC 후속: 트럼프-연준 독립성 갈등 및 연준 위원 발언 추이",
+   "대러시아 제재 법안 트럼프 대통령 서명 여부",
+   "사우디 송유관 재가동 진행 상황 및 이란 전쟁 관련 중동 공급 뉴스"
+  ],
+  "headlines": [
+   {
+    "text": "연준, 3년 만에 0.25%p 인상하고 연내 추가 인상 시사 — 워시 '물가 너무 높다', 10년물 5% 재돌파·다우 -1.21%",
+    "importance": 5
+   },
+   {
+    "text": "달러인덱스 100 회복에 원/달러 1,363.57원(+17.96원) 급등, 증권가 '추세 전환은 아냐' — 코스피는 6,780선 상승 출발",
+    "importance": 4
+   },
+   {
+    "text": "사우디 송유관 '수일 내 재가동'에 WTI 102.43달러(-3.21%)로 4개월 고점서 후퇴, 그러나 100달러 상회 지속·금 4,387달러 상승",
+    "importance": 4
+   }
+  ],
+  "data_caveats": [
+   "시세는 2026-09-16 종가 기준(비트코인은 09-15 기준)이며, 코스피·닛케이 17일 수치는 장중 출발 시점 값(기사 인용)입니다.",
+   "연준 SEP(경제전망)·점도표의 구체 수치는 입력 자료에 포함되지 않아 인용하지 않았습니다.",
+   "외국인·기관 수급 데이터는 무료 소스에 없어 반영하지 못했습니다.",
+   "한국은행·인민은행 관련 발표 기사는 입력에 없어 해당 내용은 다루지 않았습니다.",
+   "오늘·이번 주 미국·한국 경제지표 발표 일정은 입력 자료에 근거가 없어 BOJ 결정 외에는 기재하지 않았습니다.",
+   "일부 기사(구글뉴스 RSS)는 제목·출처만 확인 가능하며 본문 세부 내용은 검증되지 않았습니다. 매일경제 연준 기사의 요약문이 인텔-SK하이닉스 내용으로 표기되는 등 입력 데이터 매칭 오류 가능성이 있습니다."
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+   "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 07:25"
+  },
+  {
+   "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+   "url": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:23"
+  },
+  {
+   "title": "Fed approves interest rate hike, signals one more to come this year",
+   "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:07"
+  },
+  {
+   "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+   "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 05:10"
+  },
+  {
+   "title": "美, 기준금리 0.25%p 인상…\"연내 한 번 더 올린다\" [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179760i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 05:08"
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Fed 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 03:00"
+  },
+  {
+   "title": "美연준, 3년만에 금리인상.. 워시 “인플레 너무 높다”",
+   "url": "https://www.mk.co.kr/news/stock/12155024",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:13"
+  },
+  {
+   "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+   "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 08:45"
+  },
+  {
+   "title": "\"중대한 발걸음\" 워시, 추가 인상 예고…10년물도 동반 상승 [김현석의 월스트리트나우]",
+   "url": "https://www.hankyung.com/article/202609179982i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:20"
+  },
+  {
+   "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
+   "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:50"
+  },
+  {
+   "title": "금리 인상에 트럼프 뿔났다…\"빨리 1% 이하로 낮춰라\" [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179777i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 06:04"
+  },
+  {
+   "title": "워시 \"물가 너무 오래 높았다\"…독립성 논란엔 \"각자 영역 지켜야\" [FOMC 전문]",
+   "url": "https://www.hankyung.com/article/202609179752i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 04:45"
+  },
+  {
+   "title": "워시 \"물가 너무 높은 상태…금융 여건 긴축적이지 않아\" [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179742i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 04:10"
+  },
+  {
+   "title": "[속보] 케빈 워시 \"현재 금융여건 긴축적이지 않다\"...추가 인상 예고 [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179736i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 03:48"
+  },
+  {
+   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+   "source": "Fed 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 03:00"
+  },
+  {
+   "title": "美 금리 인상 후 환율 상승에 증권가 \"추세 전환은 아냐\"",
+   "url": "https://www.hankyung.com/article/2026091799727",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:29"
+  },
+  {
+   "title": "골드만삭스 \"12월 한 차례 더 금리 인상\"",
+   "url": "https://www.hankyung.com/article/2026091798307",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 06:38"
+  },
+  {
+   "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+   "url": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 04:38"
+  },
+  {
+   "title": "Here is what changed in the new Fed statement under Warsh",
+   "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 03:18"
+  },
+  {
+   "title": "What’s Inside the Bond Market’s ‘Toxic Stew’",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVR5MTdHQXRPQzVYY0k4OU9VYjNvLVVZMC14bmhiLXVDLW5qemJGUFJsWW1PdGNJbjlSQnV6VmxUVFUtdVhzR0JoeEIyUXVSLXhqWGhKNE9YRXA1QmhtRmdhTzMxWTBpQlFGUmhIRzNxRlMyZExyOU1SZ3o2R3JNZHpwaUpNUVdNOWpTNml0Y2xEdHBNTTI0c3VZcWk0Z0M5aWNtc2hVajFjVU9FMVRuSjhQR2pYYmxtdVNN?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:00"
+  },
+  {
+   "title": "U.S. Treasury Yields and Oil Prices",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GZ2twampsU0ZlckNGeDFwMnJTM0pzR2l6ZzNhTVBEUGRWWUpCdG5xRlBlNVZrVExqUFJ1ZUlaNWI4U2RLcDQ3X05aTGRKc2RzbVF6ZEI1aEk2b3JqNjV2Wl9xNXdDSkhwR2cycHBSYV94TjQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Haver Analytics",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 06:13"
+  },
+  {
+   "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
+   "source": "ECB 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-16 17:00"
+  },
+  {
+   "title": "Chancellor announces Bank of England appointments",
+   "url": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
+   "source": "BoE 뉴스",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-16 23:03"
+  },
+  {
+   "title": "Chinese oil prices hit record highs after attacks on Saudi pipeline",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenN5ekEzNkpYSjhXa2lGdU5YaFhDWlZaSGNIMjUyRXNqT29IZ25HR2RzZWoxaVhCVFNUbzYtZTNmY25FSkpoZktXSEVjeUg1Unk5UWFGVU5YSzdMRWZvWXNybXZsYmp0OHFfX0ZUVDJ4X0lsWmJ5c0luTGVETzhVOWJlRG4?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Financial Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 22:24"
+  },
+  {
+   "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NDUHo5NmlRRGkwQVd6UlBBa1ZPSVBzQmFwRVhqZm9kM1p5LTNOWHdXTWJHSm1FWXVfRzlJTHZBNVA0MjlHWHROcEczTHRSZHYzUEREeUNqTmlDdmpoNVVReGRBRkRiYUl3RTFpc0tvejB5Mm44bGdKUVB4QVFOUlBzSkhfR05EOG5tY0t0V1VjNHI2dk1NUzNjV0lFcjBfSjlOOWx0bU1CdV8wWkpkWXlfSkh0azQ?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "MarketWatch",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:51"
+  },
+  {
+   "title": "Iran war: Oil surges as Middle East supply concerns grip markets",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDNjaDVMbjJQS29uTHBvekhEdHNOeEVFV09FYXFHRGtQMG5oNzh0cUdyYTlmNlZ6eE9pNENad19RZWZKVmFEZzRDSENLMXNmYUhONDI4czBfNV9xbmhmNGNLUlEzTTJZaWEzenN0YkNvbFNYcTRYWUtpNlZIVmNpWkxhS3plVFA0eU8tUEZtWTExdVlvLTk1RHJvUTFOVXc1?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "engine.online",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:47"
+  },
+  {
+   "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHhhbUJlYVhVblRVeDJlSVdxNmw4bGJMSnFoeG85bTY0Qm1maEhHNWdvSmhhYWR5MFV1TDB0UnExSkxheXdZSlVweXNJWDRkTGN3TmQ0dnl1TkFBcFBVSnJnbldSUEh4U2lteVdqeFlqcjF2Zjk1MEw2UmVHaFppTnV2OEVpd9IBiwFBVV95cUxNYS0xcVVDOXlQVkZ0RUVtZ1JzdThtandDbnJxQk85MW9lMTZPaFNrRjljdnRSRGI1UlZidm5meTRDdG5jT0d6dkpEMllsRUpVNlVCWkRVTnVqSDcxN2VOOFZta2xFelQxbTU3bXFOdzJfLXpWNEFDODNyeFJ1SmNnU3Z6T3B6dFlXdTZj?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 13:14"
+  },
+  {
+   "title": "Former Energy chief breaks down oil prices above $100",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YeDZUSFJUZnJad0ROQWlpRHhQVzJmb1E5ekFaUEM2UjFiQ0JGNXZSTHVxaEZad0JxRTBCbWh1TnpJOFlidXVWUEdSYmtFNG1qMlNhdmZvdmhWem8?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 08:58"
+  },
+  {
+   "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+   "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 07:32"
+  },
+  {
+   "title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaG1OOGdiN0dSQzJ5VDB6Qkl2RjdMN1NEZmJ3TFp3NWFnOVU5TEdlOUxDOGJ1Vzk3bzBFNDNtT0t5VDUwLWRMNFp1MkJZbWoyOVdYdlptQUx0MjBUb2MtdDR0Nk91NElWa0Uyd3pTa2E1YUpEek5VMEVOOUhrOXZxSnN3TnY4ZHFUWHp3TzhTdlhvd3ZtUkpMLXNiYkN4TlXSAaQBQVVfeXFMUEhzYUExUjFpYnJKZTA1QU5WN2x6UTVRVVoydV9UUmhCZWtiUkhGQlY4RENraS1CSnRTTlJlUnYtNm9GcUlpakxpVllFZ1l5SmVXV2hoTVFJYmx3U0dza2cyQ2FSVFNDX2RSSVZzbERTd0poS2s3NDZUUUlxaFlnb2VpQzU3eG1VTDFIMVRNaDVvTXF6SDZtbWxWMng5ejk0MFV4S00?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 07:00"
+  },
+  {
+   "title": "Oil Futures Pull Back From Four-Month Highs",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUlCM0QyM1lwZFlkZDZrN2lQV1kzSEZmTnJwU0hlMzlzbXVvQzhUWmtPOUxfTDZBNnlsamJVUHRQQXpZSXV0b1lOM2otZFMtVTlVVDExYUtzS3lDbjNuSzQwTUg2aUw1SENIdTJ0Tjg0N25vU0t2U1B2QnFVblltWEtibEVjaFlwQ1NpMFBvNGQ1UjJ6NXVv?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 04:27"
+  },
+  {
+   "title": "Oil prices steady as Saudi pipeline closure pressures supply",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OSm5OVGRlRkFjTF9HM3BsOTE1QW5tZGFTU1hHdWJSSXJZV1FpTXVNSmdtcGpQVm5iRHFBTWJ1eHFfNThabUdSMmY1cHo4WGN5MHRWSnU1c3RZZ05Td3lSOENVWndwaV8z?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Transport Topics",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 22:21"
+  },
+  {
+   "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmR3RHcwRGxVczZOSFZNSE45djBxV3JfbTZ6bmtfc240UjE2QzRUSWJzNWRWWGpQRzZKbThJckRVeFYzSGFSV19TVUgtSTNXX2NNRXJoZnAzYXNaaFZLVDEtYTJUTDRHeDVrNVBKU1NmRUU4Z052TGhBd2UzY2FtQVlnVW3SAYoBQVVfeXFMT3RUOUFnbm5YZ1RUdE1xYVJVellUZ0lmRnBMTnc0Y1hvS0hselc4OEoyN1BJeVVrUkp4UjZWT0ZyUW43T19SYVZWQTZyY1BZS2F5X1RycldNVmhqR2dBdzFXMDZxYWdyQmJXTEQ5M2ZGZ0lpY3RLTGVQcFpJSGF5LUI1RGRLM1FBRGR3?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 21:02"
+  },
+  {
+   "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+   "url": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:40"
+  },
+  {
+   "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+   "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 08:51"
+  },
+  {
+   "title": "3년 만에 금리인상·워시 매파 발언에 하락 마감…다우 1.2%↓[뉴욕증시 브리핑]",
+   "url": "https://www.hankyung.com/article/2026091798786",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 07:33"
+  },
+  {
+   "title": "워시 매파 발언에 놀란 뉴욕증시…S&P·다우 동반 하락",
+   "url": "https://www.hankyung.com/article/202609179763i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 05:37"
+  },
+  {
+   "title": "Nikkei 225 Opens Higher as Bank of Japan Rate Decision Looms",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkhKZ2s4TUpta1hraGNfWEhQZDBFLTFta0Q1LUhaMWZpd1ZNLWRKN19SOEE5ZlhpMXZWMGpaVUc2eVNCM0VWNjdNU003WUkzM0ZGWlJPYnZBSE5fbTdVd1BfSjNRdDVCaEk3Tk44Vk14UHdRbGdMcmFWS0ZtY3JSTzZudFJUbmZEWHlwbGlwRkpzdEhfNlBHQ3dwUEVqeUJ0NGIwSExwdGdiV0hUY0lqekpBbGNhUzZGOW9rbnZianlRM2lmTzd0MnV3?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "24/7 Wall St.",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 09:44"
+  },
+  {
+   "title": "미국 금리 인상·뉴욕증시 하락에도…코스피, 6700선 상승 출발",
+   "url": "https://www.mk.co.kr/news/stock/12155032",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:20"
+  },
+  {
+   "title": "House advances bill to rein in AI data center utility costs",
+   "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 09:08"
+  },
+  {
+   "title": "코스피, 상승 출발 6780대…코스닥도 올라",
+   "url": "https://www.hankyung.com/article/2026091702366",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:06"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

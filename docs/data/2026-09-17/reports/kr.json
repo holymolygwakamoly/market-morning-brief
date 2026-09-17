@@ -1,0 +1,712 @@
+{
+ "topic": "kr",
+ "name": "한국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-17T14:16:08.596173+09:00",
+ "report": {
+  "title": "한국 증시 데일리 브리프 — 2026-09-17 (직전 세션 9/16 정리 및 오늘 장 참고)",
+  "overview": "9월 16일 코스피는 6,600선에서 하락 출발했으나 장중 기관 매수에 힘입어 반전, 6717.97(+90.71p, +1.37%)로 마감하며 6,700선을 회복했고 코스닥은 815.98(+3.57p, +0.44%)로 소폭 상승했습니다. 밤사이 미 연준(Fed)은 3년 만에 첫 25bp 금리 인상을 단행하고 연내 한 차례 추가 인상을 시사했으며, 워시 의장의 매파적 기자회견에 다우 -1.21%, S&P500 -0.45%로 하락했고 미 10년물 금리는 5%를 재돌파했습니다. 그럼에도 17일 코스피는 6,780대로 상승 출발했고, 장중 표 기준 조선·방산(한화엔진, 한화시스템, HD현대중공업, 한화에어로스페이스)과 코스닥 우주·통신장비주가 강세이며, 필라델피아 반도체지수(+0.63%)와 '메모리 점유율 역사적 추월' 기대가 삼성전자·SK하이닉스를 떠받치는 구도입니다. 다만 원/달러 환율이 1363.57원(+1.33%)으로 급등했고 VIX가 17.71로 오르는 등 매파 FOMC 이후 변동성 확대 가능성을 유의할 필요가 있습니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "9월 16일 코스피는 6717.97로 전일 대비 90.71p(+1.37%) 상승 마감했고, 코스닥은 815.98로 3.57p(+0.44%) 올랐습니다. 매일경제 마감 기사에 따르면 최근 연일 하락하던 코스피는 이날도 6,600선에서 하락 출발했으나 장중 기관 매수가 유입되며 상승 폭을 키워 6,700선을 회복했고, 삼성전자·SK하이닉스가 2~4%대 상승으로 마감하며 지수를 견인했습니다. 시장은 FOMC를 앞두고 '미국 금리와 AI 속도조절'이라는 쌍악재를 이미 상당 부분 반영한 상태였다는 것이 머니닥터 시장진단(매경)의 평가입니다.\n\n밤사이 미국 세션은 예상대로 25bp 인상이 나왔음에도 워시 의장의 기자회견이 예상보다 매파적으로 해석되며 하락 전환했습니다. 다우 51,462(-631.21p, -1.21%), S&P500 7551.81(-0.45%), 러셀2000 -0.40%로 밀렸고 나스닥 종합은 25,978(-0.01%)로 사실상 보합, 나스닥100은 +0.02%였습니다. 반면 필라델피아 반도체지수는 11,246(+0.63%)으로 상승해 반도체 비중이 큰 한국 시장에는 상대적으로 우호적인 신호였고, 광통신주(Lumentum·Coherent)가 S&P500 상승 상위를 차지했습니다. VIX는 17.71(+2.97%)로 올랐고 미 10년물 금리는 5%를 재돌파했습니다.\n\n환율은 원/달러가 1363.57원(+17.96원, +1.33%)으로 급등했고 달러인덱스는 100.31(+0.66%), 엔/달러 155.27(+0.57%)로 달러 강세가 뚜렷했습니다. 그럼에도 17일 코스피는 6,780대로 상승 출발(한국경제 09:06)했고 코스닥도 올랐습니다. 매경은 \"FOMC 예상보다 매파적…변동성 주의\"라는 증권가 코멘트를 전했습니다. 장중 표 기준 코스피 상승 418·하락 343·보합 81, 코스닥 상승 961·하락 632·보합 191로 시장 폭은 상승 우위입니다.",
+    "bullets": [
+     "코스피 6717.97(+1.37%), 코스닥 815.98(+0.44%) — 9/16 종가",
+     "코스피 6,600선 하락 출발 후 기관 매수로 반전, 삼전·하이닉스 2~4%대 상승 마감(매경)",
+     "미국: Fed 25bp 인상·연내 추가 인상 시사, 다우 -1.21%·S&P -0.45%, SOX +0.63%, 10년물 5% 재돌파",
+     "원/달러 1363.57원(+1.33%), 달러인덱스 100.31(+0.66%), VIX 17.71",
+     "17일 코스피 6,780대 상승 출발(한경 09:06), 장중 상승 418/하락 343"
+    ]
+   },
+   {
+    "heading": "수급",
+    "body": "무료 소스에는 KRX 투자자별(외국인·기관·개인) 순매수 데이터가 제공되지 않으므로, 수급은 기사에 언급된 내용만 근거로 정리합니다. 매일경제 9/16 마감 기사는 코스피가 하락 출발 후 '기관 매수'에 힘입어 6,700선을 회복했다고 전했습니다. 한국경제 '초고수' 기사(09:21)는 17일 장 초반 고수익 투자자들이 \"떨어질 때 사자\"며 원전·로봇 관련주를 담고 삼성전자·SK하이닉스는 매도한 것으로 보도해, 대형 반도체에서 차익실현·순환매 흐름이 일부 관찰됩니다. 외국인 순매수 규모 등 구체 수치는 입력 기사에 없어 서술하지 않습니다.\n\n거래대금(장중 추정)은 코스피에서 SK하이닉스 약 3조원(+0.34%), 삼성전자 약 2조원(+0.69%)이 압도적이며 두 종목 시가총액은 각각 1253조·1676조원입니다. 이어 삼성전기 3120억(-1.74%), SK스퀘어 2005억(+0.10%), 두산 1844억(+3.60%), 현대약품 1665억(+4.81%), KB금융 1074억(+1.47%), 두산에너빌리티 1064억(+2.98%), 한화에어로스페이스 1055억(+4.08%), HD현대중공업 998억(+7.39%) 순입니다. 반도체 양대 종목의 등락률이 크지 않은 가운데 원전·방산·조선에 거래대금이 실리는 점이 '초고수' 매매 기사와 부합합니다.\n\n코스닥은 대한광통신 3353억(+0.31%)이 거래대금 1위로 전일(16일) 14% 급등 후 매물 소화 국면이며, 성호전자 2840억(+16.69%), 미투온 2504억(+16.91%), 주성엔지니어링 1292억(+1.49%), 스피어 1071억(+16.71%), 하나마이크론 1044억(+7.44%), 아주IB투자 936억(+9.43%), 한켐 901억(+14.70%), 비츠로테크 783억(+30.00%), 빛샘전자 778억(-2.81%) 순으로 중소형 테마주에 회전이 활발합니다. 시장 폭은 코스피 상승 418/하락 343, 코스닥 상승 961/하락 632로 양 시장 모두 상승 종목이 우위입니다.",
+    "bullets": [
+     "KRX 투자자별 순매수 데이터 없음 — 기사 근거: 16일 기관 매수로 반전(매경)",
+     "17일 초고수 투자자, 원전·로봇 매수·삼전·하이닉스 매도(한경)",
+     "코스피 거래대금: SK하이닉스 3조, 삼성전자 2조, 삼성전기 3120억, SK스퀘어 2005억, 두산 1844억",
+     "코스닥 거래대금: 대한광통신 3353억, 성호전자 2840억, 미투온 2504억, 주성엔지니어링 1292억",
+     "시장 폭: 코스피 418/343/81, 코스닥 961/632/191 (장중)"
+    ]
+   },
+   {
+    "heading": "업종 동향",
+    "body": "강한 업종은 조선·방산·우주입니다. 장중 코스피 상승 상위에 한화엔진(+12.59%), 한화시스템(+12.06%), HD현대중공업(+7.39%)이 올랐고 거래대금 상위에서도 한화에어로스페이스(+4.08%), 두산에너빌리티(+2.98%), 두산(+3.60%)이 강했습니다. 매경은 스페이스X가 우주선을 지구 궤도에 올린다는 소식에 센서뷰(+26.56%, 09:33) 등 스페이스X 관련주가 일제히 급등했다고 전했고, 코스닥에서는 나라스페이스테크놀로지(+29.92%)가 상한가권, MK 골든크로스에 쎄트렉아이가 언급됐습니다. 방산 쪽은 비츠로셀(미국 방산 진출 기대, 09:09 기준 28,450원)과 RFHIC(방산 성장·통신 회복 기대, 7% 상승)가 기사화됐습니다.\n\n통신장비·광통신도 강세 축입니다. 16일 통신장비 쇼티지(공급 부족) 전망에 대한광통신이 14% 급등했고(매경), 미국 세션에서 Lumentum·Coherent 등 광통신주가 S&P500 상승 상위를 차지했으며, 16일 중국 증시에서도 광모듈 섹터가 초강세(커촹50 +4.14%)를 보여 AI 데이터센터 공급망 하단(광·전력)으로 관심이 확산되는 흐름입니다. 전력기기는 한경이 초고압 변압기 '피크아웃' 우려가 완화됐다고 짚었고, 미국에서는 Generac이 아마존 데이터센터 백업발전기 공급(24억달러) 계약으로 30% 이상 급등해 AI 전력 인프라 테마를 재확인했습니다. 반도체는 SOX +0.63%와 '메모리 점유율 30%→55% 역사적 추월, 삼전·하이닉스 최대 수혜'(한경 분석), 인텔-SK하이닉스 미국 내 메모리 생산 협력 초기 협의 보도가 우호적이나, 장중 등락률은 삼성전자 +0.69%, SK하이닉스 +0.34%로 제한적이고 삼성전기는 -1.74%입니다. 코스닥 후공정 하나마이크론은 +7.44%, 한양디지텍 +23.81%입니다.\n\n약한 업종은 제약·바이오와 금리 민감 업종입니다. 매경은 코스닥 시총 상위 10곳 중 7곳이던 바이오가 이제 알테오젠 한 곳만 남았고 관련 ETF 6개월 수익률이 반토막 났다며 고금리 충격과 개별기업 악재를 원인으로 지목했습니다. 장중 퓨쳐켐이 -21.73%로 급락했습니다. 또 시장금리 급등으로 캐피털사 PF대출 7.6조원 리스크가 부각됐고(매경), 디스플레이(LG디스플레이 목표가 29.4% 하향, 환율·수요 부담), 자동차 부품(현대모비스 목표가 80만→65만원, 현대차 판매 둔화), 광고(제일기획 목표가 2.4만→2.1만원)도 실적 눈높이 하향이 이어졌습니다. 철강은 한경이 '바닥론'을 소개하며 향후 이벤트와 추천종목을 다뤘습니다.",
+    "bullets": [
+     "강세: 조선·방산·우주(한화엔진·한화시스템·HD현대중공업·한화에어로·나라스페이스·센서뷰), 스페이스X 궤도 시험비행 소식",
+     "강세: 통신장비·광통신(대한광통신 16일 +14%, 美 Lumentum·Coherent, 中 광모듈), 전력기기(변압기 피크아웃 우려 완화·Generac-아마존)",
+     "반도체: SOX +0.63%, 메모리 점유율 30%→55% 기대, 인텔-SK하이닉스 협력 논의 — 장중 삼전 +0.69%·하이닉스 +0.34%",
+     "약세: 제약·바이오(코스닥 톱10에 알테오젠만 잔류, 퓨쳐켐 -21.73%), 캐피털 PF, 디스플레이·자동차부품·광고 목표가 하향"
+    ]
+   },
+   {
+    "heading": "주도주와 급등락",
+    "body": "코스피 장중 상승 상위(9/17 표 기준)는 진양화학(+27.38%, 거래대금 70억), 한화엔진(+12.59%, 925억, 시총 5조), 진양산업(+12.52%), 한화시스템(+12.06%, 719억, 시총 14조), 혜인(+11.26%), 진양폴리우레탄(+10.83%), 드림텍(+9.42%), 달바글로벌(+8.68%), 한컴라이프케어(+7.58%), HD현대중공업(+7.39%, 998억, 시총 50조)입니다. 진양그룹 3사(진양화학·진양산업·진양폴리우레탄)의 동반 급등은 입력 기사에 사유가 없어 해석을 보류합니다. 한화엔진·한화시스템·HD현대중공업·한화에어로스페이스(+4.08%)의 강세는 스페이스X 우주선 궤도 시험비행 소식에 따른 우주·방산 관련주 급등(매경) 및 방산 성장 기대(비츠로셀·RFHIC 기사)와 맞물린 것으로 보이나, 개별 종목 사유는 기사에 명시되지 않았습니다. 두산(+3.60%)·두산에너빌리티(+2.98%)는 '초고수가 원전·로봇을 담았다'는 한경 보도와 방향이 일치합니다. 현대약품(+4.81%)은 시총 3231억원 대비 거래대금 1665억원으로 회전율이 매우 높지만 기사 근거는 없습니다.\n\n코스피 하락 상위는 진원생명과학(-80.00%, 거래대금 0), 에넥스(-9.31%), 크라운해태홀딩스(-8.70%), 주연테크(-6.37%), LS에코에너지(-6.00%, 97억), 코아스(-4.97%), 인바이오젠(-4.51%), KEC(-4.49%), 마니커(-4.47%), 우성머티리얼스(-4.29%)입니다. 진원생명과학의 -80%는 거래대금이 0으로 표시돼 기준가 조정(감자·권리락 등) 또는 데이터 오류 가능성이 있어 실제 급락으로 단정하지 않습니다. 크라운해태홀딩스 하락은 16일 증선위가 해태제과식품의 4년간 530억원 매출·원가 과대계상을 적발해 재무책임자 등을 검찰 통보하고 감사인 지정 3년을 의결한 것과 관련지어 볼 수 있습니다. 한경은 '6만9500원→3만원' 급락 종목으로 개인투자자 손실이 크다고 보도했으나 종목명이 입력 요약에 없어 특정하지 않습니다.\n\n코스닥 상승 상위는 유비온(+400.00%, 거래대금 0 — 데이터 이상 가능성), 비츠로테크(+30.00%, 783억), 큐라티스(+29.96%), 지어소프트(+29.94%), 나라스페이스테크놀로지(+29.92%, 우주), 앤씨앤(+29.89%), 크라우드웍스(+28.45%), 한양디지텍(+23.81%), 와이제이링크(+23.79%), 진영(+22.12%)입니다. 비츠로테크는 비츠로셀(미국 방산 시장 진출 기대)의 지주회사로 동반 강세로 해석됩니다. 하락 상위는 케이이엠텍(-80.00%, 거래대금 0 — 데이터 이상 가능성), 코스나인(-33.33%, 주가 2원), 퓨쳐켐(-21.73%, 48억), 하이딥(-10.36%), 카티스(-10.15%), 뷰티스킨(-9.84%), 엠에프씨(-8.43%), 한국첨단소재(-7.85%), 고스트스튜디오(-7.83%)이며 퓨쳐켐 급락 사유는 입력 기사에 없습니다.",
+    "bullets": [
+     "코스피 상승: 한화엔진 +12.59%, 한화시스템 +12.06%, HD현대중공업 +7.39%, 한화에어로 +4.08%, 두산 +3.60%",
+     "코스피 하락: LS에코에너지 -6.00%, KEC -4.49%, 크라운해태홀딩스 -8.70%(해태제과 회계 적발 연관 가능)",
+     "코스닥 상승: 비츠로테크 +30.00%, 나라스페이스 +29.92%, 한양디지텍 +23.81%, 성호전자 +16.69%, 하나마이크론 +7.44%",
+     "코스닥 하락: 퓨쳐켐 -21.73%, 하이딥 -10.36%, 카티스 -10.15%",
+     "진원생명과학 -80%·유비온 +400%·케이이엠텍 -80%는 거래대금 0 → 데이터 오류/기준가 조정 가능성"
+    ]
+   },
+   {
+    "heading": "주요 뉴스·더벨",
+    "body": "① 매크로: Fed가 3년 만에 첫 금리 인상(25bp)을 만장일치로 결정하고 연내 한 차례 추가 인상을 시사했으나 포워드 가이던스는 분열됐습니다(MarketWatch·CNBC). 워시 의장이 인플레이션 억제 의지를 강조하자 미 10년물이 5%를 재돌파했고, 매경은 \"금리인상에 평온했던 증시가 왜 워시 기자회견에 하락했나\"로 시장 반응을 분석했습니다. 한경은 \"Fed 매파적 인상에 코스피도 긴장…믿을 건 반도체\"로 국내 영향을 짚었습니다. 미 하원은 AI 데이터센터 전력비용이 소비자에게 전가되지 않도록 하는 초당적 법안을 진전시켰고, 아폴로는 하이퍼스케일러 CDS 상승을 경고했습니다. 구글뉴스에는 반도체 레버리지 ETF(Direxion) 14% 급락 기사가 있으나 시점·맥락이 불분명해 참고만 합니다.\n\n② 반도체: 한경 분석은 메모리 점유율이 30%에서 55%로 '역사적 추월'을 이루며 삼성전자·SK하이닉스가 최대 수혜라고 전망했고, MarketWatch는 인텔이 SK하이닉스와 미국 내 메모리 생산 협력을 초기 협의 중이라고 보도했습니다. NPU 설계기업 딥엑스는 NYSE·나스닥·싱가포르 등 글로벌 거래소 5곳의 상장 유치전 대상이 됐습니다. 한경은 삼성전자 협력사 간 수익률이 '47% vs -19%'로 갈렸다는 전수분석도 실었습니다.\n\n③ 증권사 리포트: 삼성증권은 현대모비스 목표가를 80만→65만원(-18.8%)으로 낮추되 '매수' 유지(현대차 판매 둔화·원화 강세 반영), 대신증권은 LG디스플레이 목표가 1.7만→1.2만원(-29.4%, 환율·수요 부담), 신한투자증권은 제일기획 2.4만→2.1만원(마케팅 효율화로 실적 눈높이 하향, 매수 유지). 반면 NH투자증권은 롯데에너지머티리얼즈 목표가를 상향(모든 전방산업 수요 증가), 대신증권은 NAVER에 대해 디지털자산 규제화 지연으로 주가가 흔들리나 '지금이 매수 기회'라며 목표가 32만원·매수 유지, 매경은 KT의 3분기 AI인프라 수혜와 주주환원 기대(2031년 AI인프라 매출 목표 4.8조)를 다뤘습니다.\n\n④ 기업·규제: 증선위는 해태제과식품의 530억원 매출·원가 과대계상(허위 세금계산서·판매장려금 누락)을 적발해 재무책임자 등을 검찰 통보, 감사인 지정 3년, 과징금은 금융위서 추후 확정합니다. 홈플러스는 폐점 점포 개별매각 등 잔존사업부 재매각에 착수했고, 두나무는 카자흐스탄 디지털 금융허브 구축 MOU(RWA·STO 기술협력)를 체결했습니다. 인천공항고속도로 운영사(교직원공제회·맥쿼리인프라 투자)는 통행료 급감에 국토부·인천시 상대 292억원 손실보상 소송을 제기했고, 미래에셋증권은 MTS 명칭을 10월 1일부터 'MAPS'로 변경하며 일본 증권사 인수를 검토 중입니다. 캐피털사 PF대출 7.6조원이 금리 상승에 취약하다는 경고도 나왔습니다. 아이컴포넌트는 글로벌 우주기업에 우주 태양전지용 배리어필름 샘플을 공급합니다.\n\n⑤ 더벨 헤드라인: 이번 입력에는 더벨 헤드라인이 포함되지 않아 별도 정리를 생략합니다.",
+    "bullets": [
+     "Fed 25bp 인상·연내 추가 인상 시사, 10년물 5% 재돌파 — \"믿을 건 반도체\"(한경)",
+     "메모리 점유율 30→55% '역사적 추월' 삼전·하이닉스 수혜 전망, 인텔-SK하이닉스 美 메모리 협력 협의",
+     "목표가 하향: 현대모비스 65만원, LG디스플레이 1.2만원, 제일기획 2.1만원 / 상향: 롯데에너지머티리얼즈 / NAVER 32만원 유지",
+     "증선위, 해태제과 530억 과대계상 적발·검찰 통보; 캐피털 PF 7.6조 금리 리스크",
+     "더벨 헤드라인은 입력에 미포함"
+    ]
+   },
+   {
+    "heading": "오늘 이벤트",
+    "body": "오늘(9/17) 국내 장은 밤사이 확정된 FOMC 결과(25bp 인상, 연내 추가 인상 시사, 워시 의장 매파 기자회견)와 미 10년물 5% 재돌파, 원/달러 1363.57원(+1.33%)을 소화하는 첫 세션입니다. 입력 자료에 국내 지표 발표나 특정 기업의 확정 실적 발표 일정은 명시돼 있지 않습니다. 참고할 만한 일정성 이슈로는 ▲KT 3분기 실적 프리뷰(AI인프라·주주환원 기대) 등 3분기 프리뷰 리포트 발간이 본격화되는 시점 ▲해태제과식품 과징금 규모의 금융위 추후 확정 ▲미래에셋증권 MTS 'MAPS' 명칭 변경(10월 1일) ▲홈플러스 잔존사업부 재매각 절차 ▲딥엑스 상장 거래소 선정 ▲미 하원의 AI 데이터센터 전력비용 법안 진행 ▲인텔-SK하이닉스 협력 협의 후속 보도 등이 있습니다. 중국 증시는 16일 커촹50이 4.14% 급등한 뒤 17일 미 금리 인상 현실화에 따른 AI주 반응이 관전 포인트(뉴스핌)로, 한국 시간 오전 10시 30분 개장 이후 국내 반도체·광통신주와의 연동을 확인할 필요가 있습니다.",
+    "bullets": [
+     "FOMC 결과 소화 첫 세션: 25bp 인상, 연내 추가 인상 시사, 10년물 5% 재돌파",
+     "원/달러 1363.57원(+1.33%) 급등 후 외환시장 반응",
+     "3분기 프리뷰 리포트 발간 본격화(KT 등)",
+     "중국 증시(커촹50 전일 +4.14%) 미 금리 인상 반응 — 국내 AI·광통신주 연동",
+     "입력 자료에 국내 지표·확정 실적 일정은 없음"
+    ]
+   },
+   {
+    "heading": "오늘 장 참고",
+    "body": "기본 시나리오는 '매파 FOMC 소화 속 반도체·조선·방산 중심의 선별 강세'입니다. 실제로 코스피는 6,780대로 상승 출발했고 장중 표 기준 상승 종목이 하락 종목보다 많습니다(418 대 343). 다우 -1.21%에도 나스닥이 보합, SOX가 +0.63%로 마감한 점, 한경의 '메모리 점유율 역사적 추월' 분석과 인텔-SK하이닉스 협력 보도는 삼성전자·SK하이닉스에 우호적입니다. 다만 초고수 투자자들이 삼전·하이닉스를 팔고 원전·로봇을 담았다는 보도와 장중 두 종목의 제한적 등락률(+0.69%, +0.34%)을 감안하면 지수 견인력은 반도체 외 조선·방산·전력기기·우주 테마로 분산될 가능성을 열어둘 필요가 있습니다.\n\n리스크 시나리오는 미 금리와 환율입니다. 미 10년물이 5%를 재돌파했고 MarketWatch는 주식·채권의 급변동이 이어질 것으로 봤으며 VIX도 17.71로 올랐습니다. 원/달러가 1363.57원으로 하루 1.33% 급등한 것은 외국인 수급에 부담 요인이 될 수 있어, 장중 환율이 추가 상승하면 대형주 상단이 제한될 수 있습니다. 고금리는 코스닥 바이오(ETF 6개월 수익률 반토막, 톱10에 알테오젠만 잔류)와 캐피털 PF 등 금리 민감 영역에 지속적인 압력이며, 목표가 하향이 이어진 디스플레이·자동차부품·광고는 실적 눈높이 조정 국면입니다. 미국 하이퍼스케일러 CDS 상승 경고와 AI 속도조절 논란은 AI 투자 사이클 관련주에 변동성 요인입니다.\n\n원자재 측면에서는 WTI 102.43달러(-3.21%), 브렌트 105.83달러(-2.69%)로 유가가 내려 정유·화학의 원가 부담과 인플레이션 우려를 일부 완화하나 여전히 100달러대입니다. 금은 4387.50달러(+1.26%)로 사상 고가권 랠리가 이어졌고 구리는 +0.99%로 전력·전선주에 우호적입니다. 비트코인은 75,613달러(-3.26%, 9/15 기준)로 약세여서 두나무 등 가상자산 관련 뉴스와 별개로 위험선호는 제한적입니다. 종합하면 ▲반도체가 지수 하방을 받치는지 ▲조선·방산·우주·통신장비 테마 순환매가 거래대금을 유지하는지 ▲환율 1,360원대 안착 여부 ▲중국 AI주의 금리 인상 반응을 체크 포인트로 두는 것이 합리적입니다. 본 내용은 시나리오 참고이며 매매 추천이 아닙니다.",
+    "bullets": [
+     "기본 시나리오: 매파 FOMC 소화 속 반도체·조선·방산·우주 선별 강세 — 코스피 6,780대 상승 출발",
+     "리스크: 미 10년물 5% 재돌파, 원/달러 1363.57원(+1.33%) 급등, VIX 17.71 — 외국인 수급·대형주 상단 제한 가능성",
+     "금리 민감주(바이오·캐피털 PF)와 목표가 하향 업종(디스플레이·자동차부품·광고)은 눈높이 조정 국면",
+     "원자재: WTI 102.43(-3.21%)·브렌트 105.83, 금 4387.50(+1.26%), 구리 +0.99%, BTC 75,613(-3.26%)",
+     "체크 포인트: 삼전·하이닉스 하방 지지, 테마 거래대금 유지, 환율 1,360원대, 중국 AI주 반응"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "SK하이닉스",
+    "ticker": "000660.KS",
+    "comment": "거래대금 약 3조원으로 시장 1위, 장중 +0.34%. 메모리 점유율 30%→55% '역사적 추월' 최대 수혜 전망(한경)과 인텔의 미국 내 메모리 협력 초기 협의 보도(MarketWatch)가 우호적. 16일에는 2~4%대 상승 마감. 초고수 투자자 일부 매도 보도."
+   },
+   {
+    "name": "삼성전자",
+    "ticker": "005930.KS",
+    "comment": "거래대금 약 2조원, 장중 +0.69%, 시총 1676조원. 16일 기관 매수 속 2~4%대 상승으로 지수 반전 견인. '믿을 건 반도체'(한경)라는 시장 시각의 중심이나 초고수 매도 보도도 병존."
+   },
+   {
+    "name": "한화엔진",
+    "ticker": "082740.KS",
+    "comment": "장중 +12.59%, 거래대금 925억원으로 코스피 상승 상위. 조선·방산 강세 흐름과 동반. 개별 사유는 입력 기사에 없음."
+   },
+   {
+    "name": "한화시스템",
+    "ticker": "272210.KS",
+    "comment": "장중 +12.06%, 거래대금 719억원, 시총 14조원. 스페이스X 우주선 궤도 시험비행 소식에 따른 우주·방산 관련주 급등 흐름과 부합."
+   },
+   {
+    "name": "HD현대중공업",
+    "ticker": "329180.KS",
+    "comment": "장중 +7.39%, 거래대금 998억원, 시총 50조원. 조선 대형주로 거래대금 상위 10위 진입. 개별 사유는 기사에 명시되지 않음."
+   },
+   {
+    "name": "한화에어로스페이스",
+    "ticker": "012450.KS",
+    "comment": "장중 +4.08%, 거래대금 1055억원. 방산 성장 기대(비츠로셀·RFHIC 기사)와 우주 테마가 겹치며 거래대금 상위 유지."
+   },
+   {
+    "name": "두산에너빌리티",
+    "ticker": "034020.KS",
+    "comment": "장중 +2.98%, 거래대금 1064억원. '초고수가 원전·로봇을 담았다'는 한경 보도와 방향 일치. 모회사 두산도 +3.60%."
+   },
+   {
+    "name": "대한광통신",
+    "ticker": "010170.KQ",
+    "comment": "코스닥 거래대금 1위(3353억원), 장중 +0.31%. 16일 통신장비 쇼티지 전망에 14% 급등(매경) 후 매물 소화. 미국 광통신주·중국 광모듈 강세와 연동."
+   },
+   {
+    "name": "비츠로테크",
+    "ticker": "042370.KQ",
+    "comment": "장중 +30.00% 상한가권, 거래대금 783억원. 자회사 비츠로셀의 미국 방산 시장 진출 기대(MK시그널) 동반 강세로 해석."
+   },
+   {
+    "name": "나라스페이스테크놀로지",
+    "ticker": "478340.KQ",
+    "comment": "장중 +29.92%, 거래대금 191억원. 스페이스X 궤도 시험비행 소식에 따른 우주 관련주 급등의 코스닥 대표 사례."
+   },
+   {
+    "name": "하나마이크론",
+    "ticker": "067310.KQ",
+    "comment": "장중 +7.44%, 거래대금 1044억원. 반도체 후공정으로 메모리 사이클 기대와 SOX 상승(+0.63%)에 동조."
+   },
+   {
+    "name": "현대모비스",
+    "ticker": null,
+    "comment": "삼성증권이 목표가를 80만→65만원(-18.8%)으로 하향(매수 유지). 현대차 판매 둔화와 원화 강세를 실적에 반영. 로봇 사업 육성은 긍정 요인이나 고객사 부진이 변수."
+   },
+   {
+    "name": "LS에코에너지",
+    "ticker": "229640.KS",
+    "comment": "장중 -6.00%, 거래대금 97억원으로 코스피 하락 상위. 사유는 입력 기사에 없음."
+   },
+   {
+    "name": "퓨쳐켐",
+    "ticker": "220100.KQ",
+    "comment": "장중 -21.73%, 거래대금 48억원. 코스닥 바이오 부진(톱10에 알테오젠만 잔류, 고금리 충격) 흐름 속 급락. 개별 사유는 기사에 없음."
+   }
+  ],
+  "events_today": [
+   "FOMC 결과 소화 첫 세션 — Fed 25bp 인상, 연내 추가 인상 시사, 워시 의장 매파 기자회견, 미 10년물 5% 재돌파",
+   "원/달러 1363.57원(+1.33%) 급등 이후 외환시장·외국인 수급 반응",
+   "3분기 프리뷰 리포트 본격화 — KT(AI인프라·주주환원), 현대모비스·LG디스플레이·제일기획 목표가 하향, 롯데에너지머티리얼즈 상향",
+   "중국 증시 17일 — 전일 커촹50 +4.14%·광모듈 초강세 후 미 금리 인상 반응(국내 AI·광통신주 연동)",
+   "해태제과식품 과징금 규모 금융위 추후 확정 / 인텔-SK하이닉스 협력 협의 후속 보도 주시"
+  ],
+  "headlines": [
+   {
+    "text": "Fed 3년 만의 25bp 인상·연내 추가 인상 시사에 다우 -1.21%, 미 10년물 5% 재돌파·원/달러 1363원(+1.33%) 급등 — 그럼에도 코스피 6,780대 상승 출발",
+    "importance": 5
+   },
+   {
+    "text": "코스피 9/16 기관 매수로 반전 6717.97(+1.37%) 마감, 코스닥 815.98(+0.44%) — 삼전·하이닉스 2~4%대 상승 견인",
+    "importance": 4
+   },
+   {
+    "text": "스페이스X 궤도 시험비행·방산 기대에 한화엔진 +12.6%·한화시스템 +12.1%·HD현대중공업 +7.4%, 코스닥 나라스페이스·비츠로테크 상한가권 — 통신장비·광통신도 강세",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "무료 소스에 KRX 투자자별(외국인·기관·개인) 순매수 데이터가 없어 수급은 기사 언급(16일 기관 매수, 17일 초고수 매매)만 근거로 서술",
+   "코스피·코스닥 지수는 9/16 종가, 구성종목 표(등락률·거래대금·시장 폭)는 9/17 장중 값(업데이트 시각 기준)으로 마감 후 달라질 수 있음",
+   "진원생명과학 -80.00%, 유비온 +400.00%, 케이이엠텍 -80.00%는 거래대금 0으로 표시돼 기준가 조정(감자·권리락 등) 또는 데이터 오류 가능성 — 실제 등락으로 해석하지 않음",
+   "코스닥 하락 상위 표에 한국첨단소재가 중복 표기됨",
+   "더벨 헤드라인은 이번 입력에 포함되지 않음",
+   "비트코인 시세는 9/15 기준, 원/달러(KRW=X)는 야후 파이낸스 기준으로 서울외환시장 종가와 차이 가능",
+   "반도체 ETF 급락(Direxion) 구글뉴스 기사는 시점·맥락이 불분명해 참고 수준",
+   "기사 제목만 있는 항목(철강 바닥론, 전력기기 3사, 삼성전자 협력사 분석, 급락 종목 개미 손실 등)은 본문 미확인으로 세부 해석 생략"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "미국 금리 인상·뉴욕증시 하락에도…코스피, 6700선 상승 출발",
+   "url": "https://www.mk.co.kr/news/stock/12155032",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:20"
+  },
+  {
+   "title": "코스피, 상승 출발 6780대…코스닥도 올라",
+   "url": "https://www.hankyung.com/article/2026091702366",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:06"
+  },
+  {
+   "title": "30%→55% '역사적 추월'…삼전닉스 '최대 수혜' 전망 나왔다 [분석+]",
+   "url": "https://www.hankyung.com/article/2026091700256",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:30"
+  },
+  {
+   "title": "Fed '매파적 금리 인상'에 코스피도 긴장…\"믿을 건 반도체\"",
+   "url": "https://www.hankyung.com/article/202609179965i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:24"
+  },
+  {
+   "title": "장 초반부터 하락세였는데…반전 상승 코스피, 기관 매수에 6700선 회복",
+   "url": "https://www.mk.co.kr/news/stock/12154354",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 16:05"
+  },
+  {
+   "title": "스페이스X, 우주선 시험 비행 소식에 관련주 급등…센서뷰 26%대↑",
+   "url": "https://www.mk.co.kr/news/stock/12155093",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:43"
+  },
+  {
+   "title": "6만9500원→3만원 '털썩'…\"1000억씩 날아간다\" 개미들 곡소리 [종목+]",
+   "url": "https://www.hankyung.com/article/2026091702956",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:36"
+  },
+  {
+   "title": "\"떨어질 때 사자\"…원전·로봇 담고 삼전·하닉 판 초고수",
+   "url": "https://www.hankyung.com/article/202609170162i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:21"
+  },
+  {
+   "title": "로봇 키우는 현대모비스, 고객사 부진이 변수…목표가 65만원",
+   "url": "https://www.mk.co.kr/news/stock/12155023",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:13"
+  },
+  {
+   "title": "KT 3분기에 ‘좋을 일’만 있다는데…AI인프라 수혜·주주환원 기대감 [오늘 나온 보고서]",
+   "url": "https://www.mk.co.kr/news/stock/12154995",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:39"
+  },
+  {
+   "title": "“NAVER, 디지털자산 규제화 지연에 주가 휘청…지금이 매수 기회”",
+   "url": "https://www.mk.co.kr/news/stock/12154985",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:11"
+  },
+  {
+   "title": "바닥론 솔솔 나오는 철강주…향후 이벤트 및 추천종목은?",
+   "url": "https://www.hankyung.com/article/202609168910i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:00"
+  },
+  {
+   "title": "'피크아웃' 우려 덜어낸 초고압 변압기…전력기기 3사 중 뭘 사야할까",
+   "url": "https://www.hankyung.com/article/202609168828i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 07:22"
+  },
+  {
+   "title": "코스닥 시총 상위 10곳 중 7곳이었는데…바이오 기업, 이제 한 곳만 남았다",
+   "url": "https://www.mk.co.kr/news/stock/12154897",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 04:51"
+  },
+  {
+   "title": "금리·AI 쌍악재, 주식 정리할까…“쫄지마” 외친 전문가들[머니닥터 시장진단]",
+   "url": "https://www.mk.co.kr/news/stock/12154634",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 18:45"
+  },
+  {
+   "title": "\"딥엑스 모셔라\"… 글로벌 거래소 5곳 유치전",
+   "url": "https://www.mk.co.kr/news/stock/12154547",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:47"
+  },
+  {
+   "title": "\"통신장비 부족해\"…대한광통신 14% 쑥",
+   "url": "https://www.mk.co.kr/news/stock/12154545",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:47"
+  },
+  {
+   "title": "7.6조 캐피털 PF대출, 금리상승에 발동동",
+   "url": "https://www.mk.co.kr/news/stock/12154537",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:44"
+  },
+  {
+   "title": "[MK 골든크로스 돌파종목 : 쎄트렉아이(099320) & 유니드비티플러스(446070)]",
+   "url": "https://www.mk.co.kr/news/stock/12155109",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:49"
+  },
+  {
+   "title": "[MK시그널] 비츠로셀, 미국 방산 시장 진출 기대감 등에 주가 상승세... MK시그널 추천 후 상승률 16.54% 기록",
+   "url": "https://www.mk.co.kr/news/stock/12155105",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:46"
+  },
+  {
+   "title": "방산 성장에 통신 회복 기대까지…RFHIC 7% 상승",
+   "url": "https://www.hankyung.com/article/202609169062i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:32"
+  },
+  {
+   "title": "“제일기획, 마케팅 효율화로 실적 눈높이 낮아”…목표가↓",
+   "url": "https://www.mk.co.kr/news/stock/12155022",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 09:13"
+  },
+  {
+   "title": "아이컴포넌트, 글로벌 우주기업에 ‘우주 태양전지용 배리어필름’ 샘플 공급",
+   "url": "https://www.mk.co.kr/news/stock/12155003",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:51"
+  },
+  {
+   "title": "\"롯데에너지머티리얼즈, 모든 전방산업 수요 증가 중…목표가↑\"-NH",
+   "url": "https://www.hankyung.com/article/2026091799906",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:16"
+  },
+  {
+   "title": "\"제일기획, 올해 실적 추정치 하향…목표가↓\"-신한",
+   "url": "https://www.hankyung.com/article/2026091799846",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:10"
+  },
+  {
+   "title": "“LG디스플레이, 환율·수요 부담…3분기 수익성 체질은 개선” 목표가↓",
+   "url": "https://www.mk.co.kr/news/stock/12154979",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 08:02"
+  },
+  {
+   "title": "같은 삼성전자 협력사인데…'47% vs -19%' 수익률 갈린 이유는 [대기업 협력사 전수분석]",
+   "url": "https://www.hankyung.com/article/202609179699i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 07:22"
+  },
+  {
+   "title": "\"강남 아파트 못지않다\"…전문가가 찍은 '뜻밖의 투자처' [인터뷰+]",
+   "url": "https://www.hankyung.com/article/2026091681336",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 06:30"
+  },
+  {
+   "title": "피터 린치도 빌었다 … 87년 폭락 장에 찾았던 아일랜드 ‘소원 명당’ 정체?",
+   "url": "https://www.mk.co.kr/news/stock/12153521",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 05:30"
+  },
+  {
+   "title": "“순자산 4.1억 있나요? ‘찐 중산층’ 입니다”…10명 중 7명은 내 집 산다",
+   "url": "https://www.mk.co.kr/news/economy/12154696",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 20:00"
+  },
+  {
+   "title": "일본시장 눈독 들이는 한국 톱 증권사…‘3000만 절세계좌’에 담긴 기회[한중일 톺아보기]",
+   "url": "https://www.mk.co.kr/news/stock/12154631",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 18:44"
+  },
+  {
+   "title": "해태제과, 4년간 매출·원가 530억원 과대계상…재무책임자 등 검찰통보",
+   "url": "https://www.mk.co.kr/news/stock/12154611",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 18:13"
+  },
+  {
+   "title": "미래에셋증권, MTS 명칭 내달부터 'MAPS'로 변경",
+   "url": "https://www.mk.co.kr/news/stock/12154546",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:47"
+  },
+  {
+   "title": "[WM명가를 찾아서] \"은퇴자산 관리부터 상속까지 시니어 맞춤형 로드맵 설계\"",
+   "url": "https://www.mk.co.kr/news/stock/12154524",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:42"
+  },
+  {
+   "title": "인천공항고속道 통행료 급감에 소송전 격화",
+   "url": "https://www.mk.co.kr/news/stock/12154521",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:42"
+  },
+  {
+   "title": "홈플러스 재매각 시동 … 폐점점포 개별매각",
+   "url": "https://www.mk.co.kr/news/stock/12154522",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:42"
+  },
+  {
+   "title": "두나무, 카자흐스탄 디지털 금융 허브 구축 참여",
+   "url": "https://www.mk.co.kr/news/stock/12154457",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-16 17:11"
+  },
+  {
+   "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+   "url": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:40"
+  },
+  {
+   "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+   "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 08:51"
+  },
+  {
+   "title": "3년 만에 금리인상·워시 매파 발언에 하락 마감…다우 1.2%↓[뉴욕증시 브리핑]",
+   "url": "https://www.hankyung.com/article/2026091798786",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 07:33"
+  },
+  {
+   "title": "워시 매파 발언에 놀란 뉴욕증시…S&P·다우 동반 하락",
+   "url": "https://www.hankyung.com/article/202609179763i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 05:37"
+  },
+  {
+   "title": "House advances bill to rein in AI data center utility costs",
+   "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 09:08"
+  },
+  {
+   "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+   "url": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:56"
+  },
+  {
+   "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+   "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:40"
+  },
+  {
+   "title": "금리인상에 평온했던 증시, 왜 워시 기자회견에 하락했나",
+   "url": "https://www.mk.co.kr/news/stock/12154963",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 06:35"
+  },
+  {
+   "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+   "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 07:25"
+  },
+  {
+   "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+   "url": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:23"
+  },
+  {
+   "title": "Fed approves interest rate hike, signals one more to come this year",
+   "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 06:07"
+  },
+  {
+   "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+   "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 05:10"
+  },
+  {
+   "title": "美, 기준금리 0.25%p 인상…\"연내 한 번 더 올린다\" [Fed 워치]",
+   "url": "https://www.hankyung.com/article/202609179760i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 05:08"
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Fed 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 03:00"
+  },
+  {
+   "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
+   "url": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 05:52"
+  },
+  {
+   "title": "Hyperscaler debt signals warning sign, Apollo cautions",
+   "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 04:29"
+  },
+  {
+   "title": "Direxion Semiconductor Bull ETF Drops 14% as Chip Sector Faces Sharp Selloff",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTZ3Q0VEdDR5U3N6NlNhc2N6OWtfbTQ3UHh6UU1Ra2YxY0F6c1RtX1lRRmk2c3JHMmxKSTBEdE81NUhXVXZTaUVhZExMc2w0bU9qVlkxXy1IaVJreC1oclhWMHQtR0wyN1dEZENuSjdQX2MzSjhEN0dmU1NuOTdtN1VjZ2pocGpGekxqcG5HaVdWeGhRemp2dw?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "The Motley Fool",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 00:45"
+  },
+  {
+   "title": "[중국증시 마감] 美 금리 인상 전망에도 기술주 질주…'커촹50' 4.14% 급등",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hMGRWTF94bHF5ZUQ1aTVKUFVIT1p6SHBCekVOUnVtSHN6NWlXakFWNDQ2TDVWUlc2RnRxZzZWY2IzUmsyckxEWHBvMDNENUdRT0Noc3huaGFLNXpE?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "newspim.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 16:15"
+  },
+  {
+   "title": "[中 증시 마감] 5일만에 반등...광모듈 섹터 초강세",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ldmdLNWZMWjJYV3V6TnFERXY0eDJpVkVnTl91ZnBOcF9ndzl3SWZ4RUROYlR4Q3p6MndPRlM3U0FjV3FtTVE?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 16:13"
+  },
+  {
+   "title": "[AI MY 뉴스] 17일 중국증시 '美 금리인상 현실화...中 AI주, 긴축 파고 넘을까'",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5RUwtM1hPSXpGQk9JeWZPYlRseV8xSUpPN1lDUEtKdUswLWh5cHNOUjJlVWNxcXFJMFFhRjNJQ3dQZlFHaGU4N3FpellPNjRpZjl3ak9ScHhBT0Vn?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "newspim.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-17 08:52"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

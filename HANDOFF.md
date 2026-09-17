@@ -26,7 +26,9 @@
 
 **지금 쓰는 방법(v4)**: 폴더의 `시장브리핑 대시보드.lnk` 더블클릭 → `http://127.0.0.1:8765/` → 기준일=오늘 → [업데이트](하루 1회, 12~20분) → 좌측 탭(홈/거시경제/섹터별 주요뉴스/미국/유럽/한국/중국). 홈의 미국·한국 지수 카드 클릭 → 구성종목 등락폭/거래대금/시가총액 정렬. 실패·불만 탭은 [이 탭 재생성]. 결과는 `docs/data/<날짜>/{home,status,inputs}.json + indices/*.json + reports/*.json`, 목록 `docs/data/index.json`, 페이지 `docs/index.html`(정적 SPA).
 
-**코드 상태 (2026-09-17)**: v4.0 구현 완료(Step A~F). 테스트 84개 통과(`.venv/Scripts/python -m pytest -q`). 실제 업데이트 1회 관측은 1절 13번 참조.
+**코드 상태 (2026-09-17)**: v4.0 구현 완료(Step A~F). 테스트 84개 통과(`.venv/Scripts/python -m pytest -q`).
+
+**첫 v4 실행 관측 (2026-09-17 14:00~14:16 KST, CLI `python -m brief.pipeline`)**: 총 **16분**(market 26초 → collect 1분16초 → stage1 opus 3분 1회 → stage2 6토픽/3병렬 11분 → render). **6/6 보고서 성공**(섹터만 2회 시도), LLM 호출 8회, 출력 116.6k 토큰(추정 비용 표시 무의미). 시장 데이터: 지수 45/45, 구성종목 S&P500 503·NDX 102·다우 30·코스피 842·코스닥 1,784(한국은 장중 값 노트). 뉴스 29소스 중 **Google News 11개 전부 타임아웃(더벨 포함, 이 PC 네트워크 문제 — 09-15에도 동일 후 회복)** → 153건, result=degraded. 유럽 보고서는 기사 17건으로 얇음(Google News 의존). 보고서 분량: 미국 7.5k자·한국 8.3k자·섹터 6.0k자·유럽 3.8k자. 발견·수정: 홈 "핵심 5"가 전부 연준 기사 → 토픽당 1개 우선 + bigram 유사도 dedupe로 변경(커밋됨). 스냅샷 용량 1.3MB/일.
 
 **주요 구현 사실 (코드 안 읽어도 되게)**:
 - 파이프라인 `brief/pipeline.py`: `update(date)` = market(Yahoo 45심볼 + 구성종목 5표, ≤5분) ∥ collect(뉴스 30소스, 3분) → window/dedupe(소스당 40, 총 400) → stage1 태깅(opus, 200건 배치 ×2 병렬, 배치당 캡 2, 480s) → `select_for_topics`(토픽별 지역 쿼터 + AI 보강 + 더벨은 kr·sectors) → `run_topics`(6토픽, 동시 3, 토픽당 캡 2, 480s, 분량 규칙만 미달 시 완화 게시) → JSON 스냅샷. 내부 데드라인 45분. 어떤 예외든 status `failed` 기록 후 정상 반환. `regenerate(date, topics)` = 저장된 `inputs.json`+시장 데이터로 해당 토픽 stage2만.

@@ -1,0 +1,360 @@
+{
+ "topic": "cn",
+ "name": "중국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-17T14:16:08.596173+09:00",
+ "report": {
+  "title": "중국·홍콩 증시 데일리 (2026-09-17) — FOMC 결정 전야, 기술주 주도로 A주 5일 만에 반등",
+  "overview": "9월 16일 중국 본토 증시는 미국 금리 인상 전망에도 불구하고 기술·테마주가 주도하며 5거래일 만에 반등해 상해종합 +0.71%(3,891.60), 심천성분 +1.26%(13,455)로 마감했고, 기사에 따르면 커촹50(科創50)은 4.14% 급등하며 광모듈 섹터가 초강세를 보였습니다. 홍콩 항셍지수는 +0.19%(24,714)로 소폭 상승했고 항셍테크지수는 0.79% 오르는 가운데 석유주가 상승을 주도했습니다. 중동(이란 전쟁·사우디 송유관 피격) 발 유가 급등은 미국 측의 송유관 조기 재가동 발표로 되돌림이 나타나 WTI -3.21%, 브렌트 -2.69%로 마감했지만 여전히 배럴당 100달러 위에 머물러 있습니다. 17일 기사 제목은 '美 금리인상 현실화'를 언급하고 있어 중국 AI·기술주가 긴축 파고를 넘을 수 있을지, 그리고 같은 날 일본은행(BOJ) 금리 결정이 아시아 위험자산 심리에 어떤 영향을 줄지가 오늘의 핵심 관전 포인트입니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "9월 16일 상해종합지수는 전일 대비 27.32포인트(+0.71%) 오른 3,891.60, 심천성분지수는 166.77포인트(+1.26%) 오른 13,455로 마감했습니다. 뉴시스 보도에 따르면 장 초반 상하이지수는 0.07% 하락 출발했으나, 이후 저가 매수세와 기술주 강세가 유입되면서 상승 전환했고 연합인포맥스는 '연준 금리결정 앞두고 테마주 강세에 상승'으로 마감 배경을 정리했습니다. 뉴스핌은 미국 금리 인상 전망에도 기술주가 질주하며 커촹50지수가 4.14% 급등했다고 전했고, 다른 마감 기사는 A주가 5일 만에 반등하며 광모듈 섹터가 초강세를 보였다고 보도했습니다. 중국 현지 매체(四川新闻)는 이번 반등이 '방량반공(放量反攻)', 즉 거래량을 동반한 반격이었다는 점을 강조하며 미 연준 결정 전야에 시장이 무엇에 베팅하고 있는지를 다뤘습니다. 홍콩 항셍지수는 46.54포인트(+0.19%) 오른 24,714로 마감했습니다. 동방재부(东方财富) 오전 마감 기준 항셍지수 +0.12%, 항셍테크지수 +0.87%였고, 종가 기준으로는 항셍테크지수가 0.79% 상승했으며 석유주 업종이 상승 폭 상위에 자리했습니다. 닛케이225는 438.90포인트(+0.69%) 오른 63,923로 마감했는데, 이코노믹타임스는 장중 연준·BOJ 결정 대기 속에 보합권 흐름이었다고 전했고 인베스팅닷컴은 종가 기준 0.78% 상승으로 보도해 표의 수치(+0.69%)와는 소폭 차이가 있습니다. 연합인포맥스는 아시아 증시 전반을 'FOMC 대기 속 저가 매수세에 상승'으로 요약했습니다.",
+    "bullets": [
+     "상해종합 3,891.60 (+27.32p, +0.71%) — 하락 출발 후 상승 전환, 5일 만에 반등",
+     "심천성분 13,455 (+166.77p, +1.26%) — 기술·테마주 중심으로 본토 지수 중 가장 강한 흐름",
+     "커촹50 +4.14% 급등(뉴스핌), 광모듈 섹터 초강세 — 거래량 동반 반등",
+     "항셍 24,714 (+46.54p, +0.19%), 항셍테크 +0.79%, 석유주 상승 주도",
+     "닛케이225 63,923 (+438.90p, +0.69%) — FOMC·BOJ 대기 속 상승 마감"
+    ]
+   },
+   {
+    "heading": "정책·유동성",
+    "body": "이번 세션 입력 기사 범위에서는 인민은행(PBOC)이나 국무원의 신규 부양책·유동성 조치 발표는 확인되지 않았고, 북향자금(후강퉁·선강퉁 순매수) 수치도 기사에 언급되지 않았습니다. 대신 시장의 유동성 변수는 거의 전적으로 외부, 즉 미국 연준의 금리 결정에 집중됐습니다. 16일 장전 뉴스핌은 '美 금리 조정, 국채·유가 급등 속 변동성 경계'를 관전 포인트로 제시했고, 동방재부는 '오늘 밤 공개! 미국 금리 인상 이후 A주는 어떻게 움직였나'라는 기사로 과거 연준 인상 국면의 A주 패턴을 정리했습니다. 17일 장전 뉴스핌 기사 제목은 '美 금리인상 현실화…中 AI주, 긴축 파고 넘을까'로, 연준이 금리 인상을 단행한 것으로 읽히지만 인상 폭과 성명 내용은 입력 기사에 담겨 있지 않아 이 보고서에서는 수치를 특정하지 않습니다. 달러인덱스는 100.31(+0.66%)로 상승했고 위안/달러는 6.71(+0.04%)로 사실상 보합을 유지해 위안화는 연준 이벤트를 앞두고 안정적으로 관리되는 모습이었습니다. 규제 측면에서는 동방재부가 '20개 A주 상장사가 긴급 리스크 공시'를 냈다고 보도했는데, 이는 최근 테마주 급등 국면에서 거래소·상장사 차원의 과열 경고가 잇따르고 있음을 시사하며, 커촹50 급등과 맞물려 단기 변동성 확대 요인으로 볼 수 있습니다. 일본에서는 소프트뱅크그룹이 연 4.75% 금리로 1조엔 규모 회사채를 발행해 10시간 만에 완판(한국경제)했다는 점이 눈에 띄는데, 금리 상승 환경에서도 개인 대상 크레딧 수요가 견조함을 보여줍니다. 오늘은 일본은행(BOJ) 금리 결정이 예정돼 있어(24/7 Wall St.), 엔/달러 155.27(+0.57%) 수준에서 BOJ의 결정이 아시아 전반의 자금 흐름에 미칠 영향도 주시해야 합니다.",
+    "bullets": [
+     "인민은행·국무원 신규 부양책 발표: 입력 기사 범위 내 확인 없음",
+     "북향자금 수치: 기사에 언급 없음",
+     "연준 금리 결정이 최대 유동성 변수 — 17일 장전 기사 제목상 '금리인상 현실화'(폭·성명은 미확인)",
+     "위안/달러 6.71 (+0.04%) 보합, 달러인덱스 100.31 (+0.66%) 상승",
+     "20개 A주 상장사 긴급 리스크 공시(동방재부) — 테마주 과열 경고",
+     "소프트뱅크G 1조엔 회사채(연 4.75%) 10시간 완판 — 일본 크레딧 수요 견조",
+     "BOJ 금리 결정 당일 — 엔/달러 155.27 (+0.57%)"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "본토에서는 기술주, 특히 커촹판(科創板) 중심의 반도체·AI 관련주와 광모듈(광통신 모듈) 섹터가 시장을 이끌었습니다. 뉴스핌은 미국 금리 인상 전망에도 기술주가 질주하며 커촹50이 4.14% 급등했다고 전했고, 다른 마감 보도는 광모듈 섹터를 '초강세'로 표현했습니다. 연합인포맥스는 테마주 강세를 상승 배경으로 지목해, 이번 반등이 실적보다는 AI 인프라 투자 기대와 수급이 결합한 테마 장세 성격임을 시사합니다. 증권시보(证券时报)는 A주 상장사 두 곳이 잇따라 에너지저장(ESS·储能) 프로젝트 투자·건설을 발표했다고 보도해 신에너지·ESS 밸류체인에도 개별 재료가 이어지고 있으나, 기사 요약에 회사명이 명시되지 않아 종목은 특정하지 않습니다. 반면 동방재부가 전한 '20개 상장사 긴급 리스크 공시'는 급등 테마주에 대한 경고 신호로, 강세 섹터 내부에서도 옥석 가리기가 진행될 가능성을 보여줍니다. 홍콩에서는 유가가 100달러를 상회하는 환경에서 석유주가 업종 상승률 상위에 올랐고(동방재부 항구수평), 항셍테크지수도 0.79% 상승하며 기술주 강세가 본토와 동조했습니다. CNBC는 실리콘밸리에서 제기된 AI 리스크 경고에 대해 알리바바, 텐센트, Z.ai, 문샷(Moonshot), 미니맥스(MiniMax) 등 중국 AI 선도 기업들이 논평을 내지 않았다고 보도했는데, 미·중 AI 경쟁 구도에서 중국 빅테크의 '침묵'은 규제·지정학 리스크가 여전히 잠복해 있음을 상기시킵니다. 일본에서는 소프트뱅크그룹이 1조엔 회사채를 완판하며 AI 투자 재원을 확보한 점이 AI 테마의 자금 조달 환경을 보여주는 사례로 주목됩니다.",
+    "bullets": [
+     "강세: 커촹50(+4.14%) 중심 반도체·AI 기술주, 광모듈(광통신) 섹터 초강세, 테마주",
+     "강세(홍콩): 석유주 — 유가 100달러 상회 환경 반영, 항셍테크 +0.79%",
+     "개별 재료: A주 2개사 ESS(储能) 프로젝트 투자 발표(증권시보) — 회사명 미확인",
+     "경계: 20개 A주 상장사 긴급 리스크 공시 — 급등 테마주 과열 경고",
+     "알리바바·텐센트 등 中 AI 빅테크, 美 AI 리스크 경고에 무응답(CNBC)"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "지정학·에너지가 이번 세션의 가장 큰 외부 변수였습니다. 파이낸셜타임스는 사우디 송유관 피격 이후 중국 내 원유 가격이 사상 최고치를 기록했다고 보도했고, 마켓워치와 engine.online은 이란 전쟁이 주식·채권·원유 간 상관관계를 바꾸고 있으며 중동 공급 우려가 시장을 지배하고 있다고 전했습니다. 다만 CNBC에 따르면 미국 측이 손상된 사우디 송유관이 수일 내 재가동될 것이라고 밝히면서 유가는 4개월 고점에서 되돌림(WSJ)이 나타났고, 표 기준 WTI는 102.43달러(-3.21%), 브렌트는 105.83달러(-2.69%)로 마감했습니다. 그럼에도 유가는 100달러 위에 머물러 미국 연료 가격이 사상 최고치(OilPrice.com)를 기록하는 등 인플레이션 압력이 지속되고 있으며, 이는 연준의 금리 인상 판단과 직결됩니다. 미국 하원은 린지 그레이엄 상원의원의 이름을 딴 포괄적 러시아 제재 법안을 통과시켜 트럼프 대통령 서명 절차로 넘겼는데(CNBC), 러시아산 원유·에너지 거래에 대한 2차 제재 성격이 강할 경우 러시아 에너지 최대 수입국인 중국에 간접 영향이 미칠 수 있어 세부 내용을 확인할 필요가 있습니다. 기업 뉴스로는 CNBC가 미국 측의 AI 위험 '공론화'에도 중국 AI 리더들(Z.ai, 문샷, 미니맥스, 알리바바, 텐센트)이 침묵하고 있다고 보도했고, 증권시보는 A주 2개사의 ESS 프로젝트 투자 발표를, 동방재부는 20개 상장사의 긴급 리스크 공시를 전했습니다. 일본에서는 소프트뱅크그룹의 1조엔 회사채가 연 4.75% 금리로 10시간 만에 완판됐고, 닛케이는 BOJ 금리 결정을 앞두고 17일 상승 출발했습니다. 안전자산인 금은 4,387.50달러(+1.26%)로 상승했고 구리는 6.43달러(+0.99%) 올랐으며 비트코인은 75,613달러(-3.26%, 09-15 기준)로 하락했습니다.",
+    "bullets": [
+     "사우디 송유관 피격 → 중국 내 원유가 사상 최고(FT); 美 '수일 내 재가동' 발표로 유가 되돌림(WTI 102.43, -3.21%)",
+     "이란 전쟁이 주식·채권·원유 상관관계를 재편(마켓워치); 유가 100달러 상회로 美 연료가 사상 최고",
+     "美 하원, 포괄적 러시아 제재 법안 가결 → 트럼프 서명 대기(CNBC) — 中 에너지 수입 간접 영향 점검 필요",
+     "中 AI 리더(알리바바·텐센트·Z.ai·문샷·미니맥스), 美 AI 리스크 경고에 무응답(CNBC)",
+     "소프트뱅크G 1조엔 회사채 연 4.75%로 10시간 완판(한국경제)",
+     "금 4,387.50 (+1.26%), 구리 6.43 (+0.99%), 비트코인 75,613 (-3.26%)"
+    ]
+   },
+   {
+    "heading": "한국 영향",
+    "body": "중국 본토의 반등이 커촹50·광모듈 등 AI 인프라 테마에 집중됐다는 점은 한국의 반도체 장비·광통신 부품·AI 서버 밸류체인에 우호적인 심리 신호입니다. 중국이 AI 인프라 투자를 지속하고 있음을 시사하는 광모듈 초강세와 A주 기업들의 ESS 프로젝트 투자 발표는 한국 2차전지 소재·ESS 업체에게 중국 경쟁 심화라는 양면성을 갖지만, 관련 수요 자체가 살아있다는 점은 긍정적입니다. 다만 CNBC가 전한 중국 AI 빅테크의 침묵과 미국 측의 AI 리스크 공론화, 그리고 러시아 제재 법안 통과는 미·중 기술·지정학 갈등이 재점화될 수 있음을 보여주며, 이는 중국 노출도가 높은 화장품·면세·소비재 업종보다는 반도체 장비 등 수출 통제에 민감한 업종에 더 직접적인 리스크 요인입니다. 환율 측면에서는 원/달러가 1,363.57원으로 17.96원(+1.33%) 급등한 반면 위안/달러는 6.71(+0.04%)로 거의 움직이지 않아, 원화가 위안화 대비 뚜렷하게 약세를 보였습니다. 이는 연준 금리 인상 우려와 달러인덱스 상승(100.31, +0.66%)에 원화가 더 민감하게 반응한 결과로, 원화 약세는 수출주에는 가격 경쟁력 측면에서 우호적이지만 외국인 수급에는 부담이며, 위안화 대비 원화 약세는 중국향 수출 기업의 원화 환산 이익에 긍정적입니다. 유가가 되돌림에도 100달러를 상회하고 있어 중국 내 원유가가 사상 최고치를 기록한 상황은 한국 정유·화학 업종에 원가 부담과 정제마진 변동성을 동시에 안기며, 중국 석유주 강세가 국내 정유주로 확산될지 관찰할 필요가 있습니다. 철강은 중국 부양책 부재 속에서 별도 모멘텀이 확인되지 않았고, 구리 가격 상승(+0.99%)은 비철·전선 업종에 소폭 우호적입니다. 오늘 BOJ 결정 결과에 따른 엔화 변동은 일본과 경합하는 한국 자동차·기계 수출주의 상대 경쟁력에도 영향을 줄 수 있습니다.",
+    "bullets": [
+     "반도체 장비·광통신 부품: 中 커촹50·광모듈 강세는 AI 인프라 투자 지속 신호 — 단, 미·중 기술 갈등 재점화 리스크 병존",
+     "2차전지 소재·ESS: A주 2개사 ESS 투자 발표 — 수요 확인 vs 중국 경쟁 심화 양면",
+     "원/달러 1,363.57 (+1.33%) vs 위안/달러 6.71 (+0.04%) — 원화의 위안 대비 상대 약세, 중국향 수출 기업 원화 환산 이익에 우호",
+     "정유·화학: 유가 100달러 상회·中 원유가 사상 최고 — 원가 부담과 정제마진 변동성 동시 확대",
+     "화장품·소비재: 中 부양책 신호 부재로 별도 모멘텀 미확인",
+     "BOJ 결정에 따른 엔화 변동 → 韓·日 경합 수출주(자동차·기계) 상대 경쟁력 점검"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "알리바바 (Alibaba)",
+    "ticker": "9988.HK",
+    "comment": "CNBC 보도에서 미국 측 AI 리스크 경고에 논평을 내지 않은 중국 AI 선도 기업으로 언급. 항셍테크지수 +0.79% 상승 국면에서 중국 AI 빅테크 대표주로 미·중 기술 갈등 리스크와 AI 투자 기대가 교차."
+   },
+   {
+    "name": "텐센트 (Tencent)",
+    "ticker": "0700.HK",
+    "comment": "알리바바와 함께 미국 AI 리스크 경고에 무응답한 기업으로 CNBC가 지목. 홍콩 기술주 흐름의 핵심 종목으로, 중국 AI 모델·플랫폼 경쟁의 지정학적 노출을 상징."
+   },
+   {
+    "name": "소프트뱅크그룹 (SoftBank Group)",
+    "ticker": "9984.T",
+    "comment": "연 4.75% 금리로 1조엔 규모 회사채를 발행해 10시간 만에 완판(한국경제). 금리 상승 환경에서도 AI 투자 재원 조달이 원활함을 보여준 사례로, BOJ 결정 당일 일본 AI 테마의 자금 조달 여건을 가늠하는 지표."
+   }
+  ],
+  "events_today": [
+   "미국 FOMC 금리 결정 결과 및 성명·기자회견 소화 — 17일 장전 기사 제목상 '금리인상 현실화', 중국 AI·기술주의 긴축 내성 시험",
+   "일본은행(BOJ) 금리 결정 (17일) — 엔/달러 155.27 수준에서 아시아 자금 흐름 영향",
+   "사우디 송유관 재가동 진행 상황 및 이란 전쟁 관련 중동 공급 뉴스 — 유가 100달러 상회 지속 여부",
+   "미국 러시아 제재 법안 트럼프 대통령 서명 여부 — 중국 에너지 수입 간접 영향 점검",
+   "A주 상장사 리스크 공시 후속 흐름 — 급등 테마주(커촹판·광모듈) 변동성"
+  ],
+  "headlines": [
+   {
+    "text": "A주 5일 만에 반등: 커촹50 4.14% 급등·광모듈 초강세, 상해 +0.71%·심천 +1.26% — 연준 금리 인상 우려에도 기술주 주도",
+    "importance": 4
+   },
+   {
+    "text": "사우디 송유관 피격 여파로 中 원유가 사상 최고 후 美 '수일 내 재가동'에 유가 되돌림(WTI 102.43, -3.21%) — 100달러 위 고유가는 지속",
+    "importance": 4
+   },
+   {
+    "text": "원/달러 1,363.57(+1.33%) 급등 vs 위안 6.71 보합 — FOMC·BOJ 결정 앞두고 원화가 위안 대비 뚜렷한 상대 약세",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "지수·환율·원자재 표는 2026-09-16 세션 기준이며 비트코인은 09-15 기준.",
+   "닛케이225 등락률은 표 기준 +0.69%이나 인베스팅닷컴 마감 기사는 +0.78%로 보도해 소폭 불일치.",
+   "커촹50(+4.14%), 항셍테크(+0.79%) 등락률은 시세 표가 아닌 기사 요약 인용값.",
+   "북향자금·거래대금 등 수급 데이터는 입력 소스에 없음.",
+   "인민은행·국무원 정책 발표는 입력 기사 범위에서 확인되지 않음.",
+   "연준 금리 인상 여부·폭은 17일 장전 기사 제목으로만 유추되며 공식 성명 내용은 입력에 없음.",
+   "중국어 기사는 제목·요약만 제공되어 세부 내용(ESS 투자 발표 기업명, 리스크 공시 기업명 등)은 확인 불가."
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "[중국증시 마감] 美 금리 인상 전망에도 기술주 질주…'커촹50' 4.14% 급등",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hMGRWTF94bHF5ZUQ1aTVKUFVIT1p6SHBCekVOUnVtSHN6NWlXakFWNDQ2TDVWUlc2RnRxZzZWY2IzUmsyckxEWHBvMDNENUdRT0Noc3huaGFLNXpE?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "newspim.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 16:15"
+  },
+  {
+   "title": "[中 증시 마감] 5일만에 반등...광모듈 섹터 초강세",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ldmdLNWZMWjJYV3V6TnFERXY0eDJpVkVnTl91ZnBOcF9ndzl3SWZ4RUROYlR4Q3p6MndPRlM3U0FjV3FtTVE?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 16:13"
+  },
+  {
+   "title": "[AI MY 뉴스] 17일 중국증시 '美 금리인상 현실화...中 AI주, 긴축 파고 넘을까'",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5RUwtM1hPSXpGQk9JeWZPYlRseV8xSUpPN1lDUEtKdUswLWh5cHNOUjJlVWNxcXFJMFFhRjNJQ3dQZlFHaGU4N3FpellPNjRpZjl3ak9ScHhBT0Vn?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "newspim.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-17 08:52"
+  },
+  {
+   "title": "两家A股公司接连宣布投建储能项目",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JakNKRndfbDZjSzh2SVRIRzhDdGRtWnFNd2gzNnVvU3IwLUM2R25jaEx3YW4zUzM5N1dDOUZTOGlJemxDTkpSU0tNTEtXbndmR2NvSHJEdnFDcXpB?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "证券时报",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-17 07:56"
+  },
+  {
+   "title": "美联储决议前夜，A股放量反攻在“赌”什么？丨川观解盘",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KdjdsUnpVR1lGOUdRNHIyb2Q5d2tiaFV1R2hhdktnM2toQmphWlVtRWY5SVNORWtMQkc4Wjlsb3pjbWlOVHBSSDNyeWRKTEpjaEtQZkhGeHplQkJRdDhUTmxISQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "四川新闻",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 20:39"
+  },
+  {
+   "title": "恒生科技指数上涨0.79%，石油股板块涨幅居前｜港股收评",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tWDhlN3FzY01SWFpWWVFleG1yNWNkaTJWOWxzXzFnZnNNMnM1Q296Z3ZsUmEzVVNIMkVBd1FuNFNXblBQY2g3aGJQNTUtWTRremREQ1JQU0xLbGJvMlB6a05R?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 20:20"
+  },
+  {
+   "title": "今夜揭晓！一图看懂美国加息后 A股怎么走",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55bFU3Sktjc2pVMjNRX2RTMHVsT3d6YkFiWXotMFhwUHhWcVdqcDBWUlo1SFIwaWxCNmRYczBmaVpCQnNROGRBdFBOcXVRWWF6alNhbElLTDlHOUFodEZJSGoyTERXUQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 19:25"
+  },
+  {
+   "title": "[亞증시-종합] FOMC 대기 속 저가 매수세에 상승",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16S2J0ci1PU3pUaWxGMHZ0OTN5cVFCdGpnS09Bc2xucUhhYTBNUExTcXJHMlhiYVlxUWdveENDc2R3aW1GQWtyLUJnR1NSX3R1OXEzOVl4VXN4SENYRWgwU2xSRG1ZWmY2eHdDZ1kzczY?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 19:16"
+  },
+  {
+   "title": "[중국증시-마감] 연준 금리결정 앞두고 테마주 강세에 상승",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjVG0yRDU0dnFiNUxZLTJvY1dydTM2VkpxYUhaR3VoVTNwT3RXOGdlV2ttQXNCM3pQUFdJRkRLUVpQdkVkenFMdzBfdURTWWdqMUFVMlpRUTkycDBrY3d1UHVhNlJxMVZuSGlNaDkzZjM?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 18:35"
+  },
+  {
+   "title": "港股午评：恒生指数涨0.12% 恒生科技指数涨0.87%",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4QUlnczlGWWR2dXBjS1RjbWZ2QnNsMFNEdkZqTFFhMi1MZ0VuaTRsN3dfWkRiRjNEX0Y3d0JLSW1PT2RhQXByN3VGTTg4ai1mTnphRV85UGVtUFNmVGg0OFRGNA?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 13:11"
+  },
+  {
+   "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+   "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-16 13:01"
+  },
+  {
+   "title": "[올댓차이나] 중국 증시 하락 출발…상하이지수 0.07%↓",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45UlhHUXkyblU0a185S0d2VGdqZ21JWnNmdV9OTDhmMXhISnRhZTFCZGhXZU0zUWNnY2F2RzVCWTlacHloY3RYbXVjQ3VDNGxFcXA2Q1JVd0Znd3dOdWNmcFF0blNubFBoSXpsUEtJbW1qclNUTTZJV9IBeEFVX3lxTE45UlhHUXkyblU0a185S0d2VGdqZ21JWnNmdV9OTDhmMXhISnRhZTFCZGhXZU0zUWNnY2F2RzVCWTlacHloY3RYbXVjQ3VDNGxFcXA2Q1JVd0Znd3dOdWNmcFF0blNubFBoSXpsUEtJbW1qclNUTTZJVw?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 11:08"
+  },
+  {
+   "title": "20家A股公司紧急提示风险",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Cc211dUJNRmtORFdNTzl2MEJ1STlRMjN6SEJVcndUV1hsbDA5QnBsdHcyQ0pabjMxdXZUaE9rWFU3MFk5ZlRiZEhadDNWNExSNlpqcjQ5TTZFU3M4YlRwUw?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "eastmoney.com",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 10:27"
+  },
+  {
+   "title": "[AI MY 뉴스] 16일 중국증시 '美 금리 조정, 국채·유가 급등 속 변동성 경계'",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9udHZVR1NFNHhIYkFfT1NvZlZ0N2p6WnhScXdxa3AtZ2ZydWFQa0xxN0lPZjVBaUQwVVFrQXVDTlY2VXdRb3JubmZFQmc4cGxXd1ItZTVWaF94REVS?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "newspim.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-16 09:07"
+  },
+  {
+   "title": "Nikkei 225 Opens Higher as Bank of Japan Rate Decision Looms",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkhKZ2s4TUpta1hraGNfWEhQZDBFLTFta0Q1LUhaMWZpd1ZNLWRKN19SOEE5ZlhpMXZWMGpaVUc2eVNCM0VWNjdNU003WUkzM0ZGWlJPYnZBSE5fbTdVd1BfSjNRdDVCaEk3Tk44Vk14UHdRbGdMcmFWS0ZtY3JSTzZudFJUbmZEWHlwbGlwRkpzdEhfNlBHQ3dwUEVqeUJ0NGIwSExwdGdiV0hUY0lqekpBbGNhUzZGOW9rbnZianlRM2lmTzd0MnV3?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "24/7 Wall St.",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 09:44"
+  },
+  {
+   "title": "연 4.75%…日소프트뱅크G 1조엔 회사채 10시간 만에 완판",
+   "url": "https://www.hankyung.com/article/202609179832i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 06:41"
+  },
+  {
+   "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.78%",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENKVy1talpHQ1hRREFaUEwybWtlTjZEWWhKX1FTZVhvN3FvNjdkMUpzc3pKZ3dBWTRia1N6MThSTEdqT0xJRWpRa2JPSENlRUEtZWM2eTJNOHY1cVN3MGxHNU9xc2U4ZWd4WWxTcElGaGl1R0VWZTA3VzIySlVXQ0w3eEw0cTZHMFlZNVZWYnFjdEtSRW11VUNnNUswMWRxN0xFdGJRd21FVS1feHdTZVBR?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 01:02"
+  },
+  {
+   "title": "Global Market: Japan’s Nikkei flat as investors await Fed, BOJ decisions",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd294cDFDTU5jcXVwYk1XZkRUUE9rbmo3THR0bjVzV1EzVkxWdzl1Y3JvSHBEZ2NhSm1MMjQ2YUNiOFZKblJVZkZKamM3VEF3S0Qzdzk4amJHb3JXTzA1THMtYjdLa1R3aG9CYXZtdlZJVUl6VFZEeTJtTGlGTmVKY29iV3lReWdST2hYeUNWOHUzeGV3LTRzQlJjQ1RwVHo0d2NncFdVMEFxUTlkbk5IS3JPTFZocmhwQWpPX21RNVkwXzNMNFRrMm94X0xld3NiSmVpb003bkp2bi1hbGdj0gHkAUFVX3lxTE9QcFdRSlYtMHVJOHpNTFF1TkVkdEVGVWZLb3diTWZZUkstRmk4WjB3MHlKZF9PbThDNkRjTUI1WDlnVXdiNTRyUWpzXzdUa0t6SXdjT3BZWDFqNDJTLXYtdHViWER4MEE0UGFLZFZxQkFWZzVKMHZxZEppeXh0clFVblB1NlNDS1hjWkNGYk00bUVtbGk4ZFFGb29WaGhrRTF3NThJMlc0Ym5LUHNVMDJXOXc0Z0dRbmV3QmQ0YWhwXzlXQjdmQWI5M1BxUEVhTEUxWmVNOXVLN00xNjVpS3pFelhkRQ?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "The Economic Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 14:24"
+  },
+  {
+   "title": "Chinese oil prices hit record highs after attacks on Saudi pipeline",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenN5ekEzNkpYSjhXa2lGdU5YaFhDWlZaSGNIMjUyRXNqT29IZ25HR2RzZWoxaVhCVFNUbzYtZTNmY25FSkpoZktXSEVjeUg1Unk5UWFGVU5YSzdMRWZvWXNybXZsYmp0OHFfX0ZUVDJ4X0lsWmJ5c0luTGVETzhVOWJlRG4?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Financial Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 22:24"
+  },
+  {
+   "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NDUHo5NmlRRGkwQVd6UlBBa1ZPSVBzQmFwRVhqZm9kM1p5LTNOWHdXTWJHSm1FWXVfRzlJTHZBNVA0MjlHWHROcEczTHRSZHYzUEREeUNqTmlDdmpoNVVReGRBRkRiYUl3RTFpc0tvejB5Mm44bGdKUVB4QVFOUlBzSkhfR05EOG5tY0t0V1VjNHI2dk1NUzNjV0lFcjBfSjlOOWx0bU1CdV8wWkpkWXlfSkh0azQ?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "MarketWatch",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:51"
+  },
+  {
+   "title": "Iran war: Oil surges as Middle East supply concerns grip markets",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDNjaDVMbjJQS29uTHBvekhEdHNOeEVFV09FYXFHRGtQMG5oNzh0cUdyYTlmNlZ6eE9pNENad19RZWZKVmFEZzRDSENLMXNmYUhONDI4czBfNV9xbmhmNGNLUlEzTTJZaWEzenN0YkNvbFNYcTRYWUtpNlZIVmNpWkxhS3plVFA0eU8tUEZtWTExdVlvLTk1RHJvUTFOVXc1?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "engine.online",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 19:47"
+  },
+  {
+   "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHhhbUJlYVhVblRVeDJlSVdxNmw4bGJMSnFoeG85bTY0Qm1maEhHNWdvSmhhYWR5MFV1TDB0UnExSkxheXdZSlVweXNJWDRkTGN3TmQ0dnl1TkFBcFBVSnJnbldSUEh4U2lteVdqeFlqcjF2Zjk1MEw2UmVHaFppTnV2OEVpd9IBiwFBVV95cUxNYS0xcVVDOXlQVkZ0RUVtZ1JzdThtandDbnJxQk85MW9lMTZPaFNrRjljdnRSRGI1UlZidm5meTRDdG5jT0d6dkpEMllsRUpVNlVCWkRVTnVqSDcxN2VOOFZta2xFelQxbTU3bXFOdzJfLXpWNEFDODNyeFJ1SmNnU3Z6T3B6dFlXdTZj?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-16 13:14"
+  },
+  {
+   "title": "Former Energy chief breaks down oil prices above $100",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YeDZUSFJUZnJad0ROQWlpRHhQVzJmb1E5ekFaUEM2UjFiQ0JGNXZSTHVxaEZad0JxRTBCbWh1TnpJOFlidXVWUEdSYmtFNG1qMlNhdmZvdmhWem8?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 08:58"
+  },
+  {
+   "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+   "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 07:32"
+  },
+  {
+   "title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaG1OOGdiN0dSQzJ5VDB6Qkl2RjdMN1NEZmJ3TFp3NWFnOVU5TEdlOUxDOGJ1Vzk3bzBFNDNtT0t5VDUwLWRMNFp1MkJZbWoyOVdYdlptQUx0MjBUb2MtdDR0Nk91NElWa0Uyd3pTa2E1YUpEek5VMEVOOUhrOXZxSnN3TnY4ZHFUWHp3TzhTdlhvd3ZtUkpMLXNiYkN4TlXSAaQBQVVfeXFMUEhzYUExUjFpYnJKZTA1QU5WN2x6UTVRVVoydV9UUmhCZWtiUkhGQlY4RENraS1CSnRTTlJlUnYtNm9GcUlpakxpVllFZ1l5SmVXV2hoTVFJYmx3U0dza2cyQ2FSVFNDX2RSSVZzbERTd0poS2s3NDZUUUlxaFlnb2VpQzU3eG1VTDFIMVRNaDVvTXF6SDZtbWxWMng5ejk0MFV4S00?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 07:00"
+  },
+  {
+   "title": "Oil Futures Pull Back From Four-Month Highs",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUlCM0QyM1lwZFlkZDZrN2lQV1kzSEZmTnJwU0hlMzlzbXVvQzhUWmtPOUxfTDZBNnlsamJVUHRQQXpZSXV0b1lOM2otZFMtVTlVVDExYUtzS3lDbjNuSzQwTUg2aUw1SENIdTJ0Tjg0N25vU0t2U1B2QnFVblltWEtibEVjaFlwQ1NpMFBvNGQ1UjJ6NXVv?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 04:27"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

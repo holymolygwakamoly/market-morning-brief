@@ -63,10 +63,16 @@ def fake_market(cfg, run_date, *, cache_dir, budget_s=0):
 LONG = "가" * 220
 
 
+def _uniq(seed: str, k: int) -> str:
+    """헤드라인 유사도 dedupe(bigram)에 걸리지 않도록 토픽별로 다른 음절열을 만든다."""
+    base = sum(ord(c) for c in seed) * 31 + k * 977
+    return "".join(chr(0xAC00 + (base * (i + 3)) % 11172) for i in range(14))
+
+
 def topic_report(title: str) -> dict:
     return {"title": title, "overview": "개요 " + "나" * 160, "sections": [{"heading": f"섹션 {i}", "body": LONG, "bullets": ["포인트"]} for i in range(4)],
             "leaders": [{"name": "Co1", "ticker": "T1", "comment": "코멘트"}], "events_today": ["FOMC"],
-            "headlines": [{"text": f"{title} 핵심", "importance": 4}, {"text": f"{title} 둘째", "importance": 2}], "data_caveats": [],
+            "headlines": [{"text": f"{title} 핵심 {_uniq(title, 1)}", "importance": 4}, {"text": f"{title} 둘째 {_uniq(title, 2)}", "importance": 2}], "data_caveats": [],
             "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."}
 
 
