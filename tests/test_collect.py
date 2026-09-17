@@ -14,7 +14,6 @@ from brief.collect import _build_adapter, articles_from, collect_all
 from brief.collect.base import Article, SourceResult
 from brief.collect.google_news import GoogleNewsAdapter
 from brief.collect.rss import RssAdapter, _parse_pub_date
-from brief.collect.yahoo_chart import fetch_quotes
 from brief.config import ADAPTER_TYPES, load_sources
 
 THEBELL_RSS = """<?xml version="1.0"?>
@@ -97,7 +96,7 @@ def test_sources_yaml_types_are_whitelisted():
     cfg = load_sources()
     for s in cfg["sources"]:
         assert s["type"] in ADAPTER_TYPES
-    assert cfg["quotes"]["type"] in ADAPTER_TYPES
+    assert "market" in cfg and cfg["market"]["indices"] and set(cfg["market"]["constituents"]) == {"us_sp500", "us_ndx", "us_djia", "kr_kospi", "kr_kosdaq"}
 
 
 def test_unknown_adapter_type_raises_value_error():
@@ -152,68 +151,3 @@ def test_feedparser_never_receives_url(monkeypatch):
 
     assert "arg" in captured
     assert not captured["arg"].startswith("http")
-
-
-# --- (g) Yahoo chart JSON 파싱 + change_pct 계산 ----------------------------
-
-
-def test_yahoo_chart_quote_change_pct(monkeypatch):
-    fixture = {
-        "chart": {
-            "result": [
-                {
-                    "meta": {
-                        "regularMarketPrice": 105.0,
-                        "chartPreviousClose": 90.0,  # 5d 범위 시작 전 종가 — 일간 등락에 쓰면 안 됨
-                        "regularMarketTime": 1758000000,
-                    },
-                    "indicators": {"quote": [{"close": [90.0, 95.0, None, 100.0, 105.0]}]},
-                }
-            ]
-        }
-    }
-    monkeypatch.setattr(
-        "brief.collect.yahoo_chart.fetch_text", lambda *a, **k: json.dumps(fixture)
-    )
-    quotes_cfg = {
-        "url_template": "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}",
-        "timeout_s": 15,
-        "retries": 2,
-        "symbols": [{"symbol": "^GSPC", "name": "S&P 500"}],
-    }
-    defaults = {"user_agent": "UA"}
-    quotes, errors = fetch_quotes(quotes_cfg, defaults)
-
-    assert errors == []
-    assert len(quotes) == 1
-    q = quotes[0]
-    assert q.symbol == "^GSPC"
-    assert q.close == 105.0
-    assert q.prev_close == 100.0
-    assert q.change_pct == 5.0
-
-
-def test_yahoo_chart_prefers_regular_market_change_percent(monkeypatch):
-    fixture = {
-        "chart": {
-            "result": [
-                {
-                    "meta": {
-                        "regularMarketPrice": 7656.98,
-                        "chartPreviousClose": 7718.6,
-                        "regularMarketChangePercent": -0.483,
-                        "regularMarketTime": 1758000000,
-                    },
-                    "indicators": {"quote": [{"close": [7718.6, 7700.0, 7656.98]}]},
-                }
-            ]
-        }
-    }
-    monkeypatch.setattr("brief.collect.yahoo_chart.fetch_text", lambda *a, **k: json.dumps(fixture))
-    quotes, errors = fetch_quotes(
-        {"url_template": "u/{symbol}", "timeout_s": 1, "retries": 0, "symbols": [{"symbol": "^GSPC", "name": "S&P"}]},
-        {"user_agent": "UA"},
-    )
-    assert errors == []
-    assert quotes[0].change_pct == -0.48
-    assert abs(quotes[0].prev_close - 7694.14) < 0.1

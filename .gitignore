@@ -13,3 +13,5 @@ dist/
 Thumbs.db
 .omc/project-memory.json
 .omc/notepads/
+.cache/
+.patch_helper.py

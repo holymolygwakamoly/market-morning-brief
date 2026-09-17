@@ -1,11 +1,13 @@
-# 소스 정의 — PLAN.md §3 "검증된 소스 목록". type은 rss / google_news / yahoo_chart 만 허용(페이지 크롤링 없음).
-# tz: pubDate에 시간대가 없을 때 가정할 시간대. category: US / KR / MACRO. required: 매 실행 반드시 시도·누락 시 배너 명시.
+# 소스 정의 — PLAN.md §3(v2.1) + §11.3(v4). type은 rss / google_news 만 허용(페이지 크롤링 없음).
+# tz: pubDate에 시간대가 없을 때 가정할 시간대. category: US / KR / MACRO / EU / CN / GLOBAL.
+# required: 매 실행 반드시 시도·누락 시 배너 명시. 2026-09-17 프로브: ECB·BoE OK, BLS·IMF 403, 미 재무부 타임아웃(제외).
 defaults:
   timeout_s: 15
   retries: 2
-  user_agent: "MarketMorningBrief/0.1 (+https://github.com; RSS reader; contact via repo issues)"
+  user_agent: "MarketMorningBrief/0.1 (+https://github.com/holymolygwakamoly/market-morning-brief; RSS reader; contact via repo issues)"
 
 sources:
+  # ---- 미국
   - name: CNBC Top News
     type: rss
     url: https://www.cnbc.com/id/100003114/device/rss/rss.html
@@ -30,12 +32,62 @@ sources:
     category: US
     lang: en
     tz: UTC
+  - name: Google News Wall Street
+    type: google_news
+    url: https://news.google.com/rss/search?q=%22Wall+Street%22+stocks&hl=en-US&gl=US&ceid=US:en
+    category: US
+    lang: en
+    tz: UTC
+  - name: Google News 뉴욕증시
+    type: google_news
+    url: https://news.google.com/rss/search?q=%EB%89%B4%EC%9A%95%EC%A6%9D%EC%8B%9C&hl=ko&gl=KR&ceid=KR:ko
+    category: US
+    lang: ko
+    tz: UTC
+  - name: Google News AI stocks
+    type: google_news
+    url: https://news.google.com/rss/search?q=AI+stocks&hl=en-US&gl=US&ceid=US:en
+    category: US
+    lang: en
+    tz: UTC
+  # ---- 거시
   - name: Fed 보도자료
     type: rss
     url: https://www.federalreserve.gov/feeds/press_all.xml
     category: MACRO
     lang: en
     tz: America/New_York
+  - name: 한국은행 보도자료
+    type: rss
+    url: https://www.bok.or.kr/portal/bbs/B0000245/news.rss?menuNo=200761
+    category: MACRO
+    lang: ko
+    tz: Asia/Seoul
+  - name: ECB 보도자료
+    type: rss
+    url: https://www.ecb.europa.eu/rss/press.html
+    category: MACRO
+    lang: en
+    tz: Europe/Frankfurt
+  - name: BoE 뉴스
+    type: rss
+    url: https://www.bankofengland.co.uk/rss/news
+    category: MACRO
+    lang: en
+    tz: Europe/London
+  - name: Google News 경제지표·금리·환율
+    type: google_news
+    url: https://news.google.com/rss/search?q=%EA%B2%BD%EC%A0%9C%EC%A7%80%ED%91%9C+OR+%EA%B8%88%EB%A6%AC+OR+%ED%99%98%EC%9C%A8&hl=ko&gl=KR&ceid=KR:ko
+    category: MACRO
+    lang: ko
+    tz: UTC
+  - name: Google News Fed inflation
+    type: google_news
+    url: https://news.google.com/rss/search?q=Fed+OR+inflation+OR+%22Treasury+yields%22&hl=en-US&gl=US&ceid=US:en
+    category: MACRO
+    lang: en
+    tz: UTC
+  # ---- 한국
   - name: 연합뉴스 경제
     type: rss
     url: https://www.yna.co.kr/rss/economy.xml
@@ -54,12 +106,6 @@ sources:
     category: KR
     lang: ko
     tz: Asia/Seoul
-  - name: 한국은행 보도자료
-    type: rss
-    url: https://www.bok.or.kr/portal/bbs/B0000245/news.rss?menuNo=200761
-    category: MACRO
-    lang: ko
-    tz: Asia/Seoul
   - name: 더벨 (Google News)
     type: google_news
     url: https://news.google.com/rss/search?q=site:thebell.co.kr&hl=ko&gl=KR&ceid=KR:ko
@@ -70,35 +116,136 @@ sources:
     source_name: 더벨
     timeout_s: 20
     retries: 3
-  - name: Google News AI stocks
-    type: google_news
-    url: https://news.google.com/rss/search?q=AI+stocks&hl=en-US&gl=US&ceid=US:en
-    category: US
-    lang: en
-    tz: UTC
-    timeout_s: 20
-    retries: 3
   - name: Google News 코스피
     type: google_news
     url: https://news.google.com/rss/search?q=%EC%BD%94%EC%8A%A4%ED%94%BC&hl=ko&gl=KR&ceid=KR:ko
     category: KR
     lang: ko
     tz: UTC
-    timeout_s: 20
-    retries: 3
+  - name: Google News 외국인 순매수
+    type: google_news
+    url: https://news.google.com/rss/search?q=%EC%99%B8%EA%B5%AD%EC%9D%B8+%EC%88%9C%EB%A7%A4%EC%88%98+OR+%EC%88%98%EA%B8%89&hl=ko&gl=KR&ceid=KR:ko
+    category: KR
+    lang: ko
+    tz: UTC
+  # ---- 유럽
+  - name: Google News European stocks
+    type: google_news
+    url: https://news.google.com/rss/search?q=%22European+stocks%22+OR+DAX+OR+%22FTSE+100%22+OR+%22Euro+Stoxx%22&hl=en-US&gl=US&ceid=US:en
+    category: EU
+    lang: en
+    tz: UTC
+  - name: Google News 유럽 증시
+    type: google_news
+    url: https://news.google.com/rss/search?q=%EC%9C%A0%EB%9F%BD+%EC%A6%9D%EC%8B%9C&hl=ko&gl=KR&ceid=KR:ko
+    category: EU
+    lang: ko
+    tz: UTC
+  # ---- 중국·홍콩
+  - name: Google News China stocks
+    type: google_news
+    url: https://news.google.com/rss/search?q=%22China+stocks%22+OR+%22Hang+Seng%22+OR+%22CSI+300%22+OR+Shanghai+Composite&hl=en-US&gl=US&ceid=US:en
+    category: CN
+    lang: en
+    tz: UTC
+  - name: Google News 중국 증시
+    type: google_news
+    url: https://news.google.com/rss/search?q=%EC%A4%91%EA%B5%AD+%EC%A6%9D%EC%8B%9C+OR+%ED%95%AD%EC%85%8D+OR+%EC%83%81%ED%95%B4%EC%A2%85%ED%95%A9&hl=ko&gl=KR&ceid=KR:ko
+    category: CN
+    lang: ko
+    tz: UTC
+  - name: Google News A股 港股
+    type: google_news
+    url: https://news.google.com/rss/search?q=A%E8%82%A1+OR+%E6%B8%AF%E8%82%A1&hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+    category: CN
+    lang: zh
+    tz: UTC
+  # ---- 섹터·지정학 (세계 주요 뉴스)
+  - name: Google News defense stocks
+    type: google_news
+    url: https://news.google.com/rss/search?q=defense+stocks+OR+%EB%B0%A9%EC%82%B0%EC%A3%BC&hl=en-US&gl=US&ceid=US:en
+    category: GLOBAL
+    lang: en
+    tz: UTC
+  - name: Google News oil prices
+    type: google_news
+    url: https://news.google.com/rss/search?q=oil+prices+OR+OPEC&hl=en-US&gl=US&ceid=US:en
+    category: GLOBAL
+    lang: en
+    tz: UTC
+  - name: Google News semiconductor
+    type: google_news
+    url: https://news.google.com/rss/search?q=semiconductor+stocks+OR+Nvidia+OR+TSMC&hl=en-US&gl=US&ceid=US:en
+    category: GLOBAL
+    lang: en
+    tz: UTC
+  - name: Google News geopolitics markets
+    type: google_news
+    url: https://news.google.com/rss/search?q=%28war+OR+tariff+OR+sanctions%29+markets&hl=en-US&gl=US&ceid=US:en
+    category: GLOBAL
+    lang: en
+    tz: UTC
+  - name: Google News Nikkei
+    type: google_news
+    url: https://news.google.com/rss/search?q=Nikkei+stocks+OR+%22Bank+of+Japan%22&hl=en-US&gl=US&ceid=US:en
+    category: GLOBAL
+    lang: en
+    tz: UTC
 
-quotes:
-  type: yahoo_chart
-  url_template: https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=5d&interval=1d
-  # 8심볼 순차 호출이라 최악 8×(2×10+2)s ≈ 3분으로 상한. 등락률은 meta.regularMarketChangePercent 우선(일간).
-  timeout_s: 10
-  retries: 1
-  symbols:
-    - {symbol: "^GSPC", name: "S&P 500"}
-    - {symbol: "^IXIC", name: "나스닥"}
-    - {symbol: "^DJI", name: "다우"}
-    - {symbol: "^KS11", name: "코스피"}
-    - {symbol: "^KQ11", name: "코스닥"}
-    - {symbol: "KRW=X", name: "원/달러"}
-    - {symbol: "^TNX", name: "미 10년물 금리"}
-    - {symbol: "CL=F", name: "WTI 유가"}
+# ---- 시장 데이터 (v4 §11.3). Yahoo 차트 일봉 → 직전 완료 세션. constituents: 구성종목 표가 있는 지수 키.
+# ^KS200·000300.SS·^HSTECH 는 Yahoo가 일봉을 주지 않아 제외(2026-09-17 프로브).
+market:
+  cache_dir: .cache
+  constituents: [us_sp500, us_ndx, us_djia, kr_kospi, kr_kosdaq]
+  indices:
+    # 미국
+    - {symbol: "^GSPC", name: "S&P 500", region: US, group: 미국, constituents: us_sp500}
+    - {symbol: "^IXIC", name: "나스닥 종합", region: US, group: 미국}
+    - {symbol: "^NDX", name: "나스닥 100", region: US, group: 미국, constituents: us_ndx}
+    - {symbol: "^DJI", name: "다우", region: US, group: 미국, constituents: us_djia}
+    - {symbol: "^RUT", name: "러셀 2000", region: US, group: 미국}
+    - {symbol: "^SOX", name: "필라델피아 반도체", region: US, group: 미국}
+    - {symbol: "^VIX", name: "VIX", region: US, group: 미국}
+    # 유럽
+    - {symbol: "^STOXX", name: "스톡스 600", region: EU, group: 유럽}
+    - {symbol: "^STOXX50E", name: "유로스톡스 50", region: EU, group: 유럽}
+    - {symbol: "^GDAXI", name: "DAX", region: EU, group: 유럽}
+    - {symbol: "^FTSE", name: "FTSE 100", region: EU, group: 유럽}
+    - {symbol: "^FCHI", name: "CAC 40", region: EU, group: 유럽}
+    # 한국
+    - {symbol: "^KS11", name: "코스피", region: KR, group: 한국, constituents: kr_kospi}
+    - {symbol: "^KQ11", name: "코스닥", region: KR, group: 한국, constituents: kr_kosdaq}
+    # 중국·홍콩·일본
+    - {symbol: "000001.SS", name: "상해종합", region: CN, group: 중국·아시아}
+    - {symbol: "399001.SZ", name: "심천성분", region: CN, group: 중국·아시아}
+    - {symbol: "^HSI", name: "항셍", region: CN, group: 중국·아시아}
+    - {symbol: "^N225", name: "닛케이 225", region: JP, group: 중국·아시아}
+    # 거시: 환율·금리·원자재·가상자산
+    - {symbol: "KRW=X", name: "원/달러", region: MACRO, kind: fx, group: 환율}
+    - {symbol: "DX-Y.NYB", name: "달러인덱스", region: MACRO, kind: fx, group: 환율}
+    - {symbol: "JPY=X", name: "엔/달러", region: MACRO, kind: fx, group: 환율}
+    - {symbol: "EURUSD=X", name: "유로/달러", region: MACRO, kind: fx, group: 환율}
+    - {symbol: "CNY=X", name: "위안/달러", region: MACRO, kind: fx, group: 환율}
+    - {symbol: "^TNX", name: "미 10년물", region: MACRO, kind: rate, group: 금리}
+    - {symbol: "^FVX", name: "미 5년물", region: MACRO, kind: rate, group: 금리}
+    - {symbol: "^IRX", name: "미 3개월물", region: MACRO, kind: rate, group: 금리}
+    - {symbol: "CL=F", name: "WTI", region: MACRO, kind: commodity, group: 원자재}
+    - {symbol: "BZ=F", name: "브렌트", region: MACRO, kind: commodity, group: 원자재}
+    - {symbol: "GC=F", name: "금", region: MACRO, kind: commodity, group: 원자재}
+    - {symbol: "HG=F", name: "구리", region: MACRO, kind: commodity, group: 원자재}
+    - {symbol: "BTC-USD", name: "비트코인", region: MACRO, kind: crypto, group: 원자재}
+    # 미국 섹터 ETF (섹터·미국 보고서 입력)
+    - {symbol: "XLK", name: "기술 (XLK)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLC", name: "커뮤니케이션 (XLC)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLY", name: "경기소비재 (XLY)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLP", name: "필수소비재 (XLP)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLE", name: "에너지 (XLE)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLF", name: "금융 (XLF)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLV", name: "헬스케어 (XLV)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLI", name: "산업재 (XLI)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLB", name: "소재 (XLB)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLRE", name: "부동산 (XLRE)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XLU", name: "유틸리티 (XLU)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "SOXX", name: "반도체 (SOXX)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "ITA", name: "방산 (ITA)", region: US, kind: etf, group: 섹터ETF}
+    - {symbol: "XBI", name: "바이오 (XBI)", region: US, kind: etf, group: 섹터ETF}

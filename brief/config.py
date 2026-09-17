@@ -12,7 +12,7 @@ KST = ZoneInfo("Asia/Seoul")
 MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "200"))
 PER_SOURCE_MAX = 40
 
-ADAPTER_TYPES = {"rss", "google_news", "yahoo_chart"}
+ADAPTER_TYPES = {"rss", "google_news"}
 
 _DEFAULT_SOURCES_PATH = Path(__file__).resolve().parent / "sources.yaml"
 
@@ -33,13 +33,6 @@ STAGE2_MODEL = os.getenv("STAGE2_MODEL", BRIEF_MODEL)
 CLAUDE_BIN = os.getenv("CLAUDE_BIN", "claude")
 STAGE1_MAX_CALLS = 2
 STAGE2_MAX_CALLS = 3
-# CLI가 보고하는 total_cost_usd(추정치, 미청구) 기준 소프트 캡
-COST_SOFT_CAP_USD = 0.50
-# 참고용 단가 (입력 $/MTok, 출력 $/MTok) — 구독 실행에서는 사용하지 않음
-PRICES_PER_MTOK: dict[str, tuple[float, float]] = {
-    "claude-sonnet-5": (2.0, 10.0),
-    "claude-haiku-4-5": (1.0, 5.0),
-}
 AI_KEYWORDS = [
     "AI", "인공지능", "반도체", "HBM", "GPU", "엔비디아", "NVIDIA", "데이터센터",
     "오픈AI", "OpenAI", "LLM", "Anthropic", "생성형",

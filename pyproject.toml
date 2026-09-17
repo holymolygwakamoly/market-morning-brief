@@ -1,7 +1,7 @@
 [project]
 name = "market-morning-brief"
 version = "0.1.0"
-description = "평일 아침 미국·한국 증시 브리핑 자동 생성기 (GitHub Actions + Claude API + GitHub Pages)"
+description = "리서치 대시보드 — 미국·유럽·한국·중국 시장 데이터 + Claude Code CLI 보고서 6종 (로컬 대시보드, GitHub Pages 게시)"
 requires-python = ">=3.12"
 dependencies = [
   "feedparser>=6.0.11,<7",
@@ -24,4 +24,4 @@ include = ["brief*"]
 testpaths = ["tests"]
 
 [tool.setuptools.package-data]
-brief = ["fixtures/*.json", "render/templates/*.j2", "sources.yaml"]
+brief = ["render/templates/*.html", "sources.yaml"]

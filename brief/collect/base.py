@@ -12,7 +12,7 @@ class Article(BaseModel):
     url: str
     published_at: datetime
     source: str
-    category: Literal["US", "KR", "MACRO"]
+    category: Literal["US", "KR", "MACRO", "EU", "CN", "GLOBAL"]
     lang: str
     summary: str = ""
     publisher: str | None = None

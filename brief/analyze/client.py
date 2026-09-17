@@ -8,13 +8,14 @@ import json
 import os
 import shutil
 import subprocess
+import threading
 import time
 from collections.abc import Callable
 from typing import Any
 
 from pydantic import BaseModel
 
-from brief.config import CLAUDE_BIN, COST_SOFT_CAP_USD
+from brief.config import CLAUDE_BIN
 
 
 class Usage(BaseModel):
@@ -88,6 +89,7 @@ class LLMClient:
         self.usages: list[Usage] = []
         self.calls: dict[str, int] = {}
         self.errors: dict[str, list[str]] = {}
+        self._lock = threading.Lock()  # stage1 배치·stage2 토픽을 스레드로 병렬 호출한다
 
     def _resolve_bin(self) -> str:
         path = shutil.which(self.claude_bin)
@@ -123,7 +125,8 @@ class LLMClient:
                 raise SkippedForDeadline(
                     f"{stage}: 잔여 {remaining:.0f}s < 최소 {min_seconds:.0f}s"
                 )
-            self.calls[stage] = self.calls.get(stage, 0) + 1
+            with self._lock:
+                self.calls[stage] = self.calls.get(stage, 0) + 1
             try:
                 timeout = max(10.0, min(budget_s, remaining - 60))
                 return fn(timeout)
@@ -131,7 +134,8 @@ class LLMClient:
                 raise
             except Exception as e:  # noqa: BLE001 — CLI/검증 오류 모두 재시도 대상
                 last_error = e
-                self.errors.setdefault(stage, []).append(f"{type(e).__name__}: {str(e)[:200]}")
+                with self._lock:
+                    self.errors.setdefault(stage, []).append(f"{type(e).__name__}: {str(e)[:200]}")
                 if attempt + 1 < max_calls:
                     backoff = backoffs[min(attempt, len(backoffs) - 1)]
                     wait = min(backoff, deadline - time.monotonic() - min_seconds)
@@ -225,7 +229,8 @@ class LLMClient:
             cost_usd=float(data.get("total_cost_usd") or 0.0),
             billed=False,
         )
-        self.usages.append(u)
+        with self._lock:
+            self.usages.append(u)
         return u
 
     def total_cost_usd(self) -> float:
@@ -233,7 +238,8 @@ class LLMClient:
         return sum(u.cost_usd for u in self.usages)
 
     def warnings(self) -> list[str]:
-        return ["cost_over_soft_cap"] if self.total_cost_usd() > COST_SOFT_CAP_USD else []
+        """구독(CLI) 실행은 청구가 없으므로 비용 경고를 내지 않는다(v4: soft cap 제거)."""
+        return []
 
     def summary(self) -> dict:
         stages: dict[str, dict] = {}

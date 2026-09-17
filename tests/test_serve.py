@@ -1,4 +1,7 @@
-"""로컬 대시보드 서버 테스트(US-010/011, AC-20) — 실제 생성 없음, 페이크 run_fn/git_runner 주입."""
+"""로컬 대시보드 서버 테스트(v4 §11.6) — 실제 생성 없음, 페이크 update_fn/regen_fn/git_runner 주입.
+
+규칙: 업데이트는 오늘(KST)만·하루 1회(409), 재생성은 inputs.json 있을 때만, 정적 파일은 docs/ 루트에서 서빙.
+"""
 from __future__ import annotations
 
 import json
@@ -13,7 +16,7 @@ from pathlib import Path
 import pytest
 
 from brief.config import KST
-from brief.serve import allowed_dates, make_server, publish, validate_date
+from brief.serve import make_server, publish, validate_date
 
 TODAY = datetime.now(KST).date()
 
@@ -22,15 +25,13 @@ def _iso(days: int) -> str:
     return (TODAY + timedelta(days=days)).isoformat()
 
 
-def _write_result(docs: Path, date: str, result: str = "success", error: str | None = None) -> None:
-    (docs / "reports").mkdir(parents=True, exist_ok=True)
-    (docs / "status").mkdir(parents=True, exist_ok=True)
-    (docs / "reports" / f"{date}.html").write_text(
-        f'<!doctype html><html lang="ko" data-generated="{date}"><body>report {date}</body></html>', encoding="utf-8"
-    )
-    (docs / "status" / f"{date}.json").write_text(
-        json.dumps({"date": date, "result": result, "error": error, "warnings": []}), encoding="utf-8"
-    )
+def _write_snapshot(docs: Path, date: str, result: str = "success", error: str | None = None, with_inputs: bool = True) -> None:
+    base = docs / "data" / date
+    base.mkdir(parents=True, exist_ok=True)
+    (base / "status.json").write_text(json.dumps({"date": date, "result": result, "error": error, "warnings": [], "topics": {"us": {"ok": True}}, "finished_at_kst": f"{date}T09:00:00+09:00"}), encoding="utf-8")
+    (base / "home.json").write_text(json.dumps({"date": date, "result": result, "indices": [], "topics": {}}), encoding="utf-8")
+    if with_inputs:
+        (base / "inputs.json").write_text(json.dumps({"articles": [], "stage1": None}), encoding="utf-8")
 
 
 class Client:
@@ -57,9 +58,9 @@ class Client:
 def server_factory(tmp_path):
     servers = []
 
-    def factory(run_fn=None, git_runner=subprocess.run, docs: Path | None = None):
+    def factory(update_fn=None, regen_fn=None, git_runner=subprocess.run, docs: Path | None = None):
         docs = docs or (tmp_path / "docs")
-        srv = make_server(docs, 0, run_fn=run_fn, git_runner=git_runner)
+        srv = make_server(docs, 0, update_fn=update_fn, regen_fn=regen_fn, git_runner=git_runner)
         t = threading.Thread(target=srv.serve_forever, daemon=True)
         t.start()
         servers.append(srv)
@@ -78,179 +79,159 @@ def _wait_done(client: Client, timeout: float = 5.0) -> dict:
         if not st["running"]:
             return st
         time.sleep(0.05)
-    raise AssertionError("generation did not finish")
+    raise AssertionError("job did not finish")
 
 
-# --- 날짜 검증 ------------------------------------------------------------------
+# --- 날짜 검증 -------------------------------------------------------------------
 
 
-def test_allowed_dates_window():
-    now = datetime(2026, 9, 15, 7, 0, tzinfo=KST)
-    lo, hi = allowed_dates(now)
-    assert (lo.isoformat(), hi.isoformat()) == ("2026-09-12", "2026-09-15")
-
-
-@pytest.mark.parametrize(
-    "s, ok",
-    [
-        ("2026-09-12", True), ("2026-09-15", True), ("2026-09-13", True),
-        ("2026-09-11", False), ("2026-09-16", False), ("2026/09/15", False), ("", False), (None, False),
-        ("2026-02-30", False),
-    ],
-)
-def test_validate_date(s, ok):
-    now = datetime(2026, 9, 15, 7, 0, tzinfo=KST)
-    v = validate_date(s, now)
+@pytest.mark.parametrize("s, ok", [(_iso(0), True), (_iso(-1), False), (_iso(1), False), ("2026-9-1", False), ("2026-02-30", False), (None, False)])
+def test_validate_date_today_only(s, ok):
+    v = validate_date(s)
     assert (not isinstance(v, str)) is ok
 
 
-def test_generate_date_range_over_http(server_factory):
-    def fake_run(args):
-        _write_result(Path(args.docs), args.date)
-
-    _, c, _ = server_factory(run_fn=fake_run)
-    for bad in (_iso(-4), _iso(1), "2026-9-1", "abc"):
-        code, body = c.json("/api/generate", method="POST", body={"date": bad})
-        assert code == 400 and "error" in body, bad
-    code, body = c.json("/api/generate", method="POST", body={"date": _iso(-3)})
-    assert code == 202 and body == {"ok": True, "date": _iso(-3)}
-    _wait_done(c)
-    code, body = c.json("/api/generate", method="POST", body={"date": _iso(0)})
-    assert code == 202 and body["date"] == _iso(0)
-    _wait_done(c)
+# --- 업데이트 -----------------------------------------------------------------------
 
 
-def test_generate_bad_json_body(server_factory):
-    _, c, _ = server_factory(run_fn=lambda a: None)
-    code, _, raw = c.request("/api/generate", method="POST")
-    assert code == 400
+def test_update_rejects_past_and_future_dates(server_factory):
+    _, c, _ = server_factory(update_fn=lambda date, docs: None)
+    for d in (_iso(-1), _iso(-3), _iso(1)):
+        code, body = c.json("/api/update", method="POST", body={"date": d})
+        assert code == 400 and "오늘" in body["error"], d
 
 
-# --- 상태·동시성 ----------------------------------------------------------------
+def test_update_runs_today_and_status_reflects_result(server_factory):
+    seen = []
 
+    def fake_update(date, docs):
+        seen.append((date, Path(docs)))
+        _write_snapshot(Path(docs), date, result="degraded")
 
-def test_status_keys_and_report_url_after_completion(server_factory):
-    def fake_run(args):
-        import logging
-
-        logging.getLogger("brief.run").info("stage: collect")
-        logging.getLogger("brief.run").info("stage: render")
-        _write_result(Path(args.docs), args.date, result="degraded")
-
-    _, c, _ = server_factory(run_fn=fake_run)
-    code, st = c.json("/api/status")
-    assert code == 200
-    for k in ("running", "date", "stage", "log", "result", "warnings", "report_url",
-              "started_at", "finished_at", "elapsed_s", "error", "recent"):
-        assert k in st, k
-    assert st["running"] is False and st["recent"] == []
-
-    date = _iso(0)
-    assert c.json("/api/generate", method="POST", body={"date": date})[0] == 202
+    _, c, docs = server_factory(update_fn=fake_update)
+    code, body = c.json("/api/update", method="POST", body={"date": _iso(0)})
+    assert code == 202 and body["ok"]
     st = _wait_done(c)
-    assert st["date"] == date
-    assert st["result"] == "degraded"
-    assert st["report_url"] == f"/docs/reports/{date}.html"
-    assert st["stage"] == "done" and st["error"] is None
-    assert any("stage: render" in line for line in st["log"])
-    assert st["recent"][0]["date"] == date and st["recent"][0]["result"] == "degraded"
-    assert st["started_at"] and st["finished_at"]
+    assert st["kind"] == "update" and st["date"] == _iso(0) and st["result"] == "degraded" and st["stage"] == "done"
+    assert seen[0][0] == _iso(0) and seen[0][1] == docs.resolve()
+    assert "today" in st and st["today"] == _iso(0) and len(st["topics"]) == 6
+    # 하루 1회: 이미 완료된 오늘은 409
+    code, body = c.json("/api/update", method="POST", body={"date": _iso(0)})
+    assert code == 409 and "이미 완료" in body["error"]
 
 
-def test_failed_run_surfaces_error(server_factory):
-    def fake_run(args):
-        docs = Path(args.docs)
-        (docs / "status").mkdir(parents=True, exist_ok=True)
-        (docs / "status" / f"{args.date}.json").write_text(
-            json.dumps({"date": args.date, "result": "failed", "error": "RuntimeError: kaboom"}), encoding="utf-8"
-        )
+def test_failed_update_can_be_retried(server_factory):
+    calls = []
 
-    _, c, _ = server_factory(run_fn=fake_run)
-    assert c.json("/api/generate", method="POST", body={"date": _iso(0)})[0] == 202
+    def fake_update(date, docs):
+        calls.append(1)
+        _write_snapshot(Path(docs), date, result="failed", error="boom")
+
+    _, c, _ = server_factory(update_fn=fake_update)
+    c.json("/api/update", method="POST", body={"date": _iso(0)})
     st = _wait_done(c)
-    assert st["result"] == "failed" and st["stage"] == "failed"
-    assert "kaboom" in st["error"] and st["report_url"] is None
-
-
-def test_crashing_run_fn_does_not_wedge_server(server_factory):
-    def fake_run(args):
-        raise ValueError("boom")
-
-    _, c, _ = server_factory(run_fn=fake_run)
-    assert c.json("/api/generate", method="POST", body={"date": _iso(0)})[0] == 202
-    st = _wait_done(c)
-    assert st["result"] == "failed" and "ValueError: boom" in st["error"]
-    # 다시 생성 가능
-    assert c.json("/api/generate", method="POST", body={"date": _iso(0)})[0] == 202
+    assert st["result"] == "failed" and st["error"] == "boom"
+    code, _ = c.json("/api/update", method="POST", body={"date": _iso(0)})
+    assert code == 202
     _wait_done(c)
+    assert len(calls) == 2
+
+
+def test_crashing_update_fn_does_not_wedge_server(server_factory):
+    def crash(date, docs):
+        raise RuntimeError("kaboom")
+
+    _, c, _ = server_factory(update_fn=crash)
+    c.json("/api/update", method="POST", body={"date": _iso(0)})
+    st = _wait_done(c)
+    assert st["result"] == "failed" and "kaboom" in st["error"]
+    code, _ = c.json("/api/update", method="POST", body={"date": _iso(0)})
+    assert code == 202
 
 
 def test_409_while_running(server_factory):
-    release = threading.Event()
-    started = threading.Event()
+    gate = threading.Event()
 
-    def blocking_run(args):
-        started.set()
-        release.wait(5)
-        _write_result(Path(args.docs), args.date)
+    def slow(date, docs):
+        gate.wait(5)
+        _write_snapshot(Path(docs), date)
 
-    _, c, _ = server_factory(run_fn=blocking_run)
-    assert c.json("/api/generate", method="POST", body={"date": _iso(0)})[0] == 202
-    assert started.wait(2)
-    code, body = c.json("/api/generate", method="POST", body={"date": _iso(-1)})
-    assert code == 409 and "error" in body
-    _, st = c.json("/api/status")
-    assert st["running"] is True and st["date"] == _iso(0)
-    release.set()
+    _, c, _ = server_factory(update_fn=slow)
+    code, _ = c.json("/api/update", method="POST", body={"date": _iso(0)})
+    assert code == 202
+    code, body = c.json("/api/update", method="POST", body={"date": _iso(0)})
+    assert code == 409 and "작업 중" in body["error"]
+    code, body = c.json("/api/regenerate", method="POST", body={"date": _iso(0), "topic": "us"})
+    assert code == 409
+    gate.set()
+    _wait_done(c)
+
+
+def test_bad_json_body(server_factory):
+    _, c, _ = server_factory()
+    code, _, raw = c.request("/api/update", method="POST", body=None)
+    assert code == 400
+    req = urllib.request.Request(c.base + "/api/update", data=b"{not json", method="POST")
+    req.add_header("Content-Type", "application/json")
+    with pytest.raises(urllib.error.HTTPError) as ei:
+        urllib.request.urlopen(req, timeout=5)
+    assert ei.value.code == 400
+
+
+# --- 재생성 ---------------------------------------------------------------------------
+
+
+def test_regenerate_requires_inputs_and_valid_topic(server_factory):
+    seen = []
+
+    def fake_regen(date, topics, docs):
+        seen.append((date, topics))
+        _write_snapshot(Path(docs), date, result="success")
+
+    _, c, docs = server_factory(regen_fn=fake_regen)
+    code, body = c.json("/api/regenerate", method="POST", body={"date": _iso(0), "topic": "us"})
+    assert code == 409 and "먼저 [업데이트]" in body["error"]
+    _write_snapshot(docs, _iso(0), result="degraded")
+    code, body = c.json("/api/regenerate", method="POST", body={"date": _iso(0), "topic": "nope"})
+    assert code == 400 and "topic" in body["error"]
+    code, body = c.json("/api/regenerate", method="POST", body={"date": _iso(-1), "topic": "us"})
+    assert code == 400
+    code, body = c.json("/api/regenerate", method="POST", body={"date": _iso(0), "topic": "kr"})
+    assert code == 202 and body["topic"] == "kr"
     st = _wait_done(c)
-    assert st["result"] == "success"
+    assert st["kind"] == "regenerate" and st["topics"] == ["kr"] and st["result"] == "success"
+    assert seen == [(_iso(0), ("kr",))]
 
 
-# --- 정적·대시보드 --------------------------------------------------------------
+# --- 정적 파일·SPA --------------------------------------------------------------------
 
 
-def test_static_docs_and_traversal_guard(server_factory, tmp_path):
+def test_spa_and_static_files_and_traversal_guard(server_factory, tmp_path):
     _, c, docs = server_factory()
-    (tmp_path / "pyproject.toml").write_text("[secret]", encoding="utf-8")
-    date = _iso(0)
-    _write_result(docs, date)
-    code, headers, raw = c.request(f"/docs/reports/{date}.html")
-    assert code == 200 and headers["Content-Type"].startswith("text/html")
-    assert f"report {date}" in raw.decode("utf-8")
-    code, headers, _ = c.request(f"/docs/status/{date}.json")
-    assert code == 200 and headers["Content-Type"].startswith("application/json")
-    assert c.request("/docs/nope.html")[0] == 404
-    assert c.request("/docs/reports")[0] == 404  # 디렉터리
-    for p in ("/docs/../pyproject.toml", "/docs/%2e%2e/pyproject.toml", "/docs/..%2fpyproject.toml"):
-        code, _, raw = c.request(p)
-        assert code in (403, 404), p
-        assert b"[secret]" not in raw
-    assert c.request("/nothing")[0] == 404
-
-
-def test_dashboard_page(server_factory):
-    def fake_git(cmd, **kw):
-        return subprocess.CompletedProcess(cmd, 0, stdout="https://github.com/x/y.git\n", stderr="")
-
-    _, c, docs = server_factory(git_runner=fake_git)
-    _write_result(docs, _iso(-1))
     code, headers, raw = c.request("/")
-    html = raw.decode("utf-8")
-    assert code == 200 and headers["Content-Type"].startswith("text/html")
-    assert '<html lang="ko">' in html
-    assert f'min="{_iso(-3)}"' in html and f'max="{_iso(0)}"' in html and f'value="{_iso(0)}"' in html
-    assert f"/docs/reports/{_iso(-1)}.html" in html
-    assert "GitHub에 게시" in html and 'id="publish"' in html and 'id="publish" disabled' not in html
-    assert "http://" not in html.split("<body>")[0]  # 외부 리소스 없음
+    assert code == 200 and "text/html" in headers["Content-Type"] and "리서치 대시보드" in raw.decode("utf-8")
+    assert (docs / "index.html").exists() and (docs / "data" / "index.json").exists()
+    _write_snapshot(docs, _iso(0))
+    code, body = c.json(f"/data/{_iso(0)}/home.json")
+    assert code == 200 and body["date"] == _iso(0)
+    code, body = c.json(f"/docs/data/{_iso(0)}/home.json")  # 구 링크 호환
+    assert code == 200
+    (tmp_path / "secret.txt").write_text("x", encoding="utf-8")
+    code, _, _ = c.request("/../secret.txt")
+    assert code in (403, 404)
+    code, _, _ = c.request("/%2e%2e/secret.txt")
+    assert code in (403, 404)
+    code, _, _ = c.request("/nope.json")
+    assert code == 404
 
 
-def test_dashboard_publish_disabled_without_remote(server_factory):
-    def fake_git(cmd, **kw):
-        return subprocess.CompletedProcess(cmd, 2, stdout="", stderr="error: No such remote 'origin'")
+def test_status_has_can_publish_flag(server_factory):
+    def no_remote(cmd, **kw):
+        return subprocess.CompletedProcess(cmd, 2, stdout="", stderr="error: No such remote")
 
-    _, c, _ = server_factory(git_runner=fake_git)
-    _, _, raw = c.request("/")
-    assert 'id="publish" disabled' in raw.decode("utf-8")
+    _, c, _ = server_factory(git_runner=no_remote)
+    _, st = c.json("/api/status")
+    assert st["can_publish"] is False and st["running"] is False
 
 
 # --- 게시 ---------------------------------------------------------------------
@@ -288,7 +269,7 @@ def test_publish_success(tmp_path):
     assert r["ok"] is True and "pushed" in r["output"]
     subs = [c[1] for c in runner.calls]
     assert subs == ["add", "diff", "commit", "pull", "push"]
-    assert runner.calls[2] == ["git", "commit", "-m", "brief: publish 2026-09-15"]
+    assert runner.calls[2] == ["git", "commit", "-m", "dashboard: publish 2026-09-15"]
     assert runner.calls[3] == ["git", "pull", "--rebase", "origin", "main"]
     assert runner.calls[4] == ["git", "push", "origin", "HEAD:main"]
 

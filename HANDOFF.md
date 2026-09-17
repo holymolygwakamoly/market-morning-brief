@@ -1,7 +1,7 @@
 # HANDOFF — 시장 아침 브리핑 자동 생성기 (Market Morning Brief)
 
 > **이 파일의 목적**: Claude Code 세션이 끊겨도 이 파일 하나만 읽으면 지금까지의 모든 대화 맥락·결정·진행 단계를 그대로 이어갈 수 있게 하는 인수인계 문서.
-> 마지막 갱신: 2026-09-17 (수), 세션 3 — **v3 사용자 첫 실행 확인(09-15 14:21 opus, 12/12 소스, 6분27초). 결정 14~18: v4 "리서치 대시보드" 재구성 계획 확정(PLAN.md §11). 코딩은 아직 시작 안 함 — 사용자의 "구현 시작" 승인 대기.**
+> 마지막 갱신: 2026-09-17 (수), 세션 3 — **v4.0 "리서치 대시보드" 구현 완료(결정 14~18 반영, PLAN.md §11·§11.10). 사용자 확인 대기: 대시보드에서 v4 사용 + 결정 19(robots API 기준).**
 > 사용자 불러오기 명령: **`HANDOFF.md 읽고 이어서 진행해줘`**
 > **새 세션은 이 파일 + 루트 `PLAN.md` 두 개만 읽으면 전체 맥락이 복원된다.** (`PLAN.md` = `.omc/plans/market-morning-brief-plan.md`의 루트 사본, 내용 동일. 계획을 고치면 두 파일 모두 갱신할 것 — ralph/omc 스킬은 `.omc/plans/` 경로를 읽는다.)
 
@@ -18,23 +18,24 @@
 [완료] 10.  사용자 대시보드 첫 생성(US-008): 2026-09-15 14:21~14:27 KST, opus, 12/12 소스, 166건, stage1·stage2 각 1회. result=degraded인데 이유는 `cost_over_soft_cap`뿐(추정 $1.16, billed:false) → 구독 모드에선 무의미한 경고. **미수정**(v4에서 처리)
 [대기]  11.  (선택) GitHub Pages 설정(main //docs) 후 [GitHub에 게시] 버튼 확인
 [완료] 12.  결정 14~18: v4 리서치 대시보드 계획(PLAN.md §11) 확정(질문 4개 답변 반영)
-[대기]  13.  사용자 구현 승인 → Step A(소스 프로브: nasdaq 스크리너·KRX·신규 RSS/Google News) → B~F ralph
+[완료] 13.  v4.0 구현(Step A~F, 2026-09-17, 인라인 구현): 프로브 → market 계층 → 뉴스·태깅 확장 → 보고서 6종 → pipeline/serve/SPA → v3 제거·문서. 테스트 84개. 실제 업데이트 1회 실행(결과는 아래 "첫 v4 실행 관측")
+[대기]  14.  사용자가 대시보드에서 v4 확인 + 결정 19(robots API 기준) 확인 + (선택) GitHub Pages
 ```
 
-**v4 한 줄**: 좌측 탭 7개(홈/거시경제/섹터별 주요뉴스/미국/유럽/한국/중국) + 홈 지수 카드·핵심 5(**미국·한국 지수만** 클릭 → 구성종목 등락폭/거래대금/시가총액 순위) + 보고서 6종(opus 각 1회, 병렬 3, 탭별 재생성) + 기준일 스냅샷(`docs/data/YYYY-MM-DD/`) + **업데이트는 당일 KST·하루 1회만**, 과거 기준일은 저장분 로드. 기존 "오늘~3일 전 생성"·단일 보고서는 폐기 예정.
+**v4 한 줄**: 좌측 탭 7개(홈/거시경제/섹터별 주요뉴스/미국/유럽/한국/중국) + 홈 지수 카드·핵심 5(**미국·한국 지수만** 클릭 → 구성종목 등락폭/거래대금/시가총액 순위) + 보고서 6종(opus 각 1회, 병렬 3, 탭별 재생성) + 기준일 스냅샷(`docs/data/YYYY-MM-DD/`) + **업데이트는 당일 KST·하루 1회만**, 과거 기준일은 저장분 로드. 기존 "오늘~3일 전 생성"·단일 보고서는 폐기됨(v4.0).
 
-**지금 쓰는 방법**: 폴더의 `시장브리핑 대시보드.lnk` 더블클릭 → 브라우저 `http://127.0.0.1:8765/` → 날짜(오늘~3일 전) → [보고서 생성] → 8~12분 → [보고서 열기]. 결과는 `docs/reports/YYYY-MM-DD.html`, `docs/index.html`(최신), `docs/status/YYYY-MM-DD.json`(소스·토큰·경고).
+**지금 쓰는 방법(v4)**: 폴더의 `시장브리핑 대시보드.lnk` 더블클릭 → `http://127.0.0.1:8765/` → 기준일=오늘 → [업데이트](하루 1회, 12~20분) → 좌측 탭(홈/거시경제/섹터별 주요뉴스/미국/유럽/한국/중국). 홈의 미국·한국 지수 카드 클릭 → 구성종목 등락폭/거래대금/시가총액 정렬. 실패·불만 탭은 [이 탭 재생성]. 결과는 `docs/data/<날짜>/{home,status,inputs}.json + indices/*.json + reports/*.json`, 목록 `docs/data/index.json`, 페이지 `docs/index.html`(정적 SPA).
 
-**코드 상태 (2026-09-15 14:30)**: 커밋 `7cf7c60`까지 push됨(`https://github.com/holymolygwakamoly/market-morning-brief`, main). 테스트 119개 통과(`.venv/Scripts/python -m pytest -q`). `python -m brief.run --dry-run` E2E OK.
+**코드 상태 (2026-09-17)**: v4.0 구현 완료(Step A~F). 테스트 84개 통과(`.venv/Scripts/python -m pytest -q`). 실제 업데이트 1회 관측은 1절 13번 참조.
 
 **주요 구현 사실 (코드 안 읽어도 되게)**:
-- 파이프라인: `brief/run.py` — collect(12 소스, ThreadPool, 3분 예산) → window(직전 영업일 06:50 KST~) → dedupe(소스당 40, 총 200) → stage1 태깅(opus, 호출 ≤2, 480s 예산) → select(쿼터 US25/KR25/MACRO10 + AI≤15 + 더벨≤30) → stage2 본문(opus, 호출 ≤3, 480s 예산, ai_sector≥300자 검증) → render. 내부 데드라인 30분. 어떤 예외든 error 배너 + exit 0.
-- LLM 엔진 `brief/analyze/client.py`: `claude -p --model <m> --no-session-persistence --tools "" --output-format json --json-schema <pydantic schema> --system-prompt <sys>` (user 프롬프트는 stdin). `--bare` 금지(로그인 정보 안 읽음). 자식 env에서 `CLAUDE*` 변수 제거. 결과 JSON `structured_output` → pydantic. 비용은 CLI 추정치만 기록(`billed: false`, 청구 없음).
+- 파이프라인 `brief/pipeline.py`: `update(date)` = market(Yahoo 45심볼 + 구성종목 5표, ≤5분) ∥ collect(뉴스 30소스, 3분) → window/dedupe(소스당 40, 총 400) → stage1 태깅(opus, 200건 배치 ×2 병렬, 배치당 캡 2, 480s) → `select_for_topics`(토픽별 지역 쿼터 + AI 보강 + 더벨은 kr·sectors) → `run_topics`(6토픽, 동시 3, 토픽당 캡 2, 480s, 분량 규칙만 미달 시 완화 게시) → JSON 스냅샷. 내부 데드라인 45분. 어떤 예외든 status `failed` 기록 후 정상 반환. `regenerate(date, topics)` = 저장된 `inputs.json`+시장 데이터로 해당 토픽 stage2만.
+- 시장 데이터 `brief/market/`: Yahoo 차트 일봉 `range=1mo`에서 **현지 날짜 < 기준일인 마지막 봉**을 직전 완료 세션으로 선택(장중 값 혼입 방지). 구성종목 = 목록(Wikipedia S&P500·나스닥100 / stockanalysis 다우30 / KIND 코스피·코스닥, `.cache/`에 7일 캐시) + Yahoo v7 배치 quote(crumb, 250심볼/요청; 시총·거래량·등락률). 한국 표는 장중 업데이트 시 장중 값(노트 표시). 거래대금은 거래량×종가 추정. KRX 수급 데이터 없음(로그인 필요).
+- LLM 엔진 `brief/analyze/client.py`: `claude -p --model <m> --no-session-persistence --tools "" --output-format json --json-schema <schema> --system-prompt <sys>`(user=stdin). `--bare` 금지, 자식 env에서 `CLAUDE*` 제거, 스레드 안전(락). 비용 경고(soft cap) 제거 — 구독 실행은 청구 없음.
+- 보고서 스키마 `brief/analyze/schemas.py`: `TopicReportOut{title, overview, sections[{heading, body, bullets}], leaders, events_today, headlines[{text, importance}], data_caveats, disclaimer}`(거시·미국·유럽·한국·중국) / `SectorReportOut{…, sectors[{name, direction, markets, reason, news, leaders, etf_note}], ai_sector(≥300자), cross_events}`. 검증: overview≥150자, 섹션≥4개·각 200자, headlines 1~3, disclaimer 고정. 프롬프트·섹션 구성은 `topics.py` `_TOPIC_SYSTEM`.
+- 대시보드 `brief/serve.py`: `GET /`(SPA) · `POST /api/update {date}`(오늘 KST 아니면 400, 실행 중/오늘 완료 409) · `POST /api/regenerate {date, topic}` · `GET /api/status`(kind·stage·log·today·can_publish) · `POST /api/publish` · 정적 `docs/` 루트(`/docs/*` 별칭). SPA `brief/render/templates/research.html`은 서버 기동·업데이트 때마다 `docs/index.html`로 복사되며 GitHub Pages에서도 그대로 동작(버튼은 로컬에서만 표시).
 - 모델: `BRIEF_MODEL`(기본 opus) = stage1·stage2. 단계별 `STAGE1_MODEL`/`STAGE2_MODEL`.
-- 대시보드 `brief/serve.py`: stdlib http.server 127.0.0.1:8765(`BRIEF_PORT`). `GET /`, `POST /api/generate {date}`(오늘−3~오늘 KST 아니면 400, 실행 중 409), `GET /api/status`(stage·log tail·result·recent), `POST /api/publish`(git add docs → commit → pull --rebase → push ×3), `GET /docs/*`(경로 탈출 차단). 포트 사용 중이면 브라우저만 열고 종료.
-- 런처: `시장브리핑 대시보드.bat`(ASCII만 — 한글 넣으면 cmd가 멈춤) + `.lnk`(`scripts/make_shortcut.ps1`로 재생성 가능).
-- 렌더: `index.html` = reports 중 **최신 날짜**(과거 날짜 생성이 덮지 않음). 시장 시그널 표는 Yahoo Quote 직접 렌더(일간 등락률 = `regularMarketChangePercent`). 수치 대조 경고, Jinja autoescape, 클라이언트 stale 배너.
-- 첫 실제 실행 관측(sonnet, 13:43 KST): 12/12 소스 OK(더벨 Google News 포함 — 오전엔 로컬 네트워크에서 news.google.com 접속 불가였다가 회복), 기사 167건, stage1 sonnet 180s×2 타임아웃 → 이후 예산 480s로 상향, stage2 2분40초·13.6k 토큰, 보고서 39KB·섹터 17개·AI 섹터 645자.
+- 런처: `시장브리핑 대시보드.bat`(ASCII만) + `.lnk`. 소스 정책(robots API 기준 포함)은 README §4, 프로브 결과·편차는 PLAN §11.10.
 
 ## 1-1. 합의 루프에서 나온 핵심 판단 (리뷰 파일 안 읽어도 되게 요약)
 
@@ -46,8 +47,8 @@
 
 ## 2. 프로젝트 한 줄 요약
 
-(v3) 사용자가 폴더의 바로가기로 로컬 대시보드를 열고 날짜(오늘 KST~3일 전)를 골라 [보고서 생성]을 누르면 → 미국·한국 증시 뉴스 + 거시경제 이슈를 무료 공개 소스에서 수집 → **Claude Code CLI(Max 구독, 결제 0, 모델 opus)** 로 **섹터 중심** 매매 참고 해석 생성 → **핵심 요약 / 상세 분석 / 참고 자료** 3부 구성 한국어 HTML 보고서를 `docs/`에 생성(선택: [GitHub에 게시]로 GitHub Pages 공개 URL).
-(v2.1 원안은 GitHub Actions cron 06:50 KST + Claude API 자동 게시였으나 결정 12로 철회 — 사용자가 API 결제를 원치 않음.)
+(v4) 사용자가 폴더의 바로가기로 **리서치 대시보드**를 열고 기준일(오늘, 하루 1회)에 [업데이트]를 누르면 → 미국·유럽·한국·중국 지수·환율·금리·원자재·섹터 ETF와 미국·한국 지수 구성종목(등락·거래대금·시총) + 무료 뉴스 30소스를 수집 → **Claude Code CLI(Max 구독, 결제 0, opus)** 로 **거시경제 / 섹터별 주요뉴스 / 미국 / 유럽 / 한국 / 중국** 보고서 6종을 생성 → 좌측 탭 SPA(`docs/`)에서 열람(선택: [GitHub에 게시]로 Pages 공개). 과거 기준일은 그날 저장한 스냅샷만.
+(v3 단일 3부 보고서 + 오늘~3일 전 생성은 결정 14로 폐기, v2.1 cron/API는 결정 12로 철회.)
 
 ---
 
@@ -74,6 +75,7 @@
 | 16 | [업데이트] 한 번에 6개 전부(12~20분)? | "한 번에 전부 + 탭별 재생성" | 병렬 3개 생성, 실패·불만 탭은 [재생성] |
 | 17 | 홈에 "오늘의 핵심 5" 둘까? | "넣는다" | 6개 보고서 headlines에서 추림, 추가 호출 없음 |
 | 18 | 같은 날 재업데이트? | "하루 1회만" | 완료된 날은 [업데이트] 비활성(409). 탭별 [재생성]만 허용 |
+| 19 | (Claude 제안, 2026-09-17, **사용자 확인 대기**) Yahoo `query1/query2`·nasdaq `api.*`는 robots `Disallow: /`인데 v2.1부터 Yahoo를 써 왔음. 콘텐츠 페이지(더벨)와 JSON API를 구분해 적용하자 | (아직 답 없음 — 채팅에서 "반대하면 말씀해 달라"고 고지) | 잠정: 콘텐츠 페이지는 robots 준수, JSON API는 낮은 요청량·식별 UA·캐시로 사용(README §4). 반대 시 Yahoo 대체 소스 필요(사실상 무료 대안 없음) |
 
 **Claude가 제시하고 사용자가 이의 없이 수용한 가정**: 보고서 언어 = 한국어 / LLM = Claude API(비용상 Sonnet급 기본) / 시간대 = KST.
 
@@ -81,7 +83,7 @@
 
 ## 4. 확정 요구사항 요약
 
-> **v3 변경(결정 12·13)**: 아래 "시간/실행 환경/비용" 항목은 원안. 현재는 **로컬 수동 실행**(PC 켜고 버튼), **비용 0**(구독 CLI, opus), 호스팅은 로컬 `docs/` + 선택적 GitHub Pages 게시. 나머지(소스·분석·보고서·실패 처리·비목표)는 그대로 유효.
+> **v3·v4 변경(결정 12~18)**: 아래는 v2.1 원안. 현재는 **로컬 수동 업데이트(오늘 KST, 하루 1회)**, **비용 0**(구독 CLI, opus), 좌측 탭 7개·보고서 6종·구성종목 순위(미국·한국), 호스팅은 로컬 `docs/` + 선택적 GitHub Pages. 소스·실패 처리·비목표는 그대로 유효하되 유럽·중국 소스가 추가됨.
 
 **시간**: 평일(KST 월~금) 07:30 시작, 08:30 이전 게시. 주말 미실행. 수동 즉시 실행 가능해야 함.
 **실행 환경**: GitHub Actions 무료 티어(주 cron `50 21 * * 0-4` = KST 06:50 + 백업 `35 22 * * 0-4` = KST 07:35, 월~금; 스펙의 07:30에서 마감 안전을 위해 앞당김) + `workflow_dispatch`. PC 의존 없음.
@@ -107,7 +109,7 @@
 |------|------|
 | `HANDOFF.md` (이 파일) | 세션 인수인계. 결정이 추가되면 3절 표와 1절 진행 단계를 갱신할 것 |
 | `PLAN.md` (루트) | **확정 계획 v2.1 + §10 v3 변경표** — 새 세션은 HANDOFF.md + 이 파일만 읽으면 됨 |
-| `README.md` | 사용자용 설치·사용법·런북(v3 기준) |
+| `README.md` | 사용자용 설치·사용법·런북·소스 정책(v4 기준) |
 | `.omc/prd.json`, `.omc/progress.txt` | ralph PRD(US-000~012)·진행 로그 (gitignore) |
 | `.omc/specs/deep-interview-market-morning-brief.md` | 딥 인터뷰 최종 스펙 (목표/제약/비목표/AC 19개/가정/기술 컨텍스트/온톨로지/전체 Q&A) |
 | `.omc/state/deep-interview-state.json` | 인터뷰 상태(점수·토폴로지·온톨로지 스냅샷) |
@@ -117,16 +119,16 @@
 | `.omc/plans/reviews/plan-v1-snapshot.md` | 계획 v1 원본 스냅샷 |
 | `.omc/state/ralplan-state.json` | 합의 루프 상태 — **active=false, consensus_reached** |
 
-프로젝트 루트: `C:\Users\jack8\OneDrive\Desktop\project\Research` — git 초기화됨, 원격 `https://github.com/holymolygwakamoly/market-morning-brief.git` (main). 소스: `brief/`(collect, analyze, render, run.py, serve.py, fallback.py, sources.yaml, fixtures), `tests/`(119개), `scripts/`(probe.py, make_shortcut.ps1), `docs/`(생성 결과), `.venv/`(gitignore).
+프로젝트 루트: `C:\Users\jack8\OneDrive\Desktop\project\Research` — git, 원격 `https://github.com/holymolygwakamoly/market-morning-brief.git` (main). 소스: `brief/`(pipeline.py, serve.py, market/, collect/, analyze/, render/templates/research.html, sources.yaml, window.py, dedupe.py, config.py), `tests/`(84개), `scripts/`(probe.py, make_shortcut.ps1), `docs/`(SPA + data/ 스냅샷; reports/·status/는 v3 보관), `.cache/`(구성종목 목록 캐시·실행 로그, gitignore), `.venv/`(gitignore).
 
 ---
 
 ## 6. 다음 세션의 Claude에게
 
 - 사용자는 한국어로 대화한다. 질문은 한 번에 하나씩. 토큰/컨텍스트 소모를 신경 쓰므로 이 문서를 근거로 바로 진행.
-- **현재 단계: v4 계획 확정, 구현 미시작(사용자가 "코딩하지 말고 계획만"이라고 했음).** 시작하면 (1) `git status`/`git log -1`, (2) PLAN.md §11 읽기, (3) 사용자가 "구현 시작"이라고 하면 Step A(프로브)부터 ralph(PRD는 §11.7 Step A~F로 새로 작성). 구현 승인 없이는 코드를 건드리지 말 것. v3 코드(`brief/`)는 그대로 동작하므로 v4 완성 전까지 기존 대시보드 사용 가능.
+- **현재 단계: v4.0 구현 완료, 사용 단계.** 시작하면 (1) `git status`/`git log -1`, (2) `docs/data/index.json`과 최신 `docs/data/<날짜>/status.json`을 읽어 사용자가 업데이트를 해봤는지·결과(result, topics[].ok, failed_sources, market.errors)를 확인하고 문제가 있으면 그것부터. (3) 결정 19(robots API 기준)에 사용자가 이의를 제기하면 Yahoo 대체 소스 논의.
 - 되묻지 말 것: 더벨은 Google News 헤드라인만 / API 결제 없음(CLI 구독) / 모든 단계 opus / cron·Actions 없음 / v4: 업데이트 당일 KST·하루 1회, 과거 기준일은 저장분만, 구성종목은 미국·한국만, 보고서 6개 한 번에 + 탭별 재생성, 홈 핵심 5.
 - 코드 변경 후에는 `.venv/Scripts/python -m pytest -q` → commit → `git push origin main`. 대시보드 서버는 config를 import 시점에 읽으므로 **설정 바꾸면 서버 재시작**(포트 8765 프로세스 종료 후 `.lnk` 실행).
 - Claude Code 세션 안에서 `claude -p`를 직접 테스트할 땐 `env -u CLAUDECODE ...` 처럼 `CLAUDE*` 환경변수를 빼야 한다(코드는 이미 그렇게 함).
-- 새 결정이 생기면 3절 표에 행 추가, 1절 갱신. 계획 변경은 PLAN.md §10 이어서 쓰고 `.omc/plans/market-morning-brief-plan.md`에 복사.
-- 알려진 follow-up(우선순위 낮음): Yahoo 시세 병렬화, RSS bytes 파싱(인코딩), 미파싱 pubDate None 처리, 당일 success 뒤 수동 실패 시 배너 격하, href 스킴 화이트리스트, BOK 피드가 오래됨(MACRO는 사실상 Fed), stage1 opus가 느리면 배치 분할(2회 병렬) 고려.
+- 새 결정이 생기면 3절 표에 행 추가, 1절 갱신. 계획 변경은 PLAN.md §11 이어서 쓰고 `.omc/plans/market-morning-brief-plan.md`에 복사.
+- 알려진 follow-up(우선순위 낮음): 한국 구성종목 전일 종가 기준화(현재 장중 업데이트 시 장중 값), 한국 수급 대체 소스, 유럽·중국 뉴스 소스 보강(현재 Google News 의존 — 로컬 네트워크에서 간헐 접속 불가), RSS bytes 파싱(인코딩), 미파싱 pubDate None 처리, href 스킴 화이트리스트, BOK 피드 오래됨, 스냅샷 용량(구성종목 JSON 하루 ≈3MB) 정리 스크립트, 홈 카드 클릭 시 미국·한국 외 지수의 5일 차트 뷰.

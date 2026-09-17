@@ -373,7 +373,7 @@
 - 루트 `시장브리핑 대시보드.bat`(+ `.lnk`): `.venv\Scripts\python -m brief.serve`.
 
 **AC 변경**: AC-14/15/16(cron·08:30)은 **철회**(사용자 결정 12). AC-19는 "대시보드 버튼 + CLI `python -m brief.run --date`"로 대체. 나머지 AC 유지. 신규 AC-20: 날짜 범위 검증(오늘−4 이하·미래 → 400). AC-21: 대시보드 생성 클릭 → 3~6분 내 보고서 표시, 실패 시 오류 메시지·로그.
-## 11. v4 — 리서치 대시보드 (결정 14~18, 2026-09-17) — **계획 확정, 구현 승인 대기**
+## 11. v4 — 리서치 대시보드 (결정 14~18, 2026-09-17) — **구현 완료(v4.0), §11.10 참조**
 
 **배경**: 사용자가 현재 단일 보고서 + 날짜 선택 방식이 불편하다고 판단. "리서치 대시보드"로 재구성 — 좌측 탭 메뉴, 주제별 보고서, 지수별 구성종목 순위, 기준일 기반 스냅샷. §1~10의 수집·분석·렌더·CLI 엔진은 재사용하되 아래가 바뀐다. 사용자 원문 요지: 왼쪽 탭(홈/거시경제/섹터별 주요뉴스/미국시장/유럽시장/한국시장/중국시장), 홈에 전일 지수 등락(S&P500·나스닥·나스닥100·유럽·중국·한국), 지수 클릭 → 등락폭/거래대금/시가총액 탭별 내림차순, 각 탭 보고서는 최대한 상세(흐름·수급·주요 뉴스·이슈), 상단 기준일 + [업데이트], 과거 기준일은 저장분 자동 로드, **업데이트는 당일(KST)만**.
 
@@ -508,6 +508,35 @@ docs/
 | 17 | 홈 "오늘의 핵심 5" | **넣는다** | 6개 보고서 headlines 중요도순 5개, 클릭 → 탭 이동. §11.1·11.4 |
 | 18 | 같은 날 재업데이트 | **하루 1회만** | 완료된 날은 [업데이트] 비활성·409, 탭별 [재생성]만 허용. §11.6 |
 
+### 11.10 구현 결과 (2026-09-17, v4.0)
+
+**Step A 프로브 결과(확정)**
+| 소스 | 결과 | 채택 |
+|------|------|------|
+| Yahoo 차트(지수·환율·금리·원자재·섹터 ETF 45심볼) | 전부 OK. `^HSTECH` 404, `^KS200`·`000300.SS`는 일봉 1개만 → 제외 | ✅ `range=1mo` 일봉에서 직전 완료 세션 선택 |
+| Yahoo v7 배치 quote(`v7/finance/quote`, crumb) | 300심볼/요청 OK, 시총·거래량·등락률·marketState 포함. 미국 630 + 한국 2,600 심볼 ≈ 12요청 | ✅ 구성종목 시세 |
+| nasdaq.com 스크리너 | 동작하지만 `api.nasdaq.com/robots.txt = Disallow: /` | ❌ Yahoo로 대체 가능해 미사용 |
+| Wikipedia S&P500 | `#constituents` 표 503행(GICS 섹터) | ✅ |
+| Wikipedia 나스닥100 | 본문 표 사라짐 → `List_of_NASDAQ-100_companies` 페이지 102행(ICB Industry) | ✅ |
+| Wikipedia 다우30 | 본문·목록 페이지 모두 표 없음 → stockanalysis.com `/list/dow-jones-stocks/`(robots 허용) 30행, 섹터는 S&P500 목록으로 보충 | ✅ |
+| KRX 정보데이터시스템(전종목·투자자별) | 세션 쿠키 포함 모든 bld가 `400 LOGOUT` — 로그인 필요 | ❌ 한국 수급 데이터 없음(기사 언급분만 서술) |
+| KRX KIND 상장법인 목록 | 코스피 846·코스닥 1,839(회사명·종목코드·업종). 영문 포함 신규 코드는 Yahoo에 없어 제외 → 842/1,785 | ✅ |
+| 네이버 금융 | ConnectTimeout(로컬 네트워크) + HTML 크롤링 | ❌ |
+| Invesco QQQ / iShares CSV | 403 / HTML 응답 | ❌ |
+| ECB·BoE RSS | OK | ✅ MACRO |
+| BLS·IMF RSS / 미 재무부 | 403 / 타임아웃 | ❌ |
+| Google News 신규 쿼리 12개 | 프로브 시점 로컬 네트워크에서 `news.google.com` ConnectTimeout(09-15에도 동일 증상 후 회복, 당일 09:24 실행은 12/12 성공) | ✅ 채택, 접속 불가 시 누락 배너 |
+
+**robots.txt 적용 기준(신규, README §4)**: 콘텐츠 페이지는 robots 그대로 준수(더벨). JSON API 엔드포인트의 `Disallow: /`(Yahoo `query1/query2`, nasdaq `api.*`)는 색인 금지 목적으로 보고 낮은 요청량·식별 UA·캐시로 예의를 지키며 사용. **v2.1부터 쓰던 Yahoo 차트 API도 같은 경우였음(당시 검토 누락) — 사용자 확인 필요(HANDOFF 결정 19).**
+
+**계획 대비 편차**
+- 구성종목 표(한국)는 **장중에 업데이트하면 장중 값**(v7 quote는 현재 세션값). 전 종목 일봉을 받으려면 2,600회 차트 호출이 필요해 하지 않고, 표 상단에 "장중 값입니다" 노트로 표시. 미국은 KST 낮에 항상 마감 후.
+- 한국 수급(외국인·기관·개인)은 데이터 없음 → 보고서 프롬프트가 "기사에 언급된 것만, 무료 소스에 KRX 데이터 없음을 명시"하도록 지시.
+- stage1 배치 캡: 배치당 2회(2배치 병렬 → 최대 4회). 토픽 캡 2회(6토픽 → 최대 12회).
+- v3 단일 보고서 경로(`run.py`·Jinja 보고서·fallback·fixtures·`yahoo_chart` 어댑터·`--dry-run`) 제거. `docs/reports/`·`docs/status/`는 v3 결과 보관용으로만 남김. 구독 실행에 무의미했던 `cost_over_soft_cap` 경고 제거.
+
+**파일 구성(신규/변경)**: `brief/market/{base,yahoo,indices,constituents,__init__}.py` · `brief/analyze/{stage1_tag(배치),select(토픽),topics(6종),schemas(TopicReportOut/SectorReportOut)}.py` · `brief/pipeline.py` · `brief/serve.py`(update/regenerate/status/publish) · `brief/render/templates/research.html`(SPA) · `brief/sources.yaml`(뉴스 30개 + market 섹션) · `scripts/probe.py` · 테스트 84개(`test_market`, `test_pipeline`, `test_serve`, `test_analyze` 갱신).
+
 ## Changelog
 - v1 (2026-09-14): 초안. 소스 14개 접근 테스트 반영, 더벨=Google News RSS 결정 반영.
 - v2 (2026-09-15): Architect·Critic v1 리뷰 전면 반영 — (1) 이중 cron 06:50/07:35 KST(멱등 백업, 정각 회피) + `.nojekyll` + 클라이언트 stale 배너; (2) stage1·stage2 모두 `claude-sonnet-5` 기본(Haiku 4.5 설정 다운그레이드), 구조화 출력(`messages.parse`/`output_config.format`), max_tokens 16k, stage2 스트리밍 + `effort: medium` + adaptive thinking, stage1 thinking 비활성; (3) SDK `max_retries=0` + stage별 총 호출 캡(2/3) + 잔여 시간 데드라인 + 내부 데드라인 14분; (4) 수집 윈도 "직전 영업일 06:50 KST"(월요일 72h), tz-aware 파싱·소스별 `tz`, Yahoo `asof` 배지; (5) 최상위 예외 처리·`if: always()` 커밋·stage1 degrade·첫 실행 폴백·배너 중첩 방지; (6) Step 0.5 러너 프로브 + 소스 표 러너 결과 열; (7) KST 전면 적용(`--date`, 커밋 메시지, 21:50Z 테스트); (8) git bot identity·`pull --rebase` 재시도·`fetch-depth: 0`·requirements.lock·pip cache; (9) stage2 쿼터 입력 + `story_key` + Google News 접미사 제거 + bigram dedupe; (10) 수치 환각 가드(시그널 표 직접 렌더, 프롬프트 금지, 렌더 후 대조, leaders 스키마); (11) Jinja autoescape + XSS 테스트, feedparser 텍스트 파싱; (12) AC-6 최종 동작 확정(≥300자, 캡 후 경고 배너 게시), AC-9 자동 감축 삭제, AC-15 Pages URL curl 기준, AC-4 스펙 편차 명시; (13) 신설 "토큰·비용·시간 산정표", "리뷰 반영 매트릭스"; Option B CPU 수치 정정, ADR consequences 보강, README 런북, 공개 리포 필수 명시.
@@ -515,3 +544,4 @@ docs/
 - v3 (2026-09-15): 결정 12 — 로컬 대시보드 모드(§10). Claude Code CLI 구독 엔진, cron/API 제거, 날짜 선택(오늘~3일 전), GitHub 게시 버튼.
 - v3.1 (2026-09-15): 결정 13 — 모든 단계 opus, 예산 480s/480s, 데드라인 30분. 첫 실제 실행 관측(12/12 소스, 167건, stage2 2m40s) 반영. 런처 .bat ASCII-only.
 - v4 계획 (2026-09-17): 결정 14 — 리서치 대시보드(§11). 좌측 탭 7개, 보고서 6종, 지수 구성종목 순위, 기준일 스냅샷, 당일만 업데이트. 결정 15~18로 질문 4개 확정(미국·한국만 구성종목 / 한 번에 전부+탭별 재생성 / 홈 핵심 5 / 하루 1회). 구현 승인 대기.
+- v4.0 구현 (2026-09-17): Step A~F 완료. 시장 데이터 계층(Yahoo 차트·v7 배치, Wikipedia/stockanalysis/KIND 구성종목), 뉴스 30소스·지역 태깅·배치, 보고서 6종 병렬, pipeline/serve/SPA, v3 경로 제거, 테스트 84개. 프로브 결과·편차·robots 기준은 §11.10.
