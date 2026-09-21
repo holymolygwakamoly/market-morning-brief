@@ -1,0 +1,531 @@
+{
+ "topic": "cn",
+ "name": "중국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-21T10:43:33.457349+09:00",
+ "report": {
+  "title": "중국·홍콩 증시 데일리 — 반도체·소비·부동산 동반 반등, 미중 정상회담(9/24) 앞둔 '슈퍼위크' 진입 (기준일 2026-09-21, 직전 세션 09-18)",
+  "overview": "직전 세션(9월 18일) 중국 본토 증시는 종전 기대감과 반도체·소비주 강세에 힘입어 반등했다. 상해종합은 3,911.87(+0.94%), 심천성분은 13,641(+1.72%)로 마감했고, 항셍지수도 24,751(+0.60%)로 상승했다. 일본은행(BOJ)의 금리 인상(1.25%, 31년 만의 최고)에도 닛케이225는 AI·반도체 매수에 65,019(+1.38%)로 올랐다. 주말 사이 베센트 미 재무장관이 허리펑 부총리와의 회동을 '성공적'이라 평가하며 9월 24일 트럼프-시진핑 정상회담 기대가 높아졌고, 중신증권·중신건투·화태증권 등 주요 증권사는 '연내 마지막 공격 창구', '2차 회복 랠리'라는 표현으로 반등 지속을 전망하되 중추절 연휴 전 변동성 경계를 함께 권고했다. 이번 주는 미중 정상회담·유엔총회·알리바바 압사라 콘퍼런스·퀄컴 스냅드래곤 서밋·메타 커넥트 등 외교·AI 이벤트가 집중되어 변동성 확대가 예상된다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "9월 18일(금) 상해종합지수는 전일 대비 36.27포인트(+0.94%) 오른 3,911.87로 마감했고, 심천성분지수는 230.96포인트(+1.72%) 상승한 13,641로 본토 양대 지수 중 상대적으로 강한 흐름을 보였다. 연합인포맥스는 '반도체·소비주 동반 강세', 다음(v.daum.net)은 '종전 기대감에 반등…반도체 후공정 급등'으로 마감 배경을 요약했고, BBN Times도 '반도체주와 부동산주 랠리'를 상승 동력으로 꼽았다. 장 초반 상하이지수가 0.42% 상승 출발(뉴시스)한 뒤 오후로 갈수록 상승폭을 키운 모습이다. 홍콩 항셍지수는 오전장부터 상승세를 유지(The Standard)해 146.49포인트(+0.60%) 오른 24,751로 마감했다. 일본 닛케이225는 BOJ 금리 인상 결정에도 미국 증시 반등과 반도체 매수세가 유입되며 장중 700포인트 이상 급등해 64,600선을 터치했고, 표 기준 882.70포인트(+1.38%) 오른 65,019로 마감했다. 다만 BBN Times의 주간 리뷰는 상해종합이 주간 기준 1.07% 하락하며 2주 연속 주간 약세를 기록했다고 전해, 금요일 반등에도 주간 단위로는 글로벌 리스크(AI 조정·유가)가 지수를 눌렀음을 시사한다. 한편 같은 매체가 9월 21일 아침에 배포한 '상하이 0.07% 하락 3,885.33', '지역 약세 추종' 기사들은 표의 09-18 종가와 맞지 않아 자동생성 기사 오류 또는 다른 세션 기준일 가능성이 있어 본 보고서는 표의 수치를 기준으로 한다.",
+    "bullets": [
+     "상해종합 3,911.87 (+36.27p, +0.94%) — 반도체·소비·부동산주 강세",
+     "심천성분 13,641 (+230.96p, +1.72%) — 반도체 후공정(패키징) 급등으로 본토 양대 지수 중 아웃퍼폼",
+     "항셍 24,751 (+146.49p, +0.60%) — 오전장부터 상승세 유지",
+     "닛케이225 65,019 (+882.70p, +1.38%) — BOJ 인상에도 AI·반도체 매수, 장중 64,600선 돌파",
+     "주간 기준 상해종합은 2주 연속 하락(BBN Times 주간 리뷰, -1.07%)"
+    ]
+   },
+   {
+    "heading": "정책·유동성",
+    "body": "이번 입력 기사에는 인민은행·국무원의 신규 부양책이나 금리·지준율 조정 발표는 확인되지 않는다. 대신 시장 수급과 관련해 봉황망재경은 'A주 증량자금(신규 유입자금)이 지속적으로 입장하고 있다'고 보도해 반등의 배경에 신규 자금 유입이 있음을 시사했다. 신랑재경은 '중요 조정, A주 관련…오늘 개장부터 생효(9/21)'라는 제목의 기사를 냈으나 제목만으로는 조정의 구체 내용(지수 구성 변경 또는 거래 규칙 변경 등)을 확정할 수 없어 본문 확인이 필요하다. 동방재부는 중추절·국경절 휴장 일정이 발표됐다고 전했으며(구체 일자는 기사 본문 미확인), 신랑재경의 9월 21일 당일 매매 조언은 '중추절 전 창구'라는 표현으로 연휴 전 포지션 조정 국면임을 강조했다. 증권사 전략도 유동성 측면에서 참고할 만하다. 중신증권은 '연내 마지막 공격 창구', 중신건투는 'A주 2차 회복 랠리 전개', 화태증권은 '반등은 이어지나 연휴 전 교란 요인 경계', 기관 전망 종합 기사는 '반등 창구 지속 가능, 3분기 보고서가 다음 핵심 시점'으로 정리돼 대체로 반등 지속에 무게를 두면서 연휴·실적 시즌 전 변동성을 경고하는 톤이다. 대외 유동성 변수로는 BOJ가 정책금리를 1.25%로 인상(31년 만의 최고)했지만 반대표 2표가 나오며 매파 톤이 약화됐고, 대신증권은 연내 추가 인상 확률이 낮아졌다고 평가했다. 이는 아시아 전반의 캐리·리스크 자산 부담을 일부 덜어주는 요인이다. 북향자금(후구퉁·선구퉁) 수치는 기사에 언급되지 않아 기재하지 않는다.",
+    "bullets": [
+     "봉황망재경: A주 증량자금 지속 유입 보도 — 반등의 수급 배경",
+     "신랑재경: 'A주 관련 중요 조정, 9/21 개장부터 생효' — 내용은 제목만으로 미확정",
+     "중추절·국경절 휴장 일정 발표(동방재부) — 연휴 전 변동성·포지션 축소 경계(화태·신랑 당일 조언)",
+     "증권사 스탠스: 중신 '연내 마지막 공격 창구', 중신건투 '2차 회복 랠리', 기관 종합 '3분기 보고서가 다음 관건'",
+     "BOJ 1.25% 인상, 반대 2표 — 연내 추가 인상 확률 하락(대신증권), 아시아 유동성 부담 완화",
+     "인민은행·국무원 신규 부양책 및 북향자금 수치는 기사에 없음"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "직전 세션의 주도 업종은 반도체, 그중에서도 후공정(패키징·테스트)이었다. 다음(v.daum.net)은 '반도체 후공정 급등', 연합인포맥스는 '반도체·소비주 동반 강세', BBN Times는 '칩·부동산주 랠리'를 각각 강조해 반도체가 공통 키워드로 등장한다. 심천성분지수가 상해종합보다 큰 폭(+1.72%)으로 오른 점도 성장·기술주 비중이 높은 심천시장에 매수가 집중됐음을 뒷받침한다. 소비주와 부동산주도 동반 상승했다. AI 관련해서는 계면신문(jiemian)이 '해외 경기 공진 속 A주 산력(컴퓨팅 파워) 임대 기업 중 누가 돈을 버는가'를 분석했고, 중금공사(CICC)는 'AI가 A주에 의미하는 바 — 중간보고서 심층 해석' 시리즈를 냈다. 반면 광발증권 금융공학팀의 AI 이미지 인식 기반 퀀트 택시 보고서는 석탄·은행·배당(홍리)주에 주목하라고 제시해, 성장주 반등과 별개로 방어·배당 스타일에도 관심이 필요함을 시사한다. 개별 종목으로는 차이나모바일(중국이동)이 A주 중간배당 주당 2.51위안을 결정하고 9월 30일 권리락(除权除息)을 실시한다고 공시해 배당주 관점의 관심 대상이다. 화장품 업체 프로야(珀莱雅)는 홍콩 상장(IPO) 추진 과정에서 현금흐름이 약 30% 급감했다는 '조혈 위기' 보도가 나와 부정적이다. 홍콩 상장 대형주 중에서는 이번 주 알리바바 압사라(윈치) 콘퍼런스가 예정돼 AI·클라우드 테마의 핵심 이벤트가 될 전망이다. 비상장 AI 스타트업 문샷(Moonshot, Kimi)은 CICC·벤처캐피털 등 금융기관과 계약하며 모델을 월가 주요 데이터 제공업체에 연결했다고 CNBC가 전했다.",
+    "bullets": [
+     "강세: 반도체(후공정 급등), 소비주, 부동산주 — 심천성분 +1.72%로 기술주 강세 확인",
+     "AI 산력(컴퓨팅) 임대: 해외 경기와 공진, 수익성은 기업별 차별화(계면신문 분석)",
+     "퀀트 관점(광발증권): 석탄·은행·배당주 주목 — 방어 스타일 병행 필요",
+     "차이나모바일: A주 중간배당 주당 2.51위안, 9/30 권리락",
+     "프로야(珀莱雅): 홍콩 IPO 추진 중 현금흐름 약 30% 급감 보도 — 화장품 섹터 경계",
+     "알리바바: 이번 주 압사라 콘퍼런스 — AI·클라우드 이벤트",
+     "문샷(Kimi): 월가 데이터 제공업체·CICC 등과 금융 특화 연결(비상장)"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "가장 중요한 뉴스는 미중 정상외교다. CNBC에 따르면 베센트 미 재무장관은 허리펑 중국 부총리와의 회동을 '성공적'이라고 평가했으며, 9월 24일 트럼프-시진핑 정상회담을 앞두고 사전 조율이 순조롭게 진행 중임을 시사했다. 로이터는 정상회담이 원자재 시장(농산물·에너지 등)에 미칠 영향을 분석하는 기사를 냈고, 국내 매체(뉴스핌·네이버 프리미엄콘텐츠)는 이번 주를 '글로벌 외교·AI·반도체 이벤트 슈퍼위크'로 규정하며 미중 정상회담, 유엔총회, 알리바바 압사라 콘퍼런스, GMIF 2026, 퀄컴 스냅드래곤 서밋, 메타 커넥트 등을 주간 포인트로 꼽았다. 유가는 급변동했다. 로이터는 9월 19일 중국이 이란에 사우디 석유시설에 대한 후티 공격 자제를 요청했다는 소식에 유가가 하락했다고 전했고, WSJ는 공급 우려 완화로 3일 연속 하락을 보도했다. 표 기준 9월 20일 WTI는 93.73달러(-6.55%), 브렌트는 97.16달러(-6.46%)로 급락했으나, 21일 아침에는 후티의 사우디 수도 공격으로 중동 긴장이 재고조되며 유가가 반등했다는 보도(야후파이낸스·GBAF)가 이어져 방향성이 불안정하다. 블룸버그는 흑해 봉쇄가 '제2의 호르무즈'로서 식량 공급 충격을 위협한다고 경고했다. 로이터는 21일 아시아 증시가 기술주 주도로 상승하고 유가는 완화됐다고 전했다. 이외에 마켓워치는 중국 우주기술 기업들이 스페이스X를 추격하며 글로벌 우주경제 진출을 노리고 있다고 보도했고, BOJ는 정책금리를 1.25%로 인상하되 반대 2표로 매파 색채가 약화됐다. 상품시장에서는 금이 4,416.70달러(-0.19%)로 소폭 조정, 구리는 6.71달러(+1.50%)로 상승해 중국 경기 민감 원자재에 매수가 유입됐다.",
+    "bullets": [
+     "베센트-허리펑 회동 '성공적'(CNBC) — 9/24 트럼프-시진핑 정상회담 기대 상승",
+     "유가: 중국의 이란 자제 요청·공급 우려 완화로 급락(WTI 93.73, -6.55%) 후 후티 사우디 수도 공격으로 21일 반등 — 변동성 지속",
+     "블룸버그: 흑해 봉쇄발 식량 공급 충격 경고",
+     "이번 주 이벤트 집중: 유엔총회, 알리바바 압사라, GMIF 2026, 퀄컴 스냅드래곤 서밋, 메타 커넥트",
+     "BOJ 1.25% 인상(31년 만의 최고), 반대 2표 — 추가 인상 기대 약화",
+     "마켓워치: 중국 우주기업, 스페이스X 추격 및 글로벌 우주경제 진출",
+     "구리 +1.50%(6.71), 금 -0.19%(4,416.70)"
+    ]
+   },
+   {
+    "heading": "한국 영향",
+    "body": "첫째, 반도체다. 중국 본토에서 반도체 후공정(패키징·테스트)이 급등하고 닛케이도 AI·반도체 매수로 강세를 보인 만큼, 한국 반도체 장비·후공정·소재 밸류체인에는 아시아 전반의 반도체 리스크온 분위기가 우호적으로 작용할 수 있다. 다만 BBN Times가 언급한 '글로벌 AI 셀오프' 우려와 이번 주 퀄컴 스냅드래곤 서밋·메타 커넥트 등 AI 이벤트 결과에 따라 방향이 갈릴 수 있어 이벤트 확인이 필요하다. 둘째, 화장품이다. 프로야의 홍콩 IPO 과정에서 현금흐름 약 30% 급감이 보도된 것은 중국 로컬 화장품 업체의 수익성 압박을 보여주는 사례로, 중국 매출 비중이 높은 한국 화장품·ODM 기업에 대해 중국 내 경쟁 심화와 수요 둔화 리스크를 재점검할 필요가 있다. 반면 본토 소비주가 동반 강세를 보인 점은 단기 심리 개선 신호다. 셋째, 미중 정상회담(9/24)이다. 베센트 장관의 '성공적' 회동 평가로 관세·무역 긴장 완화 기대가 커졌으며, 이는 중국 노출도가 높은 철강·화학·2차전지 소재 등 한국 경기민감 업종의 센티먼트에 긍정적이나 결과 확인 전까지는 변동성 요인이다. 넷째, 환율·원자재다. 원/달러는 1,379.53(+0.21%)으로 소폭 상승했고 위안/달러는 6.71(+0.02%), 달러인덱스는 100.22로 사실상 보합이어서 원화-위안 연동 측면의 급격한 변화는 없다. 유가가 하루 6% 넘게 급락(WTI 93.73)한 것은 정유·항공·화학 원가 부담을 덜어주지만 후티 공격으로 21일 반등한 만큼 유가 방향은 여전히 불확실하다. 구리 +1.50%는 중국 경기 민감 원자재 수요 기대를 반영해 비철·산업재에 우호적이다. 마지막으로 중추절·국경절 연휴를 앞둔 중국 시장의 포지션 축소와 3분기 실적 시즌 진입은 중국 관련 한국 종목의 단기 수급에도 영향을 줄 수 있어 화태증권이 지적한 '연휴 전 교란' 가능성을 염두에 둘 필요가 있다.",
+    "bullets": [
+     "반도체: 중국 후공정 급등·닛케이 AI 강세 → 한국 장비·후공정·소재에 우호적, 단 글로벌 AI 조정 우려 병존",
+     "화장품: 프로야 현금흐름 급감 보도 → 중국 로컬 경쟁·수요 둔화 리스크 재점검",
+     "미중 정상회담(9/24): 베센트 '성공적' 평가 → 철강·화학·2차전지 소재 센티먼트 개선 기대, 결과 확인 필요",
+     "환율: 원/달러 1,379.53(+0.21%), 위안/달러 6.71(+0.02%), 달러인덱스 100.22 — 급격한 변화 없음",
+     "유가 급락(WTI -6.55%) 후 21일 반등 — 정유·화학 원가 변수 불확실, 구리 +1.50%는 비철·산업재에 긍정적",
+     "중국 연휴 전 포지션 축소·3분기 실적 시즌 진입 → 중국 관련주 단기 수급 변동 가능"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "차이나모바일(中国移动)",
+    "ticker": "600941.SS / 0941.HK",
+    "comment": "A주 중간배당 주당 2.51위안 결정, 9월 30일 권리락(除权除息). 광발증권 퀀트가 주목한 배당(홍리)주 테마의 대표 종목."
+   },
+   {
+    "name": "프로야(珀莱雅)",
+    "ticker": "603605.SS",
+    "comment": "홍콩 IPO 추진 중 현금흐름이 약 30% 급감했다는 '조혈 위기' 보도. 중국 로컬 화장품 수익성 압박 사례로 한국 화장품주에도 경계 신호."
+   },
+   {
+    "name": "알리바바(阿里巴巴)",
+    "ticker": "9988.HK",
+    "comment": "이번 주 압사라(윈치) 콘퍼런스 개최 예정 — AI·클라우드 테마의 핵심 이벤트로 홍콩 기술주 방향성에 영향."
+   },
+   {
+    "name": "문샷 AI(Moonshot, Kimi)",
+    "ticker": null,
+    "comment": "비상장. CICC·벤처캐피털 등 금융기관과 계약, 모델을 월가 주요 데이터 제공업체에 연결(CNBC). 중국 AI 금융 응용 확산 사례."
+   }
+  ],
+  "events_today": [
+   "9/24 트럼프-시진핑 정상회담 — 베센트-허리펑 사전 회동 '성공적' 평가, 관세·원자재 시장 영향 주목",
+   "유엔총회(이번 주) — 미중 정상외교 및 지정학 변수",
+   "알리바바 압사라(윈치) 콘퍼런스 — AI·클라우드 발표",
+   "GMIF 2026, 퀄컴 스냅드래곤 서밋, 메타 커넥트 — AI·반도체 이벤트 집중(뉴스핌 '슈퍼위크')",
+   "9/21 A주 관련 '중요 조정' 개장부터 생효(신랑재경, 내용 미확인)",
+   "차이나모바일 A주 중간배당 9/30 권리락",
+   "중추절·국경절 휴장 일정 발표 — 연휴 전 포지션 조정 창구",
+   "3분기 보고서(三季报) 시즌 — 기관들이 다음 핵심 시점으로 지목"
+  ],
+  "headlines": [
+   {
+    "text": "상해종합 +0.94%(3,911.87)·심천성분 +1.72% — 종전 기대와 반도체 후공정·소비·부동산주 강세로 반등, 항셍 +0.60%",
+    "importance": 4
+   },
+   {
+    "text": "베센트 '허리펑 회동 성공적' — 9/24 트럼프-시진핑 정상회담 앞두고 미중 완화 기대, 유엔총회·AI 이벤트 겹친 '슈퍼위크'",
+    "importance": 5
+   },
+   {
+    "text": "중신 '연내 마지막 공격 창구'·중신건투 '2차 회복 랠리' vs 화태 '연휴 전 교란 경계' — BOJ 1.25% 인상, 유가는 급락 후 반등",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "지수·환율 표는 09-18 종가 기준이며 원자재는 09-20 값으로 기준일이 다름",
+   "BBN Times 자동생성 기사 간 상해종합 수치가 상충(3,911.87 상승 vs 3,885.33 하락, 주간 3,888) — 표의 09-18 종가를 기준으로 작성",
+   "닛케이 상승률은 표(+1.38%)와 Investing.com 기사(+1.52%)가 상이 — 표 값을 인용",
+   "북향자금·거래대금 등 수급 데이터는 입력에 없음(봉황망 '증량자금 유입'은 정성 보도)",
+   "중국어 기사는 제목·한 줄 요약만 제공되어 '중요 조정 9/21 생효', 휴장 일정 등 세부 내용은 미확인",
+   "홍콩 항셍 마감 배경 기사는 오전장 기준(The Standard)만 제공됨"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVNkWmozbEwxTmtTeERTZ05nNGN4VTBsYlZvcGRzZjVyVllORU5fdVZBRFNkckhHN2JhQUZuV2QxaFcybXE4RTR1WTlENTlFc3FpS2RNSXA5UUZhTzYtR1RSVWNIR3NuZ2VWY0M1Y05qR1BZLW5CZ2VnbFYzaDlBMVhkaFNpNjFkS29lZWx0U1ctVjktMjhtbDJKLVh3UF9KZ082bWZaU0VzSVd5Nm1ja05oYUEtZWlmb1hhNGItWkdQZ08xMFZWWWNMXzJ5eDQ5X2Q3a1ZzRHY2MHJWcklfXzJ2elFXdkMt?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:46"
+  },
+  {
+   "title": "重要调整，涉及A股！今日开盘生效",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3ByZVpUb0FONlBDZ09UMXdDVG9hRTF6ZDZDS2E2cEhWYjdNVnhWak9GYXlqV3Q3a0xKSUZiekVPMEFkQXdqSUdKM3RCNHc4WERINmpGaV9qU0R5QjJWZ2V6ZkhNVmEySjlsNDFjSmFjTHpUR1BJQzBmZDVZcnVld1dBU21YU2w1NGRZSDdR?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:19"
+  },
+  {
+   "title": "A股增量资金，持续入场",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3UEp2SGpWN2gzMDlNOEk0UllMWE80RjU1X1FTQXZka084SnhJMkZ5SGg1NC1FZkdmX25tcnZ2S25aTUhkSEIzYkYtSTgzYm14?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "凤凰网财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:10"
+  },
+  {
+   "title": "SSE Composite Today: Shanghai Jumps 0.94% to 3,911.87 as Chip Stocks and Property Shares Rally",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVNJMm00QW9FcXd4TVJoNUZjUlFCc1M1U2FJT00zamlla0pTYUs0YXdYUjVCUnVKM1hOREJMd3V2emItcDFvSkZ1U2kxZHhHejNua0M4SEZvUUw5U3p3Q2pBcUhtNUNLaDNxeklMbHMzV09ZMzAzTVNtVmxLMFFhMzBlUkVuc1QweTNjNjBwWlNQN1MzSVlCdnNNaHE4U2Q5OUF4ZzB4LWp5enFoSkg0WUhCY3FFTjJkR0NaSm5YNW5keUdNdGpScnFrcHI?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-19 06:55"
+  },
+  {
+   "title": "A股普涨行情来了！这条赛道下周继续上涨？",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zMTFvU0gtYUE5YmNkZU0wa2RoOWhOVnhvb0lnVmFEMzRjdy1oN0RKMkdySFZqV00xZUttMG42V25NOVBIM0pWbGxwckJvM1ZhbmRvTjNrdDR5MkhnYVE?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "同花顺财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-19 00:20"
+  },
+  {
+   "title": "[중국증시-마감] 반도체·소비주 동반 강세에 상승",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GVFQ4eVF6X1oxcnNsZXdTTFVRMzBKamwtUDVycGRnd0ROWDYyb1hfLXcxSFh3Qlpac0kybGd5M3pjaUdIUGVVbUp2Wlp4TkFGcmk4UXdlSWY4VDY0WDRyeUJSekFqTXZlSWQ5T2dBaHo?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-18 18:33"
+  },
+  {
+   "title": "[中 증시 마감] 종전 기대감에 반등...반도체 후공정 급등",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWMUZoRktLQTA4bVhacDJ1a2RhVnphcjBrLWZXMmRfVlpUQ0IzS1FPQXhYSmYzVHZGV1lkcGV6aFE5LWRsNVpqdzA3NA?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-18 16:06"
+  },
+  {
+   "title": "中信证券A股策略聚焦：年内最后的进攻窗口",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RRUV0SDY2Mmt3eEwtejd4YTJUVDNEODlTZUZBN093dm1DbnZjcTlzM1ZJMExlLUR3cHVhU2ZncFh0bUdVM1VwWVZOS2wxQTRKWHJ6blRlR08ydmFtbTc3VEcyeElZUEdINjh0N3hGMUpURTd6Y3cyMA?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 09:44"
+  },
+  {
+   "title": "中金：AI对A股意味着什么？——中报深度解析系列",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVFRb2RidU5ZTEh4QnNaQ1owNEFidEdsUzZFS2FKSm9wTDhCREpPcVI0cXJ1X3djcGJJNmMzNWpaa3FYNmR3eURsNWFTSXdzS09iNGFXbTA1MjFCeDE3b2NrNGEtaFg1WDVMVmV0MlQyVWozTUtnaGxTeDRIVVRJV3ZjQVM4QQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 09:00"
+  },
+  {
+   "title": "中信建投：A股第二轮修复行情展开",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hTU82T1AwTmlKOWUxZUNUWG1DVkY5ekZxWXdsRzRCYmJRUEZnSmlRbzBiZXV1VTVqMkFnTldjeGFWeWhwdHFWcXR0b25PUEpjR0c4TWVMLUFMV0xsOWs0RjJYU0RranBkZVE?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "大河财立方",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:52"
+  },
+  {
+   "title": "华泰证券A股策略：反弹延续但需防节前扰动",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CdjZMM0JFS1E3UEhDaXJMTmJHb043NnhIcUZ4NElYblZYa2xnc21VMDF2Xy1CdGRKbTVMaDgtaGdPSmJOdnJwUHctVHljeXJzaGp6TFRVOGZBR0o4MjNIOC1sdC1vQQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:40"
+  },
+  {
+   "title": "[AI MY 뉴스] 21일 중국증시 '글로벌 외교, AI·반도체 이벤트 슈퍼위크...변동성 주목'",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqQl9yYlJhdWloejFhMHV4UG1vdG5MTkVLYmc5VWxVNXZSQ3d3eW9KRkJ2ZWNBVlZkODk1OE4tNU9idWZoeVN2N3hrMlBFYkRUX0h0TVdzYnJqN0kw?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:38"
+  },
+  {
+   "title": "SSE Composite Today: Shanghai Benchmark Slips Just 0.07% to 3,885.33 as Mainland Investors Shrug Off Global AI Jitters",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWjZ0RTdHdGY3bEJ2YU9ReWdfNHNmMlBqdzEweVM0MEZIYVRjQXc4emZ6ZkVOYmNsVHh1VWZGQzJJSlZfWjBIVlAxU19QMkRwYk92VjZ3T0tfbVJCUUtuczV3S2JaYUU4TzJOR2doWF9mYzQ0ZktfRkVuT1UyejJ2a3g0ZW5lUFpHMWpVWHhkZDFTaEY3aFFnZU96VDJ6bC1JRjctRmNNeXdzcVM2WGRpU3BtSmNycmxKSndBS2wyTnJydGhERS1Oa0VWZm96WHY4U1RsWnhXWnVhYVh4cHQtd1ZkMEdKQQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:35"
+  },
+  {
+   "title": "机构展望：A股反弹窗口有望延续 三季报或是下一个关键时点",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EM1hnTG1VMHlKYkFacmVlRzk0QzhZTjFsX0dQeFZINTFTOUN0VnpweXNtaXFFdGU0YmRwZFJFNWlwZjd4VFB6MThUYnBDZ3VpYk1xZEpHczM0cDVNZFh3LXFhOThLT0x1VlJOSzRkWWgyb0VHNUo5MA?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:31"
+  },
+  {
+   "title": "9 月 21 日 A 股当日操作建议（结合市场消息，中秋节前窗口）",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUjQ3ekdpWHk2Nmd3UTJmZjNhZVI4ME9ycXpNaEdnaTZTbVNuSVd1SG9YZnAyN21TcnVFVkRPUkNoWnRyaktzZXFKWFhCbjl6bjRlNTl5UEV4NW1MSmdGMVJhdXFheS1xcEVkZDBDbzJod3BNc1lvTURCaE9qdXBNcTdqUXhnZW5yTHc?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:28"
+  },
+  {
+   "title": "中国移动A股中期每股派现2.51元 9月30日除权除息",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2amtvUTBfMlRIV1BNTWx1RW4xcE1oVjJtVUdmS2h4SFk1dUI0Y21lbzZibDV0VS1hNEhHR0pvTzNralk3Z3FKT0J1SnJHSFlIZHQtZHpCRDR5Mng3RklzVVlPS1QzWGVabzViWDd3?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:25"
+  },
+  {
+   "title": "广发金工 | AI识图关注煤炭、银行、红利：A股量化择时研究报告",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONjBjS1dmZUx4bzBxSFJzYmlWbEpZTzR2bXNvemI2V1RrRnQyaE05M3huVHVYTEhqTkdqMEc5ODZGT0tRcmI1WUFwRjFMV0xnc0NpRks1VEMtU2VVYTc4WVNaRXBhRGlTREk5M3ZEVUVBSHd3bjdRek9hUTU5SXktMllxNFd5Zw?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:05"
+  },
+  {
+   "title": "财说| 海外景气共振，A股算力租赁公司谁在赚钱？",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9COURZX3lmdWtwN29UNzlEc2FRbndCTldfaFE4N096WTdCaHUtMTh2X1RjRmxfYU0teHppZ0JscElHUExoSE81bF9WQTRQdnFXakxrOHhlRWI?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "jiemian.com",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 08:03"
+  },
+  {
+   "title": "[중국증시 주간 포인트] 미중 정상회담, 유엔총회, 알리바바 압사라 콘퍼런스, GMIF 2026, 컬컴 스냅드래곤 서밋, 메타 커넥트, AI 4대 축 이벤트 등",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mZTByM1RFS0RJRkJrU01YRS1ZR290amRUZzRxdVdZb1hHWF9wbnA4TEdjZGRVVkwtTmgwRjBlWHFlWHozQmNhOXNndk9COVZudDNFMjd6SGdjdTJZN256eGFKUjBsOFpUYkdNaXpfcjVaRi1KN3lvLVBnYw?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "네이버 프리미엄콘텐츠",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-20 23:15"
+  },
+  {
+   "title": "China is chasing SpaceX and setting its sights on the global space economy",
+   "url": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-20 22:53"
+  },
+  {
+   "title": "下周A股，重要节点来了",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0laSUFuMVlMc3M4ZTNpUWRfZEJwMFpzUnNNaGIwZnJ5MlFxMDdZU0ZnWGFqbE1jZWt0aUtkT1NJVDZHeDhUalpFYmlhVWtpTmwyU2kxU1JJUGRrMXEweUVnU3BCeVp3cG9LbDBDQU85RE9DZklOSDBFUnJEbzhuLVROczhHc3oyb2swdVNHSG8wcE5yYXlTZTVyLVQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-20 21:27"
+  },
+  {
+   "title": "SSE Composite Today: Shanghai Shares Slip As Global Risk Appetite Cools",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREx0T2VhblVSOFVCQWhSWnVwSVVkSUlVZnFkbXd2UG5URlVfeVgyU0tCOThJMkV3UmFFZU5uVzRIVGdRVk9wczZmVDdhT3VMT2hlbUhNUkxzTU40RXhoSDJHS1hyWWhGRHk4YmotYWlJNEVwcDVoSFFRcGs0NzE5NTRXbEhlQnFQRmIwd3FzZFY5YXh1T0F0UmJpbnNpY3ZMMHFKZm1GdFR2M2tMelhR?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-20 20:35"
+  },
+  {
+   "title": "Shanghai Stock Exchange Weekly Review: SSE Composite Slips 1.07% to 3,888 as Global Risks Dominate Second Straight Weekly Loss",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQmNrT19heWhNcm94NFpGZHBqLXh3VS04RlpiME5aLWs4cldZd29lUWVSTW1HSTVVZjFlZTZfR0NieDVLTzlGTXMxVjI3RlB4eTE5REhLUWF5RFZMRTB5cGhGNUFlNlhVQkhjbS1vcTJXeWhIdTdXUFFmMDdvaXJ5ZEk1RUs1R0pfVlZTX1d1UVBmNW5yMHRWdFBZT2U2akQxQ0Z0bGpWdzl0Nk9KNzZrelpFWHlfOFU5eXI5UWZaRW1aWGVQS2l3dmV6T1Q1cGExZ3EwVU9XeWFfSjYwQ3BBQnlDWHQ1eDd6cV84bjdiUjA1YlkzZWc0?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-20 13:36"
+  },
+  {
+   "title": "A股中秋、国庆休市安排来了",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnR0wtOWRsMHNkMnQ0WVE3Q0ZEajhidXp2X094LWV1UkMzQ01JMUNVb3pNT2pfQ3Zjcmxpaks4OWF3d1NCVTZYZnFFRkZra28xWGctN1U2X0xmRHR3d1RoSg?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-19 04:35"
+  },
+  {
+   "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+   "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 17:41"
+  },
+  {
+   "title": "Hang Seng Index rises at noon on Friday",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmdKN2c3MWlPRWdHOHBwT2tlZjV4VnFCVnZmRE5ubGttZzJneE9lVGg5Y3VoQVhfVVRtQ2lFZGZpaUhRdFo5YmFjVGlfekRQbnVWN3ItVFIwRHlrX1hPNTRneFFTQUR2NTlfa1NNY0xqUTJrX2gtVnNDQmpWRE5KbUVHeUI4UHlIb0FOamlZQ2t3Q1dqNlpidQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "The Standard (HK)",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-18 13:24"
+  },
+  {
+   "title": "[올댓차이나] 중국 증시 상승 출발…상하이지수 0.42%↑",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGeE51bjJheGhPUmlqRVAyNmhEX21BY2NCaGZfZ1VZR0ZEeHhVLTRVTlZBQXhoWVF2SVhIc1V3OFFJcnIyUUFGQUNsc3JoOXZtYU0wV1VLYU5kWGpsSlk0SEpIVW9nZjREVjAwVVFqNHNPSjU4NThaeNIBeEFVX3lxTFBGeE51bjJheGhPUmlqRVAyNmhEX21BY2NCaGZfZ1VZR0ZEeHhVLTRVTlZBQXhoWVF2SVhIc1V3OFFJcnIyUUFGQUNsc3JoOXZtYU0wV1VLYU5kWGpsSlk0SEpIVW9nZjREVjAwVVFqNHNPSjU4NThaeA?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "newsis.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-18 11:15"
+  },
+  {
+   "title": "Hang Seng Index climbs in early trading on Friday",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZjZYLWRWVVp0VG5wNFhoTXpFd2NDSFRZczg0YWVQOEp4MVJmSnZFTHV5cEY0Zk96OFVmSllpZWlMajBzXzdoOE9VSVp0M3ltSGV3ajlibGxjLTZ5R0NPZExfeTJBVTIwR185QWhlbTY4ckZuU2ZZUUVzeThuVkpGWnVxcFh4RlNBNkFPQ3ZoNTdnb2U0VGRnSmhTOWpWZ2l2ZjJtZkJ3?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "The Standard (HK)",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-18 11:14"
+  },
+  {
+   "title": "[AI MY 뉴스] 18일 중국증시 '뉴욕증시 반등 효과 이어질까…美 금리·미중회담 변수 주목'",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XNzNvZ1RfcTZpakJ6Vks4N0RvVlBiQ0lkX3ZQeUt0c1VPMGI4LWhXSzR3ZnZZQjdVcnIzUXR4SFVIVU5OVU1RX3pEcVAzbWF3SUd3bUJHNGJSYVZE?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-18 08:32"
+  },
+  {
+   "title": "现金流骤降近三成，珀莱雅港股IPO遭遇“造血危机”",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjgwa184TTFDTHFnN2J0X2Rnc1V0V0djOURZVk9uMkIwS0c2SElpRVhVOWtrVnktbDZHWFA5bm5meHJDaFFBaFgyT3BJS1dIZzh2dkpxNS13dnZUNGVnVlMzamh6ZzNDTFk0WW9XUFN0Y3N3OW91c3JWdzduTzFoODhrMA?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "手机新浪网",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-21 09:28"
+  },
+  {
+   "title": "\"日 금리 1.25%, 31년 만에 최고…연내 추가 인상 확률↓\"-대신 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IM1FyeWhOVkUxZW0tdFM3QXhFVUtjWXVIYkd5NVl3OFBoSHJKTGdXcndUVXJiOEUtaFd5TUdNaWFQc3UtWFd2c1B4S3h2bmV4UHI2WEtlQlRiU3Y1bkhQRl9LR2dwbEFx0gFuQVVfeXFMTWZRSTNLYUhnVjZkYnJCYm5XWkI3VlVnNXNSVUZMa041cE5JN0NrOGdxQk5EYnBGT1F6WHV6TTV2Z3hQS0xfdVJfLTEtMnJ4TVpYVWwybVV5UzE2cUZwSWV6QjhibkpJVTNyUHQzUHc?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 08:41"
+  },
+  {
+   "title": "Global Market: Nikkei gains 1% as AI, chip stocks rally; BOJ hikes rates",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRmhXY1NoSFJ5cnJzZHJJVTQ3UnRseUhHcTJPa1lyekU1YmhsUzZTWkt6enpJbHNhNkpBclVfYXlQSWdYVE5wNnpUN2xaSXlOR2ZJWXRrejVGazhuRFlvRjA3S3dqazAzNUhmRUdzNlM4akpJSjg3aEVjRnVnYngwY0F4V1pqTzUzWUdrMjN1c3hNVFl1M0ZCTVlreDhZc3ZJanlsU05lMnFTRTJaN2c2ckMyQXRZVk5FRDQxOF9vSzd2VTN6YjYyUFhfYzZvVm03bUs4eG9tWm9BeWdxdXfSAeMBQVVfeXFMTkMzMUU3aktUc1JnY2RxVENNbFZwWjhEeFJNemNZUTF3bEhrZkZqTU92ZjhocjVmLVZoNHVDTUM2dUkydGtmQ3RhazRyNTdEQlhXS2xvRmUtOXRQVWc1X25FLXY0aUt1ZUY3MUgzZzV0M3lOSnd0aktsOEg0WHU1bW9MV1RPeVhrRDBfV3ltcnpwWGpaOXNkQ25lLWo5SUlpSDBZVmtHTjNEMl9zSUVGN0tHYmhaenJQYk9ZZDFzdWhxYkdQWlpIY2I3REFtOEdMR2g5bkNKc0lqYWFEWnhFMzhZUnc?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "The Economic Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 14:15"
+  },
+  {
+   "title": "Hawkish Tone Diminishes as BOJ Rate Hike Faces Two Dissenting Votes",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN284dFY5eWp4TTNIV29yYXRlSVVkN09lMkQ5dEYwZGYtMmVNNXRPb3ZRTEFpOXNNWTNPVElPaXJpQTBpdktDNmYyRjJIYUVXazBIVXlHUks5Q3RHNFJVVS1sVWk5cElURTlXdnBqUGtyY1dhcHJuWlhJSmRxV2xtaktlVnk0R29PZGRtMjlvVDltQW93SkQ0bWVMUFV5OE5p?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "Moomoo",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 13:08"
+  },
+  {
+   "title": "Nikkei extends gains, briefly surges over 700 points to 64,600 level on U.S. stock rally and semiconductor buying",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TNzFvUnBvbVVSTUFaSkcxaC1naUxXUlNzc2RjTGhPazJha2xZMGwwc243a2dpMjNXZkFET3d0YWFXMWo4UnpIclRhOGxNUnViVGVrNFRJOVdEc21DV2lwc1FUOE9CdGhYLVB4dTJob0ZSUEdhOEE?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "finance.biggo.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 11:25"
+  },
+  {
+   "title": "[Stocks in Focus] Nikkei Average rises more than 700 yen as buying returns amid pause in U.S. crude oil prices and long-term interest rates",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTdvUlJ2SUVUMkhaZWRocUNHbWVWN2NFUGNDdjBWRjc4bU1DRHFZMEtBcm5JOGpTY3ZuT3k3MFAya09DZUs5VFBlTGtENHM2dVZpT2Q1VGNtbWs4RE84TlJPc09HMjJkSkdrbzVGOGRoSm5HZ2NnMlBjVDRMUTRoQk1WWnkxUG1yS0JmX25pSGRGWTE0YWZPd3F0VEg?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "Moomoo",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 09:35"
+  },
+  {
+   "title": "Japan stocks higher at close of trade; Nikkei 225 up 1.52%",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEo3YldPbllIWFlGeTl1OXpNVGFOQ01uUTM2aDNpUVBWaTE0ODFlTTdCOVdjZ1pBVmprOEh6alVpOW5kcGdtOGRFQVk4czMzd3RfT1c0LVB2anBia29GdWtOMGNzUEdTLUwwWFJtM2pmSGZZeU5jUUpHU21sSDJaSmxROHJhRHY2cmxWeWNWQVpleFlMaU8zUlVUTFV0c1lNMXBXSC15TnN6c1Z4NTlTY0NB?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 21:49"
+  },
+  {
+   "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+   "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-21 09:45"
+  },
+  {
+   "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFJoRXZCYjFhejNmdnZxMlZmLUpoZU01MnVwdUV2RExPdzNVakNrU1podnNzVVh5Zl9DVG90MXoyeGJaYzhLdVFhaHpta251VnRpVVBzTXhCSGt6R2VuYTF6QXotM0ZxLVlBYTlqYUF6azJ2VnhJcmJkMnNsdVYyTl9WQzdGNExtWE44MkdTY2JQQjRoMUhZclV5TDlVMVRqRlBrR1JCZUp3ZTNGMzZsNTFhRnUwWlY2VTZUbk5B?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 08:01"
+  },
+  {
+   "title": "Oil Prices Rise After Houthi Attack Escalates Middle East Tension",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEc1NFVwT2lBaTdmOUUwSVJyTkFoT2J1cmtQQW5jeVFDMXFhUW5CNy1lS2gtMEtJV0pDRjkwNFhEZU5sb0dmd0VtdXUtaUlsUHB3cnlMWFFiLXdGcnFGdWlnNkp4cHhHcmlpY0psaU1rYVg1MWQ2Zi1RMDdmZURnbzNSMHg?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Global Banking & Finance Review",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 07:18"
+  },
+  {
+   "title": "Oil rises after Houthi attack on Saudi capital",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlhjMTlpVzkzVzZobWN0b1kwemktMjc2anNlR1h5ZVp2RFVqanlqVjRXbjlFMUp0NWl1NDBJZFgwa2hZTThvLWRNUGxobnVXb1B4Q3ZqRkxTSERiUHZpYXhKSTBPWUQzSzFKTEstRmFiQVozVzhGWVhYMlpocXZWbkgwWkdBSk9IUFlPYmlKcw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 07:12"
+  },
+  {
+   "title": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-19 17:20"
+  },
+  {
+   "title": "Oil Futures Fall for Third Day on Easing Supply Concerns",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjZGMnVLdmRRX0tKcXZDZnMzaFBGbXZwUVNDYW5BQnBNclpEZmVLVnFfSFJQM2gwVW1wQXlIWVRqNmU4c0ZPOE9Wd3NJUy1TVWJRNGtrcElWeWZzb0hnWjI5cDhYMGFraFFVX09CRlJKWlBFX2tJYW1YcTV1bEduS2dOYXhFUkR6SmEwUVJBeHlxRi15VnlLUXAzX3d0b2lhUV9z?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-19 04:40"
+  },
+  {
+   "title": "What commodity markets can expect from the Trump-Xi summit",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNPTlJIZWVlTFducVh6VkxZa2YwUDJqWTVxdjBKeEtUbEFIenpWUVkyS3Q3UUhuaUF6NUZwMHh3am9SdWZnZnQyTU83WWQ0U01FRmNJOENlM1BobjlsSkJJVm9ZNl85TmZEYlcyRndWYkVWOG1fbDhuYk1nMUFEaU9uVWx1eE9fcFFmSVpReTNiaXc1MEpaNXVENkVZZw?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 14:45"
+  },
+  {
+   "title": "Tech leads shares higher in Asia, oil eases",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUdXdXVKYkpsa2JoQmRNeVpVWWhwb1pIVmUwcUl0QVRFVEFjRDJtREJPbXJWaXVEc0NQSWZZUlhwTl80T3h4eGM1dE9oaXRsWlVueWx0MWt3YXlWbV9PYkZDWVVPb1ZveThvalZfWnBvQ2J5Sjg1UkNOQmU5eDdWN0FvVQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 09:39"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

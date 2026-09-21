@@ -1,11 +1,23 @@
 {
  "dates": [
   {
+   "date": "2026-09-21",
+   "result": "success",
+   "updated_at_kst": "2026-09-21T10:43:33.418386+09:00",
+   "topics_ok": 6
+  },
+  {
+   "date": "2026-09-18",
+   "result": "success",
+   "updated_at_kst": "2026-09-18T08:50:25.381710+09:00",
+   "topics_ok": 6
+  },
+  {
    "date": "2026-09-17",
    "result": "degraded",
    "updated_at_kst": "2026-09-17T14:16:08.564582+09:00",
    "topics_ok": 6
   }
  ],
- "generated_at_kst": "2026-09-17T14:22:00.853795+09:00"
+ "generated_at_kst": "2026-09-21T10:43:33.579675+09:00"
 }

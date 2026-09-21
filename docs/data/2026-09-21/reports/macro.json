@@ -1,0 +1,566 @@
+{
+ "topic": "macro",
+ "name": "거시경제",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-21T10:43:33.418386+09:00",
+ "report": {
+  "title": "거시경제 데일리 브리프 (2026-09-21): Fed 인상 재개·BOJ 1.25%·미 10년물 5% 도달, 유가 급락 후 후티 공격 변수",
+  "overview": "연준이 인플레이션의 \"더 시의적절한 후퇴\"를 명분으로 금리를 인상했고(NYT·AP), 카시카리 총재의 \"인플레이션이 미 경제 모든 구석에 미치고 있다\"는 발언과 워시의 언급이 더해지며 월가는 추가 인상 가능성을 가격에 반영하기 시작했습니다. 미 10년물은 5.00%(+0.05%p), 5년물 4.86%, 3개월물 3.98%로 장기물 중심의 금리 상승(베어 스티프닝)이 나타났고, 건들락은 \"금리가 더 오르며 시장이 충돌 경로에 진입했다\"고 경고했습니다. BOJ는 기준금리를 1.25%로 올렸고, 원/달러는 9/18 1379.53원에서 21일 장초반 1385.7원까지 올라 1400원 재돌파 우려가 커졌으나 일본 실개입 경계와 네고 물량이 상단을 제한하고 있습니다. 유가는 중국의 대이란 자제 요청과 사우디 수출 회복으로 WTI 93.73달러(-6.55%)·브렌트 97.16달러(-6.46%)로 급락했으나 21일 후티의 사우디 수도 공격으로 재반등을 시도 중이며, 금은 4416.70달러로 보합, 구리는 +1.50%로 강세입니다. 이런 환경에서도 코스피는 반도체(삼성전자 +3.4%)와 외국인·기관 동반 매수로 8거래일 만에 장중 7000선을 회복했고, 9월 24일 트럼프-시진핑 정상회담이 이번 주 최대 정치 이벤트입니다.",
+  "sections": [
+   {
+    "heading": "금리·채권",
+    "body": "미국 국채 금리는 9월 18일 기준 10년물 5.00%(전일 대비 +0.05%p, +1.03%), 5년물 4.86%(+0.06%p, +1.15%), 3개월물 3.98%(+0.01%p, +0.33%)로 마감했습니다. 10년물이 심리적 저항선인 5%에 정확히 도달한 것이 가장 큰 특징이며, 3개월물 대비 10년물 스프레드가 약 1.02%p로 커브가 뚜렷한 우상향(정상) 형태를 유지하는 가운데 단기물보다 중장기물이 더 크게 오르는 베어 스티프닝이 진행되고 있습니다. 배경은 연준의 금리 인상 재개입니다. NYT는 연준이 인플레이션의 '더 시의적절한(timelier) 후퇴'를 위해 금리를 인상했다고 보도했고, AP는 이번 인상이 '끈적한 인플레이션과 더 빠른 성장'이라는 새로운 환경을 반영한다고 해석했습니다. 야후파이낸스는 월가가 '이것이 더 실질적인(substantial) 무언가일 수 있다'며 추가 인상에 대비하고 있다고 전했고, CNBC는 케빈 워시의 세 단어가 연준이 얼마나 더 갈지에 대한 논쟁을 촉발했다고 보도했습니다. 로이터는 각국 중앙은행이 인플레이션에 맞서는 '글로벌 금리 인상 사이클'이 가시권에 들어왔다고 진단했습니다. 시장의 금리 경로 기대는 두 갈래로 나뉩니다. '채권왕' 건들락은 미 금리가 더 오르며 시장이 '충돌 경로'에 진입했다고 경고한 반면, 블룸버그는 연준이 인플레이션과의 싸움에서 승리할 것이라는 베팅으로 단기 국채가 인기 있는 투자처로 부상했다고 전했고, 국내 모닝 리포트에서는 5%대 미 국채를 캐리 관점에서 매수 검토할 만하다는 의견이 나왔습니다. 한국 국채선물은 21일 대외 금리 약세에 동조해 하락 출발했습니다.",
+    "bullets": [
+     "미 10년물 5.00%(+0.05%p) — 심리적 저항선 도달, 5년물 4.86%, 3개월물 3.98%",
+     "10년-3개월 스프레드 약 1.02%p, 장기물 주도 상승(베어 스티프닝)",
+     "연준 금리 인상 재개: '끈적한 인플레이션+빠른 성장' 환경, 월가는 추가 인상 대비",
+     "건들락 '충돌 경로' 경고 vs 단기 국채·5%대 장기물 캐리 매수 관점 공존",
+     "한국 국채선물 21일 하락 출발(대외 금리 약세 동조)"
+    ]
+   },
+   {
+    "heading": "환율",
+    "body": "달러인덱스는 9월 20일 기준 100.22로 보합(-0.00%)이었고, 원/달러는 9월 18일 1379.53원(+2.93원, +0.21%)으로 마감한 뒤 21일 장초반 2.4원 오른 1385.7원에 거래됐습니다(조선비즈). 엔/달러는 156.13엔(+0.07%), 유로/달러 1.15(+0.05%), 위안/달러 6.71(+0.02%)로 주요 통화는 소폭 움직임에 그쳤습니다. 원화 약세 배경은 미국의 긴축 재시동에 따른 미 금리 상승과 고유가 부담이며, 아시아경제와 조선일보는 환율이 다시 1400원대 진입을 위협하고 있다고 보도했습니다. 다만 KB Think 외환 시황에 따르면 일본 당국의 실개입 경계감과 수출업체 네고(달러 매도) 물량이 상단을 제한하며 1380원대 중반에서 공방이 이어지고 있습니다. 엔화의 경우 BOJ가 기준금리를 1.25%로 인상했음에도 엔/달러가 156엔대에 머물러 있어 미·일 금리 방향이 엇갈리는 상황에서 '유가·엔화'가 핵심 변수로 부상했다는 분석(뉴스핌)이 나왔고, 닛케이는 BOJ 인상이 미국과의 '통화 동맹'과 얽혀 있다고 보도해 미·일 공조 개입 가능성이 엔화 하단을 지지하는 요인으로 작용하고 있습니다. 한국 투자자 관점에서 1380원대 환율은 반도체 등 수출기업의 원화 환산 이익에는 우호적이지만, 외국인 입장에서는 환차손 위험이 커져 순매수 지속성에 부담이 될 수 있습니다. 21일 코스피가 외국인·기관 동반 매수로 상승한 점은 아직 환율 부담이 주식 수급을 압도하지 않고 있음을 시사합니다.",
+    "bullets": [
+     "원/달러 1379.53원(9/18) → 21일 장초반 1385.7원(+2.4원), 1400원 재돌파 경계",
+     "상단 제한 요인: 일본 실개입 경계 + 수출업체 네고 물량",
+     "달러인덱스 100.22 보합, 엔/달러 156.13, 유로 1.15, 위안 6.71",
+     "BOJ 1.25% 인상에도 엔 약세 지속 — 미·일 '통화 동맹' 개입 가능성 주목",
+     "원화 약세는 수출주 이익에 우호적이나 외국인 환차손 위험은 확대"
+    ]
+   },
+   {
+    "heading": "원자재",
+    "body": "유가는 9월 20일 기준 WTI 93.73달러(-6.57달러, -6.55%), 브렌트 97.16달러(-6.71달러, -6.46%)로 급락했습니다. WSJ는 공급 우려 완화로 유가가 3일 연속 하락했다고 전했고, 로이터에 따르면 중국이 이란에 후티 반군의 사우디 석유 시설 공격을 제한하도록 요청했다는 소식과 사우디 수출 회복 평가가 낙폭을 키웠습니다. 그러나 21일 아시아 장에서는 후티가 사우디 수도를 공격했다는 보도에 유가가 반등을 시도했고(야후파이낸스·Global Banking & Finance), 로이터는 별도로 투자자들이 사우디 수출 회복을 평가하며 유가가 소폭 밀렸다고 전해 장중 방향성이 엇갈리고 있습니다. 구조적 상방 요인도 남아 있습니다. WSJ는 유조선 부족이 휘발유 가격을 높게 유지할 위험이 있다고 보도했고, 블룸버그는 흑해 봉쇄를 '또 다른 호르무즈'로 지칭하며 식량 공급 충격을 경고해 에너지뿐 아니라 농산물 인플레이션 위험도 부각됐습니다. 금은 4416.70달러(-8.20달러, -0.19%)로 사실상 보합이며, 블룸버그는 트레이더들이 인플레이션과 연준 추가 인상 전망을 저울질하는 가운데 금값이 안정됐다고 전했습니다. 금리 인상은 무이자 자산인 금에 부담이지만 인플레이션 헤지 수요와 지정학 위험이 하단을 받치는 구도입니다. 구리는 6.71달러(+0.10달러, +1.50%)로 강세를 보였는데, AP가 언급한 '더 빠른 성장' 환경과 9월 24일 트럼프-시진핑 정상회담에 대한 기대(로이터: 원자재 시장이 정상회담에서 기대할 것)가 산업금속 수요 심리를 지지한 것으로 해석됩니다. 비트코인은 81,234달러(+0.41%)입니다.",
+    "bullets": [
+     "WTI 93.73달러(-6.55%)·브렌트 97.16달러(-6.46%) — 3일 연속 하락, 중국의 대이란 자제 요청·사우디 수출 회복",
+     "21일 후티의 사우디 수도 공격으로 유가 반등 시도, 방향성 혼조",
+     "유조선 부족·흑해 봉쇄(식량 공급 충격)는 구조적 상방 위험",
+     "금 4416.70달러(-0.19%) 보합 — 연준 인상 부담 vs 인플레·지정학 헤지 수요",
+     "구리 6.71달러(+1.50%) — 성장 기대·트럼프-시진핑 회담 앞둔 수요 심리"
+    ]
+   },
+   {
+    "heading": "중앙은행",
+    "body": "연준(Fed)은 금리 인상을 단행했으며(NYT 9/18 보도), 이번 결정은 인플레이션의 더 빠른 후퇴를 목표로 한 것으로 설명됐습니다. 카시카리 미니애폴리스 연은 총재는 인플레이션이 미국 경제의 모든 구석에 도달하고 있다고 발언해 매파 기조를 강화했고, 워시의 발언은 추가 인상 폭에 대한 월가의 논쟁을 촉발했습니다. 감독·규제 측면에서는 SVB 붕괴에 대한 새 보고서가 연준 자체 감독진의 책임을 지적했고(WSJ·CNBC), 보우먼 부의장은 은행 스트레스 테스트 개편으로 절차가 더 투명해질 것이라고 밝혔습니다. 연준 이사회는 SNB Bancshares·Bank of Eufaula에 대한 제재 조치를 종료하고, Northstar Bank·American Express Travel Related Services·Regions Bank 전 직원에 대한 제재 조치를 발표했습니다. 일본은행(BOJ)은 기준금리를 1.25%로 인상했고 우에다 총재는 '정책 국면의 전환'을 언급했으며, 닛케이는 이번 인상이 미국과의 '통화 동맹'과 얽혀 있다고 보도해 환율 공조 성격이 있음을 시사했습니다. 유럽중앙은행(ECB)은 9월 18일 8월 소비자기대조사(Consumer Expectations Survey) 결과를 발표했고, 부이치치 위원(크로아티아 중앙은행 총재)의 로이터 인터뷰를 게재했습니다. 다만 입력에 세부 수치·발언 내용은 포함되지 않았습니다. 영란은행(BoE)은 통화정책 관련 발표 없이 거래·거래후 보고 조화 태스크포스 7월 회의록만 공개했습니다. 한국은행과 인민은행 관련 직접 발표는 입력 기사에 없었으나, 한국은 미 금리 상승에 국채선물이 약세 동조하고 환율이 1380원대 중반에서 1400원을 위협하고 있어 한은의 외환·금리 대응 여지가 좁아지는 환경입니다. 로이터가 '글로벌 금리 인상 사이클'을 언급한 만큼 주요국 통화정책의 동반 긴축 전환 여부가 이번 주 핵심 관전 포인트입니다.",
+    "bullets": [
+     "Fed: 금리 인상 단행, 카시카리 '인플레이션 전방위 확산', 워시 발언에 추가 인상 논쟁",
+     "Fed 감독: SVB 보고서 자체 감독진 책임 지적, 보우먼 스트레스 테스트 개편 발표",
+     "BOJ: 기준금리 1.25%로 인상, 우에다 '정책 국면 전환', 미국과 '통화 동맹' 보도",
+     "ECB: 8월 소비자기대조사 발표, 부이치치 로이터 인터뷰 (세부 내용 미제공)",
+     "BoE: 통화정책 발표 없음(보고 조화 TF 회의록만), 한은·인민은행 직접 발표 없음"
+    ]
+   },
+   {
+    "heading": "경제지표",
+    "body": "기준일 전일(9월 20일)은 일요일로 주요국의 정규 경제지표 발표가 없었고, 입력 기사에도 어제 발표된 구체적 지표 수치는 포함되어 있지 않습니다. 가장 최근의 공식 지표성 발표는 ECB가 9월 18일 공개한 8월 소비자기대조사 결과이며, 이는 유로존 가계의 인플레이션 기대와 소비 심리를 가늠하는 자료로 ECB의 향후 정책 판단에 참고됩니다(세부 수치는 입력에 없음). 미국 경기에 대해서는 KB Think가 인용한 월가 전문가 진단이 주목할 만합니다. 미국 경제가 금리 인상과 소비지출 둔화 조짐이라는 '이중고'에 직면했다는 것으로, AP가 언급한 '끈적한 인플레이션과 더 빠른 성장' 환경과 결합하면 연준이 성장 둔화 신호에도 물가 대응을 우선하는 상황임을 보여줍니다. 카시카리 총재의 '인플레이션이 경제 모든 구석에 도달' 발언은 물가 압력이 특정 부문이 아닌 광범위하게 퍼져 있음을 시사해, 향후 발표될 물가 지표의 헤드라인뿐 아니라 근원·서비스 물가 세부 항목의 중요성이 커졌습니다. 이번 주 발표 예정 지표에 대한 구체적 일정은 입력 자료에 포함되지 않았으나, 정치·정책 이벤트로는 9월 24일 트럼프-시진핑 정상회담이 예정되어 있고 한국은 추석 연휴를 앞두고 있어 국내 거래일이 제한됩니다. 흑해 봉쇄에 따른 식량 공급 충격 경고(블룸버그)와 유조선 부족(WSJ)은 향후 물가 지표에 상방 위험으로 작용할 수 있는 요인입니다.",
+    "bullets": [
+     "어제(일요일) 주요 지표 발표 없음, 입력에 구체적 지표 수치 미포함",
+     "ECB 8월 소비자기대조사(9/18 발표) — 유로존 인플레 기대 가늠 자료",
+     "월가: 미 경제 '이중고' — 금리 인상 + 소비지출 둔화 조짐",
+     "카시카리 '인플레 전방위 확산' → 근원·서비스 물가 세부 항목 중요성 확대",
+     "이번 주 이벤트: 9/24 트럼프-시진핑 정상회담, 한국 추석 연휴 임박"
+    ]
+   },
+   {
+    "heading": "지정학·정책",
+    "body": "이번 주 최대 정치 이벤트는 9월 24일 예정된 트럼프-시진핑 정상회담입니다. 베센트 미 재무장관은 허리펑 중국 부총리와의 사전 회담이 '성공적'이었다고 밝혀(CNBC) 정상회담에서 무역·관세 관련 진전 기대가 형성되고 있으며, 로이터는 원자재 시장이 정상회담에서 기대할 수 있는 내용을 분석했습니다. 미·중 관계 완화 기대는 21일 아시아 증시의 기술주 주도 상승(로이터)과 구리 강세의 배경 중 하나로 볼 수 있습니다. 중동에서는 후티 반군이 사우디 수도를 공격해 긴장이 다시 고조됐습니다. 직전에는 중국이 이란에 후티의 사우디 석유시설 공격 제한을 요청했다는 보도로 유가가 급락했던 만큼, 이번 공격은 중국의 중재 효과에 의문을 제기하며 유가 변동성을 키우는 요인입니다. 사우디 수출이 회복 중이라는 평가와 후티 공격 지속이라는 상반된 신호가 공존해 유가는 헤드라인에 민감하게 반응할 것으로 보입니다. 흑해에서는 봉쇄로 인한 식량 공급 충격 위험이 부각되고 있으며(블룸버그 '또 다른 호르무즈'), 이는 곡물 가격을 통해 글로벌 인플레이션에 추가 압력을 줄 수 있어 각국 중앙은행의 긴축 명분을 강화하는 요인입니다. 통화정책 공조 측면에서는 BOJ 금리 인상이 미국과의 '통화 동맹'과 연결되어 있다는 닛케이 보도가 나와, 미·일이 엔 약세 억제를 위해 공조하고 있을 가능성이 제기됐습니다. 이는 원/달러 시장에서도 일본 실개입 경계로 나타나 환율 상단을 제한하는 요인이 되고 있습니다. 미국 내부 정책으로는 SVB 붕괴 책임을 연준 감독진에 돌리는 보고서와 스트레스 테스트 개편 등 은행 규제 재편 논의가 진행 중입니다.",
+    "bullets": [
+     "9/24 트럼프-시진핑 정상회담 — 베센트 '허리펑 회담 성공적', 무역 완화 기대",
+     "후티, 사우디 수도 공격 — 중국의 대이란 중재 효과에 의문, 유가 변동성 확대",
+     "흑해 봉쇄 → 식량 공급 충격·인플레 상방 위험('또 다른 호르무즈')",
+     "미·일 '통화 동맹' 보도 — 엔 약세 억제 공조 가능성, 원화 상단 제한에도 영향",
+     "미 은행 규제 재편: SVB 보고서·스트레스 테스트 개편"
+    ]
+   },
+   {
+    "heading": "자산별 함의",
+    "body": "미국 주식: 9월 18일 S&P 500은 7650.50(+0.17%), 나스닥 종합 26,523(+0.39%), 나스닥 100 29,644(+0.67%), 필라델피아 반도체 11,922(+2.78%)로 기술·반도체가 강세였던 반면 다우 -0.18%, 러셀 2000 -0.50%로 금리에 민감한 소형주·경기주는 약세였습니다. VIX는 14.81(-4.08%)로 낮아 연준 인상에도 위험 회피는 제한적이었습니다. 10년물 5%와 추가 인상 전망은 밸류에이션 부담이지만, 시장은 '빠른 성장' 쪽에 무게를 두며 성장주 집중 현상이 강화되는 모습입니다. 유럽은 스톡스 600 -1.11%, DAX -1.60%, FTSE -1.45%로 글로벌 긴축 사이클 우려에 더 취약했습니다. 한국 주식: 코스피는 18일 6894.23(+2.66%)에 이어 21일 장중 7000선을 8거래일 만에 회복했고, 삼성전자가 3.4% 상승하며 반도체가 지수를 이끌었으며 로봇·의료AI주도 강세였습니다. 외국인·기관 동반 매수가 유입됐으나 7000 돌파 후 상승폭이 축소된 점, 추석 연휴를 앞둔 포지션 정리 가능성, 환율 1380원대 중반의 외국인 환차손 부담을 감안하면 지수 추격보다 반도체 등 실적 모멘텀 종목 중심의 선별 접근이 유효합니다. 채권: 10년물 5%대는 캐리 관점의 분할 매수 검토 구간이라는 의견과 건들락의 추가 상승 경고가 공존합니다. 연준의 인플레이션 통제 성공에 베팅한다면 단기물이 선호되는 흐름이고, 국내 국채선물은 대외 금리에 연동해 약세 출발한 만큼 미 금리 안정 확인 전까지 듀레이션 확대는 신중해야 합니다. 환율: 1400원 재돌파 시도 시 일본 개입 경계와 네고 물량이 상단을 제한하고 있어 1380원대 중반~1400원 박스 공방이 예상되며, 수출주는 원화 약세 수혜, 수입 원가 비중이 높은 업종은 고유가·고환율 이중 부담을 점검해야 합니다. 원자재: 유가는 후티 공격과 사우디 수출 회복이라는 상반된 헤드라인에 급등락이 반복되고 있어 단기 방향성 베팅 위험이 크며, 금은 4400달러대에서 인상 부담과 인플레 헤지 수요가 균형을 이루고 있고, 구리는 트럼프-시진핑 회담 결과에 따라 방향이 결정될 가능성이 높습니다.",
+    "bullets": [
+     "미국: 반도체(SOX +2.78%)·나스닥100 강세 vs 소형주·다우 약세, VIX 14.81 — 긴축 속 성장주 집중",
+     "유럽: 스톡스 600 -1.11%·DAX -1.60% — 글로벌 긴축 사이클에 취약",
+     "한국: 코스피 장중 7000 회복, 삼성전자 +3.4% — 추석 연휴·환율 부담 고려해 반도체 중심 선별 접근",
+     "채권: 미 10년물 5% 캐리 매수 검토 vs 건들락 추가 상승 경고, 단기물 선호·듀레이션 확대 신중",
+     "환율: 1380원대 중반~1400원 박스 공방, 일본 개입 경계·네고가 상단 제한",
+     "원자재: 유가 헤드라인 급등락 주의, 금 4400달러대 균형, 구리는 9/24 미·중 회담 결과에 연동"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "삼성전자",
+    "ticker": "005930",
+    "comment": "21일 장중 3.4% 상승하며 코스피 7000선 회복을 주도. 외국인 순매수 유입의 중심으로 반도체 업황 기대와 원화 약세(수출 환산 이익)가 동시에 작용. 필라델피아 반도체지수 +2.78%와 동조."
+   }
+  ],
+  "events_today": [
+   "9/24 트럼프-시진핑 정상회담 (베센트-허리펑 사전 회담 '성공적') — 무역·관세·원자재 시장 영향",
+   "한국 추석 연휴 임박 — 국내 거래일 제한, 연휴 전 포지션 정리 가능성",
+   "후티의 사우디 공격 이후 유가 헤드라인 및 사우디 수출 회복 추이",
+   "연준 인사 발언(카시카리·워시 등) 및 추가 인상 폭 관련 시그널",
+   "일본 당국 외환 실개입 여부 — 엔/달러 156엔대, 원/달러 1400원 접근 시 개입 경계"
+  ],
+  "headlines": [
+   {
+    "text": "연준 금리 인상 재개·카시카리 '인플레 전방위' 발언에 미 10년물 5.00% 도달, 월가는 추가 인상 대비",
+    "importance": 5
+   },
+   {
+    "text": "유가, 중국의 대이란 자제 요청·사우디 수출 회복에 WTI 93.73달러(-6.55%) 급락 후 후티의 사우디 수도 공격으로 반등 시도",
+    "importance": 4
+   },
+   {
+    "text": "원/달러 1385.7원까지 상승해 1400원 재돌파 위협 — 그럼에도 코스피는 삼성전자 +3.4% 반도체 주도로 장중 7000선 회복",
+    "importance": 4
+   }
+  ],
+  "data_caveats": [
+   "시세 표의 기준일이 자산별로 다름: 환율(원/달러·엔·유로·위안)·금리·주가지수는 9/18 종가, 달러인덱스·원자재는 9/20, 비트코인은 9/19 기준",
+   "원/달러 1385.7원, 삼성전자 +3.4%, 코스피 7000선 회복은 9/21 장초반 장중 값(기사 인용)으로 종가와 다를 수 있음",
+   "연준 금리 인상의 인상 폭·새 기준금리 수준은 입력 자료에 없어 기재하지 않음",
+   "ECB 소비자기대조사·부이치치 인터뷰, BoE 회의록은 제목만 제공되어 세부 내용 미반영",
+   "기사 요약이 헤드라인 수준이어서 세부 발언·수치는 제한적, 외국인·기관 순매수 규모 등 수급 수치는 입력에 없음",
+   "이번 주 경제지표 발표 일정은 입력 자료에 포함되지 않음"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUxpb0hhaEY4MGl0T21yM2ZObndRRlBrc0owTWxDM1FKMlFrWmF5Q21aNGFXdFh2QW5RRTJMMkVZSnJkdnpJMEdTWEFzTjFLQ2RCUWNqWXdlVVJoalBTLUxTMFJHN3pQVlAyLTdGLXBDdnlWbFlzMEJRTlowcklrY2NOaXEyOUE0cG4zQS1oRkxFR1JORWFBNHdJUXRnSGpILWc?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "AP News",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-20 22:45"
+  },
+  {
+   "title": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeE9wSllIWU5VT0tBNzhndHVoSFJ2b0l6UVd3VVhNQ3RaNDhTRmV0Q0tCYUVUb3F6YnQ5ZDdIcXVYdWZKdmhNZEN1MHFMUDJmeDlzVE1XLUhGUW1QckJoeDR0bW85OEZIdkhxRWJpcG9ranBSVkF2NDI1d0hwVUxJeXROU2x4NnVmc2tNM29mRkJ6VEVHTXlfcW1fVWFDT1V4MzVnay1MT0U4Qk9hVDhIR0dtUndsZ2p3ZXBLRHExbGZ3SW5SWHBSdFI1NkJ3bkhBRlN4bUgwVnJNMm01LUZBdQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-20 21:34"
+  },
+  {
+   "title": "Global rate-hike cycle in view as central banks take on inflation",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTJFdU1RczNyN0w2RjNKNHB0OWxqaEhHeDE5bDdXOS16QlV0eHNnbWNSbGVVQ2RaRTVJOWFHUXQ2Qy1qTy1aQ0lVVGFMNzRXV3lwUnBnaHh0VUFmeDNodzVZWWRwVk9iak5qZEZ2R0NSRzNrT2ZlYUxNaUZYTUY0VXdjYXhQakNOYmdqaUlrZ2JsazMtVHR2bkdMWkJ6Z2hyUzZmaG0wNmkxazg?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-19 02:53"
+  },
+  {
+   "title": "Fed Raises Interest Rates in Push for ‘Timelier’ Retreat in Inflation",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2stY3BUc2U1Z0tFTDJIOWNLMlBTaFh3TUN0bTZ0REtxZnJGVDlFSjdEUjZuYmE3UnBkb2NtTC1UeFlPa2o0Uk9NdXZCX01GN0ZNMnFNTEhQa0l6eFYxMU9fdlVxWmhCdDZwdl9lUXRBWWo1SU9tZ3d1S0NfNEhNdjBVOGZOSDdi?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "nytimes.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 16:00"
+  },
+  {
+   "title": "美 긴축 재시동에 환율 또 1400원대 올라서나 [1분 브리프]",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVMTc5cUN4dXItM3JKUVU3NTBnRXVJU3gySWNkSVBvZ2JiTjlRZjhKNlFMYTRPRVZiODlOV3JPMGY2VjBfN29xR3J1dUJlams1ZldGVzFjNWJSN2ZhVXRieA?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "아시아경제",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 08:00"
+  },
+  {
+   "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXdfWXNIMEY2YkdDSGh2cWVONW03aXdjUFFuUGV5cmswQnNjQlgzNTJTWTBiM3ZnZmY4Wl95MmRYOGFyeDB6YjJwTTdDdk94QU1jendxcHZxemF2dExzdFh1WWwzeE0tMTdnWUFLWUhqeTdUMm9ORG53UGVoaU1zSVhVU3hkV1RNaDNqNmNjMVo2VUVteXR0NnE1dHZUZGo2WUZUMWNYdzlnR3FGcWNrRlhqU0hUX21VUUI4aE50bUFmb2tVdDZMMldYNG_SAdIBQVVfeXFMTy1qakhvTjZoRU1JZjNhZDFtUjN3cWg5N3JmQjQ4RnpsZGFUVW5pVWFOOXdlWDhnMjBMRzN2SnBObjF2OTBTTGZCWW5sX3NheHNjVHhEY2NVVkt5YXU2S1AyNFRRamM1UXhYN0NWTGUwOHRTc0hxVVdMT0xITXZXN05MZ01jOGdIU1pfVTkybXMyY081a1hIYUtqTWFKMzdFVXIwYVZmT19PbXlOTzNIenN1YXhKY1RvTkd2SkctZ01VOGVFN0p0bTR5X2RTQ1MyVlhn?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-19 01:33"
+  },
+  {
+   "title": "BOJ hikes rates to 1.25% as chief Ueda cites shift in policy phase",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUh6dVdrZVh4QjlrQTVITldrWUNNc1Q3aS14Ymp0eEU4M1BzWEtCbzBxYWdlNjhQa3ZXUTJJWURWNjdlaF9FZWVpX0NKTnNEbWR4WGZwUlE4SnQwOXB0Rk5hWU9ZUWhTRjVKZWVVbkpKb2I1LTkyeDRjVFpQN2J3SHpMRTBQYTlGX0pxRHJsMzZsdEdDa2NSM0NqU3gybEVNS1lMQV91cml1ZXVxWW5sNA?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "Nikkei Asia",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 19:14"
+  },
+  {
+   "title": "원·달러 환율, 2.4원 오른 1385.7원 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3dHTDhiOTRTRXk3MC0xcUFXWGVYNlRZVmoxVmpWUHJVTTZVVmI5RHM5MkFELTZyazJQalA0d1FjVmhVd3JaeExucm5VNmRldUVCekdIM3NjNGlyVG9LenJSODc4dkhNMThlZDRtd25HRUJPeklxYjA5M2s5LTlfOGVVVlVpd9IBmgFBVV95cUxQcHNDa1MwNnctX040VEExek05Nmp1eUFnc2JLS2RWNmtfS0pzci00cGo3RDR2QnUzSFZKY25Zd0hReWcyZmY0VTMzc1l5WGxpdHM5MHpjN0YxbHNLWDJvN3o5QTl1UVhyMDJWNEhRRTRrTW9rTWJ0a3E4dmo4XzloWUR3SjVTUzFWVVRNRjVndDdrSHcwUVFNWkZR?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "Chosunbiz",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 09:29"
+  },
+  {
+   "title": "'채권왕' 건들락 \"美 금리 더 오를 것…시장 '충돌 경로' 진입\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55VWNmRnp2aUoweFlBWTllcTZLakVGZkJlT1Y5T1B4RDJKSC1PSHFJZThDQ0xDT0JTcF92QjVlaGZ3RGlNeUNlaGI5NWM0OEV4cDh2ZnRJS2Fiekx3V0dRckFBSkJKRHRsQk5FUTZhcTlfZw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 09:23"
+  },
+  {
+   "title": "다시 1400원 위협하는 환율…美 긴축·고유가가 변수",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzd3ZV9wTy1wV1JlRFRtR0hMMUVQdzNpcWhCM201NXNIb0dMV2Z0WTVic3R4QWVNR0I5WExzVEFScTV4NEJOak1TNk9GU3hoT3F0eW5jT0NWYms0YlNqYUpyVUtuaEhaa1VoSU1vbFdIVmxObkl0MjEtalZQWEpQbzFMNEE1QzNpcHNsSGdB?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "조선일보",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 09:05"
+  },
+  {
+   "title": "월가 전문가 \"美 경제 이중고…금리 인상에 소비지출 둔화 조짐도\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GM1pEcG5CZ3NLeUhRNFZMZTR6Qmd5bTNmRnhkejBHUk12cERRTWtQVC1DbXZCT2tVV2tnTkpTNjhiZUZ6akhoM2txNTItSTVxdmJkMzYtOXhvazViOWlJSVlvNEttVnMyR0xSTXZvdUx1UQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 08:47"
+  },
+  {
+   "title": "Gold Steadies as Traders Weigh Inflation and Fed Hike Outlook",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2REa3hXVWU5cXFtbTZYS2xfaGUtc2lLVUEtdzdNNGdHT0lfRGpFZXRGYUhqZUh3ZGg4V29GdEswUUpaand5VG1ZSVE2aWV2OWdfeEgxRU5YVk9JUExZcXB5a2FQdWhmSUg3d0R2aW5qREVlYlFLX1VObE1BY2J2R1c0dmllU3NaLURKNDVHM09GbkcwWXJJTTRtcWdESmo2ckVyak1BZ1VPdThvdVhBOEJR?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 08:45"
+  },
+  {
+   "title": "[모닝 리포트] \"미 국채 금리 5%대, 캐리 관점에서 매수 검토\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93ZkRNdktRTlBQYWV5b1o3MjBPT2xwRnFxZWdWaU9uUlE4QjZyRjNRdTRVY3piQzl4Ym5LcFFpQmFGVndJVlUxWlNZMUc2ZmtRR1JuZ1NVem1kdTdL?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 08:27"
+  },
+  {
+   "title": "[모닝 리포트] \"엇갈린 미·일 금리, '유가·엔화' 변수 부상\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCaEtjZnc4Qi05U3ZHWEhXRTdOVTM3dnJIQjFIdFE3djNqYS1xV2NUOXV4U25NNTlySGszV1dYb1F0OTVYUjdKNXJpbDhLYy1UNU5OZGtSUjlNdzhU?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 08:22"
+  },
+  {
+   "title": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQldzTk50ZU5hTm1JQktndzBQQXFNbjlObXhKSXpMNDFzNEVlZjBjVFNPcFdlYjhadlFJb3JlRnkwTWdwd244V3VHVFBlM09NUS1LTXQ4Y2NqcTN3eTMzQjBfTlZCUnhYaktvQTlsUGN3a1lXUHhTaXFwUGotMzVzdEtXS1pOeWU4dTZFVWthZXZQYXRUWE50STZxcDhmX0Juc1dJdHNsRFZEZnNteTV5N2F5WTlTUQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 04:00"
+  },
+  {
+   "title": "Fed’s Kashkari Says Inflation Reaching All Corners of US Economy",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRldnZXJpWHB2M2J5SWItSnZzQllXR2Z2TmFPdWNKTk5zOWNfVDNwOXg2U2RCNG9WZ1VtejVvNC1ieTA0SXJfQ0tneHU1b3RKN1RKR3p3Rk1XMFl1TXRtTklsSXhRcXU4S2dKSUZIbXl4dXh6Nl9ZeGJydUdFbS1aNlBaRGllZFhEMVVRb0FLTHlzbXpfVThrOXUyX2g4Q1FoQ2FObERYM0R2NWMzVkh6Nk1rM3RWQQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 00:32"
+  },
+  {
+   "title": "How the BOJ's rate hike became tangled in a 'currency alliance' with the US",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3F0aGJNaVMxdWx5WFZvUWtab1AzaUswOUdQQWJjcGJPbVFTQjZoSDZ4a1g3X1RURUswdWxDS200S3pjcGdmcnd2enRvUl9uV0lidFFIOTJtSVQ1bHJISnJqYmp6R24tdkpXdThzNVJsdHlPaHZ3TDUweWFBOXhPb0FtUjR1ZUpSdGFsNTVnM1dJZ0dhclNuVW1RY0pZX2xPWEdGRXp2cFZybkYtTGd3dS1VX1k4d0s5Q0Vr?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "Nikkei Asia",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-19 02:03"
+  },
+  {
+   "title": "[외환] 日 실개입 경계·네고에 상단 제한…1,380원대 중반",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nV0RRN3B5NF9LcEhvdWVnVk1HbEFjdjQxc1JUbFo0dnFVbjZkVXJUclg1SFFfbnZmREVUMzVoS3VYQzNjcWlRWmRKOUxneXZZWnIwNkdFcUdDM1FNdnluNlVrWlI5RVdHVDJiMXBuUWpXdw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 09:18"
+  },
+  {
+   "title": "국채선물, 대외금리 약세 동조하며 하락 출발",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fengwMmd3Zm9oeDBJWTlFTWZHRWR4MlhfRWhNNDNPZzBiSVNhaG1vZjZKWHpzM093T0lSWXRwUkZVX1dMcnowU0JiSVhzOEpNT0hwelZlRFF2TGllb3BZYmFHdTFxaXh4V2p0bVVONXpQZw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 09:12"
+  },
+  {
+   "title": "New Report on SVB Collapse Pins Blame on Fed’s Own Regulators, Fed Official Says",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWFTVVo0WXlybUpxZXR0c2IxVGpQYy11OVplMlVTTnY3WUt4VXBoU0xxRkRSaGVFdVYzeVZxVFVLSjJJdW1rTjBfeXJaNU5ZaHBlZ3ZaT3FQbGtiMWt0UlVlSmZaa1Voc21JTVN3WkJjSGdES3lFSzZlM2g2Sm1RUlNWeFB4OEVad3hURHpMZkNjbUltamx2NjhuUV8zVWo3UHJEN1lGcXhqcjVOdmVTTmVBb1luSkh3?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-19 02:51"
+  },
+  {
+   "title": "Fed's Bowman says overhaul of bank stress test will make process more transparent",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVhMeF8xaElKaXVlUmExRzVBU244d3pfR3k5V25FdlZJel9nOElkbTlXb1lILXhremYwQV9kTTZ2SGZBdjlMVWR2QU9JM3o4Q0E5OHpjSGlidkFUdG5vdkhkajZ0Q2hKUl9yZ2xfaXBMQU5vbHBjVHRhbk83ZVB0T2pRYlZzYUI3R2dCQkozekRHT0V4UFBRZUJYa3Nqa2c5R1Z0eUhCNXltdw?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-19 00:36"
+  },
+  {
+   "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQVpNTVBta21iMDhvNTBtS2YydENMa0lHMnBQT1dLMUswVVh3U2c1MG85dG8zaXkyVnFfRVJjdVk4OTYtbzAxSXJ1NXE3c2xTWnhXNk1yNXZLeEpDd0FKd3U1bGFjYkNlQ0F4cNIBckFVX3lxTE01WlhRVGFGMjQ5dUNzTlEwdWV5NDYwdk5lRk1BUWhvUTJaQVFDYnl6MFNuNF9BZW51QWpoR2RLMGNlZGl5ZFJuMHVscUpmSXdYLU8zXzFMdHZZZlJKdFVVZ0dDXzMxbURyNUVLMjlfbEQ0Zw?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 22:30"
+  },
+  {
+   "title": "ECB Consumer Expectations Survey results – August 2026",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+   "source": "ECB 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 17:00"
+  },
+  {
+   "title": "Boris Vujčić: Interview with Reuters",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
+   "source": "ECB 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 15:00"
+  },
+  {
+   "title": "금리 변동기, 목돈 운용 고민이라면? 예금과 채권 투자 비교",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFV3dFNUpoVmd6bEZZVUhWc2xvWGEwMW9uMW1iZ3VwVWNuOGcyVS0xR3FDNVd0bkVfZTdxSXhYZkpXRk5XXzd1YlByOGlNVm1aaXdjN2NtZkdiNUEyUzhER1pLODExdw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 09:00"
+  },
+  {
+   "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanRyTXM4ZE00RFhRWlRSYXlhNUx5cGxxRENEUTFSZmlyUU1rNmFGcmpQdVdleGtBNkRoRVZYVkY3ZEY1UU9McXZsQ0ZBNFllQWR2RXhSU0xsc0dCcDVIWUVOeUNZNU9xcTd3MHNJVE5fUE9KMHhxM2tGQ3NDam1CVnJxT0M4MEp3ZllkNEZnRmxWS19JOVBj?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "NPR",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-19 18:00"
+  },
+  {
+   "title": "INFLATION REDUCTION ACT OF 2022",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZ1JFc24yV0d0Z09fdUF1ZTluaWJVVmZwY3I3SnFjb01GT3dUbk5zemY1OFAzeUU5aFVNNHQ3MlZ0MVlPS0hSVGV5eFZJWGRTdmFpNS1ueUVsbjQzUVoxWjRycmo0UQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Department of Energy (.gov)",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-19 03:00"
+  },
+  {
+   "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+   "source": "Fed 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-19 00:00"
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+   "source": "Fed 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-19 00:00"
+  },
+  {
+   "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
+   "url": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
+   "source": "BoE 뉴스",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 20:00"
+  },
+  {
+   "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+   "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-21 09:45"
+  },
+  {
+   "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFJoRXZCYjFhejNmdnZxMlZmLUpoZU01MnVwdUV2RExPdzNVakNrU1podnNzVVh5Zl9DVG90MXoyeGJaYzhLdVFhaHpta251VnRpVVBzTXhCSGt6R2VuYTF6QXotM0ZxLVlBYTlqYUF6azJ2VnhJcmJkMnNsdVYyTl9WQzdGNExtWE44MkdTY2JQQjRoMUhZclV5TDlVMVRqRlBrR1JCZUp3ZTNGMzZsNTFhRnUwWlY2VTZUbk5B?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 08:01"
+  },
+  {
+   "title": "Oil Prices Rise After Houthi Attack Escalates Middle East Tension",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEc1NFVwT2lBaTdmOUUwSVJyTkFoT2J1cmtQQW5jeVFDMXFhUW5CNy1lS2gtMEtJV0pDRjkwNFhEZU5sb0dmd0VtdXUtaUlsUHB3cnlMWFFiLXdGcnFGdWlnNkp4cHhHcmlpY0psaU1rYVg1MWQ2Zi1RMDdmZURnbzNSMHg?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Global Banking & Finance Review",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 07:18"
+  },
+  {
+   "title": "Oil rises after Houthi attack on Saudi capital",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlhjMTlpVzkzVzZobWN0b1kwemktMjc2anNlR1h5ZVp2RFVqanlqVjRXbjlFMUp0NWl1NDBJZFgwa2hZTThvLWRNUGxobnVXb1B4Q3ZqRkxTSERiUHZpYXhKSTBPWUQzSzFKTEstRmFiQVozVzhGWVhYMlpocXZWbkgwWkdBSk9IUFlPYmlKcw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 07:12"
+  },
+  {
+   "title": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-19 17:20"
+  },
+  {
+   "title": "Oil Futures Fall for Third Day on Easing Supply Concerns",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjZGMnVLdmRRX0tKcXZDZnMzaFBGbXZwUVNDYW5BQnBNclpEZmVLVnFfSFJQM2gwVW1wQXlIWVRqNmU4c0ZPOE9Wd3NJUy1TVWJRNGtrcElWeWZzb0hnWjI5cDhYMGFraFFVX09CRlJKWlBFX2tJYW1YcTV1bEduS2dOYXhFUkR6SmEwUVJBeHlxRi15VnlLUXAzX3d0b2lhUV9z?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-19 04:40"
+  },
+  {
+   "title": "What commodity markets can expect from the Trump-Xi summit",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNPTlJIZWVlTFducVh6VkxZa2YwUDJqWTVxdjBKeEtUbEFIenpWUVkyS3Q3UUhuaUF6NUZwMHh3am9SdWZnZnQyTU83WWQ0U01FRmNJOENlM1BobjlsSkJJVm9ZNl85TmZEYlcyRndWYkVWOG1fbDhuYk1nMUFEaU9uVWx1eE9fcFFmSVpReTNiaXc1MEpaNXVENkVZZw?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 14:45"
+  },
+  {
+   "title": "Tech leads shares higher in Asia, oil eases",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUdXdXVKYkpsa2JoQmRNeVpVWWhwb1pIVmUwcUl0QVRFVEFjRDJtREJPbXJWaXVEc0NQSWZZUlhwTl80T3h4eGM1dE9oaXRsWlVueWx0MWt3YXlWbV9PYkZDWVVPb1ZveThvalZfWnBvQ2J5Sjg1UkNOQmU5eDdWN0FvVQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 09:39"
+  },
+  {
+   "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdy14cnAwVVBJT2E2Tk1SWS1OQjVBbk4xWk91Z0p3OFRWRkE2TEhfY1JqS3N2SnhWdGJDM2xSMmVpYldrNlpCV2t1Vk1CNVRhNmZTT0RGVGo0UUZkNGkxc0hyeUU4YVZ0WmhUd0VpeHNnV0JraktPZjlmS1hRQUdiTk5RVTE0dGZSdjU1N012dVlyRXpMQnJiNmRXQWUwTXI0UDNSLUhOei1ZWmJ0Y1hDOEprUQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 09:00"
+  },
+  {
+   "title": "Oil slips as investors assess Saudi export recovery",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEljbFotbFNVU2Nyb1oyaElIUXJJc1ltUmF5a1FrMl9xbEwyNG9LOWwyZ3F2dUZIUl9QYnd6OXU1cU10UGx0QzkxaVp6QkoxY3ZYSm1qc3FvbFprT29VcldJZ3V1Y1YtZ1A3MjEtTUo2dk9laHFBaWZBMFNOMmZDVC16aDBhYUdmdmZFdUJ4d0hoMW5hZTgxRk1ETQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 07:10"
+  },
+  {
+   "title": "코스피, 반도체주 앞세워 1%대 상승…7000선 회복 시도",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTnl1U2ZRc0ZlZjRTUDlJdnVnSTJQTldCZE1vX1FTWTdBUWdPUUdsX3ZiYjVTa1ZtNUFSbmw3alh4bU82Z1hJNFl1dEVKZVBXM1cyV2tyNXhESk9QUzZIRQ?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "뉴스토마토",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-21 09:41"
+  },
+  {
+   "title": "반도체가 끌어올린 코스피…7000선 돌파 후 상승폭 축소",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TZG5JcXpUVEhIQ2VWcG9nY2FCYTJtam8tZUl4bGM2djlOMWJDQWVBLUM2ZVBYdFUtNXBhOGJRczhWVE9aRzlQZmtqUkNQbngxMGVBR0dHRUJEMjFzZHFjMTNaV0JqVTduamNZWg?oc=5",
+   "source": "Google News 외국인 순매수",
+   "publisher": "mstoday.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-21 09:40"
+  },
+  {
+   "title": "[이 시각 시황] 코스피 7천피 재도전…로봇·의료AI株 강세",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51QWgtZFVnMXdqWVlxU3JidTh0ZU5RdDZLNWJmVkwzUWJ4alhLeTRUZHRQYlRKX0VqZGIzbnRJeTNEc2xFZDZWQWJOYTdqVE0?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-21 09:37"
+  },
+  {
+   "title": "추석 연휴 앞둔 코스피, 1%대 강세…장중 7천피 회복",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LR2p4UGxiRVNTZWdCRFQwZE5DVmZFZW5iLUpqaE9Qd1c0QlRma1BiVjlaekNSRUhUUExZSmNvVEhtVHpsRzNzU1RmNENfU3hEMXVtUDJPbi0xLXhXV3RPZmpXOUlTTlFranBhTjNfVGs?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-21 09:36"
+  },
+  {
+   "title": "코스피, 장초반 1% 내외 상승…장중 '7천피' 일시 회복(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20260921033051008",
+   "source": "연합뉴스 경제",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-21 09:35"
+  },
+  {
+   "title": "코스피 7000선 돌파, 외국인·기관 동반 매수세 유입 배경은 [개장시황]",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oOWJ0ekdMMzN1MVpWclBZUHVBenRjakxmc3QzdGVBZURTLU1VRVdLSWFqSzJLLUVTSkU3RmlDaXJ0dnk0d29QbGdPV2FWUFNpUU9nNEhoS3NUOXRvN1VZaUo3TklJdXB3?oc=5",
+   "source": "Google News 외국인 순매수",
+   "publisher": "2news.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-21 09:30"
+  },
+  {
+   "title": "코스피, 8거래일 만에 장중 7000피 회복",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BZzIyT2pwZVZnY2JPM0xXc1piZWVIUEpvY1VOUTRpY2FHZldyMF8yaDBjcE1mbHhLWWlITEYzQlBqXy1IREZJb2p1eVQ3RzZUTUdoRVd2c3FDSk9TczRXUTFPRmk?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "서울경제TV",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-21 09:26"
+  },
+  {
+   "title": "코스피, 외인 순매수에 장중 7000선 돌파…삼성전자 3.4%↑",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MT2xFU2tMbzh6b3hfRGpDSVdxN2ZGdTIwLXZXMWpnM2pzWEREQlY5VU9VSXd1UFkwNHhoU0dZd3JaM0hURnZxZXIzVnRVSEtydF9DeV9lU1lUVXhIM1RaSmdpOVA?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "디지털데일리",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-21 09:25"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

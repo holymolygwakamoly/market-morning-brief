@@ -1,0 +1,1982 @@
+{
+ "date": "2026-09-18",
+ "updated_at_kst": "2026-09-18T08:50:25.381710+09:00",
+ "result": "success",
+ "indices": [
+  {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "region": "US",
+   "kind": "index",
+   "close": 7637.759765625,
+   "prev_close": 7551.81005859375,
+   "change_pct": 1.14,
+   "change_abs": 85.9497,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:34:50Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 7591.7001953125
+    },
+    {
+     "date": "2026-09-11",
+     "close": 7656.97998046875
+    },
+    {
+     "date": "2026-09-14",
+     "close": 7619.97998046875
+    },
+    {
+     "date": "2026-09-15",
+     "close": 7585.72998046875
+    },
+    {
+     "date": "2026-09-16",
+     "close": 7551.81005859375
+    },
+    {
+     "date": "2026-09-17",
+     "close": 7637.759765625
+    }
+   ],
+   "constituents_key": "us_sp500",
+   "group": "미국"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "나스닥 종합",
+   "region": "US",
+   "kind": "index",
+   "close": 26418.298828125,
+   "prev_close": 25978.4296875,
+   "change_pct": 1.69,
+   "change_abs": 439.8691,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T21:15:59Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 26081.720703125
+    },
+    {
+     "date": "2026-09-11",
+     "close": 26333.0390625
+    },
+    {
+     "date": "2026-09-14",
+     "close": 26186.41015625
+    },
+    {
+     "date": "2026-09-15",
+     "close": 25981.5703125
+    },
+    {
+     "date": "2026-09-16",
+     "close": 25978.4296875
+    },
+    {
+     "date": "2026-09-17",
+     "close": 26418.298828125
+    }
+   ],
+   "constituents_key": null,
+   "group": "미국"
+  },
+  {
+   "symbol": "^NDX",
+   "name": "나스닥 100",
+   "region": "US",
+   "kind": "index",
+   "close": 29446.98046875,
+   "prev_close": 28945.060546875,
+   "change_pct": 1.73,
+   "change_abs": 501.9199,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T21:15:59Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 29103.509765625
+    },
+    {
+     "date": "2026-09-11",
+     "close": 29368.439453125
+    },
+    {
+     "date": "2026-09-14",
+     "close": 29127.16015625
+    },
+    {
+     "date": "2026-09-15",
+     "close": 28937.83984375
+    },
+    {
+     "date": "2026-09-16",
+     "close": 28945.060546875
+    },
+    {
+     "date": "2026-09-17",
+     "close": 29446.98046875
+    }
+   ],
+   "constituents_key": "us_ndx",
+   "group": "미국"
+  },
+  {
+   "symbol": "^DJI",
+   "name": "다우",
+   "region": "US",
+   "kind": "index",
+   "close": 51778.0390625,
+   "prev_close": 51461.8984375,
+   "change_pct": 0.61,
+   "change_abs": 316.1406,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:35:03Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 52064.1015625
+    },
+    {
+     "date": "2026-09-11",
+     "close": 52573.2890625
+    },
+    {
+     "date": "2026-09-14",
+     "close": 52421.19921875
+    },
+    {
+     "date": "2026-09-15",
+     "close": 52093.109375
+    },
+    {
+     "date": "2026-09-16",
+     "close": 51461.8984375
+    },
+    {
+     "date": "2026-09-17",
+     "close": 51778.0390625
+    }
+   ],
+   "constituents_key": "us_djia",
+   "group": "미국"
+  },
+  {
+   "symbol": "^RUT",
+   "name": "러셀 2000",
+   "region": "US",
+   "kind": "index",
+   "close": 2874.629638671875,
+   "prev_close": 2858.81005859375,
+   "change_pct": 0.55,
+   "change_abs": 15.8196,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:30:14Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 2890.949951171875
+    },
+    {
+     "date": "2026-09-11",
+     "close": 2903.93994140625
+    },
+    {
+     "date": "2026-09-14",
+     "close": 2892.239990234375
+    },
+    {
+     "date": "2026-09-15",
+     "close": 2870.2900390625
+    },
+    {
+     "date": "2026-09-16",
+     "close": 2858.81005859375
+    },
+    {
+     "date": "2026-09-17",
+     "close": 2874.629638671875
+    }
+   ],
+   "constituents_key": null,
+   "group": "미국"
+  },
+  {
+   "symbol": "^SOX",
+   "name": "필라델피아 반도체",
+   "region": "US",
+   "kind": "index",
+   "close": 11599.4921875,
+   "prev_close": 11246.1103515625,
+   "change_pct": 3.14,
+   "change_abs": 353.3818,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T21:15:59Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 11614.169921875
+    },
+    {
+     "date": "2026-09-11",
+     "close": 11824.0
+    },
+    {
+     "date": "2026-09-14",
+     "close": 11131.2802734375
+    },
+    {
+     "date": "2026-09-15",
+     "close": 11175.5498046875
+    },
+    {
+     "date": "2026-09-16",
+     "close": 11246.1103515625
+    },
+    {
+     "date": "2026-09-17",
+     "close": 11599.4921875
+    }
+   ],
+   "constituents_key": null,
+   "group": "미국"
+  },
+  {
+   "symbol": "^VIX",
+   "name": "VIX",
+   "region": "US",
+   "kind": "index",
+   "close": 15.4399995803833,
+   "prev_close": 17.709999084472656,
+   "change_pct": -12.82,
+   "change_abs": -2.27,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:15:01Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 17.84000015258789
+    },
+    {
+     "date": "2026-09-11",
+     "close": 15.84000015258789
+    },
+    {
+     "date": "2026-09-14",
+     "close": 17.100000381469727
+    },
+    {
+     "date": "2026-09-15",
+     "close": 17.200000762939453
+    },
+    {
+     "date": "2026-09-16",
+     "close": 17.709999084472656
+    },
+    {
+     "date": "2026-09-17",
+     "close": 15.4399995803833
+    }
+   ],
+   "constituents_key": null,
+   "group": "미국"
+  },
+  {
+   "symbol": "^STOXX",
+   "name": "스톡스 600",
+   "region": "EU",
+   "kind": "index",
+   "close": 637.0900268554688,
+   "prev_close": 634.1799926757812,
+   "change_pct": 0.46,
+   "change_abs": 2.91,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T16:00:00Z",
+   "currency": "EUR",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 640.4099731445312
+    },
+    {
+     "date": "2026-09-10",
+     "close": 635.969970703125
+    },
+    {
+     "date": "2026-09-11",
+     "close": 639.0999755859375
+    },
+    {
+     "date": "2026-09-14",
+     "close": 635.989990234375
+    },
+    {
+     "date": "2026-09-15",
+     "close": 634.1799926757812
+    },
+    {
+     "date": "2026-09-16",
+     "close": 637.0900268554688
+    }
+   ],
+   "constituents_key": null,
+   "group": "유럽"
+  },
+  {
+   "symbol": "^STOXX50E",
+   "name": "유로스톡스 50",
+   "region": "EU",
+   "kind": "index",
+   "close": 6266.5,
+   "prev_close": 6236.5,
+   "change_pct": 0.48,
+   "change_abs": 30.0,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T16:00:00Z",
+   "currency": "EUR",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 6311.56005859375
+    },
+    {
+     "date": "2026-09-10",
+     "close": 6268.97021484375
+    },
+    {
+     "date": "2026-09-11",
+     "close": 6325.1298828125
+    },
+    {
+     "date": "2026-09-14",
+     "close": 6260.3798828125
+    },
+    {
+     "date": "2026-09-15",
+     "close": 6236.5
+    },
+    {
+     "date": "2026-09-16",
+     "close": 6266.5
+    }
+   ],
+   "constituents_key": null,
+   "group": "유럽"
+  },
+  {
+   "symbol": "^GDAXI",
+   "name": "DAX",
+   "region": "EU",
+   "kind": "index",
+   "close": 25537.75,
+   "prev_close": 25402.279296875,
+   "change_pct": 0.53,
+   "change_abs": 135.4707,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T16:00:00Z",
+   "currency": "EUR",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 25576.44921875
+    },
+    {
+     "date": "2026-09-10",
+     "close": 25361.150390625
+    },
+    {
+     "date": "2026-09-11",
+     "close": 25568.560546875
+    },
+    {
+     "date": "2026-09-14",
+     "close": 25440.810546875
+    },
+    {
+     "date": "2026-09-15",
+     "close": 25402.279296875
+    },
+    {
+     "date": "2026-09-16",
+     "close": 25537.75
+    }
+   ],
+   "constituents_key": null,
+   "group": "유럽"
+  },
+  {
+   "symbol": "^FTSE",
+   "name": "FTSE 100",
+   "region": "EU",
+   "kind": "index",
+   "close": 10688.5,
+   "prev_close": 10658.099609375,
+   "change_pct": 0.29,
+   "change_abs": 30.4004,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T15:35:29Z",
+   "currency": "GBP",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 10670.099609375
+    },
+    {
+     "date": "2026-09-10",
+     "close": 10608.900390625
+    },
+    {
+     "date": "2026-09-11",
+     "close": 10650.400390625
+    },
+    {
+     "date": "2026-09-14",
+     "close": 10697.599609375
+    },
+    {
+     "date": "2026-09-15",
+     "close": 10658.099609375
+    },
+    {
+     "date": "2026-09-16",
+     "close": 10688.5
+    }
+   ],
+   "constituents_key": null,
+   "group": "유럽"
+  },
+  {
+   "symbol": "^FCHI",
+   "name": "CAC 40",
+   "region": "EU",
+   "kind": "index",
+   "close": 8140.58984375,
+   "prev_close": 8090.27978515625,
+   "change_pct": 0.62,
+   "change_abs": 50.3101,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T16:05:02Z",
+   "currency": "EUR",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 8156.669921875
+    },
+    {
+     "date": "2026-09-10",
+     "close": 8116.759765625
+    },
+    {
+     "date": "2026-09-11",
+     "close": 8179.77001953125
+    },
+    {
+     "date": "2026-09-14",
+     "close": 8117.77978515625
+    },
+    {
+     "date": "2026-09-15",
+     "close": 8090.27978515625
+    },
+    {
+     "date": "2026-09-16",
+     "close": 8140.58984375
+    }
+   ],
+   "constituents_key": null,
+   "group": "유럽"
+  },
+  {
+   "symbol": "^KS11",
+   "name": "코스피",
+   "region": "KR",
+   "kind": "index",
+   "close": 6717.97021484375,
+   "prev_close": 6627.259765625,
+   "change_pct": 1.37,
+   "change_abs": 90.7104,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T11:05:40Z",
+   "currency": "KRW",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 7051.64013671875
+    },
+    {
+     "date": "2026-09-10",
+     "close": 7033.919921875
+    },
+    {
+     "date": "2026-09-11",
+     "close": 6909.91015625
+    },
+    {
+     "date": "2026-09-14",
+     "close": 6684.3701171875
+    },
+    {
+     "date": "2026-09-15",
+     "close": 6627.259765625
+    },
+    {
+     "date": "2026-09-16",
+     "close": 6717.97021484375
+    }
+   ],
+   "constituents_key": "kr_kospi",
+   "group": "한국"
+  },
+  {
+   "symbol": "^KQ11",
+   "name": "코스닥",
+   "region": "KR",
+   "kind": "index",
+   "close": 815.97998046875,
+   "prev_close": 812.4099731445312,
+   "change_pct": 0.44,
+   "change_abs": 3.57,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T11:05:40Z",
+   "currency": "KRW",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 830.3699951171875
+    },
+    {
+     "date": "2026-09-10",
+     "close": 836.9199829101562
+    },
+    {
+     "date": "2026-09-11",
+     "close": 820.6400146484375
+    },
+    {
+     "date": "2026-09-14",
+     "close": 806.7899780273438
+    },
+    {
+     "date": "2026-09-15",
+     "close": 812.4099731445312
+    },
+    {
+     "date": "2026-09-16",
+     "close": 815.97998046875
+    }
+   ],
+   "constituents_key": "kr_kosdaq",
+   "group": "한국"
+  },
+  {
+   "symbol": "000001.SS",
+   "name": "상해종합",
+   "region": "CN",
+   "kind": "index",
+   "close": 3891.60107421875,
+   "prev_close": 3864.279052734375,
+   "change_pct": 0.71,
+   "change_abs": 27.322,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T07:00:29Z",
+   "currency": "CNY",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 3951.507080078125
+    },
+    {
+     "date": "2026-09-10",
+     "close": 3934.404052734375
+    },
+    {
+     "date": "2026-09-11",
+     "close": 3888.111083984375
+    },
+    {
+     "date": "2026-09-14",
+     "close": 3885.3330078125
+    },
+    {
+     "date": "2026-09-15",
+     "close": 3864.279052734375
+    },
+    {
+     "date": "2026-09-16",
+     "close": 3891.60107421875
+    }
+   ],
+   "constituents_key": null,
+   "group": "중국·아시아"
+  },
+  {
+   "symbol": "399001.SZ",
+   "name": "심천성분",
+   "region": "CN",
+   "kind": "index",
+   "close": 13454.740234375,
+   "prev_close": 13287.9697265625,
+   "change_pct": 1.26,
+   "change_abs": 166.7705,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T08:29:40Z",
+   "currency": "CNY",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 13723.3203125
+    },
+    {
+     "date": "2026-09-10",
+     "close": 13617.669921875
+    },
+    {
+     "date": "2026-09-11",
+     "close": 13471.259765625
+    },
+    {
+     "date": "2026-09-14",
+     "close": 13384.5703125
+    },
+    {
+     "date": "2026-09-15",
+     "close": 13287.9697265625
+    },
+    {
+     "date": "2026-09-16",
+     "close": 13454.740234375
+    }
+   ],
+   "constituents_key": null,
+   "group": "중국·아시아"
+  },
+  {
+   "symbol": "^HSI",
+   "name": "항셍",
+   "region": "CN",
+   "kind": "index",
+   "close": 24713.779296875,
+   "prev_close": 24667.240234375,
+   "change_pct": 0.19,
+   "change_abs": 46.5391,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T08:08:32Z",
+   "currency": "HKD",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 25274.9609375
+    },
+    {
+     "date": "2026-09-10",
+     "close": 24954.470703125
+    },
+    {
+     "date": "2026-09-11",
+     "close": 24805.630859375
+    },
+    {
+     "date": "2026-09-14",
+     "close": 24917.599609375
+    },
+    {
+     "date": "2026-09-15",
+     "close": 24667.240234375
+    },
+    {
+     "date": "2026-09-16",
+     "close": 24713.779296875
+    }
+   ],
+   "constituents_key": null,
+   "group": "중국·아시아"
+  },
+  {
+   "symbol": "^N225",
+   "name": "닛케이 225",
+   "region": "JP",
+   "kind": "index",
+   "close": 63923.0,
+   "prev_close": 63484.1015625,
+   "change_pct": 0.69,
+   "change_abs": 438.8984,
+   "session_date": "2026-09-16",
+   "asof": "2026-09-17T06:45:03Z",
+   "currency": "JPY",
+   "history": [
+    {
+     "date": "2026-09-09",
+     "close": 65142.78125
+    },
+    {
+     "date": "2026-09-10",
+     "close": 65270.94921875
+    },
+    {
+     "date": "2026-09-11",
+     "close": 64011.33984375
+    },
+    {
+     "date": "2026-09-14",
+     "close": 63492.98828125
+    },
+    {
+     "date": "2026-09-15",
+     "close": 63484.1015625
+    },
+    {
+     "date": "2026-09-16",
+     "close": 63923.0
+    }
+   ],
+   "constituents_key": null,
+   "group": "중국·아시아"
+  },
+  {
+   "symbol": "KRW=X",
+   "name": "원/달러",
+   "region": "MACRO",
+   "kind": "fx",
+   "close": 1376.5999755859375,
+   "prev_close": 1363.5699462890625,
+   "change_pct": 0.96,
+   "change_abs": 13.03,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T00:00:00Z",
+   "currency": "KRW",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 1339.1700439453125
+    },
+    {
+     "date": "2026-09-11",
+     "close": 1348.1700439453125
+    },
+    {
+     "date": "2026-09-14",
+     "close": 1344.6400146484375
+    },
+    {
+     "date": "2026-09-15",
+     "close": 1345.6099853515625
+    },
+    {
+     "date": "2026-09-16",
+     "close": 1363.5699462890625
+    },
+    {
+     "date": "2026-09-17",
+     "close": 1376.5999755859375
+    }
+   ],
+   "constituents_key": null,
+   "group": "환율"
+  },
+  {
+   "symbol": "DX-Y.NYB",
+   "name": "달러인덱스",
+   "region": "MACRO",
+   "kind": "fx",
+   "close": 100.23600006103516,
+   "prev_close": 100.30999755859375,
+   "change_pct": -0.07,
+   "change_abs": -0.074,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T22:04:59Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 99.08999633789062
+    },
+    {
+     "date": "2026-09-11",
+     "close": 99.12000274658203
+    },
+    {
+     "date": "2026-09-14",
+     "close": 99.45999908447266
+    },
+    {
+     "date": "2026-09-15",
+     "close": 99.6500015258789
+    },
+    {
+     "date": "2026-09-16",
+     "close": 100.30999755859375
+    },
+    {
+     "date": "2026-09-17",
+     "close": 100.23600006103516
+    }
+   ],
+   "constituents_key": null,
+   "group": "환율"
+  },
+  {
+   "symbol": "JPY=X",
+   "name": "엔/달러",
+   "region": "MACRO",
+   "kind": "fx",
+   "close": 156.01400756835938,
+   "prev_close": 155.26600646972656,
+   "change_pct": 0.48,
+   "change_abs": 0.748,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T00:00:00Z",
+   "currency": "JPY",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 153.572998046875
+    },
+    {
+     "date": "2026-09-11",
+     "close": 154.48199462890625
+    },
+    {
+     "date": "2026-09-14",
+     "close": 153.4239959716797
+    },
+    {
+     "date": "2026-09-15",
+     "close": 154.38499450683594
+    },
+    {
+     "date": "2026-09-16",
+     "close": 155.26600646972656
+    },
+    {
+     "date": "2026-09-17",
+     "close": 156.01400756835938
+    }
+   ],
+   "constituents_key": null,
+   "group": "환율"
+  },
+  {
+   "symbol": "EURUSD=X",
+   "name": "유로/달러",
+   "region": "MACRO",
+   "kind": "fx",
+   "close": 1.1469862461090088,
+   "prev_close": 1.153761863708496,
+   "change_pct": -0.59,
+   "change_abs": -0.0068,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T00:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 1.1633858680725098
+    },
+    {
+     "date": "2026-09-11",
+     "close": 1.1609952449798584
+    },
+    {
+     "date": "2026-09-14",
+     "close": 1.1593934297561646
+    },
+    {
+     "date": "2026-09-15",
+     "close": 1.154854416847229
+    },
+    {
+     "date": "2026-09-16",
+     "close": 1.153761863708496
+    },
+    {
+     "date": "2026-09-17",
+     "close": 1.1469862461090088
+    }
+   ],
+   "constituents_key": null,
+   "group": "환율"
+  },
+  {
+   "symbol": "CNY=X",
+   "name": "위안/달러",
+   "region": "MACRO",
+   "kind": "fx",
+   "close": 6.705999851226807,
+   "prev_close": 6.71120023727417,
+   "change_pct": -0.08,
+   "change_abs": -0.0052,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T22:44:43Z",
+   "currency": "CNY",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 6.7104997634887695
+    },
+    {
+     "date": "2026-09-11",
+     "close": 6.706099987030029
+    },
+    {
+     "date": "2026-09-14",
+     "close": 6.708000183105469
+    },
+    {
+     "date": "2026-09-15",
+     "close": 6.708199977874756
+    },
+    {
+     "date": "2026-09-16",
+     "close": 6.71120023727417
+    },
+    {
+     "date": "2026-09-17",
+     "close": 6.705999851226807
+    }
+   ],
+   "constituents_key": null,
+   "group": "환율"
+  },
+  {
+   "symbol": "^TNX",
+   "name": "미 10년물",
+   "region": "MACRO",
+   "kind": "rate",
+   "close": 4.947000026702881,
+   "prev_close": 5.00600004196167,
+   "change_pct": -1.18,
+   "change_abs": -0.059,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T18:59:54Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 4.943999767303467
+    },
+    {
+     "date": "2026-09-11",
+     "close": 4.974999904632568
+    },
+    {
+     "date": "2026-09-14",
+     "close": 4.960999965667725
+    },
+    {
+     "date": "2026-09-15",
+     "close": 4.995999813079834
+    },
+    {
+     "date": "2026-09-16",
+     "close": 5.00600004196167
+    },
+    {
+     "date": "2026-09-17",
+     "close": 4.947000026702881
+    }
+   ],
+   "constituents_key": null,
+   "group": "금리"
+  },
+  {
+   "symbol": "^FVX",
+   "name": "미 5년물",
+   "region": "MACRO",
+   "kind": "rate",
+   "close": 4.800999641418457,
+   "prev_close": 4.859000205993652,
+   "change_pct": -1.19,
+   "change_abs": -0.058,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T18:59:54Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 4.732999801635742
+    },
+    {
+     "date": "2026-09-11",
+     "close": 4.790999889373779
+    },
+    {
+     "date": "2026-09-14",
+     "close": 4.789999961853027
+    },
+    {
+     "date": "2026-09-15",
+     "close": 4.826000213623047
+    },
+    {
+     "date": "2026-09-16",
+     "close": 4.859000205993652
+    },
+    {
+     "date": "2026-09-17",
+     "close": 4.800999641418457
+    }
+   ],
+   "constituents_key": null,
+   "group": "금리"
+  },
+  {
+   "symbol": "^IRX",
+   "name": "미 3개월물",
+   "region": "MACRO",
+   "kind": "rate",
+   "close": 3.9650001525878906,
+   "prev_close": 3.9700000286102295,
+   "change_pct": -0.13,
+   "change_abs": -0.005,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T18:59:54Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 3.8450000286102295
+    },
+    {
+     "date": "2026-09-11",
+     "close": 3.9130001068115234
+    },
+    {
+     "date": "2026-09-14",
+     "close": 3.934999942779541
+    },
+    {
+     "date": "2026-09-15",
+     "close": 3.9600000381469727
+    },
+    {
+     "date": "2026-09-16",
+     "close": 3.9700000286102295
+    },
+    {
+     "date": "2026-09-17",
+     "close": 3.9650001525878906
+    }
+   ],
+   "constituents_key": null,
+   "group": "금리"
+  },
+  {
+   "symbol": "CL=F",
+   "name": "WTI",
+   "region": "MACRO",
+   "kind": "commodity",
+   "close": 101.05999755859375,
+   "prev_close": 102.43000030517578,
+   "change_pct": -1.34,
+   "change_abs": -1.37,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T23:28:09Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 102.4800033569336
+    },
+    {
+     "date": "2026-09-11",
+     "close": 100.05000305175781
+    },
+    {
+     "date": "2026-09-14",
+     "close": 101.38999938964844
+    },
+    {
+     "date": "2026-09-15",
+     "close": 105.83000183105469
+    },
+    {
+     "date": "2026-09-16",
+     "close": 102.43000030517578
+    },
+    {
+     "date": "2026-09-17",
+     "close": 101.05999755859375
+    }
+   ],
+   "constituents_key": null,
+   "group": "원자재"
+  },
+  {
+   "symbol": "BZ=F",
+   "name": "브렌트",
+   "region": "MACRO",
+   "kind": "commodity",
+   "close": 104.08000183105469,
+   "prev_close": 105.83000183105469,
+   "change_pct": -1.65,
+   "change_abs": -1.75,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T23:24:21Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 107.62999725341797
+    },
+    {
+     "date": "2026-09-11",
+     "close": 104.61000061035156
+    },
+    {
+     "date": "2026-09-14",
+     "close": 105.68000030517578
+    },
+    {
+     "date": "2026-09-15",
+     "close": 108.75
+    },
+    {
+     "date": "2026-09-16",
+     "close": 105.83000183105469
+    },
+    {
+     "date": "2026-09-17",
+     "close": 104.08000183105469
+    }
+   ],
+   "constituents_key": null,
+   "group": "원자재"
+  },
+  {
+   "symbol": "GC=F",
+   "name": "금",
+   "region": "MACRO",
+   "kind": "commodity",
+   "close": 4383.7998046875,
+   "prev_close": 4387.5,
+   "change_pct": -0.08,
+   "change_abs": -3.7002,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T23:28:24Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 4407.2998046875
+    },
+    {
+     "date": "2026-09-11",
+     "close": 4408.89990234375
+    },
+    {
+     "date": "2026-09-14",
+     "close": 4351.89990234375
+    },
+    {
+     "date": "2026-09-15",
+     "close": 4332.7998046875
+    },
+    {
+     "date": "2026-09-16",
+     "close": 4387.5
+    },
+    {
+     "date": "2026-09-17",
+     "close": 4383.7998046875
+    }
+   ],
+   "constituents_key": null,
+   "group": "원자재"
+  },
+  {
+   "symbol": "HG=F",
+   "name": "구리",
+   "region": "MACRO",
+   "kind": "commodity",
+   "close": 6.619500160217285,
+   "prev_close": 6.43149995803833,
+   "change_pct": 2.92,
+   "change_abs": 0.188,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T23:26:11Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 6.4670000076293945
+    },
+    {
+     "date": "2026-09-11",
+     "close": 6.4695000648498535
+    },
+    {
+     "date": "2026-09-14",
+     "close": 6.329999923706055
+    },
+    {
+     "date": "2026-09-15",
+     "close": 6.368500232696533
+    },
+    {
+     "date": "2026-09-16",
+     "close": 6.43149995803833
+    },
+    {
+     "date": "2026-09-17",
+     "close": 6.619500160217285
+    }
+   ],
+   "constituents_key": null,
+   "group": "원자재"
+  },
+  {
+   "symbol": "BTC-USD",
+   "name": "비트코인",
+   "region": "MACRO",
+   "kind": "crypto",
+   "close": 76365.640625,
+   "prev_close": 76150.3203125,
+   "change_pct": 0.28,
+   "change_abs": 215.3203,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T23:38:43Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-12",
+     "close": 77270.46875
+    },
+    {
+     "date": "2026-09-13",
+     "close": 76838.15625
+    },
+    {
+     "date": "2026-09-14",
+     "close": 78163.3828125
+    },
+    {
+     "date": "2026-09-15",
+     "close": 75612.5078125
+    },
+    {
+     "date": "2026-09-16",
+     "close": 76150.3203125
+    },
+    {
+     "date": "2026-09-17",
+     "close": 76365.640625
+    }
+   ],
+   "constituents_key": null,
+   "group": "원자재"
+  },
+  {
+   "symbol": "XLK",
+   "name": "기술 (XLK)",
+   "region": "US",
+   "kind": "etf",
+   "close": 188.05999755859375,
+   "prev_close": 183.92999267578125,
+   "change_pct": 2.25,
+   "change_abs": 4.13,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 185.22000122070312
+    },
+    {
+     "date": "2026-09-11",
+     "close": 187.6699981689453
+    },
+    {
+     "date": "2026-09-14",
+     "close": 184.27999877929688
+    },
+    {
+     "date": "2026-09-15",
+     "close": 183.74000549316406
+    },
+    {
+     "date": "2026-09-16",
+     "close": 183.92999267578125
+    },
+    {
+     "date": "2026-09-17",
+     "close": 188.05999755859375
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLC",
+   "name": "커뮤니케이션 (XLC)",
+   "region": "US",
+   "kind": "etf",
+   "close": 112.3499984741211,
+   "prev_close": 113.0,
+   "change_pct": -0.58,
+   "change_abs": -0.65,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 111.5
+    },
+    {
+     "date": "2026-09-11",
+     "close": 112.5999984741211
+    },
+    {
+     "date": "2026-09-14",
+     "close": 115.06999969482422
+    },
+    {
+     "date": "2026-09-15",
+     "close": 114.02999877929688
+    },
+    {
+     "date": "2026-09-16",
+     "close": 113.0
+    },
+    {
+     "date": "2026-09-17",
+     "close": 112.3499984741211
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLY",
+   "name": "경기소비재 (XLY)",
+   "region": "US",
+   "kind": "etf",
+   "close": 111.38999938964844,
+   "prev_close": 110.18000030517578,
+   "change_pct": 1.1,
+   "change_abs": 1.21,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 111.95999908447266
+    },
+    {
+     "date": "2026-09-11",
+     "close": 112.95999908447266
+    },
+    {
+     "date": "2026-09-14",
+     "close": 112.8499984741211
+    },
+    {
+     "date": "2026-09-15",
+     "close": 110.87999725341797
+    },
+    {
+     "date": "2026-09-16",
+     "close": 110.18000030517578
+    },
+    {
+     "date": "2026-09-17",
+     "close": 111.38999938964844
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLP",
+   "name": "필수소비재 (XLP)",
+   "region": "US",
+   "kind": "etf",
+   "close": 83.48999786376953,
+   "prev_close": 83.33000183105469,
+   "change_pct": 0.19,
+   "change_abs": 0.16,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 83.08999633789062
+    },
+    {
+     "date": "2026-09-11",
+     "close": 83.37999725341797
+    },
+    {
+     "date": "2026-09-14",
+     "close": 84.41999816894531
+    },
+    {
+     "date": "2026-09-15",
+     "close": 83.7300033569336
+    },
+    {
+     "date": "2026-09-16",
+     "close": 83.33000183105469
+    },
+    {
+     "date": "2026-09-17",
+     "close": 83.48999786376953
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLE",
+   "name": "에너지 (XLE)",
+   "region": "US",
+   "kind": "etf",
+   "close": 64.4800033569336,
+   "prev_close": 64.02999877929688,
+   "change_pct": 0.7,
+   "change_abs": 0.45,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 64.93000030517578
+    },
+    {
+     "date": "2026-09-11",
+     "close": 65.13999938964844
+    },
+    {
+     "date": "2026-09-14",
+     "close": 64.52999877929688
+    },
+    {
+     "date": "2026-09-15",
+     "close": 65.93000030517578
+    },
+    {
+     "date": "2026-09-16",
+     "close": 64.02999877929688
+    },
+    {
+     "date": "2026-09-17",
+     "close": 64.4800033569336
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLF",
+   "name": "금융 (XLF)",
+   "region": "US",
+   "kind": "etf",
+   "close": 55.880001068115234,
+   "prev_close": 55.93000030517578,
+   "change_pct": -0.09,
+   "change_abs": -0.05,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 56.869998931884766
+    },
+    {
+     "date": "2026-09-11",
+     "close": 57.25
+    },
+    {
+     "date": "2026-09-14",
+     "close": 57.029998779296875
+    },
+    {
+     "date": "2026-09-15",
+     "close": 56.849998474121094
+    },
+    {
+     "date": "2026-09-16",
+     "close": 55.93000030517578
+    },
+    {
+     "date": "2026-09-17",
+     "close": 55.880001068115234
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLV",
+   "name": "헬스케어 (XLV)",
+   "region": "US",
+   "kind": "etf",
+   "close": 168.80999755859375,
+   "prev_close": 167.77000427246094,
+   "change_pct": 0.62,
+   "change_abs": 1.04,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 165.66000366210938
+    },
+    {
+     "date": "2026-09-11",
+     "close": 165.36000061035156
+    },
+    {
+     "date": "2026-09-14",
+     "close": 167.75
+    },
+    {
+     "date": "2026-09-15",
+     "close": 167.66000366210938
+    },
+    {
+     "date": "2026-09-16",
+     "close": 167.77000427246094
+    },
+    {
+     "date": "2026-09-17",
+     "close": 168.80999755859375
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLI",
+   "name": "산업재 (XLI)",
+   "region": "US",
+   "kind": "etf",
+   "close": 169.00999450683594,
+   "prev_close": 168.7100067138672,
+   "change_pct": 0.18,
+   "change_abs": 0.3,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 170.5500030517578
+    },
+    {
+     "date": "2026-09-11",
+     "close": 172.3699951171875
+    },
+    {
+     "date": "2026-09-14",
+     "close": 169.92999267578125
+    },
+    {
+     "date": "2026-09-15",
+     "close": 168.85000610351562
+    },
+    {
+     "date": "2026-09-16",
+     "close": 168.7100067138672
+    },
+    {
+     "date": "2026-09-17",
+     "close": 169.00999450683594
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLB",
+   "name": "소재 (XLB)",
+   "region": "US",
+   "kind": "etf",
+   "close": 50.709999084472656,
+   "prev_close": 50.36000061035156,
+   "change_pct": 0.69,
+   "change_abs": 0.35,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 50.7599983215332
+    },
+    {
+     "date": "2026-09-11",
+     "close": 50.95000076293945
+    },
+    {
+     "date": "2026-09-14",
+     "close": 50.4900016784668
+    },
+    {
+     "date": "2026-09-15",
+     "close": 50.72999954223633
+    },
+    {
+     "date": "2026-09-16",
+     "close": 50.36000061035156
+    },
+    {
+     "date": "2026-09-17",
+     "close": 50.709999084472656
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLRE",
+   "name": "부동산 (XLRE)",
+   "region": "US",
+   "kind": "etf",
+   "close": 42.939998626708984,
+   "prev_close": 42.810001373291016,
+   "change_pct": 0.3,
+   "change_abs": 0.13,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 43.04999923706055
+    },
+    {
+     "date": "2026-09-11",
+     "close": 43.41999816894531
+    },
+    {
+     "date": "2026-09-14",
+     "close": 43.119998931884766
+    },
+    {
+     "date": "2026-09-15",
+     "close": 43.06999969482422
+    },
+    {
+     "date": "2026-09-16",
+     "close": 42.810001373291016
+    },
+    {
+     "date": "2026-09-17",
+     "close": 42.939998626708984
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XLU",
+   "name": "유틸리티 (XLU)",
+   "region": "US",
+   "kind": "etf",
+   "close": 41.689998626708984,
+   "prev_close": 41.31999969482422,
+   "change_pct": 0.9,
+   "change_abs": 0.37,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 42.52000045776367
+    },
+    {
+     "date": "2026-09-11",
+     "close": 42.38999938964844
+    },
+    {
+     "date": "2026-09-14",
+     "close": 41.81999969482422
+    },
+    {
+     "date": "2026-09-15",
+     "close": 41.31999969482422
+    },
+    {
+     "date": "2026-09-16",
+     "close": 41.31999969482422
+    },
+    {
+     "date": "2026-09-17",
+     "close": 41.689998626708984
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "SOXX",
+   "name": "반도체 (SOXX)",
+   "region": "US",
+   "kind": "etf",
+   "close": 519.0999755859375,
+   "prev_close": 502.05999755859375,
+   "change_pct": 3.39,
+   "change_abs": 17.04,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 517.4299926757812
+    },
+    {
+     "date": "2026-09-11",
+     "close": 527.0700073242188
+    },
+    {
+     "date": "2026-09-14",
+     "close": 497.3999938964844
+    },
+    {
+     "date": "2026-09-15",
+     "close": 498.8500061035156
+    },
+    {
+     "date": "2026-09-16",
+     "close": 502.05999755859375
+    },
+    {
+     "date": "2026-09-17",
+     "close": 519.0999755859375
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "ITA",
+   "name": "방산 (ITA)",
+   "region": "US",
+   "kind": "etf",
+   "close": 213.8800048828125,
+   "prev_close": 215.27000427246094,
+   "change_pct": -0.65,
+   "change_abs": -1.39,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 218.32000732421875
+    },
+    {
+     "date": "2026-09-11",
+     "close": 219.00999450683594
+    },
+    {
+     "date": "2026-09-14",
+     "close": 216.77000427246094
+    },
+    {
+     "date": "2026-09-15",
+     "close": 214.0
+    },
+    {
+     "date": "2026-09-16",
+     "close": 215.27000427246094
+    },
+    {
+     "date": "2026-09-17",
+     "close": 213.8800048828125
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  },
+  {
+   "symbol": "XBI",
+   "name": "바이오 (XBI)",
+   "region": "US",
+   "kind": "etf",
+   "close": 158.25,
+   "prev_close": 154.17999267578125,
+   "change_pct": 2.64,
+   "change_abs": 4.07,
+   "session_date": "2026-09-17",
+   "asof": "2026-09-17T20:00:00Z",
+   "currency": "USD",
+   "history": [
+    {
+     "date": "2026-09-10",
+     "close": 156.82000732421875
+    },
+    {
+     "date": "2026-09-11",
+     "close": 156.1999969482422
+    },
+    {
+     "date": "2026-09-14",
+     "close": 157.60000610351562
+    },
+    {
+     "date": "2026-09-15",
+     "close": 154.02999877929688
+    },
+    {
+     "date": "2026-09-16",
+     "close": 154.17999267578125
+    },
+    {
+     "date": "2026-09-17",
+     "close": 158.25
+    }
+   ],
+   "constituents_key": null,
+   "group": "섹터ETF"
+  }
+ ],
+ "constituents": {
+  "us_sp500": {
+   "index_name": "S&P 500",
+   "rows": 503,
+   "total": 503,
+   "session_date": "2026-09-17",
+   "note": null,
+   "error": null,
+   "source": "Yahoo v7 quote + Wikipedia cache(2026-09-17)"
+  },
+  "us_ndx": {
+   "index_name": "나스닥 100",
+   "rows": 102,
+   "total": 102,
+   "session_date": "2026-09-17",
+   "note": null,
+   "error": null,
+   "source": "Yahoo v7 quote + Wikipedia cache(2026-09-17)"
+  },
+  "us_djia": {
+   "index_name": "다우 30",
+   "rows": 30,
+   "total": 30,
+   "session_date": "2026-09-17",
+   "note": null,
+   "error": null,
+   "source": "Yahoo v7 quote + KIND cache(2026-09-17)"
+  },
+  "kr_kospi": {
+   "index_name": "코스피",
+   "rows": 842,
+   "total": 842,
+   "session_date": "2026-09-17",
+   "note": null,
+   "error": null,
+   "source": "Yahoo v7 quote + KIND cache(2026-09-17)"
+  },
+  "kr_kosdaq": {
+   "index_name": "코스닥",
+   "rows": 1784,
+   "total": 1785,
+   "session_date": "2026-09-17",
+   "note": null,
+   "error": null,
+   "source": "Yahoo v7 quote + KIND cache(2026-09-17)"
+  }
+ },
+ "headlines": [
+  {
+   "text": "워시 연준, 3년 2개월 만에 0.25%p 인상 — 트럼프 반발에도 시장은 '신뢰 회복'으로 해석, 10년물 4.95%로 하락·나스닥 1.69% 반등",
+   "importance": 5,
+   "topic": "macro",
+   "topic_name": "거시경제"
+  },
+  {
+   "text": "뉴욕증시, 연준 25bp 인상 충격 하루 만에 반등 — 나스닥 +1.69%, S&P500 +1.14%, VIX 15.44(-12.82%)",
+   "importance": 5,
+   "topic": "us",
+   "topic_name": "미국시장"
+  },
+  {
+   "text": "매파 연준 0.25%p 인상에도 코스피 6,715.41(-0.04%) 방어…간밤 美 반도체지수 +3.14% 반등에 상승 출발 전망",
+   "importance": 5,
+   "topic": "kr",
+   "topic_name": "한국시장"
+  },
+  {
+   "text": "유럽 증시, 연준 25bp 인상·BoE 동결 소화하며 일제히 상승 — 유가 하락·국채금리 진정에 '2개월 만의 최대 상승'",
+   "importance": 5,
+   "topic": "eu",
+   "topic_name": "유럽시장"
+  },
+  {
+   "text": "연준 매파적 인상·HKMA 동반 인상에 A주 3대 지수 하락(상해 -0.41%), 항셍 24,604.29 마감 — 원자재·기술주 약세, 농업·CRO·자동차 순환매",
+   "importance": 5,
+   "topic": "cn",
+   "topic_name": "중국시장"
+  }
+ ],
+ "topics": {
+  "macro": {
+   "name": "거시경제",
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "title": "거시경제 데일리 브리프 (2026-09-18): 워시 연준의 3년 2개월 만의 금리 인상, 시장은 '불확실성 해소'로 반응"
+  },
+  "sectors": {
+   "name": "섹터별 주요뉴스",
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "title": "섹터별 주요뉴스 보고서 (2026-09-18) — 연준 3년 만의 인상에도 반도체 주도 반등, 유가 하락이 인플레 우려 완화"
+  },
+  "us": {
+   "name": "미국시장",
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "title": "미국 증시 브리핑 (2026-09-17 세션): 금리인상 충격 하루 만에 반등, 반도체가 주도"
+  },
+  "eu": {
+   "name": "유럽시장",
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "title": "유럽 증시 데일리 — 연준 인상·BoE 동결 소화하며 일제히 상승, 유가 하락·금리 안정이 지지 (2026-09-18)"
+  },
+  "kr": {
+   "name": "한국시장",
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "title": "한국 증시 데일리 브리프 (2026-09-18) — 매파 연준 소화한 코스피, 美 반도체 반등 이어받나"
+  },
+  "cn": {
+   "name": "중국시장",
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "title": "중국·홍콩 증시 브리프 (2026-09-18) — 연준 매파적 인상에 A주·항셍 동반 조정, 농업·CRO·자동차로 순환매"
+  }
+ },
+ "sources": {
+  "ok": 29,
+  "total": 29,
+  "failed": []
+ },
+ "warnings": [],
+ "market_errors": []
+}

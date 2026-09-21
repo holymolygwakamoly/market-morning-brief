@@ -1,0 +1,1119 @@
+{
+ "topic": "sectors",
+ "name": "섹터별 주요뉴스",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-18T08:50:25.388425+09:00",
+ "report": {
+  "title": "섹터별 주요뉴스 보고서 (2026-09-18) — 연준 3년 만의 인상에도 반도체 주도 반등, 유가 하락이 인플레 우려 완화",
+  "overview": "연준이 워시 의장 체제 첫 결정으로 3년 2개월 만에 기준금리를 25bp 인상했지만, 미국 증시는 불확실성 해소와 유가·국채금리 하락을 재료로 4거래일 만에 반등했다(S&P500 +1.14%, 나스닥 +1.69%, VIX -12.82%). 반도체가 사흘째 반등을 이끌며 필라델피아 반도체지수가 +3.14%, SOXX가 +3.39% 급등했고, 젠슨 황 엔비디아 CEO의 \"내년 칩 판매 2배\" 발언과 AI 지출 둔화 우려 완화가 기술주 전반의 투심을 되살렸다. 중동에서는 트럼프 대통령이 이란 전쟁 종결 가능성을 언급하고 사우디가 호르무즈 해협 수출을 확대하면서 WTI가 101.06달러(-1.34%)로 일주일 최저로 내려왔으나, 러시아산 원유 구매국(인도·중국)에 100% 관세를 부과할 수 있는 제재법이 하원을 통과해 에너지 시장의 불확실성은 여전하다. 커뮤니케이션(XLC -0.58%)·방산(ITA -0.65%)·금융(XLF -0.09%)은 소외됐고, 한국은 미국 반도체 훈풍에 힘입어 외국인 귀환과 코스피 상승 출발 기대가 형성된 가운데 한은의 3연속 인상 가능성과 환율 급등이 부담 요인으로 지목된다.",
+  "sectors": [
+   {
+    "name": "반도체",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR",
+     "CN"
+    ],
+    "reason": "연준 금리 인상이라는 악재에도 반도체가 사흘째 반등을 이어가며 시장 전체를 견인했다. 필라델피아 반도체지수 +3.14%, SOXX +3.39%로 최근 낙폭을 회복했고, S&P500 거래대금 상위 1~4위를 마이크론(+5.50%), 엔비디아(+2.54%), 인텔(+7.67%), AMD(+6.36%)가 차지할 만큼 자금이 집중됐다. 젠슨 황 CEO가 내년 칩 판매량을 2배로 늘릴 것이라며 향후 6개 분기 성장 지속을 시사했고, 마켓워치는 AI 지출 둔화와 금리 인상 영향에 대한 투자자 공포가 가라앉고 있다고 전했다. 대만 지수 야간선물도 611포인트 급등해 아시아 반도체주로의 온기 확산이 예상된다. 다만 인텔·AMD·샌디스크 등이 하루 6~8% 오르는 변동성은 밸류에이션 부담과 수급 쏠림이 병존함을 시사한다.",
+    "news": "[13] 젠슨 황 \"엔비디아, 내년 칩 2배 판매\" — 향후 6개 분기 대규모 성장 전망. [7] 필라델피아 반도체지수 3% 급등해 손실 회복, 대만 지수 야간선물 611p 급등. [19] 마이크론·인텔 등 칩주 강한 컴백 지속, AMD 7% 급등·브로드컴 3% 상승 — AI 지출 둔화·금리 인상 우려 완화. 매경: 금리 인상 직후 다시 반도체 랠리. [29] 조선비즈: 코스피와 삼성전자·SK하이닉스 동조화 역대급. [33] 화웨이, AI·반도체에서 '중국판 엔비디아' 노려.",
+    "leaders": [
+     {
+      "name": "Micron Technology",
+      "ticker": "MU",
+      "comment": "+5.50%, 거래대금 214억 달러로 S&P500 1위. 메모리가 AI 반등의 선봉."
+     },
+     {
+      "name": "Intel",
+      "ticker": "INTC",
+      "comment": "+7.67%, 거래대금 161억 달러. 상승 상위 10위 내 진입."
+     },
+     {
+      "name": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "comment": "+6.36%, 반도체 반등 3일차의 주도주로 언론 언급."
+     },
+     {
+      "name": "Nvidia",
+      "ticker": "NVDA",
+      "comment": "+2.54%. 황 CEO의 '내년 칩 판매 2배' 발언이 섹터 전체 투심 개선."
+     },
+     {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "comment": "+2.29%, 거래대금 80억 달러. 커스텀 AI 칩 수요 기대 동반 반영."
+     }
+    ],
+    "etf_note": "SOXX +3.39% (519.10), XLK +2.25% (188.06) — 전 섹터 ETF 중 상승률 1·3위."
+   },
+   {
+    "name": "AI 인프라·서버·스토리지",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "반도체 반등이 서버·스토리지·PC 하드웨어로 확산됐다. 슈퍼마이크로 +9.50%, HPE +7.96%, 샌디스크 +6.21%(거래대금 136억 달러), HP +5.99%, 워크데이 +6.14%로 S&P500 상승 상위 10종목 중 8개가 IT 섹터였다. 제너락은 아마존과의 대형 계약 소식에 +18.34%로 S&P500 상승률 1위를 기록했는데, 데이터센터 전력 백업 수요가 AI 투자 사이클의 새로운 수혜 축으로 부각된 사례다. WSJ는 투자자들이 인플레이션 우려에서 벗어나 AI 주식으로 돌아왔다고 평가했으며, 짐 크레이머가 OpenAI CFO에게 AI 지출 지속 여부를 추궁하는 등 AI 캐펙스의 지속성이 여전히 핵심 변수로 남아 있다.",
+    "news": "[32] 제너락, 아마존 대형 계약에 급등 — 월가는 추가 상승 여지 평가. [15] WSJ: 투자자들 AI 주식으로 복귀, 시장 인플레이션 우울감에서 탈출. [31] 크레이머, OpenAI CFO에 AI 지출 질의 — 6개 종목의 향방 좌우. [35] OpenAI '우려되는' 6건 사건 공개에도 마벨 등 AI 주식 상승. [36] 로듐그룹: OpenAI·앤스로픽 매출이 중국 AI 모델 전체 합의 10배.",
+    "leaders": [
+     {
+      "name": "Generac",
+      "ticker": "GNRC",
+      "comment": "+18.34%, S&P500 상승률 1위. 아마존 대형 계약으로 데이터센터 백업 전력 수혜 부각."
+     },
+     {
+      "name": "Supermicro",
+      "ticker": "SMCI",
+      "comment": "+9.50%. AI 서버 수요 회복 기대로 상승 상위 2위."
+     },
+     {
+      "name": "Hewlett Packard Enterprise",
+      "ticker": "HPE",
+      "comment": "+7.96%. 서버·네트워크 장비 동반 반등."
+     },
+     {
+      "name": "Sandisk",
+      "ticker": "SNDK",
+      "comment": "+6.21%, 거래대금 136억 달러. 낸드·스토리지에도 AI 자금 유입."
+     },
+     {
+      "name": "LG씨엔에스",
+      "ticker": "064400.KS",
+      "comment": "-0.86%, 코스피 거래대금 상위. 국내 AI·시스템통합주는 미국 랠리 대비 상대적으로 조용."
+     }
+    ],
+    "etf_note": "XLK +2.25%. 유틸리티 XLU +0.90%도 데이터센터 전력 테마와 맞물려 동반 강세."
+   },
+   {
+    "name": "에너지·석유",
+    "direction": "issue",
+    "markets": [
+     "US",
+     "EU",
+     "KR",
+     "CN"
+    ],
+    "reason": "유가가 이틀째 하락해 WTI 101.06달러(-1.34%), 브렌트 104.08달러(-1.65%)로 일주일 최저를 기록했다. 트럼프 대통령이 7개월째 이어진 이란 전쟁 종결이 '희망적으로' 가까워졌다고 언급하고 테헤란이 협상에 열려 있다고 시사했으며, 사우디가 동서 파이프라인 폐쇄 상황에서 호르무즈 해협을 통한 원유 수출을 늘리면서 공급 차질 우려가 완화됐다. 그러나 사우디·후티 간 공격이 오가고 있고, 러시아산 원유 구매국에 최대 100% 관세를 부과하는 제재법이 하원을 통과해 인도·중국을 겨냥한 새로운 공급 리스크가 부상했다. 유가 하락에도 XLE는 +0.70%로 견조했는데, 배럴당 100달러 위의 절대 가격 수준이 에너지 기업 실적에 여전히 우호적이기 때문으로 해석된다. 마켓워치는 '트럼프가 물러선다'는 TACO 트레이드가 9월 들어 작동하지 않고 있다고 경고했다.",
+    "news": "[1] 중동 공격 이후 유가 100달러 상회. [2] 트럼프 \"이란 전쟁 종결 희망적으로 근접\", 사우디·후티는 공격 교환. [5] 사우디, 호르무즈 해협 통한 원유 수출 확대 추진. [6] 유가 2% 하락해 일주일 최저 — 중동 공급 차질 우려 완화. [9] 에너지 시장 \"엔드게임을 모델링할 방법이 없다\". [10] 하원, 러시아산 원유 구매국 100% 관세 법안 통과 — 인도·중국 겨냥. [4] 인도, 미국 제재가 양국 관계·글로벌 시장에 영향 경고. [11][12] 미국 휘발유·경유 가격 급등, 추가 상승 경고.",
+    "leaders": [
+     {
+      "name": "SH에너지화학",
+      "ticker": "002360.KS",
+      "comment": "+28.46%, 코스피 상승률 2위. 유가·화학 관련 소형주 급등(거래대금 미확인)."
+     }
+    ],
+    "etf_note": "XLE +0.70% (64.48) — 유가 하락에도 상승. 배럴당 100달러대 유지가 실적 기대 지지."
+   },
+   {
+    "name": "방산",
+    "direction": "down",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "미국 방산 ETF ITA가 -0.65%로 하락했다. 트럼프 대통령이 이란 전쟁 종결 가능성을 언급하면서 그동안 전쟁 장기화를 반영해 온 방산주에 차익실현이 나왔고, 액손 엔터프라이즈가 -3.19%로 S&P500 하락 상위에 포함됐다. 반면 한국에서는 한화시스템이 +12.65%로 코스피 상승 상위 4위에 오르며 방산·전자 대형주 강세가 두드러져 미국과 방향이 엇갈렸다. 사우디·후티 간 공격 교환, 러시아 제재법 등 지정학 리스크 자체는 해소되지 않아 방산 수요 기반은 유지되지만, 단기적으로는 '종전 기대'가 미국 방산주의 모멘텀을 약화시키는 국면이다.",
+    "news": "[2] 트럼프, 미국이 이란과의 7개월 전쟁 종결에 근접했다고 발언 — 사우디·후티는 공격 교환. [3] 월가는 트럼프가 이란에서 물러설 것에 베팅, TACO 트레이드 실패 가능성 경고. [15] 야후파이낸스: 록히드마틴(LMT) 등 주목 종목.",
+    "leaders": [
+     {
+      "name": "Axon Enterprise",
+      "ticker": "AXON",
+      "comment": "-3.19%, S&P500 하락 상위. 종전 기대에 방산·보안주 차익실현."
+     },
+     {
+      "name": "한화시스템",
+      "ticker": "272210.KS",
+      "comment": "+12.65%, 코스피 상승 상위 4위(시총 14조). 국내 방산 대형주는 미국과 달리 강세."
+     }
+    ],
+    "etf_note": "ITA -0.65% (213.88) — 섹터 ETF 중 XLC와 함께 하락."
+   },
+   {
+    "name": "커뮤니케이션·미디어·통신",
+    "direction": "down",
+    "markets": [
+     "US"
+    ],
+    "reason": "XLC가 -0.58%로 섹터 ETF 중 가장 부진했다. T모바일 -5.57%(하락 1위), 파라마운트 스카이댄스 -4.63%, 컴캐스트 -3.46%, 레딧 -3.03% 등 통신·미디어 대형주가 S&P500 하락 상위 10종목 중 4개를 차지했다. 입력 기사에 해당 종목의 개별 악재는 명시되지 않았으나, 자금이 반도체·AI 하드웨어로 집중되면서 방어적 성격의 통신주와 기존 미디어에서 이탈한 로테이션이 관찰된다. 메타(+1.34%, 거래대금 107억 달러)만 AI 테마와 함께 상승해 섹터 내 차별화가 뚜렷하다. 금리 인상 국면에서 부채 부담이 큰 통신·케이블 사업자의 밸류에이션 압박도 배경으로 거론될 수 있다.",
+    "news": "[15][17] 뉴욕증시는 기술주 주도로 반등 — 통신·미디어는 로테이션에서 소외. 개별 종목 악재는 입력 기사에서 확인되지 않음.",
+    "leaders": [
+     {
+      "name": "T-Mobile US",
+      "ticker": "TMUS",
+      "comment": "-5.57%, S&P500 하락률 1위. 거래대금 11억 달러."
+     },
+     {
+      "name": "Comcast",
+      "ticker": "CMCSA",
+      "comment": "-3.46%. 케이블·미디어 약세."
+     },
+     {
+      "name": "Paramount Skydance Corporation",
+      "ticker": "PSKY",
+      "comment": "-4.63%. 전통 미디어 부진."
+     },
+     {
+      "name": "Reddit",
+      "ticker": "RDDT",
+      "comment": "-3.03%. 고밸류 인터넷 플랫폼도 차익실현."
+     },
+     {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "comment": "+1.34%, 거래대금 107억 달러. 섹터 내 유일하게 AI 테마로 상승."
+     }
+    ],
+    "etf_note": "XLC -0.58% (112.35) — 14개 섹터 ETF 중 최저 수익률."
+   },
+   {
+    "name": "바이오·헬스케어",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "바이오 ETF XBI가 +2.64%로 반도체에 이어 두 번째로 강한 상승을 기록했고, XLV도 +0.62% 올랐다. 모더나가 +8.55%(거래대금 30억 달러)로 S&P500 상승 상위 3위에 올랐다. 전날 금리 인상 충격으로 눌렸던 고성장·고베타 바이오주가 국채금리 하락과 함께 되돌림 반등을 보인 것으로, 성장주 전반의 위험선호 회복과 맥을 같이한다. 반면 다비타는 -5.56%로 하락 상위 2위에 올라 헬스케어 내에서도 서비스·투석 업종은 소외됐다. 한국에서는 진원생명과학이 -80.00%로 코스피 하락률 1위를 기록했는데, 입력 자료에 사유가 없어 감자 등 기업 이벤트 여부 확인이 필요하다.",
+    "news": "[15][17] 국채금리 하락에 성장주 반등 — 금리 민감 바이오주 되돌림. 개별 임상·규제 뉴스는 입력 기사에서 확인되지 않음.",
+    "leaders": [
+     {
+      "name": "Moderna",
+      "ticker": "MRNA",
+      "comment": "+8.55%, S&P500 상승 상위 3위. 금리 하락에 고베타 바이오 반등."
+     },
+     {
+      "name": "DaVita",
+      "ticker": "DVA",
+      "comment": "-5.56%, 하락 상위 2위. 헬스케어 서비스는 소외."
+     },
+     {
+      "name": "진원생명과학",
+      "ticker": "011000.KS",
+      "comment": "-80.00%, 코스피 하락률 1위. 기업 이벤트(감자 등) 여부 확인 필요."
+     },
+     {
+      "name": "명인제약",
+      "ticker": "317450.KS",
+      "comment": "-0.59%, 코스피 거래대금 상위. 국내 제약 대형주는 보합권."
+     }
+    ],
+    "etf_note": "XBI +2.64% (158.25), XLV +0.62% (168.81)."
+   },
+   {
+    "name": "금융·은행",
+    "direction": "issue",
+    "markets": [
+     "US",
+     "EU",
+     "KR"
+    ],
+    "reason": "연준이 25bp 인상했음에도 XLF는 -0.09%로 보합에 그쳤다. 통상 금리 인상은 은행 순이자마진에 우호적이지만, 이번에는 국채금리가 오히려 하락(WSJ: 연준이 신뢰를 회복하며 국채금리 하락)하고 골드만삭스가 10월 추가 인상을 전망하는 등 긴축 장기화가 경기와 대출 수요를 압박할 수 있다는 우려가 상쇄했다. 영란은행은 3.75% 동결했지만 인플레이션이 4%를 넘을 것으로 보고 인상 쪽으로 톤을 바꿨고, 일본도 인상 가능성이 거론되며 엔캐리 청산 우려가 재부상했다. 한국은 미국 인상 직후 환율이 급등했고 집값·유가·환율을 명분으로 한은의 3연속 인상 가능성이 열렸다는 보도가 나와 국내 은행·보험주의 방향성이 주목된다. 코스피 거래대금 1위 케이뱅크는 -1.08%, 서울보증보험 -0.12%로 약보합이었다.",
+    "news": "[14] 연준, 워시 의장 첫 결정으로 25bp 인상 — 3년 2개월 만. [16] 골드만, 10월 추가 인상 전망. [20] 워시의 인플레 대응에 글로벌 채권 회복. [22] 연준의 싸움은 '얼마나 더 올려야 하나'로 이동. [23][27] BOE 3.75% 동결, 인상 가능성 시사. [18] 일본 금리 인상 가능성 — 엔캐리 청산 우려. [24] 한은 3연속 인상 문 열려, 환율 급등. [26] 트럼프 \"1% 이하로 낮춰라\" 반발. [21] 워시, 트럼프에 반기 — 트럼프는 연준 비판하되 워시는 비켜감.",
+    "leaders": [
+     {
+      "name": "케이뱅크",
+      "ticker": "279570.KS",
+      "comment": "-1.08%, 코스피 거래대금 1위. 한은 인상 가능성에도 약보합."
+     },
+     {
+      "name": "서울보증보험",
+      "ticker": "031210.KS",
+      "comment": "-0.12%, 거래대금 상위. 보험주 보합."
+     },
+     {
+      "name": "스틱인베스트먼트",
+      "ticker": "026890.KS",
+      "comment": "-6.76%, 하락 상위. 금리 상승은 사모투자·운용사에 부담."
+     }
+    ],
+    "etf_note": "XLF -0.09% (55.88) — 금리 인상에도 보합, 장기금리 하락이 상쇄."
+   },
+   {
+    "name": "조선·기계·전력기기 (한국)",
+    "direction": "up",
+    "markets": [
+     "KR"
+    ],
+    "reason": "코스피 구성종목에서 한화엔진 +10.30%(시총 4조), 대한조선 +3.18%(거래대금 상위), 씨케이솔루션 +23.08%, 혜인 +10.02% 등 조선·기계 관련주가 상승 상위와 거래대금 상위에 동시에 포진했다. 조선비즈는 반도체 독주가 끝나는가 싶었지만 코스피와 삼성전자·SK하이닉스의 동조화가 역대급이라면서도 시장 로테이션이 확대되고 있다고 분석했는데, 조선·방산·기계는 그 로테이션의 수혜 축이다. 중동 전쟁 장기화와 호르무즈 물류 재편에 따른 선박 수요, 러시아 제재에 따른 에너지 운송 경로 변화 기대도 조선주에 우호적 배경으로 작용한다. 반면 전선·전력기기의 LS에코에너지는 -6.36%, 티엠씨는 +4.64%로 전력 인프라 내 종목별 차별화가 나타났다.",
+    "news": "[29] 조선비즈: 코스피 시장 로테이션 확대 속 반도체 대형주와의 동조화 역대급. [5][9] 호르무즈 수출 재개·중동 전쟁 확산이 글로벌 에너지 운송 시장 뒤흔듦. [4][10] 러시아 제재법 — 에너지 교역 경로 재편 가능성.",
+    "leaders": [
+     {
+      "name": "한화엔진",
+      "ticker": "082740.KS",
+      "comment": "+10.30%, 시총 4조. 선박 엔진 수요 기대로 상승 상위."
+     },
+     {
+      "name": "대한조선",
+      "ticker": "439260.KS",
+      "comment": "+3.18%, 시총 2조, 코스피 거래대금 상위."
+     },
+     {
+      "name": "씨케이솔루션",
+      "ticker": "480370.KS",
+      "comment": "+23.08%, 상승 상위 3위·거래대금 상위 동시 진입."
+     },
+     {
+      "name": "LS에코에너지",
+      "ticker": "229640.KS",
+      "comment": "-6.36%, 하락 상위. 전력기기 내 차익실현."
+     }
+    ],
+    "etf_note": null
+   },
+   {
+    "name": "소재·구리",
+    "direction": "up",
+    "markets": [
+     "US",
+     "CN",
+     "KR"
+    ],
+    "reason": "구리 선물이 +2.92%(6.62달러)로 급등하며 원자재 중 가장 강한 움직임을 보였고, 소재 ETF XLB도 +0.69% 상승했다. 연준 인상에도 국채금리가 하락하고 위험선호가 회복된 데다, 트럼프의 이란 종전 시사로 중동발 물류·에너지 비용 우려가 완화된 점이 산업금속 수요 기대를 지지했다. AI 데이터센터와 전력 인프라 투자(제너락·아마존 계약, XLU +0.90%)도 구리 수요 스토리를 강화한다. 금은 4383.80달러(-0.08%)로 보합이었고, 중국 증시는 상해 +0.71%, 심천 +1.26%로 상승해 원자재 수요국 심리도 나쁘지 않았다. 한국에서는 진양화학 +29.94%, 진양산업 +12.14%, 진양폴리우레탄 +11.34% 등 화학·플라스틱 소형주가 동반 급등했으나 입력 기사에 사유는 없다.",
+    "news": "[15][17] 유가·국채금리 안정에 위험선호 회복. [32] 제너락-아마존 계약 등 데이터센터 전력 인프라 투자 지속. 중국 증시 상해 +0.71%, 심천 +1.26%.",
+    "leaders": [
+     {
+      "name": "진양화학",
+      "ticker": "051630.KS",
+      "comment": "+29.94%, 코스피 상승률 1위. 진양그룹 화학·플라스틱 3사 동반 급등(사유 미확인)."
+     },
+     {
+      "name": "진양산업",
+      "ticker": "003780.KS",
+      "comment": "+12.14%, 상승 상위 5위."
+     }
+    ],
+    "etf_note": "XLB +0.69% (50.71). 구리 +2.92%, 금 -0.08%."
+   },
+   {
+    "name": "자동차·테슬라",
+    "direction": "issue",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "테슬라가 +2.27%(366.20달러, 거래대금 142억 달러)로 상승하며 경기소비재 ETF XLY를 +1.10% 끌어올렸다. 그러나 마켓워치는 테슬라의 다가오는 제품 이벤트가 투자자를 실망시킬 수 있다며, 로보택시 진전이 기대보다 느린 점이 전문가들의 핵심 우려라고 지적했다. 유가 하락은 자동차 수요 측면에서 우호적이지만, 미국 휘발유·경유 가격이 급등해 단기 완화가 어렵다는 보도(CBS·FOX)가 이어져 소비자 구매력 부담은 지속된다. 연준 인상과 골드만의 10월 추가 인상 전망은 자동차 할부금리 상승을 통해 수요에 부정적일 수 있어, 제품 이벤트의 실질 내용과 금리 경로가 자동차 섹터의 방향을 좌우할 전망이다.",
+    "news": "[30] 마켓워치: 테슬라 제품 이벤트, 로보택시 진전 지연으로 투자자 실망 가능성. [12] 미국 휘발유·경유 가격 급등, 완화 조짐 없음. [16] 골드만 10월 추가 인상 전망.",
+    "leaders": [
+     {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "comment": "+2.27%, 거래대금 142억 달러(S&P500 5위). 제품 이벤트 앞두고 기대와 우려 교차."
+     },
+     {
+      "name": "Copart",
+      "ticker": "CPRT",
+      "comment": "-3.76%, S&P500 하락 상위. 중고차 경매 관련주 약세."
+     }
+    ],
+    "etf_note": "XLY +1.10% (111.39)."
+   },
+   {
+    "name": "소비재·화장품 (한국)",
+    "direction": "issue",
+    "markets": [
+     "KR"
+    ],
+    "reason": "코스피 거래대금 상위에 달바글로벌(+7.87%, 시총 2조)이 올라 K뷰티 수출주에 대한 관심이 지속되고 있다. 다만 한은의 3연속 인상 가능성과 환율 급등은 내수 소비에는 부담이고, 수출 화장품에는 환율 효과가 긍정적으로 작용하는 양면성이 있다. 미국 필수소비재 XLP는 +0.19%, 경기소비재 XLY는 +1.10%로 위험선호 회복 속 경기소비재가 우위였다. 국내 가구주(에넥스 -7.78%, 코아스 -6.10%)는 금리 인상 우려에 따른 주택·내수 경기 부담으로 하락 상위에 포함됐다.",
+    "news": "[24] 집값·유가·환율 — 한은 3연속 인상 명분 쌓여, 미국 인상에 환율 급등. 더벨: 질경이, 인도네시아 시장 본격 진출.",
+    "leaders": [
+     {
+      "name": "달바글로벌",
+      "ticker": "483650.KS",
+      "comment": "+7.87%, 시총 2조, 코스피 거래대금 상위. K뷰티 수출주 강세."
+     },
+     {
+      "name": "에넥스",
+      "ticker": "011090.KS",
+      "comment": "-7.78%, 하락 상위. 금리 부담에 가구·내수주 약세."
+     }
+    ],
+    "etf_note": "XLY +1.10%, XLP +0.19%."
+   }
+  ],
+  "ai_sector": "AI 섹터는 연준의 3년 2개월 만의 금리 인상이라는 역풍에도 불구하고 이날 시장 반등의 핵심 동력이었다. 필라델피아 반도체지수 +3.14%, SOXX +3.39%, XLK +2.25%로 기술·반도체가 전 섹터를 압도했고, 나스닥100은 +1.73% 상승했다. S&P500 거래대금 상위 10종목 중 마이크론(214억 달러, +5.50%), 엔비디아(204억 달러, +2.54%), 인텔(161억 달러, +7.67%), AMD(154억 달러, +6.36%), 샌디스크(136억 달러, +6.21%), 애플(+1.38%), 메타(+1.34%), 마이크로소프트(+1.52%), 브로드컴(+2.29%) 등 9개가 AI 밸류체인 종목으로, 시장 자금이 AI로 재집중됐음을 보여준다. 상승률 상위 10위에도 슈퍼마이크로(+9.50%), HPE(+7.96%), 스카이웍스(+6.69%), 워크데이(+6.14%), HP(+5.99%)가 포진해 서버·스토리지·소프트웨어까지 온기가 번졌다.\n\n촉매는 세 가지다. 첫째, 젠슨 황 엔비디아 CEO가 내년 칩 판매량을 2배로 늘리겠다고 밝혀 향후 6개 분기 대규모 성장 지속을 시사했고, 야후파이낸스는 이를 \"AI 버블? 황이 AI 주식에 좋은 소식을 전했다\"고 평가했다. 둘째, 마켓워치에 따르면 AI 지출 둔화와 금리 인상 영향에 대한 투자자 공포가 가라앉고 있으며, WSJ는 투자자들이 인플레이션 우울감을 떨치고 AI 주식으로 돌아왔다고 전했다. 셋째, 제너락이 아마존과의 대형 계약으로 +18.34% 급등하며 데이터센터 전력 백업이라는 새로운 AI 인프라 수혜 축을 확인시켰고, 유틸리티 XLU도 +0.90% 동반 상승했다.\n\n밸류에이션과 수급 측면에서는 경계 요인도 있다. 짐 크레이머가 OpenAI CFO에게 AI 지출 지속 여부를 직접 추궁하며 6개 종목의 향방이 그 답에 달려 있다고 언급했고, OpenAI가 6건의 '우려되는' 사건을 공개했음에도 마벨 등 AI 주식이 상승한 것은 시장이 부정적 뉴스를 소화할 만큼 위험선호가 강하다는 뜻이자 과열 신호로도 읽힐 수 있다. 골드만삭스가 10월 추가 인상을 전망하는 등 긴축 경로가 길어질 경우 고밸류 성장주의 할인율 부담은 다시 커질 수 있다. 하루 6~9%의 급등락이 반복되는 인텔·AMD·슈퍼마이크로의 변동성은 수급 쏠림의 양면을 보여준다.\n\n글로벌 경쟁 구도에서는 로듐그룹이 OpenAI와 앤스로픽의 매출이 중국 AI 모델 전체 합의 10배라고 분석해 미국 AI 리더의 수익화 우위를 확인했으며, 낮은 매출이 반드시 낮은 밸류에이션으로 이어지지는 않는다고 지적했다. 화웨이는 AI·반도체에서 '중국판 엔비디아'를 목표로 하고 있어 중국의 자립 시도는 계속된다. 한국 관점에서는 조선비즈가 코스피와 삼성전자·SK하이닉스의 동조화가 '역대급'이라고 분석한 만큼, 미국 반도체 훈풍이 이날 코스피 상승 출발과 외국인 귀환 기대로 직결되고 있다(뉴스핌·ebn). 다만 한은의 3연속 인상 가능성과 환율 급등은 국내 반도체 대형주의 외국인 수급에 양날의 검이 될 수 있어, 반도체와 코스피의 동조화가 강할수록 미국 AI 투심 변화에 대한 국내 시장의 민감도도 높아진다는 점을 유의해야 한다.",
+  "cross_events": [
+   {
+    "heading": "연준 25bp 인상과 글로벌 긴축 재개 — 워시 시대의 첫 결정",
+    "body": "연준이 트럼프 대통령이 지명한 케빈 워시 의장 체제에서 첫 결정으로 기준금리를 25bp 인상했다. 3년 2개월 만의 인상으로, 워시 의장은 \"물가가 너무 높다\"고 밝혔다. 트럼프 대통령은 \"1% 이하로 서둘러 낮추라\"며 반발하고 인상을 정치적이라고 비난했지만 워시 개인은 비켜갔다(NYT). 시장은 전날 충격 이후 하루 만에 안정을 되찾았다. 로이터는 연준이 신뢰를 쌓았지만 매파 전환이 투자자를 불안하게 한다고 평가했고, 블룸버그는 워시의 인플레 대응이 시장을 진정시켜 글로벌 채권이 회복했다고 전했다. WSJ에 따르면 연준이 신뢰를 회복하면서 미 국채금리는 오히려 하락했고, 이것이 성장주·반도체 반등의 토대가 됐다. 그러나 골드만삭스는 10월 추가 인상을 전망해 긴축 경로가 길어질 위험을 부각했으며, 연준의 초점은 이제 '얼마나 더 올려야 하는가'로 이동했다. 영란은행은 3.75% 동결하면서도 인플레이션이 4%를 넘을 것으로 보고 인상 쪽으로 톤을 바꿨고, 일본도 인상 가능성이 거론되며 엔캐리 청산 우려가 재부상했다. 한국은 미국 인상 직후 환율이 급등했고, 집값·유가·환율을 명분으로 한은의 3연속 인상 문이 열렸다는 보도가 나왔다. 코스피는 금리 인상에도 일단 버텼지만 장기적 부담과 'AI 수요가 더 강하다'는 시각이 맞서고 있다.",
+    "bullets": [
+     "연준 25bp 인상, 3년 2개월 만 — 워시 의장 \"물가 너무 높아\"",
+     "미 국채금리 하락·VIX -12.82% — 불확실성 해소로 해석, S&P500 +1.14%·나스닥 +1.69%",
+     "골드만 10월 추가 인상 전망 — 긴축 장기화 리스크",
+     "BOE 3.75% 동결이나 인상 시사, 일본 인상 가능성에 엔캐리 청산 우려",
+     "한은 3연속 인상 가능성·환율 급등 — 국내 금융·내수·외국인 수급 변수",
+     "섹터 영향: 반도체·바이오(금리 하락에 반등), 금융(보합), 가구·내수(약세)"
+    ]
+   },
+   {
+    "heading": "이란 전쟁 종전 기대 vs 러시아 제재 — 유가 100달러대의 양방향 리스크",
+    "body": "트럼프 대통령이 7개월째 이어진 이란 전쟁이 '희망적으로' 종결에 가까워졌다며 테헤란이 협상에 열려 있다고 시사했고, 사우디는 동서 파이프라인 폐쇄 속에 호르무즈 해협을 통한 원유 수출을 늘리고 있다. 이에 유가가 이틀째 하락해 WTI 101.06달러(-1.34%), 브렌트 104.08달러(-1.65%)로 일주일 최저를 기록했고, 유가 하락이 인플레이션 우려를 완화하며 주식·채권 동반 랠리를 지원했다. 그러나 사우디와 후티는 공격을 주고받고 있고, 마켓워치는 '트럼프는 결국 물러선다'는 TACO 트레이드가 9월 들어 작동하지 않고 있다고 경고했으며, 에너지 시장은 \"엔드게임을 모델링할 방법이 없다\"고 토로한다. 여기에 미 하원이 러시아산 원유 구매국에 최대 100% 관세를 부과할 수 있는 제재법을 통과시켜 트럼프가 서명을 앞두고 있다. 인도는 이것이 미·인도 관계와 글로벌 시장에 영향을 줄 수 있다고 경고했고, 중국도 대상이 될 수 있어 원유 교역 경로 재편과 공급 차질 리스크가 새로 부상했다. 미국 내 휘발유·경유 가격은 급등세로 완화 조짐이 없어 소비자 부담은 지속된다. 유가 하락에도 XLE가 +0.70% 오른 것은 100달러대 절대 가격이 여전히 에너지 실적에 우호적임을 반영하며, 방산(ITA -0.65%)은 종전 기대에 차익실현이 나왔다.",
+    "bullets": [
+     "WTI 101.06달러(-1.34%), 브렌트 104.08달러(-1.65%) — 이틀째 하락, 일주일 최저",
+     "트럼프 \"이란 전쟁 종결 근접\", 사우디 호르무즈 수출 확대 — 공급 우려 완화",
+     "하원, 러시아산 원유 구매국 100% 관세 법안 통과 — 인도·중국 겨냥, 인도 반발",
+     "TACO 트레이드 실패 가능성(마켓워치) — 종전 기대 과신 경계",
+     "섹터 영향: 에너지(XLE +0.70% 견조), 방산(ITA -0.65%), 조선·해운(경로 재편 기대), 소비(연료비 부담)"
+    ]
+   },
+   {
+    "heading": "트럼프의 EU 관세 위협 — 캐나다 EU 준회원 제안에 '적대 행위'",
+    "body": "폰데어라이엔 EU 집행위원장이 캐나다를 27개 회원국 블록의 첫 준회원(associate member)으로 받아들이는 문을 열겠다고 밝히자, 트럼프 대통령은 이를 '적대 행위'로 규정하고 EU에 관세를 위협했다. 러시아 제재법이 인도·중국을 겨냥한 관세 무기라면, 이번 사안은 동맹인 EU·캐나다와의 무역 갈등을 재점화할 수 있는 새로운 변수다. 유럽 증시는 이 발언 이전인 16일 기준 스톡스600 +0.46%, DAX +0.53%, CAC40 +0.62%로 상승 마감했으나, 관세 위협이 현실화될 경우 유럽 자동차·산업재·소재 수출주와 이들과 경쟁 또는 공급망을 공유하는 한국 수출기업에도 파급이 예상된다. 미·EU 관세 갈등은 인플레이션을 자극해 연준·BOE의 긴축 경로를 더 길게 만들 수 있다는 점에서 금리 이슈와도 연결된다. 아직 구체적 관세율이나 시점은 제시되지 않아 헤드라인 리스크 단계로 판단되며, 유럽 관련 노출이 큰 섹터는 후속 발언을 주시할 필요가 있다.",
+    "bullets": [
+     "EU, 캐나다 첫 준회원 가입 추진 — 트럼프 \"적대 행위\", 관세 위협",
+     "유럽 지수(16일 기준)는 관세 발언 이전 상승 마감 — 후속 반응 미반영",
+     "인도·중국 대상 러시아 제재 관세와 함께 무역 갈등 전선 확대",
+     "섹터 영향: 유럽 수출주·산업재·자동차, 인플레이션 경로를 통한 금리 민감주"
+    ]
+   }
+  ],
+  "events_today": [
+   "한국 증시 개장 — 미국 반도체 훈풍에 코스피 상승 출발·외국인 귀환 기대(뉴스핌·ebn), 삼성전자·SK하이닉스와 지수 동조화 주시",
+   "트럼프 대통령 러시아 제재법(러시아산 원유 구매국 100% 관세) 서명 예정 — 인도·중국 반응 및 유가 영향",
+   "이란 전쟁 종전 협상 진전 여부와 사우디·후티 공격 교환, 호르무즈 수출 지속성 — 유가 방향의 핵심 변수",
+   "테슬라 제품 이벤트(일정은 입력에 명시되지 않음) — 로보택시 진전이 핵심 관전 포인트(마켓워치)",
+   "트럼프의 EU 관세 위협 후속 발언 — 캐나다 EU 준회원 제안 관련",
+   "한은 금리 인상 여부 관련 발언·환율 흐름 — 3연속 인상 명분 보도 이후 원화 방향"
+  ],
+  "headlines": [
+   {
+    "text": "연준 3년 2개월 만의 25bp 인상에도 미 증시 4거래일 만에 반등 — 유가·국채금리 하락에 불확실성 해소, S&P500 +1.14%·나스닥 +1.69%·VIX -12.82%",
+    "importance": 5
+   },
+   {
+    "text": "반도체 사흘째 랠리: SOX +3.14%·SOXX +3.39%, 황 CEO '내년 칩 판매 2배' 발언에 마이크론·인텔·AMD 급등 — 코스피 상승 출발·외국인 귀환 기대",
+    "importance": 5
+   },
+   {
+    "text": "트럼프 '이란 종전 근접'·사우디 호르무즈 수출 확대에 WTI 101달러로 하락, 그러나 러시아산 원유 구매국 100% 관세법 하원 통과로 인도·중국발 공급 리스크 부상",
+    "importance": 4
+   }
+  ],
+  "data_caveats": [
+   "한국 지수(코스피·코스닥)와 유럽·아시아 지수는 09-16 종가 기준으로, 미국(09-17) 및 코스피 구성종목(09-17)과 기준일이 다름",
+   "코스피 구성종목 표의 거래대금이 모두 0으로 표기되어 국내 수급·거래대금 판단 불가, 대한조선은 거래대금 상위에 중복 표기됨",
+   "진원생명과학 -80.00%, 진양그룹 3사 급등 등 국내 종목 급등락은 입력 기사에 사유가 없어 감자·기업 이벤트 여부 미확인",
+   "외국인·기관 수급 데이터 없음 — '외국인 귀환 기대'는 기사 제목 기반 해석",
+   "Google News 기반 기사는 제목·짧은 요약만 제공되어 본문 세부 수치(금리 수준, 관세 세부, 계약 규모)는 미확인",
+   "T모바일·컴캐스트·다비타 등 개별 하락 종목의 원인은 입력 기사에서 확인되지 않아 로테이션 관점의 해석임",
+   "테슬라 제품 이벤트 일정, 트럼프 러시아 제재법 서명 시점은 입력에 명시되지 않음"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "Oil Prices Exceed US$100/b Following Middle East Attacks",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0lYeVBfanpPTjJCWXFpZGFLYlhDQkN3VUdUQXloU1V1THRsaHNtN3JfU0RtUVBTbFpSdTlPU2RtTHN6ajRxaDA5OHFnRElEWFAyc3MwYWV0MXJhVVY2Rl9EYWJBdmxOMFpWR0dfakdVMUlGSnVHX2tsSHktS1gwZ0xzV29fVjZrZUtuTGVQMDVlX3dRZ2VweDZjS1RwUQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Mexico Business News",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 06:28"
+  },
+  {
+   "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+   "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 22:46"
+  },
+  {
+   "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+   "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:09"
+  },
+  {
+   "title": "Trump to sign Russia sanctions bill; India-US ties, energy market on edge",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQby1ZU3dmanY2eTRuM0Z0R2ZReDZfOVQ1T2NRZWRKeGM4cy1jMEZvOXRTa0xfaGJfRjA4VHBXb1QwdzlxV21DaV9FNHBHZG9FMTZGRzNXMjlQSWtfRXhzNE8wcHdsQnpKLVNtSzA4RUhwNU1VTU15RkhEZzNrbGtYUnA0azN1b0tla3A0VmlWamhHd1EyWHV1OEIya2xNZGpUVnJHQkNaRFo0cDQwYlh3YV9ZNFhDdF9KZHZj0gG-AUFVX3lxTE15Zl9lOHVhUGVBT2VHVVB1dnBJT2RwcGlwaXpPQWxLa0d4S2hqbHk1MW5mX0o0VnowYUNCT1ZxV0NENjZoUmNlSUllbFpxQnp2RUdDazR6amhsQmd6d21TbnBOZXFkQVo5d2lDRkFRM2ROMnZZd2c4eDR6Z3NSSExNVVNxN3JNVC1DREdMSHlFNmR0ZWRobFJ0THoxSW1DeWwzeEVIUXhnNEdDUVJKT29uUGhzUVhlTFRobGR2anc?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Rediff",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 05:10"
+  },
+  {
+   "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+   "url": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 04:52"
+  },
+  {
+   "title": "India warns US sanctions on Russian energy buyers could affect ties, global markets",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOby05ZXh4V2tqMUNwMWRJZ1A2SjhURVNvaEpXWXdTTi1OcUF6cWo2alR0VUpGbnhJWmRna3lyQWJnYVdScTVJWVh0c1ZEV0N4bGlrYkhpdkRpUDhZRW1TbzFQSWZfc1RWZDI5NFZaclNkVTRackhodjBKUFBuWUUyOXpfeHJYTVJhcHBLVVFCeDJEbmtTc0xqUVgzSVM1bko0TDdEUk0xaWxWazZEa1doamdqNUZTNTlPUTZQNV9YdURnbEdMd2Z2MldQc3JrUdIB2wFBVV95cUxNYkZIU2d3d3FCTlIzcHRHR01UZ1Nmc2VMenNEUVNWcG1zZjV5NjZTY1Z1X0pyLTduZEg0SE44RlZ0aHF0SldPanU4OGdtT2tYbDVUVEhUR0RDN3JBcWJKMlNWZ2pmZkNwNUs2U20yWFNJOTlwVFd2ZVRyYWp6Wms3Zm9BN3NfUzdHUEJfNk4tbzBYVDhfWG1HNEpKQWtaNG5fcy1rTWNzMmo1VGtpalF2M2xNcFViM0o0WXlUVnJSdE9ER1gyWXB1a3NfMjJZTHY4akZnYUZ0OG1UZ3c?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "The New Indian Express",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 03:43"
+  },
+  {
+   "title": "Oil falls 2% to one-week low as Middle East supply disruption fears ease",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGlNX2pOM19UZllfNXotTUh4R0VOeEgyT2ptWEhiT0FvWEFOWVVpRUFmZ0VoTWc1aTRrNDJuelI4S0hQa1g4QXlQZmI0ZW92NTBZb0FLRk1oVG1Zb1RIOXFWenc3bEFfRU5RSURZTHhQeU1PbFdLSzY2Q3h5OVZpQ3N5MHVwb2NmaFFqWDRhS0p5QQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 01:17"
+  },
+  {
+   "title": "Philadelphia Semiconductor Index Soars 3% to Recover Losses; Taiwan Index Futures Night Session Surges 611 Points",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9maFY1RFRuT0xjYnFVQ05zNXk4N3ZzNWhnU29xYml5WU02V2pFNTEzTWd1TFFNWHFEd1NiQ04zbnN6VTVWcWlhZDBrQXNxdDVJYlZpMVNPT1BjeVp3RElTelVodjhhcVMybTVwZExJaGlpSEJDRFE?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "finance.biggo.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 00:05"
+  },
+  {
+   "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
+   "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 23:28"
+  },
+  {
+   "title": "Energy markets grapple with Iran war uncertainty: 'We simply don't know how to model the endgame'",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOHd6cEZJbDNfQjl3TGpZeDY4NGJqQUNvOGRQeEJtb201aFpJem1XZ3REYkpraWh1Vm1yTGd4TkFpdGJ1djRSWTh5UTNMcmFNaGlJVC1ZSGRwWGRYNGM5b3ZzREtNVWZyenM4MjZhSFRBRkdfbm1TbzJ3U2FFUkRWSTBKV3ZRTXZuWDlmN01RanlBUVJodU8xZGM1MUNPeHFjSlBxUG5nbUNmYi1FUnRVa3FuTEhVaWdkRmZGRzI5ZVRLMkR3WHpJWEV6VEdvbmM1ZWVYTk1XYnNCZjZyS3RpYmcxbW8?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 23:07"
+  },
+  {
+   "title": "A Spreading War Rattles Global Energy Markets",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeUtCdktBajlVbEFZZWdVRFBYZ19DeTk4ZFQ2ajRaZGhXbXJjWmZ6LVk3V2JteFIzVjJNdjBEc2I1c0lMQVRqOGFuaGZpU2Jpcnh0Z1F1WE5QMlBrV2NMdDBwVEVacUVBWXNBMFZYeFFLd1REQnB6Mmw5dS16Mmo3aVhEd0tlX1FKYXfSAZIBQVVfeXFMTTNneThIeHVCMzUwTmxvMDl5NlBaWHVtbUVXSUVXbkJzak4yRHhRTTJXakRIQ2M1XzFEUnZqU2hFYUw1WGJwZndrZHU5SUdYVFdNYUFXY0NKZTFsSmJVWUZ2OXl1S3JPRHM1cmRlUmJjREI0VmNDVlJMeURXVVh2Z1owNFBzS2xGcHBXOHc0M0pKaGc?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "The Nation",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 18:05"
+  },
+  {
+   "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+   "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 17:46"
+  },
+  {
+   "title": "India faces 100% tariff threat over Russian oil after US House vote",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "BBC",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-17 14:33"
+  },
+  {
+   "title": "Energy experts warn gas and heating oil prices could rise further amid ongoing war",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pTktrSWJ4dk9IaVFwRWdDUWwyY2t4dW5QRDQyQXJwTl9nV2t6SWotMml1NmlSRFY2dnFpeWlNcl9fRXhlVFNBUHJxWUR3NjF1a2dxeklmOXVXUFNXSXfSAWNBVV95cUxPd0JuWklFRmxxN2lNY0k0WVZaUGNsdHRnOGhiTXlVT2xTTURaR1pneDc1dUtPX2YtQUVlY1VENzV6XzJSQXdPZUxZWXdJV2h2TkJEWklBeVctS1JYTUEtUXo0R0k?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "FOX 5 New York",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 06:46"
+  },
+  {
+   "title": "No relief in sight for U.S. drivers as gas and diesel prices surge",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaa2tPOFRxUjd0YWdua0ktSGRGdldSZWd1bkUzT2Z4MC1Va3hkNHFnUjF4SFJkeEtid0pBNGtVQk52YlN6M1kzclRQZnVaTUFVaHBqalhYMDNzLWVHVGh2UE9nVXkwZ3cwVTYyVEhIZGRsQkdwajJJ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "CBS News",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 05:25"
+  },
+  {
+   "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+   "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:00"
+  },
+  {
+   "title": "美 기준금리 인상, 3년 만에 돈줄 죈다",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUN4SHVzSEVDRzRkMUJaSGhTSFR6TTVLbzl0NnhvUE9JR0hOZzJfUmdHdjc0MmxJbnVPX3dQS2s2VUltUUdndUZfTi1pYU5ydXZMWDdYRjh0TTJJd0FPT2l3cEtzejNFWENja2lrMU5ua1ZfQ0J2WHZ5NERlUFF2UWRQYUpERnEtSERB?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "조선일보",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 00:55"
+  },
+  {
+   "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNJaUw1MEZvcHA2N19Dd0hBbjlCYkFqOFNjclNYRTl4WkxkRENSbnZ2b1djdnZEN2FXZjJWVktja1BINHUxNkp6dFNPTHdkYy1nWXNVSUV4U1RzazVUajhndFlwUU5NVU10WkJ6MmU0YUhsa2tMTUVoVmV0c1BidFU1OHFiOXZ0bkpoaHdjWjh1a2piWWVqSw?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "The New York Times",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 22:31"
+  },
+  {
+   "title": "Fed raises rates a quarter point in first move of Warsh era",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85ZnR0T2NsdXhob2JuTVRwYnJ4ZGNwcm11ZXcyZVU4b005WUgyWE5zZjhiZXEwaHFtdlowLU92ZUZuMURFTkI5QXpIWHFSUEFvVUhaWURjX2c0MVJTN2ktVkZ3MnM?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Axios",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 22:15"
+  },
+  {
+   "title": "미 연준, 3년2개월 만에 금리 인상…워시 “물가 너무 높아”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTZGR2eEp4M0RIdFctWVl3U01IMkN1YnBLYTltSmwycElGV0d2WU9kUzFILW5mRUhqSkljQXpXd2ZONUNSZ0FDLVdhaTJhYk1jX1pwZDhpTHdyT3dRR3JibHZiRVRDVG1WVXJKZWRtaw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "한겨레",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 18:26"
+  },
+  {
+   "title": "Fed Led by Trump-Picked Chair Raises Rate Despite Trump’s Calls to Lower Them",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdU9QMzJHa2FGZGtBX0wyeDBTYWlPS0pTNjM3c21XZURyeGRtTXg5eUFCcGxoZFpRczU3OXhaamtKaFRYV3NZVWdBY3ByRzRBQ3FpbVdmTm9ZWWh0S0VtOHVXUXRMQV9rTEdyX0VBNTF5d25WRFBiWnRXZUJNc0JMZGpabw?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Time Magazine",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 18:15"
+  },
+  {
+   "title": "FOMC 불확실성 걷히고 유가·금리 진정... 나스닥 1.69%↑ [뉴욕증시]",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HSE5Kb3NqZnotSWpweUthTDdjcWViU0FMczJ4Z1I2N3JYalAtd3lQbEcySTNDX0k3LXFZc0VKYjViX3FDMjFPbjN4b29welM5MU1hZFpCMmNmdWNQYVVoRjJ3bTHSAWhBVV95cUxQTHlveXVJNHpUSFk3Z1A4TGVCVk03emU2SFd3R09nTmpLNDBXdkNnSlYydTlLX3M5aXBkc1FNaFZWdFdSSjQ2RDdCUHI0RFhzMzdlbG5zOHVPanFFSjc3ME9vNFZVMHZmaw?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "매일일보",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 08:19"
+  },
+  {
+   "title": "Goldman's October hike call underscores renewed Fed tightening risks",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnA4bVp0ZlNGeVVZRGJvNmIwcVdmSHN3N1I1WlpaYldOaDdGUEoxUkxJNjd3ZkFkNkxhN09iR0RJbzU0VnQxdHdqUHhhVHRsZ3B4cnl0dHE5VHh1WHFBbjRFNnhpQ2NtRjlNQXRtUUVHN0w3azFuS2VxMEJ1NHB3SG5MVWl0NzVDcGNNVmlwYXJsMzZoNWpr?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 08:08"
+  },
+  {
+   "title": "S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns — NVDA, MCD, CRWV, LMT, AMZN In Focus",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVFFNkgxS1c5emVuc2NZSVpSSElWXzFxS0FOeUFjVndqY0JzSmZXU3NzYjNDaW52UE1BTHptemJwaHpkdDZEbG5EZDZ0MDN5RWRhRVllWGkxTW5kSnJDSFpGamlUenRnMGQ4dW1xT2ZzQmQxRnJsdGFRVUQyYTVaTWNpckh4ZTdweEdDX3Rn?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 07:22"
+  },
+  {
+   "title": "FOMC 충격 하루 만에 진정…뉴욕증시 반등 마감-[글로벌 마감 시황]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3Q0R0bkNiOTRYQkZ3QnhMUlJiYU8zZEdORHUtbmlBRmdpR2R5MU0yWFh0a3pQeXd1clFEcHpJZUdmcWlmb0xwUUpfTm53Y0E?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:54"
+  },
+  {
+   "title": "US stocks: Tech leads Wall Street to higher close as oil eases, Treasury yields dip",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVXpYNk84LTdYVGFnXzNMd0ZrSEo2Rm5yZDNBY2pQbmU2cWNtMEd3MG8tdEJpZTZRcmQzZVJyZkpVYmNidlMwY1FpUmgwZ0FmRFVmVDhmTURJT1h2WUxNWFE4WUp4Zm5PTUNUQ2FBTEFBbVlsTGxfLXA3TG9KYmVOYmVVWEQ3d05jYV9xRFhCN3ZQVjVSdDA5ZktuQ2R3ZVlwT0kzQXNhU3puYU1hbHQ3RF9wVHV5SXJCb1BQTFoxZUVOUDJkZmo5ZnpVWVZSRnh6X0ZCWjhkTTAtOExUTUFmM2dTY3RFa2tU?oc=5",
+   "source": "Google News Wall Street",
+   "publisher": "The Business Times",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:43"
+  },
+  {
+   "title": "뉴욕증시, 연준 금리인상 충격 딛고 반등…나스닥 1.69%↑",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSFRPNmtxY2V2a2xseEJZdjlFSXh4OXV1ck1kVEZseTl6Tk0zMGVTZFNqY3hXaGwzb25TUU1tOHpBTkNaMWZKZXVOY0lYY1FQNGZ2Qkg5cXBQYWZQc1ZleS1SMXZxYUtH?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "ebn.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:35"
+  },
+  {
+   "title": "What AI Bubble? Jensen Huang Just Delivered Great News for Artificial Intelligence Stocks.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTG9KREpJY3ZGUG51QXdINmM2ekZWcDFaNVIzRThjUHRQQmV5V3ROSENGUHhidVFkUmU5dm00VFIwcDJaQVkwWHBzYlN2NnBsQk1DVW5CNnJvU2x4SjBaQ3E5TlZvdnpZTVZmUURPRlFGY2s2T200ckRram5tS3NZeGJIbHpEVWNKS0tTcmJfdlE4dkFVS2c?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:34"
+  },
+  {
+   "title": "연준 불확실성 해소에 뉴욕 증시 상승...10월 금리 인상론에 힘 실려",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJSTFZYnRVbUgySEM3bFhReFZwd2pUWENiMUVHbUdCNGFZQVlMZE9kYzRiaUJhcjItYkxhekkzZ1B5RWN0NUVMd2NZcDZTWWRmaUhodDVfNE15am9JVnFRQ2hwbmpxR3dIRjBLYldFdw?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "YTN",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:32"
+  },
+  {
+   "title": "美 이어 日도 금리 인상?…또 고개드는 '엔캐리 청산' [글로벌 뉴스픽]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zOGQteVA5U0Z4aVlyS01CaUF2WWFvbEVmOTFiWm80OGhVSzJobnJUY05zcDdMdmNwai1BZzRjQjJmRVlwYkhzMkxIekVKSk0?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 06:28"
+  },
+  {
+   "title": "유가·국채금리 하락에 뉴욕증시 반등⋯나스닥 1.69%↑",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1paVltUUI3R3FZQTBzeXhzaTJWUDhQUVhIWjlYamlSOWlvM1dycTI1Q19Va0NQUmNkZ2lOSWxOUVMtWG9XRi1VbVNJWnd5djg?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:28"
+  },
+  {
+   "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+   "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:22"
+  },
+  {
+   "title": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUM3ZTltRXIxOVEwYXZjVy1rbjlfVmtVVS1ZRlFiU0txS2ZCSVRHcENXd3Q3MEZ6TXhiZ3Z1MmpfdU9ST0FyRVo4SGhUcndvSXdQVUFIQ0g4ZFlvOFpYcTFFaUtwakJaeERxLWh3cDdqVlBjdENDcE1LYTl2VmUyUDgxdVNZUHRiejhIME1JVmZFTHpsXzlxQjlhQWZ3YkdZQXRtNjFwaVlFRFh3bjM5dURHZ3BaZw?oc=5",
+   "source": "Google News Wall Street",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 06:18"
+  },
+  {
+   "title": "뉴욕증시 4거래일만에 반등‥국제유가 이틀째 하락",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lbXA4cDJxWE9KVDZDdWl1TUdQdEFvcXM1WnJ2LVJvU01wQkRiSFNkaGNDVWkxcE9pT2dfaEJKRWl1cHR6ZmljMkxpUGRIVGJBX0FCT1VFNE1KQkg1b1luWEd6Ym9rLUhPZnBuOVFBSXd6a0tk0gF0QVVfeXFMTTJsY2c0d0tnRWp3N1FnMDRkXzcyV01Wb0R4UF9uNWNYMUlYV19YdS13eHEwekF2Q0ZnSHlEV01EdE5BX3V4V28yOHlYTzFfcmdvV2xtWnpOV1JRY2VSOVhkbG1GY01YZW1wdzhXdnRqZFdiWF8?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "MBC 뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 05:53"
+  },
+  {
+   "title": "뉴욕 증시, 연준 불확실성 해소에 동반 상승 마감",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZZlE5bEU1SDRNa0dvc1pkM0RQdUxBbl84ZUU3SzlYR2xMek5wQzFmMDNYN0VZRmQ0TVlnMUxaREhhT2FWaEJKV1Qzd3ItWWdtS0ItYUZzRVZ0Qy1vUnc?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "YTN",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 05:53"
+  },
+  {
+   "title": "[뉴욕증시] 금리인상 시작에 오히려 안도…강세 마감",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12NWQ1alRMSGc3M2JsMU5ucWQ4QmNwOXd2R0R6a0xEdmxnOGNhakNpbzhkWVpWcHZDYUV3X01MRlhFU3FyZnhuWjlMMmRnVE5peWhqVTk4Q3VrZXZSVWhtTWMyWW5jWEVHVnYxTlVyelk?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 05:51"
+  },
+  {
+   "title": "[뉴욕증시] 국제유가·국채금리 안정에 3대 지수 일제히 상승 반전",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTRfZ1lTN3liSzZXNTEwWFZncTlDTmUweUVGRUhYSFBRajcwZHliUGV4bWNocElKOWU0WHU1d1hVTXZjd09faE41Z055RGhNMTBkclR6Ylc0bl9xYS1SUnNKX1NfbXVOamxNbWcySXpXRWQzdXZFUkJFUHYxdndPSUYySXVIMGFr?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "글로벌이코노믹",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 05:44"
+  },
+  {
+   "title": "Stocks Rally, Shaking Off Fed’s Rate Hike",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEY5MXoyN25xbktPM1ZDVUZEbmpiNW5zbTZuMEg4REdwYlRaazREQjFNb1hXbmRRUC1wVXJwX3h6U25WZUFXbDgxbjV1dmpxY3J5MkRmc0szZllwMzBFcGF2dlJiNmNGVEZvcXBzdDQzNF9WYXg3UThlMDVjRVNKUFNQYzZCSmJ2aVg0?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 05:36"
+  },
+  {
+   "title": "Stocks and bonds rally after Fed hikes rates and oil prices fall",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZENOeXVaU3JvVmFsd3dJT3RJdldFRHpraGhUVkMtVjBCcEl6N0RjQzdHMS1RVS12aUpVTFk2c016RllvT2xxaTJqbEZrSTBJYUFoMEgtQlM3Y1BKNEhRRWhSbUdRUGQ3RWV5RWpMdkZpMGNLMURsejl3VjNNZ1ZlM29ualVkWURfb09BRGN3?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "NBC News",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 05:18"
+  },
+  {
+   "title": "[뉴욕증시-1보] 금리인상 시작에 오히려 안도…반등 마감",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwdmFMR1V5TWdhQWJEcl9rS1FndmR3NjRsZEl4aWxQT0hfNy1qNFhfa0dXR2Fvai1tZVpfWnY1OU5uZE1JREJxaXYzTXdzMk1FbXZDNEVLOVllVVF1aVZQWFhQWkxTN285UzNUYThqVkLSAXRBVV95cUxQaEhCaW50SmQ1eklWQmRQRVJjYXhYTm1ady1tUFA1d3pFcE55NkxUbnNMSmpfaEw0ejgtQlJYem1aT3ZDdUEzV0xiT0hzeWVLLVh2RWI4TDdxSTljOG9xbk05NDRfMkRTaTFzblh5QW4tWkY5Vg?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 05:11"
+  },
+  {
+   "title": "뉴욕증시, 금리인상 여파 소화하며 상승…나스닥 1.7%↑",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fZzBjOERvVG5QU0d6N19PRDF6OGllQ1MwblNhSW9KaFc5TkVVblYwWjMwcXI3T01RM3F1VTdVTWhhemdTbDJ3ZVhjOUl0Z3A3NnExVUVxMFg3b0HSAWBBVV95cUxNS0VnUVlmYWlaVFVTdE5QMXBCOTVGRVR5Rk8td3VlMTVndG5zN1NEd3p4QkhkaWthZzBnSWRVN2NscVhibXVaUFVTOUJGc3dNU1lBX2htbXBzR1ZuSW1EZ24?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-18 05:05"
+  },
+  {
+   "title": "Global Bonds Recover as Warsh’s Inflation Fight Calms Market",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmJDSkR6X0hQc2hmVGNPWjVtc2tQN3YzdFJueTZkTFdBX1Z1OGNrR0czQldKUEVfYXNUWTROelhKZV9CaDFfcElPMjNsbm1EYU5ZYXQ2T3dNV3JNdjd1Qk5lOTgyQkJhU0ZkRlYyVWJVZWZQTV9TaDZOZ1pUdEkzbWxRS2hyUldJQVljRVZ0LU1seEhQblFsWncydWwzUnU2OG45UXMwNGxfci02ZVctQQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 04:27"
+  },
+  {
+   "title": "Kevin Warsh just defied Donald Trump. Now what?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03VlNKSGoyVVdPb1h2VUVjbzVuX0kwdGQ3aXhManRGWVBwQ193VXRhTHk3V2JEcFlWMWY2WXVycHh2RnFxR3dCaDZTdWdtaFBCRExxeWZDM3BMTDZubG9rRlhYT3p0M3VWbmpWU1l6M0wxZw?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "CNN",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 04:05"
+  },
+  {
+   "title": "Fed's inflation fight shifts to how far rates will have to rise",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRkFHVnNmRVV2M01ScVlSVVljVzhBWHFGZXFWNGE5WUJHYjlpY25DLTFuRzh3YVoyc29TdDVxVTJWd3pZOWhTRXh4dFYwblhKUm9IcmYtNXFJclVCc3JBai1wQV9RNXdfNENpbFUwQlNnbldGNldUMEQ3X1dFTmN4MlVOb01oby12UGVSSGpyeDNIUl9TdVE2cXpwNU16T1ZWX2Uwc21xb1c3TnV2cVdBamRwZ3RicGtsUUhub3F3UVpXX0ZMTVM0UGFGc3FBbS1YU196aFZ4dlVuR3RDaUx5TGw3eHVRY0dBNlBsOXVRM2dYMFdxVjM3NURjR0tOekE?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "KATV",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 03:32"
+  },
+  {
+   "title": "Trump Blasts the Fed But Spares Kevin Warsh After Interest Rate Hike",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFZCXzFnaXFpSVpXQVBQTF82U3kyYUhiRjY5SWExd1JKdktCMGlDenc0cE9zeFRVQkJ5RDY1ajJVWWFpY2xaMzJpNG9mNzJUaGtCaWswVFl0LW9CS1JGVHNDeUVjc19CRW9rOVR3SUhKTEdUOEZXRDd3bjhrX2EtUl9Wa3ZLdw?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "The New York Times",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 02:16"
+  },
+  {
+   "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 01:29"
+  },
+  {
+   "title": "Fed builds credibility, but hawkish turn leaves investors edgy",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaThwN2F1X05PRkVFbFlZemJaa1duZ3hRSExodWktM3phV3pZMF84LV9nbHRtYnZpRm9Zam9EQk0tSmFKQmhYcUx1NXUxbVNIY2dteXlOcUdpamMtMG1JZFNLU2E2YjNzaElsQUlBQWpscXlQZmFfajdESU5KdDBxR3YwQzNwUktUM2lrbWN6N2laR0J4MXZfRi1DV28yMXExZDV4VFdhcDRGRnlx?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 00:43"
+  },
+  {
+   "title": "집값·유가·환율 ‘쌓이는 명분’…한은, 3연속 금리 인상 문 열었다",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KaVgydjl2emlkTWhnVHptNmtYQlY4cHdXR2FzbENIaUJjeDFsUWFHRHhuaXJhV1dRSWFIdzZ0YzAtXzJwVHlGcXZYQ2hKRmlSRG1rSVd3?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "중앙일보",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 00:30"
+  },
+  {
+   "title": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVER1UFJ0ZVpGNjRWcnkxSU96Z01OUHY4MVVqQmcyZDYwZVhkNFdpMWlyU1NnNjhSQmZpSG5FODhMLXktd1laTjRESnhfc2pLenBvckhkWmRSNDFxMEw0Yi1DenJEc3l0bzExaGVZaDc3RDFUT3FkN2dmZGEzOVI4WkxadmZ4ZGtaaFVNUGFPeHhlNnQ5UkZXQkx0OVFPcWdVWWtVR0FISmRXb0s5dUI4aThxSmQ2dGktYTdySlJFcldQMEhOWkE?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 23:49"
+  },
+  {
+   "title": "[뉴욕증시]국제유가 ↓· 기술주 ↑…S&P500·나스닥 1%대 ↑",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwckZLVUFqS2w0OUxoTHVIM0FJVEJCckVIYTU5VnNnSmxSUlo3by1mcU42YlhLV1k4THhiTkhINkF6Z0xXdmtsNTZXalljUjEwWENyLTRyZlZWZm43cUZ6UA?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "asiae.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-17 23:48"
+  },
+  {
+   "title": "Dow jumps over 300 points as Wall Street bounces back from Fed sell-off; oil dips",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTkwZDRxWlBpMmdPUTNSY09yLXRYWExDTEo4TnlhSzctb0FOZXAwclRnRDJMNlV5UUNYeXNTbVNMbksxTjlpMmNSVlJfbGVLNVFRQzdGUHVEMzEtbk1XM3pyUGw2RGRzbEVLRFNFSkdvZmwtTWxmeHVQTjBIRlZjNUVvZjIxcDA3Y3p5WlFxdUM1R3AyV0ZSR29VS2NnTkE5RXhyZ0EwQXZWUQ?oc=5",
+   "source": "Google News Wall Street",
+   "publisher": "New York Post",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 23:44"
+  },
+  {
+   "title": "What to know about the Fed’s decision.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcndOd0F0VnE4XzRqODAyWnpFV3U4Sm5MelZmTTF6eThuLVFoMDNOV3E2cU95OWVwOXhmY2NJa3RYcFQ1N3p6NFVnTmUycmpwWGF2c1Axb2xlUzBMQWNTMGx5VWNYX0NuUHBaOHE1anYxcW8taE40VV9sbUVxR3Ywa2t1bE1oZTdNSkNDN0lvRWxhejltcmFRbTVUVFREMkxWcU5VV01LVkI2WEZEQlNjMGYySEwzMlIxMlE?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "The New York Times",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 23:05"
+  },
+  {
+   "title": "미 금리 올리자 환율 급등...한은, 연내 인상 나설까?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84NXpxTDZkbm5vMG9NM3Z3WHRpSTZYZ1NvcWdQNGdoVWNOYUpZQmxxNFNnVzhrMGVJeEU4WHpqXzloamhOLTNoUVJlZ3ZCbE9DUm5iWWttMGhjaUFCZ3c?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "YTN",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 22:44"
+  },
+  {
+   "title": "Bank of England Holds Rates Steady but Warns of Higher Inflation",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1h2ZGJ5UzdHRmtNVmZvSkZTaHZmNFdiNjdfWWM5SFpFcEJTVjY3S3NDbTRvdm9oMFJOdG5Nc3ExYmZST1Y5WVVFVjk2aTVpcmh2bnJUYzdnYk1JMktxSE01bXoxVzhFcmlfRkZSUlkzWGhfdDVnZGFLcHV0NnZnd2d5V3JMZw?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "The New York Times",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 22:27"
+  },
+  {
+   "title": "“1% 이하로 서둘러서 낮춰라”…미 금리 인상에 트럼프는 반발, 인하 압박",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tSmhmVW50dzBqZ1Rid2FfWWU1Nm9rV1NCNjY1YV9PVTdDbDdYWjZhb25EN044dFFoczQ2N1FZRGZ3MV9wOWZicTlCaERhT1Y5aFEzNE9PRGwzUdIBX0FVX3lxTE5zaFJqWUItYlNMSURKYVMtOFpVSUlfdDJsZ1E4OHlpbWR6ZlYyaXVsNnpJUjJVcUlRTnJRVlBwc3dxWDFuUGFGM093RU5YTmM5N1VHVXRUb3Jydm1zcGxR?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "경향신문",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 21:13"
+  },
+  {
+   "title": "[2보] 영국, 금리 3.75%로 동결…BOE 총재 \"금리 인상 가능성\"",
+   "url": "https://www.yna.co.kr/view/AKR20260917195851085",
+   "source": "연합뉴스 경제",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 20:14"
+  },
+  {
+   "title": "미 연준 금리 올리자…트럼프 \"1% 아래로 내려\" 압박",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWbFEzLUJ4SDJhQzh3ME9STkczWWF6MG1CaGRTZTVZWDF0cUdnby1xQUczaHUycXY0ZWlsbGF2cWk0WkE1WldrQnpiR0FKQTlrZVBMQg?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "JTBC",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 20:09"
+  },
+  {
+   "title": "[1보] 영국, 기준금리 연 3.75%로 동결",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfZHpwcHBIOS05TkNRNGdSZFRmMkx5am5GR3ZVMGxYWktoWXdVQWRsVDY2WGM4TWQ3XzlRMEc5eW04aHJlU0x5UUhOYjFrNVBEYWhNQzNjcHh2QTTSAWBBVV95cUxOd3Nkbzg5UGxTeVV5eXJkNUoxeFA4SjNMdTg4RXZmZWdidUNWRnhRYUt6TWk3WThqM3hXTENpVFhsbm9ZUUJJU18xRllxd0NqSzRYSkI3amstX3Y1RWg5SW0?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 20:01"
+  },
+  {
+   "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+   "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+   "source": "BoE 뉴스",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 20:00"
+  },
+  {
+   "title": "'It's a raise against Trump:' Despite inflation being ahead of target for five years, Trump brands latest hike as political",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0JneVJjVzVDOVhVSmFTRE1CclJhRnFoNHo2M2VlYllnRHN5V1VBZXpiUUlVT3NoMTYyZjZDV1pDX2JaT2xxYXZWSlhuZGk5ckZ4bkdndzlBZkJrY0xlSkNaQ3ZtRUx2WnV3VmJpTG1yZk9qcGxFNVU1QW9uRExOSm9wLUJlWF9Y?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Fortune",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-17 19:51"
+  },
+  {
+   "title": "[AI MY 증시전망] 美 반도체 훈풍…\"코스피 상승 출발 전망\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VY2ZTekVuSnVFV2UzR21kUjVtcmI2WUtCbU1nMXhOamNhNDQxUFdwbDFvN04yMmhJUVlqQV85Y0ZVcmlXaUlQOW1wMDVOMFRLelIwT2l1aHlIcXZC?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-18 08:03"
+  },
+  {
+   "title": "기준금리 올라갔는데도…미국 기술주 오른 진짜 이유는 [마켓무버의 국장 힌트]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wSGxHTFZONzIzanVCYVprcDhLQXg5SmRwa3hzbXhaRzc2LWRtTktkRjZBM3UwdHVyaU9Dc21pMzN1d0o3cnAtUVh6UEJhWTQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-18 07:42"
+  },
+  {
+   "title": "금리인상 직후 다시 반도체 랠리... 숨은 공신은 이것이었다",
+   "url": "https://www.mk.co.kr/news/stock/12156041",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-18 07:37"
+  },
+  {
+   "title": "美 기술주·반도체 훈풍에 코스피 외국인 귀환 기대",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fLTgtV3c1VDdFNXhKSmxDbkxGbC12TkhnX1FnbXFIYXJhZ21aSTZWLVpPZFp2NC1EYkozdmc5QV9xQ1lLNDhtVWFOd3VVbWxrWTQ5Y3VDOG96Ym9zU01VaGppNHJvNVNO?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "ebn.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-18 06:39"
+  },
+  {
+   "title": "Semiconductor giants keep KOSPI in tight sync as Korea’s market rotation widens - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHJVZTEzM1ExMHgyVVV5M0s0Wk4xRmNpdHpJenRiZGowYzZ3V1BqT2VfaUVBVGg2aWI3QzIwX2ZmWlczRUhmaUpJZVFreEpWQV9wTWZCd25qMzNaai1QcW9DdGptSTgxVzdmZ1pIV29Dem1EZ3FORzdSY2JGZ0tkQ9IBlAFBVV95cUxPRE5NQnRtZkkzTzFQQzlMbHFSQ3kwV185RTd1b3NxVElNVXlZVW9QQnNKQzZ6YmkyTERCeHhDeFkybVNBQ3Z2TERxSHpJUTBRR1NsNXhUZ2RGSVJ5TTUwX203VnBTT01VeWd0TG9LRDdJUTNzN0NNSG83Y3dWV0xuY2poU2Z1QjJ0OGlyeTNUX0wtVHpY?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Chosunbiz",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 06:00"
+  },
+  {
+   "title": "반도체 독주 끝나나 했더니… 코스피와 삼전·하닉 동조화 ‘역대급’ - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXpoNXF5RkxGdzBRZVdTeHFJZmJwV1VqaGZsVjZqSEllQnF5TFZRYmx1MXVtMWt2bEZSREhib0xES0NRcWxvTC1jd3NtR1VSZm95SXFTZ0t3X01NNmZ1ZXdpNGh2UE1UM0hWVVNLa21lTEhzUjg5Q0oxeTJGNmpwenZHaEFsWEVO0gGcAUFVX3lxTE13M2NMSGdFaFVvdkU0WUE3RlZPMlNVWmJKUS1VMnJOTlBiejZURFRjZjdLNmxKVE91TmpYNjNITjNKeWJqT0UxN1E3VjRmRHkxWGdGb0xCalJodi1UQmdUbm90Z2FPT1psY1lZOHF1UjA5b1pFNS16RGFaQi1IdTlfNmtqQW5FTmNIUm9LS0JyQzB4aUpnZl9TQlBrSQ?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "Chosunbiz",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-18 06:00"
+  },
+  {
+   "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
+   "url": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 05:23"
+  },
+  {
+   "title": "Jim Cramer Presses OpenAI CFO on AI Spending. 6 Stocks Are Riding on What Happens Next",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejJYVDZRVFVXZTZHMFg4YzNKTFRkVERHalNfR2RDQm5IV3RjWFlXdWk4OU16V3lrZ1lhZ3U2a01CVHBSTkVSSDlTQXNqaXRSQXBtd09Cb01kUXd4TWZYUDhwUGhMcW5FWXhiSFZBb2gwblFNRllSTExlMFJLWVlHQVdzUWhtTWNLQ0YxdjZwaElXckw5RDhoYw?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 04:17"
+  },
+  {
+   "title": "AMD stock jumps 7% amid a third day of semicond...",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVRiVi1xSGhYZGUzVDFTc3ktWnFUNW9jWU1RXzM2MmdUdUo3a3ZFTFI4c1Z6WGZ6YXJEMEhaZDJKUXhDc1FOamVaeGNWUWhGcmtDT1JVYTJFR3U2Rjlvb0FDWmJjemRGZGZPU3dEYy1NV2laNnNSb2RNN21wSHNJQ2lEM1Q4Z3lFOHF4ZGRiM3RsR3daQTRHMC1rWWY?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Pluang",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 02:55"
+  },
+  {
+   "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEdiMWFJUkJPdHBGUThBWTVzY1hjQjg0NjRiMkkzMFZ1dEo1eW02Vm1CNTlMd1VUdHNOR2JBR0k4cGRHWmJWcnJUNDc3d3lUVnhPVW5MOEVYTEw1ZG8tenU5bnFKRlpHV3VzR09yZ005RHFNTnNRRGRkZW9haFd5LXZaLUpvXzJMQ0p1clVTSFhTX2Zvbzg0b1VtbkdmU1k?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 02:37"
+  },
+  {
+   "title": "Generac shares surge on big Amazon deal. Wall Street thinks the generator stock has more to go",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEdoeVlfaHJ4ckRLa0xrWjNJMkJ0dHhiR0F3bW9MVlllYWhqcVhZbUN1b1NHSDJSOVI5TkhSa3B4aHNOS0poM0xkbXdreTNVN2J5UGlacTVDOHp4d2RodHAtWUg2dFFoTTdHbjhJektuU0stVFBhQzQxS2lKSGtkb18wWEUyMGt5Nk55dVZ0aFRCRzNLdWh2clczb0l6WnRqYlU5Q1BiTVBCSW0xa3Qw?oc=5",
+   "source": "Google News Wall Street",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-18 00:55"
+  },
+  {
+   "title": "Huawei Eyes 'Chinese NVIDIA' in AI, Semiconductors",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUENZejBRdjcyTHRabTFjeDVlZU9ocFZlenFfMkVtancyRFdfa0UtQmFWV3F1ZFNmRU9qT0p5aWZuelBrNmdyN2hBamlQWlVQYm1DdG1kbDZNQ1hpTHpoUmRVUmVuem1PRXU5U0tQcEFja1FZZVV4UjdFZXdTenloaXd1TjhzZWpT?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "조선일보",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-18 00:34"
+  },
+  {
+   "title": "코스피, 금리 인상에도 일단 버텼지만… “장기적으로 부담” “AI 수요가 더 강해”",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kTm1WV0MyZnhXRFBndjY2cXVqV1ZZbWkybVNTNDBmT19oUWduZ3daWlRScTJRd0VjS3FiLVBFUVJaYUNIMDdLRXRKM2pJQW8?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-18 00:22"
+  },
+  {
+   "title": "OpenAI Reveals 6 ‘Concerning’ Incidents. Why Marvell, Other Hot AI Stocks Are Rising.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TZWFoOHRvRGZQR0czSk85Y1JvV0tRNzJHZV85dHZnd1EwSmRuS3p4aERmV1J6UFJ1azQ3V0t2cnBZbTlIT3hTS3QxejhUaVVrRnZBN29LSEdKRnhHUGtnZ2xmSWpLbWJFODZnYnd5NF95ZmZ1?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Barron's",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 22:48"
+  },
+  {
+   "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+   "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-17 18:00"
+  }
+ ],
+ "thebell": [
+  {
+   "title": "미투온 품는 카카오게임즈, '실적 바닥' 높아질까",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUDFka2wxRnFxYmhzWkY3dER1MEVubEFJbGhkc3Z6U255cGVoUWtrQkIydXhrVnBXTnJlVEhaZlpiU1VtQzIxZ0REc28yajVfVVpWa3JKTUowOWNOTDltRUloVjd3V2NaaTBEcnNmWTdtUFY5REh2ZDRuN19Kc1BXRnY1TXRiNGQwc0lN?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 15:12"
+  },
+  {
+   "title": "'반도체 소재' 위지트, 대만 T사에 평가품 납품 완료",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MNFgtMHdQQndMaUs2dHlPOUp2TXo3bFl2ejc0V3JCRFRKTC1uWldna1RhX3FMY0NLUlV3R1I1a1l6Sm9QbUl3OEplMFl4NmRnVW1IMUxMcnltRFh0X01aSmp2bUNWUXE5UFMxSGtNTEpLWEZGeWJRYm9jX2Zadw?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 14:41"
+  },
+  {
+   "title": "[중복상장과 FI의 역습] 엑시트 꽉 막히자 정산…상환으로 귀결",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHE4VWgzS1QtaHdZRUVoY2FnOHp0NjBDM0d6enVDSjhwQ0p0TFRWMHE2eU1ZUUFRUEI1UEZ2cUxrdjk4ZGZXT2dRX2JsRlJ4cFI5alFPN2FhX0g0QWQ3NEV4UkR3aGNkV1k5ci1jUGtEbDdjV2pUTktkd1BWaGllWkdMSUp2S1E5?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 11:37"
+  },
+  {
+   "title": "[i-point] 질경이, 2억8000만 인도네시아 시장 본격 진출",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OaG5TcXlLQmk2VmtoVXJ6U2JtMzh3YTQyUG5Ocm5IMVg5OVIwMXRoYzBoQVZWbVA0d1kwbm9sYnNzcU9ELUVCdXFGdnpNd0dReVc3V1dDeFZ0N3oyWWVPQjJQNGFHNlAzVUljN1BKVjBvRWM2azZHLURDZEF6dw?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-17 07:27"
+  }
+ ],
+ "degraded_selection": false
+}
