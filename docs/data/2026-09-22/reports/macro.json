@@ -1,0 +1,654 @@
+{
+ "topic": "macro",
+ "name": "거시경제",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-22T08:59:56.304595+09:00",
+ "report": {
+  "title": "거시경제 데일리 — 유가 급락·AI 랠리 속 연준 긴축 경계 (2026-09-22)",
+  "overview": "9월 16일 FOMC 25bp 인상 이후 연준 인사들의 매파 발언(무살렘 \"추가 인상 필요\", 카시카리 \"모든 부문에서 인플레 과도\", 굴스비 \"고통스러운 과정\")이 이어졌지만, 이란 협상 기대와 호르무즈 해협 통행량 증가로 WTI가 8% 가까이 급락(92.30달러)하며 미 10년물 금리가 4.96%로 다시 5% 아래로 내려왔다. 유가 급락과 AI 낙관론(메타 11% 급등)이 결합되며 나스닥은 2.26% 오른 사상 최고치, 필라델피아 반도체지수는 4.29% 급등했고 비트코인도 8.6만달러대로 1월 이후 최고치를 기록했다. 달러인덱스는 매파 연준을 반영해 사흘 만에 반등(100.43)했고 원/달러는 1,370원선까지 급락 후 낙폭을 줄여 1,384원대로 마감했으며 엔화는 157엔대로 약세가 이어졌다. 금은 연준 추가 인상 확률 상승과 달러 강세로 하락(4,397.90달러)한 반면 구리는 위험선호 속 2.7% 상승했다. 오늘은 트럼프의 UN총회 연설과 이란 대통령의 뉴욕 방문 등 미·이란 외교 이벤트가 유가와 금리 방향을 좌우할 핵심 변수다.",
+  "sections": [
+   {
+    "heading": "금리·채권",
+    "body": "미 국채 10년물은 4.96%로 전일 대비 4bp(-0.70%) 하락하며 다시 5% 아래로 내려왔고, 5년물은 4.83%(-2bp), 3개월물은 3.98%(보합)로 마감했다. 유가 급락이 기대 인플레이션을 눌러 글로벌 채권금리가 동반 진정(CNBC·글로벌이코노믹)된 것이 핵심 동인이며, WSJ는 '연준이 신뢰를 회복하며 금리가 하락했다'고 평가했다. 다만 연합인포맥스 뉴욕채권 기사는 위험선호 속 굴스비 매파 발언으로 장중 국채가 혼조를 보였다고 전해 장 흐름이 일방적이지는 않았다. 커브는 3개월 3.98% 대 10년 4.96%로 장단기 스프레드가 약 98bp의 정상 우상향 기울기를 유지하고 있다. 금리 경로 기대는 명확히 인상 쪽으로 기울어 있다. 9월 16일 FOMC에서 25bp 인상(2025년 12월 마지막 인하 이후 1년 만의 인상, 매일경제)이 단행된 데 이어 무살렘 세인트루이스 연은 총재는 '추가 인상이 필요할 것'이라고 밝혔고, 도이체방크는 '투자자들이 인상 폭을 과소평가할 가능성'을 경고했으며 CNBC는 '새로운 긴축 사이클이 시작됐을 수 있다'고 보도했다. 수급 측면에서는 미 재무부가 단기채를 1조달러 추가 발행할 계획이어서 차환 시 금리 상승 시 이자부담이 급증할 수 있다는 우려가 제기됐고, 베선트 재무장관은 '국채 바이백이 없었다면 금리가 더 올랐을 것'이라며 10년물 5%에도 바이백 효과를 주장했다. 굴스비는 '재정 조달을 돕기 위해 금리를 내려서는 안 된다'고 못박아 재정 우려와 통화정책의 분리를 강조했다.",
+    "bullets": [
+     "10년물 4.96%(-4bp), 5년물 4.83%(-2bp), 3개월물 3.98%(보합) — 유가 급락에 10년물 5% 하회",
+     "커브: 3M-10Y 스프레드 약 98bp 정상 우상향",
+     "연준 9/16 25bp 인상 이후 무살렘·도이체방크·CNBC 모두 추가 인상 가능성 강조",
+     "미 재무부 단기채 1조달러 추가 발행 계획 — 차환 리스크 부각",
+     "베선트 '바이백 없었으면 금리 더 올랐다', 굴스비 '재정 조달 위한 인하 거부'"
+    ]
+   },
+   {
+    "heading": "환율",
+    "body": "달러인덱스는 100.43으로 0.20% 상승하며 사흘 만에 반등했다. 연합인포맥스는 위험선호 속에서도 미 금리 반등과 연준 매파 발언(무살렘·카시카리·굴스비)이 달러를 지지했다고 전했고, 뉴스핌 모닝 리포트도 '매파적 연준에 달러 강세, 추가 금리인상 경계 지속'으로 요약했다. 원/달러(KRW=X)는 1,384.86원으로 5.33원(+0.39%) 상승 마감했는데, kbthink 외환 기사에 따르면 장중 1,370원선까지 급락한 뒤 미 연은 총재들의 매파 발언으로 낙폭을 축소한 흐름이었다. 백석현 신한은행 이코노미스트는 원화가 7월 한때 1,550원까지 약세를 보인 뒤 최근 두 달 새 급격한 강세로 전환했다고 설명하며 '미·일 금리가 더 오를 것이므로 포트폴리오 재구성이 필요한 때'라고 조언했다. 오늘 환율전망 기사는 글로벌 위험선호 재개로 '원·달러 하락 압력 우세'를 예상한다. 반면 중앙일보는 '강달러에 7일째 뛴 환율 1,400원 육박'이라는 상반된 헤드라인을 냈는데, 시점 차이가 있을 수 있어 해석에 주의가 필요하다. 엔/달러는 157.05엔으로 0.59% 상승(엔 약세)해 고금리 달러와 엔의 격차가 다시 벌어졌고, 유로/달러는 1.15로 사실상 보합(+0.03%), 위안/달러는 6.70으로 0.15% 하락(위안 강세)해 중국 증시 강세와 함께 아시아 통화 중 상대적으로 견조했다. 캐나다달러는 유가 하락과 미국 금리 전망에 약세를 지속했다. 한국 수출 관점에서 원화 강세 전환은 수출주 환산이익에는 부담이나, 반도체 중심의 외국인 위험선호 자금 유입이 원화 강세의 배경이라는 점에서 코스피 수급에는 우호적이다. 다만 엔화 약세 지속은 일본과 경쟁하는 자동차·기계 업종에 상대적 부담 요인이다.",
+    "bullets": [
+     "달러인덱스 100.43(+0.20%) 사흘 만에 반등 — 연준 매파 발언 지지",
+     "원/달러 1,384.86(+5.33원) — 장중 1,370원선 급락 후 낙폭 축소, 오늘 하락 압력 우세 전망",
+     "엔/달러 157.05(+0.59%) 엔 약세, 유로 1.15 보합, 위안 6.70(-0.15%) 강세",
+     "7월 1,550원 → 두 달 새 원화 급격한 강세 전환(백석현)",
+     "캐나다달러 유가 하락에 약세 지속"
+    ]
+   },
+   {
+    "heading": "원자재",
+    "body": "유가가 급락했다. WTI는 92.30달러로 8.00달러(-7.98%), 브렌트는 96.28달러로 7.59달러(-7.31%) 하락하며 나흘 연속 떨어졌다. WSJ는 공급 우려 완화를, Business Recorder·Fox Business는 이란 전쟁 관련 외교 기대와 이란이 미국과의 평화회담 조건을 제시한 점을, Barchart는 호르무즈 해협을 통한 원유 흐름 확대를 급락 배경으로 꼽았다. Business Insider는 배럴당 100달러 스파이크 이후 다시 미끄러지는 패턴이 반복되고 있다고 분석했다. 다만 트럼프 대통령은 이란이 합의하지 않으면 경제를 파괴하거나 지도부를 제거하겠다고 위협해 외교 노력을 복잡하게 만들고 있어(CNBC), 유가 되돌림 리스크는 여전히 남아 있다. 정제유 시장은 원유보다 타이트하다. 미국 디젤 가격이 사상 최고인 갤런당 6.50달러를 돌파(블룸버그)했고, 야후파이낸스UK는 디젤이 원유보다 더 오르는 구조적 이유를 다뤘다. 비즈월드는 '금리보다 무서운 유가'라며 FOMC가 끝나도 증시가 긴장을 풀지 못하는 이유로 에너지 가격을 지목했다. ECB는 유럽 도매 가스가격 급등이 과거보다 빠르게 소비자물가로 전이되고 있다는 분석을 내놓아 에너지발 인플레이션 압력이 유럽에서도 지속되고 있음을 시사했다. 금은 4,397.90달러로 27.00달러(-0.61%) 하락했는데 로이터는 연준 추가 인상 확률 상승과 달러 강세를, 블룸버그는 인플레이션과 연준 인상 전망 사이의 저울질을 배경으로 들었다. 구리는 6.79로 0.18(+2.70%) 상승해 반도체·AI 랠리와 함께 경기민감 원자재로 위험선호 자금이 유입됐음을 보여줬고, 비트코인은 86,456달러로 6.55% 급등하며 1월 이후 최고치를 기록해 '크립토 윈터' 종료 논쟁이 벌어지고 있다.",
+    "bullets": [
+     "WTI 92.30(-7.98%), 브렌트 96.28(-7.31%) — 나흘 연속 하락, 이란 협상 기대·호르무즈 통행량 증가",
+     "트럼프 '노딜 시 이란 경제 파괴' 위협 — 유가 되돌림 리스크 상존",
+     "美 디젤 사상 최고 6.50달러 — 정제유 공급난이 인플레 자극",
+     "금 4,397.90(-0.61%) — 연준 인상 확률·달러 강세 부담",
+     "구리 6.79(+2.70%), 비트코인 86,456(+6.55%) 1월 이후 최고 — 위험선호 확산"
+    ]
+   },
+   {
+    "heading": "중앙은행",
+    "body": "연준은 9월 16일 FOMC에서 정책금리를 25bp 인상해 2025년 12월 마지막 인하 이후 1년 만에 인상으로 전환했으며, 베선트 재무장관은 인상 이후 워시 의장에 대해 '큰 신뢰'를 표명했다(The Hill). 워싱턴포스트는 워시가 '말을 아끼는 의장'이 될 수 있다는 논평을 실었다. 인상 이후 연준 인사들의 발언은 일제히 매파적이다. 무살렘 세인트루이스 연은 총재는 로이터 단독 인터뷰에서 '인플레이션 억제를 위해 추가 금리 인상이 필요할 가능성이 높다'고 밝혔고 FT는 이를 '연준이 인플레이션에 공격적이어야 한다'는 발언으로 전했다. 카시카리 미니애폴리스 연은 총재는 '경제의 모든 부문에서 인플레이션이 여전히 너무 높다'고 말했으며, 굴스비 시카고 연은 총재는 '2%로 가는 길이 고통 없이는 어려울 것'이라며 재정 조달을 돕기 위한 금리 인하 아이디어를 거부했다. AP통신은 한 연준 여성 관계자가 '이란 전쟁이 금리 인상 지지로 기울게 했다'고 밝혔다고 보도해 지정학적 에너지 충격이 통화정책 결정에 직접 반영됐음을 확인했다. 액시오스는 'AI-플레이션' 문제, 즉 AI 투자 붐이 물가 압력에 기여한다는 논의를 제기했다. 영란은행(BOE)은 금리를 동결했다(WSJ). ECB는 도매 가스가격이 소비자물가로 더 빠르게 전이된다는 연구를 발표해 에너지발 물가 상방 리스크에 경계를 표했고, 별도로 자체 자금 일부를 토큰화 증권에 투자하고 Pontes를 통해 결제하겠다는 보도자료와 유로시스템이 중앙은행 화폐를 토큰화 금융에 도입한다는 보도자료를 냈다. 일본은행(BOJ)과 한국은행, 인민은행 관련 직접 발표는 입력 기사에 없었으나, 백석현 이코노미스트는 '미·일 금리가 더 오를 것'이라고 전망했으며 엔화는 157엔대로 약세를 지속하고 있다.",
+    "bullets": [
+     "연준 9/16 25bp 인상 — 1년 만의 인상 전환, 베선트 '워시 의장 신뢰'",
+     "무살렘 '추가 인상 필요', 카시카리 '모든 부문 인플레 과도', 굴스비 '고통스러운 과정'",
+     "연준 관계자 '이란 전쟁이 인상 지지로 기울게 해'(AP)",
+     "BOE 금리 동결",
+     "ECB 가스가격 전이 속도 경고 + 토큰화 금융 도입 보도자료",
+     "BOJ·한은·인민은행 직접 발표 없음 — '미·일 금리 더 오른다' 전망(신한은행)"
+    ]
+   },
+   {
+    "heading": "경제지표",
+    "body": "어제 발표된 주요 지표는 시카고 연은 전미활동지수(CFNAI) 8월치로, 7월이 상향 수정된 플러스 수준을 기록한 뒤 8월에는 마이너스로 돌아섰다(Haver Analytics). 이는 연준이 인상 사이클에 들어선 상황에서 실물 활동이 추세를 하회하고 있음을 시사하며, 메리츠증권이 지적한 '금리 인상이 AI 투자와 정부·기업 부채 부담을 키워 경착륙 위험을 높인다'는 우려와 맞물린다. 다만 시장의 물가 우려는 여전히 실물 둔화 우려를 압도하고 있다. 카시카리가 '모든 부문'의 인플레이션을 지적했고 디젤 가격이 사상 최고를 경신했으며 ECB는 에너지 가격의 소비자 전이가 빨라졌다고 분석해, 헤드라인·근원 물가 지표가 향후 발표될 때마다 금리 경로 재평가가 불가피하다. 매일경제는 60년 데이터를 분석한 결과 '주가를 좌우하는 변수는 금리 자체가 아니라 물가'라며 5%대 금리에서도 증시가 반드시 무너지지는 않는다는 결론을 제시했다. 오늘·이번 주 발표 예정 지표에 대한 구체적 일정은 입력 기사에 제공되지 않았으므로, 연준 인사 발언과 미·이란 외교 이벤트(트럼프 UN총회 연설, 이란 대통령 뉴욕 방문)를 지표 이상의 시장 변수로 주시할 필요가 있다.",
+    "bullets": [
+     "8월 CFNAI 마이너스 전환(7월은 상향 수정된 플러스) — 실물 활동 추세 하회",
+     "디젤 사상 최고·ECB 가스가격 전이 가속 — 물가 상방 압력 지속",
+     "매일경제 60년 데이터: 주가 변수는 금리보다 물가",
+     "이번 주 구체적 지표 일정은 입력 자료에 없음 — 연준 발언·미-이란 외교가 핵심 변수"
+    ]
+   },
+   {
+    "heading": "지정학·정책",
+    "body": "미·이란 전쟁과 그 외교적 출구가 시장의 최대 변수다. 이란의 페제시키안 대통령이 UN 회의 참석차 뉴욕으로 향하는 가운데, 트럼프 대통령은 이란이 합의하지 않을 경우 '경제를 파괴하거나 지도부를 제거하겠다'고 경고해 협상 분위기를 복잡하게 만들었다(CNBC). 이란은 미국과의 평화회담 조건을 제시했고(Fox Business), 호르무즈 해협을 통한 원유 흐름이 늘어나면서(Barchart) 유가가 나흘째 급락했으나, 배런스는 트럼프의 UN 연설 내용에 따라 유가가 다시 흔들릴 수 있다고 지적했다. AP는 연준 관계자가 이란 전쟁을 금리 인상 지지 이유로 언급했다고 보도해 지정학이 통화정책으로 직접 연결되고 있다. 정책 측면에서는 미 재무부의 단기채 1조달러 추가 발행 계획과 베선트 장관의 바이백 옹호 발언이 재정·국채 수급 이슈를 부각시켰고, 굴스비는 재정 조달을 위한 금리 인하 압력을 공개적으로 거부해 연준 독립성 논쟁의 한 축을 보여줬다. 워시 의장 체제에 대한 베선트의 신뢰 표명과 워싱턴포스트의 '말 아끼는 의장' 논평도 연준 커뮤니케이션 방식 변화 가능성을 시사한다. 유럽에서는 ECB가 가스가격의 빠른 물가 전이를 경고해 에너지 안보와 인플레이션이 연결되는 구조가 지속되고 있다.",
+    "bullets": [
+     "트럼프 '노딜 시 이란 경제 파괴·지도부 제거' 경고 vs 이란 대통령 UN 방문·회담 조건 제시",
+     "호르무즈 통행량 증가로 유가 급락 — 트럼프 UN 연설이 다음 변수(배런스)",
+     "연준 관계자 '이란 전쟁이 인상 지지 이유'(AP) — 지정학→통화정책 직결",
+     "美 단기채 1조달러 추가 발행, 베선트 바이백 옹호, 굴스비 '재정용 인하 거부'",
+     "ECB 가스가격 전이 가속 경고 — 유럽 에너지발 인플레 지속"
+    ]
+   },
+   {
+    "heading": "자산별 함의",
+    "body": "미국 주식은 유가 급락과 AI 낙관론이 동시에 작용하며 나스닥이 2.26% 오른 27,122로 6월 이후 첫 사상 최고 종가를 기록했고, 나스닥100 +2.83%, 필라델피아 반도체 +4.29%(12,433), S&P500 +1.49%(7,764.70), 다우 +0.71%, 러셀2000 +0.52%로 대형 성장주 주도의 랠리였다. 메타가 11% 급등했고 VIX는 14.87로 낮은 수준을 유지했다. 그러나 연준 인상 사이클 진입(CNBC·도이체방크)과 메리츠증권의 'AI 투자 부채부담·경착륙 위험' 경고, 비즈월드의 '유가가 금리보다 무섭다'는 지적을 감안하면 유가 되돌림 시 랠리가 빠르게 반납될 수 있어 추격 매수보다는 반도체·AI 주도주 중심의 선별 접근이 합리적이다. 매일경제의 60년 데이터 분석대로 주가의 핵심 변수가 물가라면, 유가·디젤 가격 방향이 금리 수준 자체보다 중요하다. 한국 주식은 표 기준(9/18) 코스피 6,894.23(+2.66%)이나 기사에 따르면 21일 반도체주 주도로 7,000선을 탈환했으며, 오늘은 뉴욕발 반도체 훈풍(SOX +4.29%)과 원/달러 하락 압력이 외국인 수급에 우호적이다. 다만 엔화 약세(157엔)는 일본 경쟁 업종에 부담이다. 채권은 10년물이 5% 아래로 내려왔지만 무살렘의 추가 인상 발언, 1조달러 단기채 발행, 디젤발 물가 압력을 감안하면 듀레이션을 공격적으로 늘리기보다 단기물 중심의 캐리가 유리하며, 5%대 10년물은 유가 재급등 시 재차 시험받을 수 있다. 환율은 위험선호로 원/달러 하락 압력이 우세하나 연준 매파 발언이 달러 하단을 지지하므로 1,370원 부근에서 낙폭 축소가 반복될 수 있고, 신한은행의 조언대로 미·일 금리 추가 상승을 전제로 한 포트폴리오 점검이 필요하다. 원자재는 유가 급락이 나흘째 이어졌지만 트럼프의 이란 위협과 UN 연설이 변동성을 키울 수 있어 에너지 관련 포지션은 양방향 리스크를 관리해야 하며, 금은 연준 인상 확률 상승과 달러 강세에 눌려 단기 모멘텀이 약하고, 구리(+2.70%)와 비트코인(+6.55%)은 위험선호 자산으로 반도체 랠리와 동조하고 있다.",
+    "bullets": [
+     "美 주식: 나스닥 사상 최고(+2.26%)·SOX +4.29% — AI·반도체 주도, 유가 되돌림 시 반납 리스크로 선별 접근",
+     "韓 주식: 코스피 7,000 탈환(기사) — 반도체 훈풍·원화 강세 압력이 외국인 수급에 우호적",
+     "채권: 10년물 4.96%로 5% 하회했으나 추가 인상·1조달러 단기채 발행 감안 시 단기물 캐리 우선",
+     "환율: 원/달러 하락 압력 우세, 연준 매파가 달러 하단 지지 — 1,370원 부근 지지 여부 주시",
+     "원자재: 유가 양방향 변동성(트럼프 UN 연설), 금 단기 모멘텀 약화, 구리·비트코인 위험선호 동조"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "메타",
+    "ticker": "META",
+    "comment": "AI 낙관론 재점화 속 11% 급등하며 나스닥 사상 최고치 경신을 주도(Investing.com 한국어·Reuters)."
+   }
+  ],
+  "events_today": [
+   "트럼프 대통령 UN총회 연설 — 이란 관련 발언에 따라 유가·금리 변동 가능(배런스)",
+   "이란 페제시키안 대통령 뉴욕 UN 회의 참석 — 미·이란 평화회담 조건 논의 향방",
+   "연준 인사 발언 지속(무살렘·카시카리·굴스비 이후 추가 인상 시그널 주시)",
+   "코스피 7,000선 안착 여부 — 뉴욕발 반도체 훈풍(SOX +4.29%) 반영"
+  ],
+  "headlines": [
+   {
+    "text": "유가 8% 급락에 美 10년물 5% 하회·나스닥 사상 최고…연준은 '추가 인상' 매파 합창",
+    "importance": 5
+   },
+   {
+    "text": "WTI 92달러대로 나흘째 하락 — 이란 협상 기대·호르무즈 통행 증가, 트럼프 UN 연설이 변수",
+    "importance": 4
+   },
+   {
+    "text": "원/달러 1,370원선 급락 후 1,384원 마감 — 위험선호로 오늘도 하락 압력 우세",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "한국·유럽·중국·아시아 지수는 9/18 종가 기준으로 미국(9/21)보다 하루 이상 지연 — 기사상 코스피는 21일 7,000선 탈환",
+   "원/달러 KRW=X는 역외 기준으로 국내 장 마감가와 차이 가능; '1,400원 육박'(중앙일보)과 '1,370원선 급락'(kbthink) 헤드라인이 상충해 시점 차이 유의",
+   "구리 HG=F 값(6.79)은 소스 단위 표기가 불명확하여 절대 수준보다 등락률 참고",
+   "무료 소스에 외국인·기관 수급 데이터 없음",
+   "이번 주 경제지표 발표 일정은 입력 자료에 포함되지 않음",
+   "연준 이란전쟁 관련 발언자(AP)는 기사 제목상 익명"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "美국채 금리 하락…유가 급락에 10년물 다시 5% 아래로",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLS0s0SGUzZFNvaFVVMEJyVlRSUzZxSHpDbFBFX0FpbU8tOTVVODhrMkd2WVdnNHhsMDQwRFN3SXdtVFNmck5mSnQwbzBKRHo2dndSQmoxd3l0UmJ3bmx3OW9MdHhoXzDSAWxBVV95cUxQLUJFZWdqUVcwdFFpb2VlbVRhZzI4SnB4TXFldThnWDgwb2NVbVJZY0RYSXdBTElTdnJPWFdLS3VqdG83TUY2bURIMU1HcXEzUFc0UGQwU25PRldUT2lFUEZyaURVVnNmRFgtbDk?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "news1.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 05:17"
+  },
+  {
+   "title": "EXCLUSIVE: Fed's Musalem says more rate hikes likely needed to quell inflation",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJsZS0wTVZyNThsTkszYWk2c2xqN19RbzlWSnpqQ3cwZ0xCLWFTT0xaVkpkWkE5MmhDZFg1bHZzUW9EYlBuQVpUOVIydEJoVmR6OVl0ME5WNllZZTRVWXFMYy0yX19mNG9nYU5GbFpMdXdaeTA3ZDFiOXlTTlBGNDBmZ2VxR0I3UzE4M25hVGNZcDZXU0pXSFdXV1FIRVQ3dEh4XzRnLUZDN3do?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 03:54"
+  },
+  {
+   "title": "연준 무살렘 총재 \"인플레이션 억제 위해 추가 금리 인상 필요\"",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zclpNRWg0SW1yUFpNZGM3UzczQWE2NW16LWxYZ01Yd3JqLVpZckJtZmNhclpueDRVc1BTSXJheGQtTDhjQ0pxY2huVVlJSXlxbHNFU3pKamV0OGJhTFpkNVlTelBNVDh3ZGc?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 03:22"
+  },
+  {
+   "title": "유가 하락에 美 국채금리 5% 아래로…글로벌 채권금리 동반 진정",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0xvSW9TakU1Yng5REI5alNqenVXc3Q0SkxKX25DTW1YanNNZ01VU0Rvc0dXRVNqOGROZHM4TTYtZERuSTZQdG1jTFo0TDhIYk1hUjJlRDJTQm5tSU9xdFR0YjczTUpqbkFtR29QV0RxVTh2YzY2dGJmTEhWTEpCczNuX0JnUEg2?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "글로벌이코노믹",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 03:00"
+  },
+  {
+   "title": "Federal Reserve will need to be ‘aggressive’ on inflation, says top official",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmdmb192UXVHb3NNUmJxNDRyWHp0aVU0ZTc3R19vTGNhZFlSSm9ZVnhoSTBrbURqcnFOSERTdlVfbHlNWGZmbk1zSTc0WHRaY2pqUVlWZGlhUXNyVkpIWXRjOHpyTjh3SnhOM2M2TU1NR2Mzcm9WWnJXeloyME0wUDM0dmc?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Financial Times",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 00:10"
+  },
+  {
+   "title": "A new Fed tightening cycle may have just begun. If that’s the case, buckle up",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFNfanZhMktJdDhiLXR5TzRnMUVwRUpudzFSMVkyaGV6c293QzJ3aG85aGx2S1pESHNsbG9HaWFmcjBUS1JPQ2stMUI5b3dHUXZlTmF2SGpVWVFldEdVM3BKY09acXlRUnJueWQwS1dBNjlVU0VSTjFWYVE1eUVwTWN2STBQdWJQaUN2YnlqZVJIbXlhVi1Zbkd2cThmQ2haUFg2dDNHVTJDYW80TGgzZQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 22:10"
+  },
+  {
+   "title": "Treasury yields ease as global borrowing costs tumble",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGWTVuckEwdG05MkFuc2g0MEZUVGYzT0xNMEZZeUZOTElyXzNuRWVnMUtiWTdGZm8yRXNvdHRwdVBYc1NsT1lkbmhKNEM1c2RxWmdIZjF4X0RZTVhCeThmNmNiTHZWaVViUlNOUTJmNEVmeWM4azV6a9IBfkFVX3lxTFBCVVU4eFdQQzRFWjFBVXBJSm0wcE4yVExUMGNoZTU1QnlWWWRDblpLLXFiSzAtRXdDcTNtTGFRdzkzSnYxSlhBY21ZMWtzWnRGN1FDczIwNXRVOEM4NzJyWXVMWXRwSkZSbHM4R1hKR2hWMmVpS2EwSGtCMnRlQQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 17:21"
+  },
+  {
+   "title": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVER1UFJ0ZVpGNjRWcnkxSU96Z01OUHY4MVVqQmcyZDYwZVhkNFdpMWlyU1NnNjhSQmZpSG5FODhMLXktd1laTjRESnhfc2pLenBvckhkWmRSNDFxMEw0Yi1DenJEc3l0bzExaGVZaDc3RDFUT3FkN2dmZGEzOVI4WkxadmZ4ZGtaaFVNUGFPeHhlNnQ5UkZXQkx0OVFPcWdVWWtVR0FISmRXb0s5dUI4aThxSmQ2dGktYTdySlJFcldQMEhOWkE?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 14:28"
+  },
+  {
+   "title": "메리츠증권 \"美 금리인상, AI 투자 부채부담 키워…경착륙 위험\"",
+   "url": "https://www.yna.co.kr/view/AKR20260922028500008",
+   "source": "연합뉴스 경제",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 08:39"
+  },
+  {
+   "title": "[모닝 리포트] \"매파적 연준에 달러 강세, 추가 금리인상 경계 지속\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hM1l0OHkyVXZQNEV4allXY0V4WXVJZ1Y2b0FJczZLU29QbGZUWThCMExOc09aOGpRUTVVY3c2eThjeTg4NFVrWFdPSzd1MnhwYmJhLVBGYkhaVEw1?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 08:38"
+  },
+  {
+   "title": "Inflation in ‘all aspects of the economy’ with ‘painful trade-off’ ahead, central bankers warn",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUFjQUVqLUdld0ZuOVlpVjQtLXRtOVZMNGxNMXp0cDd5dkoxcXZqSzJpaDQ3OGFXcl80ZXRaN01KVWlneGZocUFmQUhqbnRCS3dmZXo0WFdhMXJWS0NJZDRiRF9GUXJGRF9OTVhlVjFPYk9XZ1pESFQwVFRZcHlobmtsNm5UYWptN2YxWENISGVUWWhVSGhRTUFxVEZBQ0FTMnhDdlJGTWpPTkR2cHJ1Z181VThDQ3R5Z24zVm5pb3dkZUU?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Scotsman Guide",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 08:36"
+  },
+  {
+   "title": "글로벌 위험선호 다시 기지개⋯\"원·달러 하락 압력 우세\" [환율전망]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54NXZTbEYzYk1ScDJsRHZ5RUU5VVZHOW5FRV91U1Zuak5DZHNLSV9QOVdwM0JMV2drS2F3eGJfaUpjYzBMUnR0VXZRRVBrSUE?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 08:13"
+  },
+  {
+   "title": "[뉴욕환시] 달러 사흘만에↑…위험선호 속 美 금리 반등+연준 매파 발언",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zQkhIRkp0bzBQZVhVdVY5ODNsVUN0TmdBTjJ6OEhJeFBPSlloc1AxcjRZaTlNRlhWX1Z6M0YwZ01LVmw4QUd5cld6UUJHOEFOVHB2dXZIZVllVjF4ZzItODVKUFRVTEFYMk83Q0VyTUc?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 07:33"
+  },
+  {
+   "title": "금리보다 무서운 유가…FOMC 끝나도 증시 긴장 못 푼다",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3b0MxVUFxMW0tWXNHaXpGOWtkemVjUWk2Szk5YWN1NGpjSmFDQzFLd1dmMGpfNkQ2S21DUWtkUFZ6al9ZRGtjX0lnbmpGVmxMeGdvWm9DM2t6Y25qSnpSTEtPVEM3MHVCRGc?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "비즈월드",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 06:37"
+  },
+  {
+   "title": "[외환] 1,370원선까지 급락 후 낙폭 축소…美 연은 총재들 매파 발언",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DaWpicXZ5YTJhdHMzblBrcEczWm1jaHhfSlFJWlFJR0FYOVNuNDhPQlBYbmtyRDI5NjBKMTZQM1luREJ6VDQya0ZHaUEwLTVMdFhXRDJNTG9Eci0wYjNSNVZCQzBQejNuZ0s4bE5KeDJ4QQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "kbthink.com",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 06:32"
+  },
+  {
+   "title": "Federal Reserve official says Iran war pushed her toward supporting rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3dEZVlWRUlJSG5hc2RlT2ZyYkpFME5teENRcGMtdmhUTDdDbVU4cENBSXRmSTZVblJPYU54eHZtb2lHOWNBQ1FfMUM5MGE0Q3ZPM3p3WEc0clVqU2hWdHFIbXk2dFU1T1RsYkhmMTNIblpmLXRnNWdJLUZiemM1UXNVZGd2d2hDbWJ2ZUNJX3dvMUgtMThNSDZwbUpCZkNhTGc?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "apnews.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 05:26"
+  },
+  {
+   "title": "美, 단기채 1조달러 더 찍는다...차환때 금리 오르면 부담 급증",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DR0FzcWxUSXRoX19veEh6VDBxbXVRNnNkRURSZHpGX21Zc3M0TmhlRVplYldIWXUwY2g3RzRHMGJUZEhZajUwZGZlOUh5eTQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 04:57"
+  },
+  {
+   "title": "Bessent says he has ‘great confidence’ in Warsh after Fed raises rates",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEdCMl8tb21Sd1c2aVlEMnNLXzVvdVZGRkh2WXAwc3pYRkhDMVN5SDF0Ym1QUUZiR3E4bDc1eWtveDNuOHI5eVlSYmE3cGp1dDhMM2RmVlgtdmFFX3owMXlsZFg5X0JiTG5kQ05EU29HZDRDMnJfY0h0UGtiVUlObdIBhgFBVV95cUxNcVB2c1ZPT21DSDlQS2pxQTJfZTlLZFdLWGtBNWdpSjViT2thUXFjendGQWotVTlfbW1MY3M1dVVWamF2TXc3UkJ2YmJnS3Q1UmFfbG5tQlVQLWZKY3RjMWFqQ3Z1TkFmbExGcERuZEtmU2N3SzRUVHRvZ1B2VzhueEdiX3JxZw?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "The Hill",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 04:56"
+  },
+  {
+   "title": "[뉴욕채권] 국채가 혼조…유가 급락에도 위험선호 속 굴스비 매파 발언",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZMXBLbFZoVGQzeWhqWWtpTDlhaGpEU3BMMDVoeXpLZUdJNE52UUhBMF9VeGdaeFM3eEt3V203WWh3aFNZVXY1STBlRkNKYkZhLUQwNTlZaEVCanNCdXhqVEM3dVh2OVJLeHBkYUtJV2xiZw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "kbthink.com",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 04:54"
+  },
+  {
+   "title": "“5%대 금리에 증시 무너질까?” … 60년 데이터 뜯어보니 의외의 결과",
+   "url": "https://www.mk.co.kr/news/stock/12158451",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 04:30"
+  },
+  {
+   "title": "Gold falls on rising odds of Fed rate hike, stronger dollar",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtKdjloRHZCamhPWmFUa00yUkQwRWZJNFVpbUFiRl9KQmNWbmViLTJQN1hvUmphTzVuMm9ubU5VaXNoQ2NPdVgzM3JPd0t6Qk5XOHQ4ZG96bDRkMlhEMG1kN09OaElGdGxsOEpYdzA2eE53aXBsZm1ZaWhXR1JJY0FSN2NPdzFaX2d6UjY4VU5aWTJOcDNRZC1kTURhRWFPUVNoeU9NTEVUcFRuQmc?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 03:45"
+  },
+  {
+   "title": "베선트 “국채 바이백 없었으면 금리 더 올랐다”…10년물 5%에도 효과 주장",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY0FLdXNDSGVPRUtLX01taG41eTJRQnhrdk1lNFgyQjBBeEpVUHZaajNVcGV2a2lBaFd1OUxmTlowZzh0UFlwUTYyWEEwT0xGZk85aEs4bk1ubVlfN0dnSHBfNXk1TUl2WGpkaVYycFk5UFRYV0g4UU42YUw5QkpFUThINVNZR0k?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "글로벌이코노믹",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 03:00"
+  },
+  {
+   "title": "Fighting inflation likely to be 'painful,' Chicago Fed president says",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVR1azg4WmktY0lXSExsMzBsSVpRVzhqR2pFTUN2YkNRNVNDeFgxU0VfdzFzbHRJMHdHd1ZPWDdxdWl0eXdFRVoxdTNUQ0xISHI3Y1ZlTm8tQzZvLXZDR1EwOFVUNE9WdWhNYWFPMVB0cHFXU2szS2l0TzVPM08xNXRYMHdCN2lXdXBIdGNoTEhDWk1aYVZvaUJjcmxpRDlFUUllRGRR?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "PBS",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 02:36"
+  },
+  {
+   "title": "Gold Steadies as Traders Weigh Inflation and Fed Hike Outlook",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2REa3hXVWU5cXFtbTZYS2xfaGUtc2lLVUEtdzdNNGdHT0lfRGpFZXRGYUhqZUh3ZGg4V29GdEswUUpaand5VG1ZSVE2aWV2OWdfeEgxRU5YVk9JUExZcXB5a2FQdWhmSUg3d0R2aW5qREVlYlFLX1VObE1BY2J2R1c0dmllU3NaLURKNDVHM09GbkcwWXJJTTRtcWdESmo2ckVyak1BZ1VPdThvdVhBOEJR?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 01:43"
+  },
+  {
+   "title": "The AI-flation problem",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpaTh6eXdvdldaQng1ZlBWRmE0VFc3aGtCVmZmeWtIRk1xZ0RtbGR5MjlTNVRoUC13TFZvNW5BYV9tQ3R6M3N0cUpqTjNXWjh0U2FwX2RCRl9hME9fb0VKVkIyZkhSOVNodjJNLUZNaS1qdURWNGpjNFhSOGFndw?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Axios",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 01:02"
+  },
+  {
+   "title": "아시아 통화 흔드는 강달러…7일째 뛴 환율 1400원 육박",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TT3VhMnVkWFFJZ0NXZFd0bno1S3k0UGg5VjBGeERCcHl3QTdBQ2xlTmhGV3BfNl8wejZiMlNqNm0zNlZXYlZ5UlpDYWtJbjR1R1F4MzZB?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "중앙일보",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 00:03"
+  },
+  {
+   "title": "Fed’s Kashkari: Inflation still too high in ‘all aspects’ of economy",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zN25BZ3V2NjRBckJGZERYbEppUFZocHpXTmxCZk5iWDlycEJub2luVG9UOWtzTVlOS1dJbFJ6cjloWkhvdXg1cnR0aDJndUp5VFNmSENUbno5Unk2czQwYzAyYW0wTGVmSmpINjUzVXMyeDjSAXhBVV95cUxONThsUnVTRFBvaWdDTjdHYkR1Y2lJNE9DNDA0UGZTaFlURFpJdGNxc2Q4X2pzX1VsQUhYTDVieVhfaGt5S0ZfNjYzWjQ5SUdMaWZ6dm85QlhwSmZkV05vekgtbXd1b2dUSS1yMWIyM1Yzd0JvS0lUWmo?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "The Hill",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 00:00"
+  },
+  {
+   "title": "Wholesale Gas Prices Are Reaching Consumers Faster, ECB Says",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1BPS3FNUVVUcjFaWVo2RGZtWGZLZWtXYTdmWS1BTHdma0c3dl84cTktUXZQM2VoZnBoOVN5clFWQThWVXpON0s2QWI4Vm56TFlrZllWX2NKenk1anRvQ2luWVlMYUlZOEItSllpYlp3bmVsZTE5b0wzY0dKWGd0T2k0ZkN4Nk41NTRSbEdiLUFOUEd4dW1weGkwOHJFTDZ2aVJadFZwS3o5V1ZQOVlSdFFUUzRKZ9IBuwFBVV95cUxOZ19qZnJRcG9xS1dTOGswdkV2b3dKVWVsME50eVlKd256Z05OZWczV0dXajJ3dGZvaGZnekF5SDlRRVNZT3BUNHBHY2piOEVUOVVHXzczTThuT2VVQkZfZlF1aW4tc092cWdXSzJ0aXNIZWRkX3VTalVkZ1Z5Wkt5LUowMkhReGFtRTNYOERCS1l4WTUzZGYweXpjMngwS2o1emdFS09MZnZIQkE3YThSLTFNcVpEQVI2cjhF?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 23:30"
+  },
+  {
+   "title": "Why diesel prices are rising more than crude oil",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDVGcGZWTFlGbEFYQXVUSHdHcm1kWGx6dks0REtTLVRCMWI3b3dtQ2JkSld3a0FyazVVSm9vME5HTk5Kel80ZFRjRTJSRFc1a3ctOVhISmpaTzJGdjllajdmTGxsS3JZYkZhSTh6cXVNaFBsY2pJbmdHVnVuVFZRUnQzdjY?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 22:36"
+  },
+  {
+   "title": "Goolsbee rejects idea of Fed cutting rates to help US finance its debt",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVJQSF9lWXNmVTFmcEhDTk5aNHZUSXpGaHVvdURFQi1OeTdpU1ZlTGZIVk1HaDlIcWVkeVJENXhTRjVhT2xfanE3a1diNk81aUVxekgzLUN1VHVHWnE2WTVNS3ZLaWh6ZXg1T0l1WVY0NFRweGpYOTBwVXNCeTg1MHZIWmFOenN6dWhUTHl0X1ZrNEUxeTViRFRXUnU3RzBhMjJJcmZVNjhVbjhTdmc?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 22:36"
+  },
+  {
+   "title": "US Diesel Tops Record $6.50 as Global Crunch Feeds Inflation",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkoxTnVGRDRLbDNtQkI4UmFMZEljU1pLOXJTai1yMmJzeWpwQ3JYUlpJaHpxRkZBVVMxY2V5aTZ2dGN0Q0pRWGI1UkhHQ0YtNDgxUk9pYWRSejlFWTVMVDQ4UEFEUUJxQ0JTVnRvY2I1NjFtdmlMWFZtZW5ieV91ZUtPWGVjWE1kS1JIQ05pU2JZc3k0Y3ZULTRldnM5THpla0FiME43cTh4Q001cFZuRVRVVTQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 22:20"
+  },
+  {
+   "title": "투자자들, 금리 인상 폭 과소평가 가능성 - 도이체방크",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5adHpXQjF5cE51OFJBeVd3emU0SXRwbDEzalFQYlR4dkd0OWtid2R1Mi1YUW1tclhjX1RfOVcxaV9jellVcUlFdk9HMXZ5b29mc0dKQUJaTVBxeHdzUnZKRnNtQ1Z0S2NvN0E?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 21:40"
+  },
+  {
+   "title": "Fed’s Goolsbee Says Road to 2% Inflation May Not Be Painless",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZm5vNzZIMWk4S0RWcDRGOFF5bWJjVmJobUZodXJMOFE1LXl4akRicHVQZUNjZDZJTklIU3BhTGlDNnRPeVR6M29jOHh3cGJYS0tTbXBSdTM4US02NjVEOHN3bE1VcHNxLVBhQjdGSDdJRGktUDV4U295V2tlMGd0NFpETzVxcHFneXZCWDFHeVhFWFZ2eGZHbHNHZHZpdEFTLURRbnNDYnd5SnZBc2M0?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 19:30"
+  },
+  {
+   "title": "Europe's gas price surge may feed into inflation more quickly, ECB finds",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYlZORjIxVTNxX0RoX2h1WS1idFNvSGFRN09nZ0dmRGtfbm9wR0thb01MbnNpUkZWU0lNSFdNU28tQWp3UndBMFNBQ0tQQm9KaGwzYjVkSmVselNOb3EwQ1U2MU1yUFhSTC1HM0FadE5NV2UwWi1Ya1BjYkFZUnFyZmRlYU43bTN1Z1JPT1pjcGtMZWY2b1I0SEp3eVE4aHpZMmNHRFFsZTVmRlVDeU5OWnpNWU80ZDNhWVZmaF9PVQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 17:08"
+  },
+  {
+   "title": "Opinion | How Warsh can be a Fed chair of few words",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWS03QW0zNnlXYlFyWUF4Rk9xcFBVWEpnNkEyWDNYQUpYWjNwWkNZaFU5Rm9zQ2plNXowRFg2VjlWTllzZEVLTmhWUjhBQVJRZVVIemZ6UzU1MDdZbUgzUWluX1RFeHB4SkJKWVhIMTlkSkVyVWRuT1FySGFYNHBHRmI2ZUI5VEdGUXZlYmpBaGtDLVc1VXhDTmFleWJNbVdvYnZwag?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "The Washington Post",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 07:36"
+  },
+  {
+   "title": "“미·일 금리 더 간다 … 포트폴리오 재구성할 때”",
+   "url": "https://www.mk.co.kr/news/economy/12158584",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 04:30"
+  },
+  {
+   "title": "유가 하락과 미국 금리 전망에 캐나다 달러 약세 지속",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QeUo1QVVaLXktcTUzVTRJS3EwSEFja1NtYnhrVkhlR1JLZUdpN3d5QjU0aC1Vc19QckZPTFlQYl9RQXR6MV9sZGJUNUhsenhzdXBmbW1GcUxGbXBua3dxQ3c4STJXQkU?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 02:16"
+  },
+  {
+   "title": "Chicago Fed National Activity Index Negative in August After July’s Upwardly Revised Positive Level",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdENpYzdSQUZta3hpOFRkOXB3b25fS0otTjB0cWdjRXAteTFwNmxWUHRNNURsWHVmRlN2V182YkxsRmFxZm9sZnlUaTVCcEU4dDlyMjhPeGNjRmxDWTltc1N5MmllckQ2WkZnT0dLWkNiRDhCTEpyNE0tQlY1SHhCNlE5NG5ocS1xb2VPNXEzaGtNN2VhN09hNFdnZ292RERYMVVQVVVQR1VxTTNLcGN0Y2c3TzRPSloycGdjNndPMGdyTlBDLWZyWm1R?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Haver Analytics",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 01:22"
+  },
+  {
+   "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+   "source": "ECB 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 19:00"
+  },
+  {
+   "title": "Eurosystem brings central bank money to tokenised finance",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+   "source": "ECB 보도자료",
+   "publisher": null,
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 19:00"
+  },
+  {
+   "title": "Oil Prices Fall for Fourth Day as Supply Concerns Ease",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZWRkFoeVdVQnQtNnE2OXRQM2ViMkhkdk41di05ZWhjQXgwRGJFaW12REM2ZnVxMl9zYUR6Vlh2NVVJRFk4X2RUUk9HRXZDUVVHWmw0YjRlcDFsTTlwQjYxZGlwRnVXTUUxTnU5ZzFXMy02Ri1TNkE3Y1ZTa29yWFR2VVZoYWQ0eEttX081M0w5bkpIZ1FmNFdOOGNINWR3LW9N?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 05:01"
+  },
+  {
+   "title": "Why oil prices are sliding again after their latest $100-a-barrel spike",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOEk3TFN5TjVXaEZqRVdUZ2RBcm9mQjEzUGVwTW9wT1ZIdmxuN1JidlN3TV9WaF8yeUxiQmJRS1RDelVoTmdISDBndkhJMHg2U3hreTEwLWM2RWxhS21CckoxTEdaNHlxbjhCSVpqNGtnUjNLMUVyR0R0bllSWGNUVG1LVDh1NGJrRDVCNHgxd29qOEI5?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Business Insider",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 03:46"
+  },
+  {
+   "title": "Oil prices retreat as Middle East supply concerns ease amid diplomatic talks",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUWZGRmt2cl9iX1FtTEh1NmxuRkJrbS1INXNEbG1vYVBIVHZ3NXhLWWhEM2JvNkVMaFBYWFNjUmg1OF9neEp1ZUxJT1JmYVB4ZEd2WFp3djZ3andGb2lZX19IX2hkZUdldFh3R1JzWFJsR1hqaVJmQ1QtekM5TnFDS2xzbm9KRUZTVHBNTWFIcFNVcWRCRFpxdW1pcmR6SUZ5c2NEQjBWRzNibUU4b3ViOVV3XzFPU2VNT0tCMm9XajVrLWhudjhUTmN6XzNGazFQWVEtVWtETXhPRFJxWHc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Oil & Gas Journal",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 03:31"
+  },
+  {
+   "title": "Oil prices decline as Iran sets conditions for peace talks with US",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jN01PZnZ2SzM1QktJcmU5SUZzTWFRd1plRWxSRUVGTEU4RzdqQ3UyRTE3alVrUXFsRllGSEU2SFFuaGZkVE54aWFXT0ktaTc1RWJBTWVqTzFiSTQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 02:43"
+  },
+  {
+   "title": "Chipmakers fuel global stock gains as oil retreats",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEJFN2JTZ05rQTRGSzRVVWRudTZjcWtOdkRtRGtXRTNCMU5wQlBuOHFyMjBDbGV3YldXUGxTRGJZRFJEZ0pWdWxSbUprenlLOGYtNklHeUk5SU1Eampoc0p4bUlubnhFSjhocktDMGZ6RDRGSHAyVTNrZndBRTVobWhxVlprS0hzckItdlBqX1BEMXUyUjM2ZHJ5Wkw2UFo5NWVB?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-22 00:53"
+  },
+  {
+   "title": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barchart.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 00:35"
+  },
+  {
+   "title": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
+   "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-21 23:20"
+  },
+  {
+   "title": "Oil prices slide on hopes of diplomacy in Iran war",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnhULUdxemZEcEh3Y2RnV1lTcXkzZFVDbU5CUnBUZnAwa2NCYjNYNzk3UXo2RE80MC1sQTBLLS1Va1phOGtDSHEzS0c0SlJpdEhBemRpdFVMdmFmRVZpTmZWQjNLMzVaUS13NTJVTnJwRWhQQlRoR05yLXR0RVdiUUdFOUlwcEZKcTQxNTRPc1gyNEZV0gFWQVVfeXFMUDczWXBZZWpwNUNjMkhnSl83N3FUVlg0YlgzV3haQXhfTmZzRnJfQmh5c2wtenlIX2xSMl9wTlRvWm5IdXdDblloUndtNE03cDJYQ1U5cGc?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Business Recorder",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 16:54"
+  },
+  {
+   "title": "Trump to Address World Leaders. What It Means for Oil Prices.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVo2aFZmSkRSNTdxZ1BaY2thX1ZOZmd1Rjl4bmFQUFhfT01nQTd2UG4tWW4yYmxqZEZ0Z1hKZ21QdDNTb0I5OFlnZ3hfYzk2WlRYTTkzZFpkWGMtXzFlQjZTRy12TmNCS1JYUVlsb1o5SEZ1aDBFM1JpMGQ2Sk1xbzJnUTJTQ0U?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barron's",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 06:29"
+  },
+  {
+   "title": "Bitcoin hits highest level since January at $86,000, as the market debates whether the 'crypto winter' is over",
+   "url": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-22 02:38"
+  },
+  {
+   "title": "[어제장 오늘장] 코스피 7천피 탈환…뉴욕발 반도체 훈풍 이어갈까",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PbXdEa3JjbUQzUWVWczNROWtLV01ZOWxiNlNjT1Y1MFpyMmtvbkt0X3JVNm1GZ3lmQzdQX1Fxd3RQZ2ZCTXU2YWJMT19lWDQ?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 08:27"
+  },
+  {
+   "title": "[기업이슈] 코스피 '7000' 탈환…반도체주 끌어올렸다",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxZUFCM2dPX09FNjVFS01zQnhZbVUxalB6VHhKU0lzb2RTWGNlVU11VElfR1A1Mi1YSEZtSXo4dnlHa0xUQldzOUdYRHFsV0k?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 08:22"
+  },
+  {
+   "title": "[개장] 뉴욕증시, AI 낙관론에 나스닥 최고치 경신..메타 11%↑ By 알파경제 alphabiz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5melJQUmZWVDZlWUtKblJPa3pTTWZBOUY5Y1pneFhiNGlORy11VnpibmFBdVZiRUZYbVdlUnlkNkxfWjk5M0N3R3o2eWFoOWxwdWhpaDdmZ19HcXBNVzZMLTJ4aFZEaGVjaV9USk9ILWQ?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-22 08:14"
+  },
+  {
+   "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-22 08:12"
+  },
+  {
+   "title": "유가 급락에 AI 랠리까지... 나스닥 2.26%↑ [뉴욕증시]",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oc243Nk9FS1VjMmszM2hMTmxDRlV1Q0RjUlVpQXM0bnl3LU1yb2xtZVpNSGY5YnNXU3R0bkNRSlVtZG5IVm1IbkZwcVJDdnA1VmRmQkU4NzdGakVIZ3hwY1NJd0rSAWhBVV95cUxPaHBySGNOOVJlSmRVX1dZbHQ3Q2ZvalFmQnJtUTZfUlc3ZUtZQ2puLW4yX0FKb0txY21fNU9uSVJxLXJrZ2RCUmdpYkJlcFdieGtMV2NqX2xQVXBfaGQ2TkJXanJSVmdPMw?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "매일일보",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-22 08:10"
+  },
+  {
+   "title": "나스닥 2.3%↑ 사상 최고치…AI 훈풍·유가 하락에 뉴욕증시 들썩",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WRmRhMk9KWWFGVjU4MXZGSVV4d2VXOHBKbWVJdTgyVmJHRUJOMkJHN0RSYm5TVEV6M2MydTZ2bEo0dXE5UFYwTmFnaEg4enV6OGZyZk9vTG5vRkVQ?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "티제이비",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-22 08:07"
+  },
+  {
+   "title": "Wall Street Rallies on AI and Semiconductors; Crude Oil Plummets",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pQVJuaGlXTFlZdlFYdUxHYnBqQkdYZU9MTkJMU1R1MHhzTmc5VUcyYzl2TVZkQ2pFbzI1dVlOckx1RkdsVGd4czh6NnZSM0Fvb1drUENPZEJDcXljc1VjM0NpLWFvaXN3TDBCbGhR0gFmQVVfeXFMUFNHT1FJOG9vNDBnTGhncHhPVUhXSnd3NXJaMHZjaVFRbzRUd3NvSGdRb3FKdDhRU1hNVXZEcnhvZU1mSTNkNVd6MGRUZWVZSEtYYXMzSGN0enlWLUZlTWotMUJULVdn?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "news.sbs.co.kr",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 07:50"
+  },
+  {
+   "title": "뉴욕증시, AI주 급등·유가 하락에 상승…S&P 1.49%·나스닥 2.26%↑",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtT2pLOGJYTkc4dGM2UjFUd2lGU0ljWnhDY2RHODRJckd1eHZpMmRwMFUyalAxRm8tUXgxTWtQNVdKTV9xUTJMQXFOMlNlUlk?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-22 07:23"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

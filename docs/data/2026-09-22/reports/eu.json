@@ -1,0 +1,527 @@
+{
+ "topic": "eu",
+ "name": "유럽시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-22T08:59:56.330439+09:00",
+ "report": {
+  "title": "유럽 시장 리포트 — 유가 하락에 반등, 테크·은행 주도 (2026-09-22)",
+  "overview": "직전 세션(9월 21일 월요일) 유럽 증시는 국제유가가 배럴당 100달러 아래로 밀리고 이란 관련 외교 기대가 살아나면서 일제히 반등했다. 기사 기준 스톡스600은 약 1% 상승, DAX는 +1.07%(이코노뉴스 기준 +1.04%), FTSE100은 +0.75%, 이탈리아 FTSE MIB는 +1.60%로 마감했으며, 테크(반도체)와 은행이 상승을 주도했다. 독일 지방선거에서 집권 CDU가 참패한 정치 충격과 ECB 인사들의 매파 발언은 유가 하락과 글로벌 채권금리 진정(미 10년물 5% 아래)에 압도됐다. 종목별로는 폭스바겐이 실적 경고에 이어 유로스톡스50 퇴출 소식까지 겹쳐 압박을 받았고, 노보 노디스크는 2030 목표 제시에도 전략 의구심이 지속돼 급락했다. 다만 제공된 지수 표는 9월 18일(금) 종가로 월요일 마감 수치와 불일치하므로 아래 등락률 해석에 유의해야 한다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "[데이터 주의] 입력된 유럽 지수 표는 session_date 2026-09-18(금) 기준으로, 스톡스600 635.45(-1.11%), 유로스톡스50 6236.20(-1.37%), DAX 25,304(-1.60%), FTSE100 10,659(-1.45%), CAC40 8065.02(-1.49%)의 일제 하락을 보여준다. 반면 선별 기사들은 모두 9월 21일(월) 세션을 다루며 유럽 증시가 반등 마감했다고 전한다. 즉 표는 직전 거래일이 아닌 그 전 거래일(금요일) 종가이며, 월요일 마감 지수 값은 표에 없다.\n\n기사 기준 월요일 흐름을 정리하면 다음과 같다. Reuters는 스톡스600이 테크·은행 강세와 유가 후퇴에 힘입어 랠리했다고 보도했고, Investing.com 한국어판은 \"유럽 증시 1% 상승, 독일 정치적 충격 및 ECB 매파 발언 압도\"로 요약했다. 독일 DAX는 Investing.com 기준 +1.07%(이코노뉴스 기준 +1.04%) 상승 마감했으며, 기술적으로는 25,832 부근의 '3중 저항대(triple resistance cluster)'에서 상승이 정체됐다는 분석(Investing.com)이 나왔다. 영국 FTSE100은 장 초반 소폭 하락 출발(24/7 Wall St.)했으나 유가 하락과 은행주 강세로 방향을 바꿔 +0.75%로 마감했다(TradingView, 이코노뉴스). 이탈리아 FTSE MIB는 +1.60%로 주요국 중 가장 강했다(토큰포스트). CAC40과 유로스톡스50의 월요일 개별 등락률은 기사 요약에 명시되지 않았으나, 프랑크푸르트와 파리가 함께 상승 출발했다는 보도(24/7 Wall St.)와 '유럽 증시 동반 상승' 보도에 비추어 동반 상승한 것으로 해석된다.\n\n배경은 세 갈래다. 첫째, 국제유가가 4일 연속 하락하며 100달러 아래로 내려온 점(WSJ, 뉴스핌)이 인플레이션 우려를 완화했다(Yahoo Finance UK). 둘째, 유가 급락에 미 국채 10년물 금리가 다시 5% 아래로 내려오고 글로벌 채권금리가 동반 진정되면서(news1, 글로벌이코노믹) 밸류에이션 부담이 줄었다. 셋째, AI 투자 관심에 따른 반도체주 급등(GuruFocus)과 미국 반도체 랠리가 위험선호를 뒷받침했다. 반대로 독일 CDU의 지방선거 참패(CNBC)와 ECB 매파 발언은 상단을 제한하는 요인이었다.",
+    "bullets": [
+     "표(9/18 금 종가): 스톡스600 635.45 -1.11% / 유로스톡스50 6236.20 -1.37% / DAX 25,304 -1.60% / FTSE100 10,659 -1.45% / CAC40 8065.02 -1.49%",
+     "기사(9/21 월 마감): 스톡스600 약 +1%, DAX +1.07%(또는 +1.04%), FTSE100 +0.75%, FTSE MIB +1.60%",
+     "상승 배경: 유가 100달러 하회·4일 연속 하락, 미 10년물 5% 하회, 테크·은행 주도",
+     "DAX는 25,832 부근 3중 저항대에서 정체 — 단기 기술적 분기점"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "월요일 유럽 시장의 주도 업종은 테크(반도체)와 은행이었다. Reuters와 IndexBox는 스톡스600 상승을 'tech, banks lead gains'로 요약했고, GuruFocus는 AI 투자 관심 속에 유럽 반도체 종목이 급등(surge)했다고 전했다. Yahoo Finance 역시 '반도체 업체들이 유가 후퇴 속 글로벌 주가 상승을 견인'했다고 보도해, 유럽 반도체 강세가 미국 필라델피아 반도체지수 +4.29%와 같은 흐름 위에 있음을 보여준다. 영국에서는 은행주가 상승을 이끌었다(Reuters 'UK indexes climb as oil prices retreat, banks lead gains'). 채권금리 진정 국면에서 은행이 강했다는 점은 금리 하락보다 '리스크 프리미엄 축소'가 주도한 반등이었음을 시사한다. 유가가 급락한 만큼 에너지 업종은 상대적으로 부진했을 것으로 추정되나, 개별 에너지 종목 등락은 기사 요약에 명시되지 않았다.\n\n약했던 대표 종목은 자동차와 헬스케어에서 나왔다. 폭스바겐(Volkswagen)은 실적 경고(profit warning)에 이어 블루칩 지수 유로스톡스50에서 퇴출된다는 소식(International Business Times, The Irish Times)이 겹치며 '연타'를 맞았다. 지수 퇴출은 패시브 자금의 기계적 매도를 유발할 수 있어 단기 수급 부담 요인이다. 노보 노디스크(Novo Nordisk)는 2030 목표를 제시했으나 '턴어라운드를 기대한 투자자들을 흥분시키지 못했다'는 평가와 함께 전략에 대한 의구심이 지속돼 주가가 급락(tumbles)했다(MarketWatch). 두 종목의 구체적 등락률은 입력 자료에 없다.\n\n한편 방산 업종에서는 marketscreener가 '애널리스트들은 물러서지 않는다'며 유럽 방산 3개 종목을 지목하는 기사가 나왔다. 이란 외교 기대로 지정학 프리미엄이 일부 축소되는 국면에서도 유럽 방산에 대한 구조적 투자 논리는 유지되고 있다는 신호지만, 종목명은 요약에 포함되지 않았다. 영국 시장에서는 Vanguard FTSE100 ETF, 배당·퀄리티 종목 등 장기 투자 관점의 기사가 다수 나와 개인 투자자 관심이 이어지고 있음을 보여준다.",
+    "bullets": [
+     "강세: 반도체·테크(AI 투자 기대), 은행(영국·유럽 공통 주도)",
+     "약세: 폭스바겐(실적 경고 + 유로스톡스50 퇴출), 노보 노디스크(2030 목표에도 전략 의구심으로 급락)",
+     "방산: 애널리스트들이 유럽 방산 3종목 지목 — 지정학 완화에도 구조적 투자 논리 유지",
+     "에너지 업종 상대 부진 추정(유가 4일 연속 하락) — 개별 수치 미제공"
+    ]
+   },
+   {
+    "heading": "ECB·BoE·거시",
+    "body": "통화정책 측면에서는 세 가지 신호가 동시에 나왔다. 첫째, ECB 인사들의 매파적 발언이 있었으나 시장은 이를 '압도'하고 상승했다(Investing.com 한국어). 발언 주체와 구체 내용은 기사 요약에 담기지 않았지만, 유가 급등기(최근 100달러 스파이크)를 거친 만큼 ECB 내부에서 인플레이션 경계 목소리가 유지되고 있음을 보여준다. 둘째, 영란은행(BoE)은 금리를 동결했다(WSJ 'BOE Leaves Rates Unchanged'). 동결 자체는 시장에 큰 충격을 주지 않았고 오히려 글로벌 금리 안정에 기여했다. 셋째, 미국에서는 세인트루이스 연은 무살렘 총재가 Reuters 단독 인터뷰에서 '인플레이션 억제를 위해 추가 금리 인상이 필요할 것'이라고 밝히고, FT는 연준이 인플레이션에 '공격적(aggressive)'이어야 한다는 고위 인사 발언을 전했다. CNBC는 '새로운 연준 긴축 사이클이 시작됐을 수 있다'고 진단했다. 즉 대서양 양안 모두 중앙은행의 톤은 매파 쪽이다.\n\n그럼에도 채권시장은 진정됐다. 유가 급락으로 미 국채 10년물 금리가 다시 5% 아래로 내려왔고(news1), 글로벌 채권금리가 동반 하락했다(글로벌이코노믹, CNBC). WSJ는 '연준이 신뢰를 회복(Fed Regains Trust)'하면서 금리가 하락했다고 해석했다. 유럽 증시에는 '유가 하락 → 기대 인플레이션 하향 → 금리 진정'이라는 경로가 매파 발언보다 강하게 작용한 것이다. 유로/달러는 1.15(+0.03%)로 거의 변동이 없었고, 달러인덱스는 100.43(+0.20%)로 소폭 강세였다.\n\n성장 측면에서는 독일 정치 리스크가 부각됐다. CNBC는 집권 CDU가 또 한 번 지방선거에서 참패('disaster')하며 좌파·극우로 표심이 이동했고, 이것이 정치 불안정을 높여 친성장 개혁과 성장 전망을 위협한다고 경제학자들의 견해를 전했다. IndexBox도 독일 연정이 '검증대(under scrutiny)'에 올랐다고 보도했다. 유럽 최대 경제의 재정·개혁 모멘텀이 흔들릴 수 있다는 점은 중기적으로 DAX와 유로에 부담 요인이다.",
+    "bullets": [
+     "ECB: 매파 발언 있었으나 시장은 유가 하락에 더 반응 — 물가 경계 지속",
+     "BoE: 금리 동결(WSJ) — 글로벌 금리 안정에 기여",
+     "Fed: 무살렘 '추가 인상 필요', FT '공격적 대응' — 새 긴축 사이클 가능성(CNBC)",
+     "채권: 미 10년물 5% 하회, 글로벌 금리 동반 진정 / EUR/USD 1.15 보합, DXY 100.43(+0.20%)",
+     "독일: CDU 지방선거 참패 → 연정 불안·친성장 개혁 위협(CNBC)"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "기업 뉴스의 중심은 폭스바겐과 노보 노디스크였다. 폭스바겐은 실적 경고 직후 유로스톡스50 지수에서 제외된다는 발표가 나왔다(International Business Times, The Irish Times). 유럽 대표 블루칩 지수에서 독일 최대 자동차 업체가 빠지는 것은 유럽 자동차 산업의 위상 변화를 상징하는 사건으로, 지수 리밸런싱에 따른 패시브 매도 압력도 예상된다. 노보 노디스크는 2030 목표를 공개했지만 MarketWatch는 '오젬픽 제조사의 전략에 대한 의구심이 지속되며 주가가 급락했다'고 전했다. 비만·당뇨 치료제 시장 경쟁 심화 속에서 투자자들이 기대한 턴어라운드 청사진이 제시되지 않았다는 평가다.\n\n정책·정치 뉴스로는 독일 CDU의 지방선거 참패가 가장 컸다. CNBC는 유권자들이 좌파와 극우로 이동하면서 정치 불안이 커지고 친성장 개혁이 위협받는다고 보도했다. 유럽 증시는 이 충격을 하루 만에 소화했지만, 독일 재정확대·개혁 기대가 DAX 랠리의 한 축이었던 만큼 향후 연정 동향을 지속 점검할 필요가 있다.\n\n지정학·원자재에서는 이란 관련 외교 기대가 핵심이었다. 이란이 미국과의 평화 협상 조건을 제시했다는 보도(Fox Business), 호르무즈 해협 통과 원유 물동량 증가(Barchart), 중동 공급 우려 완화(Oil & Gas Journal) 등으로 유가는 4일 연속 하락했고 최근 100달러 스파이크 이후 다시 미끄러졌다(Business Insider, WSJ). 그러나 CNBC는 이란 페제시키안 대통령이 UN 회의 참석을 위해 뉴욕으로 향하는 가운데 트럼프 대통령이 '협상 불발 시 이란 경제를 파괴하거나 지도부를 제거하겠다'고 경고해 외교를 복잡하게 만들고 있다고 전했다. 외교 기대와 강경 발언이 공존하는 만큼 유가 변동성은 여전히 크다. 뉴스핌은 유럽 시장이 미·중 정상회담에도 촉각을 세우고 있다고 보도했다.",
+    "bullets": [
+     "폭스바겐: 실적 경고 → 유로스톡스50 퇴출, 패시브 매도 압력 우려",
+     "노보 노디스크: 2030 목표 제시했으나 전략 의구심 지속, 주가 급락",
+     "독일 CDU 지방선거 참패 — 좌파·극우 부상, 친성장 개혁 위협",
+     "이란: 평화 협상 조건 제시·호르무즈 물동량 증가로 유가 4일 연속 하락 / 트럼프 '노딜 시 결과' 경고",
+     "미·중 정상회담 주시(뉴스핌)"
+    ]
+   },
+   {
+    "heading": "미국·한국 영향",
+    "body": "유럽 세션의 반등은 같은 날 미국 세션으로 그대로 이어졐다. 9월 21일 미국 시장은 S&P500 7764.70(+1.49%), 나스닥 종합 27,122(+2.26%), 나스닥100 30,482(+2.83%), 다우 52,049(+0.71%), 러셀2000 2875.36(+0.52%)로 상승했고, 필라델피아 반도체지수는 12,433(+4.29%)로 급등했다. VIX는 14.87(+0.41%)로 낮은 수준을 유지했다. 유럽 반도체 급등(GuruFocus)과 미국 반도체 랠리(Yahoo Finance '칩메이커가 글로벌 주가 상승 견인')는 동일한 AI 투자 테마 위에 있으며, 유가 하락에 따른 금리 진정이 성장주 밸류에이션을 지지한 구조다. 무살렘 총재의 추가 인상 발언에도 미국 주식이 강세를 보인 것은 시장이 당장의 매파 발언보다 유가·금리 하락을 더 크게 본 결과다.\n\n한국 시장에 주는 시사점은 다음과 같다. 첫째, 반도체: 유럽·미국 반도체 동반 급등과 SOX +4.29%는 국내 반도체 대형주 및 장비·소재 업종에 긍정적 심리로 작용할 가능성이 크다. 둘째, 유가: 배럴당 100달러 하회와 4일 연속 하락은 원유 수입 의존도가 높은 한국 경제에 무역수지·물가 측면에서 우호적이며, 항공·화학·유틸리티 등 원가 민감 업종에 완화 요인이다. 셋째, 자동차: 폭스바겐의 실적 경고와 유로스톡스50 퇴출은 유럽 자동차 수요 부진과 산업 구조 변화를 시사하며, 유럽 수출 비중이 있는 국내 완성차·부품 업종에는 경쟁사 약화라는 상대적 기회와 유럽 수요 둔화라는 위험이 함께 존재한다. 넷째, 헬스케어: 노보 노디스크 급락은 비만치료제 관련 국내 바이오·CDMO 종목의 심리에 단기 부담이 될 수 있다.\n\n환율 측면에서는 원/달러가 1384.86(+0.39%)으로 원화 약세, 달러인덱스 100.43(+0.20%), 엔/달러 157.05(+0.59%)로 달러 강세가 이어졌다. 연준 매파 발언(무살렘, FT)과 '새 긴축 사이클' 논의(CNBC)가 달러를 지지하는 반면, 유로/달러는 1.15로 보합이었다. 원화 약세는 수출주에는 우호적이지만 외국인 수급에는 부담이 될 수 있어, 유럽·미국의 위험선호 회복이 국내 외국인 순매수로 연결될지가 관건이다. 독일 정치 불안이 재부각되면 유로 약세·달러 강세가 심화될 수 있어 원/달러 상방 위험도 함께 점검해야 한다.",
+    "bullets": [
+     "미국(9/21): S&P500 +1.49%, 나스닥 +2.26%, 나스닥100 +2.83%, SOX +4.29%, VIX 14.87 — 유럽 반등이 미국으로 확산",
+     "한국 반도체: 유럽·미국 반도체 동반 급등 → 국내 반도체 업종 긍정적 심리",
+     "유가 100달러 하회: 한국 무역수지·물가에 우호적, 원가 민감 업종 완화",
+     "폭스바겐 실적 경고·지수 퇴출: 유럽 자동차 수요 부진 신호, 국내 완성차·부품엔 기회와 위험 병존",
+     "환율: 원/달러 1384.86(+0.39%), DXY 100.43, 엔/달러 157.05 — 연준 매파 톤에 달러 강세 지속"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "폭스바겐 (Volkswagen)",
+    "ticker": "VOW3.DE",
+    "comment": "실적 경고(profit warning)에 이어 블루칩 지수 유로스톡스50에서 퇴출된다는 소식이 겹쳐 압박. 지수 리밸런싱에 따른 패시브 매도 압력과 유럽 자동차 산업 위상 변화를 상징. 구체 등락률은 입력 자료에 없음."
+   },
+   {
+    "name": "노보 노디스크 (Novo Nordisk)",
+    "ticker": "NOVO-B.CO",
+    "comment": "2030 목표를 제시했으나 턴어라운드를 기대한 투자자들을 설득하지 못해 주가 급락(MarketWatch). 오젬픽·비만치료제 전략에 대한 의구심 지속. 국내 비만치료제 관련 바이오 심리에 단기 부담 가능."
+   }
+  ],
+  "events_today": [
+   "이란 페제시키안 대통령 UN 회의 참석(뉴욕) — 트럼프 '노딜 시 결과' 경고 속 미·이란 외교 진전 여부와 유가 반응 주시",
+   "미·중 정상회담 관련 소식 — 유럽 시장도 촉각(뉴스핌)",
+   "연준 인사 발언 후속 — 무살렘 '추가 인상 필요' 이후 긴축 사이클 논의 확산 여부",
+   "DAX 25,832 부근 3중 저항대 돌파 여부(기술적 분기점)"
+  ],
+  "headlines": [
+   {
+    "text": "유럽증시 유가 100달러 하회에 일제 반등 — 스톡스600 약 +1%, DAX +1.07%, FTSE100 +0.75%, 테크·은행 주도",
+    "importance": 4
+   },
+   {
+    "text": "연준 무살렘 '추가 인상 필요'·ECB 매파 발언에도 유가 급락으로 미 10년물 5% 하회, 글로벌 금리 진정",
+    "importance": 4
+   },
+   {
+    "text": "폭스바겐 실적 경고 후 유로스톡스50 퇴출, 노보 노디스크 2030 목표에도 급락 — 유럽 대표주 개별 악재",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "입력된 유럽 지수 표는 2026-09-18(금) 종가 기준으로 하락(-1.1%~-1.6%)을 보이지만, 선별 기사들은 2026-09-21(월) 세션의 반등을 다룸. 표와 기사의 세션 날짜가 불일치하며, 월요일 마감 지수 값은 표에 없어 기사에 언급된 등락률(DAX +1.07%/+1.04%, FTSE100 +0.75%, FTSE MIB +1.60%, 스톡스600 약 1%)만 인용함",
+   "CAC40·유로스톡스50의 월요일 개별 등락률은 기사 요약에 명시되지 않음",
+   "기사는 제목·한 줄 요약만 제공되어 ECB 매파 발언의 주체·내용, BoE 동결 세부, 폭스바겐·노보 노디스크의 구체 등락률 및 실적 수치는 확인 불가",
+   "유럽 반도체·은행·방산 개별 종목명은 기사 요약에 포함되지 않아 leaders에 반영하지 못함",
+   "무료 소스 기반으로 유럽 시장 수급(외국인·기관 매매) 데이터 없음",
+   "환율·미국 지수는 2026-09-21 기준 값이며 장중 변동 가능"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "유럽증시, 국제유가 하락 등 영향 일제히 올라⋯독일 1.04%-양국 0.75% 상승마감",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jaUpUVUtsSXVnWWhPdGtCaURSUG1xUTA1am53X1pHN1hxcWQ4bVkxb0tBaXZsY3NfWTZCblhwRTk5ZzJRYmtOMkdLcThPOEVUV2t4dFpNNUpyLVNNbXJTT3hodnBObVJwbW5lVnd4QQ?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "이코노뉴스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 07:19"
+  },
+  {
+   "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
+   "url": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-22 05:23"
+  },
+  {
+   "title": "European Stocks Rise as Oil Slips and Tech, Banks Lead Gains",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0MxZVBUcF9lY2xsUzhmdlJyVkdxaHp3Mmp4dzZSR29YS0pUeXMtOFlqa1QwYnhIeHhkcjR2WExOX3pYdzJaY29KNVYwaUsyendIOG4tWk5KY2puM0xDRTdtUWNKSTNXVENmUkpPVzNOWVg3MlBJa0ZrZDkwNURHVHcta2Q2WXF4bDBtRlUxVkZjR0E?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "IndexBox",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 04:20"
+  },
+  {
+   "title": "European Stocks Close Higher Supported by Declining Oil Prices - Fana News -",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMG9WaWJHa01tZGFIY0Z6WVh2bmFKRkFVWEsxU0lPSUZKTXBxZWk5bVl5MVljRlpsTUdkMzlGcmhlZEM5ZjFYR21DU1FaQTVHQ0haVU5WVDlXTlc1UDlzTFg1NnV5TVJpaWpLMVJrdzNFS0hKNUlKaFgxbzN2cGl4cHJocjBFQkhBR0JDRk50QVpRbGdLWnlIVXNCalYyQTlwQ1E?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Fana News -",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 03:35"
+  },
+  {
+   "title": "European stocks rally on oil decline, diplomatic optimism",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0dWWVdnVjBFUGhWalBJZ3RxMDN5MHhJaUJKWFdUbm10WGJiRmtHVElMdExtNzgzUE9iaDlhUFpfOHR4NWlZRGh6elduNmFlMEhRdGY3YWVRaVM5RzFic1ZFMWtHVGduOUQzQUxKT1F3d0lhTUxBVFdKU0FCNG9VVjVFTzJ4OU5jTi0yS0s5enZRX0kzNXoteUlRVkw5MDlSRXozSnBqVlk?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 03:34"
+  },
+  {
+   "title": "FTSE 100 today: Stocks climb as oil slides on hopes for Iran de-escalation",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0lpWlU0NkpDeXQ1ZFo2MmpRV1NOWnR2ZnNrY3FpTzIxdWtjZ0VMcnd2dXZRVllvX2hYQXpLVVFPRDNOUWNOejdYbDA3anF6QXZBR1dyYndrMTBIb2s1cXNkY0ZLanVFTC1tbTJYWWpqUmVhZWhfQ0MtVEpUNi0wdTY2S2pGNEVFaVB2aWptMmNuX3NYTkR5elNtSHpLYkpmV04wNUF4ZFB5c19TNzZOLUV2ODBSTTBpZ2VuZg?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 02:39"
+  },
+  {
+   "title": "유럽증시, 유가 100달러 밑으로 떨어진 데 힘입어 상승…미·중 정상회담에도 촉각",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HRTY0RFIzNHo2MU5iTVc3RV9EUS1pQmN6VXMxdDQwNml0Q0FnQnpRa1RRS0JYbUdLLWYtYVUyVVlabEhTVEdGWFQ0QUw3emxWTFBZTkhrQUgtY3dP?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 02:09"
+  },
+  {
+   "title": "Europe's STOXX 600 rallies on tech, banks strength as oil prices retreat",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWF0aU9mWUM0TjNtekhpT0I0NTM1RXoydldTZDlzNVM4Q0FnRXFCLTlaLUQxdEZfMS1qeU1XV0lsNHhvc09zMTBUQV9xVFhaakdCU196dW5sQ212UHdLVjVySHo5UWczV0dVS2dnY3d2Q2dTbWRkOWFRZ0g5aTlGaEtnQkFQcno2ZjdfdndQdGdSR1c3MjdEXzNCZlhRM216di1sdllQSl9OT3pkcWRSd3p3?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 01:40"
+  },
+  {
+   "title": "As London/European traders head for the exit, European stocks close higher",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjVwQ2RxR3FKRVMyTXNUUThTZ1d2T3lOMHkxNkIzZEwzR2J5a1JMUld4RFJYdFF5TkJVWnRUckpLTGVVRnlNUXJ0a29Sbkx4dUdoNWdTSmdmblZ6WjRIZ2hHZWYzeW1ST3NmMEJ0UGJDcEpuWFVwX2dUTzc5NlRWbUh1QlNxb0FVUVR5WlJuZVhIdm9VcHZmMXdzZGFUY0dMbDl0UjFTMEhlemM?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "investingLive",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 01:14"
+  },
+  {
+   "title": "European Stocks Advance on Monday",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMDg0UGZBSEVaWDdNc3ZlV0tRZWdCM0xrOG1NVjlDaVdpS3lYVTV0R0ZscDVHWWQ2eG5ZU2Ftc3ZtS1hOYVljUkxNTTVnQ2Z3a250X0pWcDI5SjVSRHdwbFRwZVRoM0k4bVYteTRZcFNBbUhTajltS1FjZ3VaVFpJU0pVOHlDM1JKdU5FdA?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 01:13"
+  },
+  {
+   "title": "UK indexes climb as oil prices retreat, banks lead gains",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODZIYnhhdnBpWldya3A4NDlISEduRzZWd0twSXFsa0tDanh5MV8teTM3T19CS2FLZURxeTRRbW9NR0JIVHdjd01FRTl3S2ZibFNHSENXYzZ0anB1OVdUNDl3eHJfdnBZSUs0NkEteTcybXoxOW5sYmxiQ3EzbnNwUGVUQVRsRWtwQUtXaGczckszX1R1R1JqZWdqMmJnUQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 01:13"
+  },
+  {
+   "title": "Germany stocks higher at close of trade; DAX up 1.07%",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHhrc0lRcmpITVpsMURiQjU4WWQ0eTRfSGVWdFEwNWZYTmQ2aGFpWFlvZ1YtZEZ0U0l2TFY1aTBhVWh5T0V4X0RHdGlvWDFFSDk4Q0dsMGN0SG1CVHE3YUwxeUNxTUxqWF9ybHlqNGwxUmFwanVDSDZRd0NTQlBZUVdTRjZTMUFZUlVTWFJHRFBDU1F1UUJvSWk4Wk9CNFR3MlAtUVJaS3ZyMkk?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 01:09"
+  },
+  {
+   "title": "European Stocks Close Higher Monday as Oil Prices Tumble",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGlXSGUwNEQ0cmF5M3NyZWNNWEMzNU5mU0g5RFNSWVVEbFM4dmV3RHdrTGM0OFA4NUNodHd3WkFXVllFclF3MnByaldaT1BXblBNbEE1QmNHbTR5UGstOGNDbUlFQ3BVUzJoVFctX2ZlczJPZTNvOXkzbVVEeDA1amd4b3RBYUNBMnFHR3licFVCbEw0aFhneFREV2cxSno4QW1tZ0x1VExmYkdSZkE?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "marketscreener.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 01:07"
+  },
+  {
+   "title": "The FTSE 100 Index Closes 0.75% Higher",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ21aVmpfcTZwYUFLcmJIQ2lRNHVrRTNkUko2ZFQydElVYnVFVVNyTWFXblp3VWp4QUh5RVJTbDBMQ3ZSTXN1Wi1JUmhBUE11emdEdTVMRmtfY05JSzR3VmFydlNOTG1ycHNkd3Q4aWRYOUdFOWNrZmRPamJvV2tsVzUyNnJUZmtmblplVVVoNHBVUQ?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 01:07"
+  },
+  {
+   "title": "Volkswagen Takes New Hits: A Profit Warning Followed by Euro Stoxx 50 Exit",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1BWSUtWYUhKTHV2djc0QUJKMVdBeDZJRkFBWFI0a1BUT3VlMWlWZjNJWC1UbmIzSWxtcGpWSDEyVVp4b00wTTFBaVVtY3p4d25vRGdmY09DM3lSaDhhSFNmQW1IaF9JZXVtUV9LWTJMMFJHZFpFNXFXWHFDRER4TGdFN2xKUWthUTZ5VEs2UldkbXVWOEVpOVl4STdWc1QyS2c?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "International Business Times",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 00:51"
+  },
+  {
+   "title": "FTSE 100 Rises on Monday",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlRIc0FjSnhORlF5enVkaU1ZY3RyNnVsNzFzLTVQR21hMkdaSU9DOU5wVjZ6SjFUelJLLXdRT0dqaFRudEdFU3BsVHFKZ25KdERoTTdwZUJuTWIyd1ZqRmd2RTRxbC1yLXUtSlVMa1BPWExhbHNyWEx3Y2ttVExiVg?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 00:47"
+  },
+  {
+   "title": "유럽 증시 동반 상승…이탈리아 FTSE MIB 1.60% 올라",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51TTJ4UEhVV3ptQ2ZjaG40LXEwWVE3LVIxSjY5TjhYWjg1SUlNX0U1dUM2UnpVOGV0UjRjdWhBVExjekdJTHljWEtXVmRTTjFZV3BzcDZ3?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "토큰포스트",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 00:47"
+  },
+  {
+   "title": "German voters turn to left and far-right as 'disaster' for ruling CDU threatens pro-growth reforms",
+   "url": "https://www.cnbc.com/2026/09/21/german-election-result.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-21 22:22"
+  },
+  {
+   "title": "European Stocks Rise as Falling Oil Prices Ease Inflation Concerns: DAX, CAC, FTSE100",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGZfRF85cXN6WjN6WklFcUVRQmZTQzYzeTFWRjlEZ2s1UloxMF9ad1pVOW8xZTlxMFRJeEs4OFQxdWU4bElwazB4aEI5WHFyOW9oZkZLUjNGNHdTQU5vM1ViUGh4QmZnMk4xVDRwNG9sV3cxcWxTNUxhb3V3Um9nSTJxN0tkTVdS?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-21 22:14"
+  },
+  {
+   "title": "European Stocks Rebound as Oil Retreat Eases Pressure; German Coalition Under Scrutiny",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDZqTlByWjh3bU9oQmRQSlk5UEE0eU1JaExZZ2d2akREUVQ4SGdPOVJlaGdiOHZCRDNmN1E1Uld2ajk1Zk9salNYZmJLcDNUbDd5MkZuVzU2SUI5Z3ZvOTgyTVNqanpVdlNPay1SNmpEWnNVcTZ1bmx2SlFvek1Mb1pnTjI0V21zNHZ2OEVNVGk4XzU1QlpMcGxWMVhDeGxDOGNBbVh1bXRiTjRDYzhEQmF4Q0ljdw?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "IndexBox",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-21 20:00"
+  },
+  {
+   "title": "European Semiconductor Stocks Surge Amid AI Investment Interest",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndCRnRuWV8tYkFRc1pjRTN3TUR2X1NSRmdkMjAzOEpaaTRQRHM3Qy1wWE9zUi13N3BPdUVkVGZhUmNxVFJYRE90LW43bWJkbnp2RnBEQWNNUW1sSEpKNkJ4NkpXaFc1RzBsZXh4NlN3M1dQMW5HeFpFVi1SOEt4Wkd4bm9jVXdvQS1EdldNWVZQbGxpVlQybUZfeTlZRVZfSkp5Rw?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "GuruFocus",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 19:50"
+  },
+  {
+   "title": "유럽 증시 1% 상승, 독일 정치적 충격 및 ECB 매파 발언 압도",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xWC1acmt4eExNdFRidUpFejlUbDJyZHNBNUFocmtEcndZOHFUT3M4RERnTjJ5U01RZ1BBVFpEcHRGaW9mTG9iQWxHXzlyaWE5aVRsTktqUmF1NWZhWlpWbjQ3dlFMU2pEMFBUZV9MTnk?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-21 16:05"
+  },
+  {
+   "title": "VW drops from blue-chip Euro Stoxx 50 index",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGhQNFdDSXF2czNXLWdwQks1WmxvNExFbjM0ODE2SjZ6cVVSM2RDd3d5YUtrazdWczR1ZVdybDNUNEFMd3VpZEppTm9YdDl2U3hobHFSRjVhQ3luYlVWRXc4VlJKX04wQVllNVgzelNZbEM2Q0JJaER2NEd5NTRPVFAtc2VCT3Y0VG5mM01aZnZVVUdBRnc?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "The Irish Times",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 06:16"
+  },
+  {
+   "title": "FTSE 100 Slips at the Open While Frankfurt and Paris Push Higher",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOTJ6cG9VMHhkbXA2S01KeGJheV9oRDhMOHVfYzBzbEVmekMwbmh4d0FnUTgxV3ZwUWR0WmRTelJweVNhbFJnaWlVaVZreWJTd0FqQjhMWUxnS0ZfOVctdDNPNEFsUjB0V1hqekR2WklKWjE4aS1HdlRzNTFLM3hMZ2M0emdseGdYSVVnUTRRdVZfQmFnYVJIZ3Z6OG1LT1lsb0cyLWtYZFBKSmVQM2ZBZi05V2RtR1pXUVBHSV9uOTdZd3oxV1JXZHRCaGw?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "24/7 Wall St.",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-21 22:19"
+  },
+  {
+   "title": "European defense: analysts aren't backing down, targeting three stocks",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMVNMb0ZUaTB2akk1OWVlZUhYVkJSY3p6RHpyNzlKSHFHeW5uSkJUQWNLbDRvU3JmT1BQUDM2eGkxRk52aklxOFk0V0hMbnU5Nkc5X2VrajNIaU5XRk1NcGRXUWNhUW1PLTRpX0xmTEthYVZmS3pQaHFuVGthdTdsR2J5b1l2amVnRVByQ2YyS0tBUjhoNWZYNEx1SU00R0V6VDYweTBYdUY4OXg3Vlg5aG1ldnkwRHRXUndOREE0TlgteXVlX2IxalU3eWZ1ZnNuMFJENmVvaWlBQkhmUGoyNVBn?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "marketscreener.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 18:26"
+  },
+  {
+   "title": "DAX stalls at triple resistance cluster near 25,832: Live levels",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblo3cHJjWmoyODA2eVRSd2h2eTNBOUJGQUg0YUYwdmhnTWJBTndRSkNhWkxiMFFQV2RMVXJpSHhFdV9XR3lreFNwaWdoaVlCa21wUjgzYTh0dWFHOHNYUmlrSFFiRWdDYlUzU1c3cHdqZjd4ZXBmeFdRQTRWek9weGVVWUhnaWk0MlFHN25BMEVuSjdRb0hIeHM0bnh0eW1lZTl0UkstMXNpMWY1ODctRDhZb3JjWlBsS3NV?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 01:19"
+  },
+  {
+   "title": "This Vanguard FTSE 100 ETF Is a Low-Cost Way to Invest in UK Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0V0bVR1QXZjMUk0c05KZDZ0TlpEWGJTb1lBdTZWeGRJdmd3X3FMaUVTcUNnUlB3eEhIcElpclFyc19iMk5RYUNfR0gzVnB3YXZIYm5odEppYlh5bmczVERsR2s0V0V6NVdCRDJoMVNsTkZacGpVN191YVRNbV9DTEJRSnlTQ0R2THM5cHJKdWx1VjNlZ3RWeWJzYmhCZ01Tb3Zn?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "global.morningstar.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 00:56"
+  },
+  {
+   "title": "How long before the FTSE 100 doubles my money?",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1lNcHdaTUhGR2d4VXp2MG1wZzdkM2xxazBfeEw3YW80eDA0UFlGVVhHVWxHM3NTYlptZnFnUk1pT0ZOU0pVd0cyaGVxTnY3dzR4VDR0WC04NmFoZGJ6S2dzWEVZZC11UXVFN2xtM25FSHhLakhMa044Y2w5dFN5aVlB?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 00:07"
+  },
+  {
+   "title": "If the stock market crashes, history says buying this FTSE 100 share would be a smart move",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1NnTGd6cExYd2VIR3lQeE95OWQ3Yl9VMVp0SDlHVjZSUTZTY1VhTmxRcEM3ZnJSbmNUcVh1cEhTMFN6WmN4d0E4M1lCb0ZOS1hjaUFOeFJEa2lCR1lma0MwNmtTWWJSOVoycDM0Xy1senhUN1FGUjU0WVRzYzFTbm5iTVBZQ0JqN2c?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-21 21:22"
+  },
+  {
+   "title": "2 quality FTSE 100 stocks to consider buying for growth and dividends",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JR0xFUW44U0c3QlEtRnBFam9yaXRHM295RU11SmFkQmVIRXFZTDJVRTc0bEpKaFpGdlBWSjVNZ2FRdXVNdHoxeGZBQmFUUF9wSVdsaFJQTWl2cVJCM0VSYmphc3VHS0ZwOGk4QUlRZkRkSGtjM1EzdXZzY19sb0k?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-21 20:23"
+  },
+  {
+   "title": "美국채 금리 하락…유가 급락에 10년물 다시 5% 아래로",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLS0s0SGUzZFNvaFVVMEJyVlRSUzZxSHpDbFBFX0FpbU8tOTVVODhrMkd2WVdnNHhsMDQwRFN3SXdtVFNmck5mSnQwbzBKRHo2dndSQmoxd3l0UmJ3bmx3OW9MdHhoXzDSAWxBVV95cUxQLUJFZWdqUVcwdFFpb2VlbVRhZzI4SnB4TXFldThnWDgwb2NVbVJZY0RYSXdBTElTdnJPWFdLS3VqdG83TUY2bURIMU1HcXEzUFc0UGQwU25PRldUT2lFUEZyaURVVnNmRFgtbDk?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "news1.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 05:17"
+  },
+  {
+   "title": "EXCLUSIVE: Fed's Musalem says more rate hikes likely needed to quell inflation",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJsZS0wTVZyNThsTkszYWk2c2xqN19RbzlWSnpqQ3cwZ0xCLWFTT0xaVkpkWkE5MmhDZFg1bHZzUW9EYlBuQVpUOVIydEJoVmR6OVl0ME5WNllZZTRVWXFMYy0yX19mNG9nYU5GbFpMdXdaeTA3ZDFiOXlTTlBGNDBmZ2VxR0I3UzE4M25hVGNZcDZXU0pXSFdXV1FIRVQ3dEh4XzRnLUZDN3do?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 03:54"
+  },
+  {
+   "title": "연준 무살렘 총재 \"인플레이션 억제 위해 추가 금리 인상 필요\"",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zclpNRWg0SW1yUFpNZGM3UzczQWE2NW16LWxYZ01Yd3JqLVpZckJtZmNhclpueDRVc1BTSXJheGQtTDhjQ0pxY2huVVlJSXlxbHNFU3pKamV0OGJhTFpkNVlTelBNVDh3ZGc?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 03:22"
+  },
+  {
+   "title": "유가 하락에 美 국채금리 5% 아래로…글로벌 채권금리 동반 진정",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0xvSW9TakU1Yng5REI5alNqenVXc3Q0SkxKX25DTW1YanNNZ01VU0Rvc0dXRVNqOGROZHM4TTYtZERuSTZQdG1jTFo0TDhIYk1hUjJlRDJTQm5tSU9xdFR0YjczTUpqbkFtR29QV0RxVTh2YzY2dGJmTEhWTEpCczNuX0JnUEg2?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "글로벌이코노믹",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 03:00"
+  },
+  {
+   "title": "Federal Reserve will need to be ‘aggressive’ on inflation, says top official",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmdmb192UXVHb3NNUmJxNDRyWHp0aVU0ZTc3R19vTGNhZFlSSm9ZVnhoSTBrbURqcnFOSERTdlVfbHlNWGZmbk1zSTc0WHRaY2pqUVlWZGlhUXNyVkpIWXRjOHpyTjh3SnhOM2M2TU1NR2Mzcm9WWnJXeloyME0wUDM0dmc?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Financial Times",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-22 00:10"
+  },
+  {
+   "title": "A new Fed tightening cycle may have just begun. If that’s the case, buckle up",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFNfanZhMktJdDhiLXR5TzRnMUVwRUpudzFSMVkyaGV6c293QzJ3aG85aGx2S1pESHNsbG9HaWFmcjBUS1JPQ2stMUI5b3dHUXZlTmF2SGpVWVFldEdVM3BKY09acXlRUnJueWQwS1dBNjlVU0VSTjFWYVE1eUVwTWN2STBQdWJQaUN2YnlqZVJIbXlhVi1Zbkd2cThmQ2haUFg2dDNHVTJDYW80TGgzZQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 22:10"
+  },
+  {
+   "title": "Treasury yields ease as global borrowing costs tumble",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGWTVuckEwdG05MkFuc2g0MEZUVGYzT0xNMEZZeUZOTElyXzNuRWVnMUtiWTdGZm8yRXNvdHRwdVBYc1NsT1lkbmhKNEM1c2RxWmdIZjF4X0RZTVhCeThmNmNiTHZWaVViUlNOUTJmNEVmeWM4azV6a9IBfkFVX3lxTFBCVVU4eFdQQzRFWjFBVXBJSm0wcE4yVExUMGNoZTU1QnlWWWRDblpLLXFiSzAtRXdDcTNtTGFRdzkzSnYxSlhBY21ZMWtzWnRGN1FDczIwNXRVOEM4NzJyWXVMWXRwSkZSbHM4R1hKR2hWMmVpS2EwSGtCMnRlQQ?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 17:21"
+  },
+  {
+   "title": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVER1UFJ0ZVpGNjRWcnkxSU96Z01OUHY4MVVqQmcyZDYwZVhkNFdpMWlyU1NnNjhSQmZpSG5FODhMLXktd1laTjRESnhfc2pLenBvckhkWmRSNDFxMEw0Yi1DenJEc3l0bzExaGVZaDc3RDFUT3FkN2dmZGEzOVI4WkxadmZ4ZGtaaFVNUGFPeHhlNnQ5UkZXQkx0OVFPcWdVWWtVR0FISmRXb0s5dUI4aThxSmQ2dGktYTdySlJFcldQMEhOWkE?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-21 14:28"
+  },
+  {
+   "title": "Oil Prices Fall for Fourth Day as Supply Concerns Ease",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZWRkFoeVdVQnQtNnE2OXRQM2ViMkhkdk41di05ZWhjQXgwRGJFaW12REM2ZnVxMl9zYUR6Vlh2NVVJRFk4X2RUUk9HRXZDUVVHWmw0YjRlcDFsTTlwQjYxZGlwRnVXTUUxTnU5ZzFXMy02Ri1TNkE3Y1ZTa29yWFR2VVZoYWQ0eEttX081M0w5bkpIZ1FmNFdOOGNINWR3LW9N?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 05:01"
+  },
+  {
+   "title": "Why oil prices are sliding again after their latest $100-a-barrel spike",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOEk3TFN5TjVXaEZqRVdUZ2RBcm9mQjEzUGVwTW9wT1ZIdmxuN1JidlN3TV9WaF8yeUxiQmJRS1RDelVoTmdISDBndkhJMHg2U3hreTEwLWM2RWxhS21CckoxTEdaNHlxbjhCSVpqNGtnUjNLMUVyR0R0bllSWGNUVG1LVDh1NGJrRDVCNHgxd29qOEI5?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Business Insider",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 03:46"
+  },
+  {
+   "title": "Oil prices retreat as Middle East supply concerns ease amid diplomatic talks",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUWZGRmt2cl9iX1FtTEh1NmxuRkJrbS1INXNEbG1vYVBIVHZ3NXhLWWhEM2JvNkVMaFBYWFNjUmg1OF9neEp1ZUxJT1JmYVB4ZEd2WFp3djZ3andGb2lZX19IX2hkZUdldFh3R1JzWFJsR1hqaVJmQ1QtekM5TnFDS2xzbm9KRUZTVHBNTWFIcFNVcWRCRFpxdW1pcmR6SUZ5c2NEQjBWRzNibUU4b3ViOVV3XzFPU2VNT0tCMm9XajVrLWhudjhUTmN6XzNGazFQWVEtVWtETXhPRFJxWHc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Oil & Gas Journal",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 03:31"
+  },
+  {
+   "title": "Oil prices decline as Iran sets conditions for peace talks with US",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jN01PZnZ2SzM1QktJcmU5SUZzTWFRd1plRWxSRUVGTEU4RzdqQ3UyRTE3alVrUXFsRllGSEU2SFFuaGZkVE54aWFXT0ktaTc1RWJBTWVqTzFiSTQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 02:43"
+  },
+  {
+   "title": "Chipmakers fuel global stock gains as oil retreats",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEJFN2JTZ05rQTRGSzRVVWRudTZjcWtOdkRtRGtXRTNCMU5wQlBuOHFyMjBDbGV3YldXUGxTRGJZRFJEZ0pWdWxSbUprenlLOGYtNklHeUk5SU1Eampoc0p4bUlubnhFSjhocktDMGZ6RDRGSHAyVTNrZndBRTVobWhxVlprS0hzckItdlBqX1BEMXUyUjM2ZHJ5Wkw2UFo5NWVB?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-22 00:53"
+  },
+  {
+   "title": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barchart.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 00:35"
+  },
+  {
+   "title": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
+   "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-21 23:20"
+  },
+  {
+   "title": "Oil prices slide on hopes of diplomacy in Iran war",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnhULUdxemZEcEh3Y2RnV1lTcXkzZFVDbU5CUnBUZnAwa2NCYjNYNzk3UXo2RE80MC1sQTBLLS1Va1phOGtDSHEzS0c0SlJpdEhBemRpdFVMdmFmRVZpTmZWQjNLMzVaUS13NTJVTnJwRWhQQlRoR05yLXR0RVdiUUdFOUlwcEZKcTQxNTRPc1gyNEZV0gFWQVVfeXFMUDczWXBZZWpwNUNjMkhnSl83N3FUVlg0YlgzV3haQXhfTmZzRnJfQmh5c2wtenlIX2xSMl9wTlRvWm5IdXdDblloUndtNE03cDJYQ1U5cGc?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Business Recorder",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-21 16:54"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}
