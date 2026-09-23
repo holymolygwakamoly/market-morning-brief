@@ -1,0 +1,776 @@
+{
+ "topic": "kr",
+ "name": "한국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-23T17:07:53.244033+09:00",
+ "report": {
+  "title": "한국 증시 데일리 (2026-09-23): 메타 '뮤즈' 발 반도체 랠리에 코스피 7100선 출발, 추석 앞둔 개인 매도와 유가·미이란 변수가 관건",
+  "overview": "코스피는 지수 표 기준 7007.72(+1.65%), 코스닥은 836.27(+1.11%)로 7000선 위에 있습니다. 기사에 따르면 직전 세션(09-22)에는 메타의 AI 에이전트 '뮤즈' 기대로 반도체 중심 급등 출발해 7100선을 넘었지만, 장중 유가 급등에 상승분 대부분을 내주고 7000선을 겨우 지켰습니다. 23일에는 나스닥 이틀 연속 사상 최고, 미·이란 협상 속 유가 100달러 하회, 원화 강세가 겹치며 코스피가 1.94% 오른 7,153.99로 출발했고 외국인·기관은 동반 순매수, 개인은 추석을 앞두고 매도했습니다. 다만 구성종목 표상 코스피는 상승 270·하락 500으로 시장 폭이 좁습니다. 반도체·전력기기·태양광은 강하고 건설·철강은 급락해 대형 반도체 중심 장세가 뚜렷합니다. 오늘은 미·이란 협상, 미중 정상회담 기대, 추석 전 개인 매도, 삼성전자·SK하이닉스 자사주 매입 종료 이후의 외국인 수급이 주요 변수입니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "지수 표 기준 코스피는 7007.72로 113.49포인트(+1.65%), 코스닥은 836.27로 9.15포인트(+1.11%) 올랐습니다(표의 세션 표기는 2026-09-21). 기사로 보면 09-22 세션은 '메타에 웃다가 유가에 발목' 잡힌 하루였습니다. 메타 AI 에이전트 '뮤즈' 열풍으로 반도체주가 장 초반 급등하며 코스피가 7100선을 넘었으나, 장중 유가가 오르자 힘이 빠졌습니다. 매일경제는 '강보합 마감', YTN은 '2%대 상승분 반납, 7,000선 가까스로 지켜'라고 전했습니다. 배당기준일을 앞둔 삼성전자 강세가 7000선 방어를 도왔다는 설명입니다. 23일 개장 기사에서는 코스피가 1.94% 오른 7,153.99로 출발했고, 이후 7116.62·7130선 등으로 장 초반 1~2% 강세를 이어갔습니다. 코스닥도 소폭 상승 출발했습니다. 배경은 미국입니다. 표 기준 전 세션(09-21) 미국은 S&P 500 +1.49%, 나스닥 종합 +2.26%, 나스닥 100 +2.83%, 필라델피아 반도체 +4.29%로 기술주가 크게 올랐습니다. 이어진 09-22 미국장은 기사 기준 미·이란 대면 협상과 트럼프 대통령의 '이란 압박' 속에 혼조였습니다. 다우는 185포인트 내렸고 나스닥은 0.45% 올라 이틀 연속 사상 최고를 기록했습니다. 환율도 원화 강세 쪽입니다. 원/달러는 표 기준 1373.68원(-0.81%)이고, 연합뉴스는 23일 미·이란 협상 소식에 6거래일 만에 1,340원대로 내려왔다고 보도했습니다.",
+    "bullets": [
+     "코스피 7007.72(+1.65%), 코스닥 836.27(+1.11%) — 지수 표 기준",
+     "09-22: 메타 '뮤즈' 기대로 7100선 돌파 후 유가 급등에 상승분 반납, 7000선 방어(기사)",
+     "09-23 개장: 코스피 +1.94% 7,153.99 출발, 외국인·기관 동반 순매수(기사)",
+     "미국 09-21: 나스닥 100 +2.83%, SOX +4.29%(표) / 09-22: 다우 -185p, 나스닥 +0.45%로 사상 최고(기사)",
+     "원/달러 1373.68원(-0.81%, 표), 23일 1,340원대로 하락(기사)"
+    ]
+   },
+   {
+    "heading": "수급",
+    "body": "무료 소스에는 KRX 투자자별(외국인·기관·개인) 순매수 데이터가 없습니다. 아래 수급 내용은 모두 기사 제목·요약에 나온 것만 옮겼습니다. 매일경제에 따르면 추석 연휴를 앞두고 개인 매도가 이어져 5거래일 동안 9조 원 넘게 팔았습니다. 23일 장 초반에도 머니투데이는 '추석 전 팔자' 개인이 2500억 원을 던졌지만 코스피는 7100선을 넘었다고 전했습니다. EBN·한국경제·직썰은 외국인·기관 동반 순매수와 외국인 순매수에 따른 상승폭 확대를 보도했습니다. 전자신문은 '개인 빠진 증시, 외국인이 키를 쥔다'며 중동 종전을 금리 변곡점으로 짚었습니다. 여성경제신문은 외국인 통합계좌를 통한 하나증권 순매수가 1조 원이라고 전했습니다. 반면 조선비즈는 삼성전자·SK하이닉스 자사주 매입이 끝나면서 코스피가 다시 외국인 눈치를 보게 됐다고 지적했습니다. 거래대금(추정)은 코스피에서 삼성전자(6조, +3.25%)와 SK하이닉스(6조, +1.20%)가 압도적입니다. 그 뒤를 SK스퀘어(8500억, +5.03%), 삼성전기(7627억, +1.41%), 두산에너빌리티(3713억, -5.55%), NAVER(2266억, -3.13%), 현대자동차(2062억, -1.94%), 삼성SDI(1967억, -1.51%), 대덕전자(1835억, +6.32%), 대우건설(1645억, -7.23%)이 잇습니다. 코스닥은 원익IPS(3393억), 엑스게이트(3035억), 원익홀딩스(1846억), 주성엔지니어링(1735억) 순입니다. 시장 폭은 코스피가 상승 270·하락 500·보합 71로 지수 강세와 달리 하락 종목이 약 두 배 많습니다. 소수 대형 반도체주가 지수를 끌어올린 모습입니다. 코스닥은 상승 848·하락 760·보합 170으로 비교적 고르게 올랐습니다. 이 밖에 14일 문을 연 한국거래소 애프터마켓은 첫 주 하루 평균 거래대금이 1조 원을 넘었습니다.",
+    "bullets": [
+     "KRX 투자자별 매매 데이터 없음 — 기사 내용만 인용",
+     "개인: 5거래일 9조 원 넘게 순매도, 23일 장 초반 2500억 원 매도(기사)",
+     "외국인·기관: 23일 장 초반 동반 순매수(기사), 하나증권 외국인 통합계좌 순매수 1조 원(기사)",
+     "삼성전자·SK하이닉스 자사주 매입 종료로 외국인 수급 의존 커질 전망(조선비즈)",
+     "코스피 시장 폭 상승 270 / 하락 500 — 대형주 쏠림",
+     "거래대금 1·2위 삼성전자·SK하이닉스 각 6조(추정)"
+    ]
+   },
+   {
+    "heading": "업종 동향",
+    "body": "가장 강한 업종은 반도체와 전자부품입니다. 메타 '뮤즈'가 불 지핀 AI 수요 기대와 미국 반도체 지수 급등(SOX +4.29%), 나스닥 사상 최고가 이어지면서 강세를 보였습니다. 코스피에서는 삼성전자(+3.25%), SK하이닉스(+1.20%), SK스퀘어(+5.03%), 삼성전기(+1.41%)가 올랐습니다. 대덕전자(+6.32%), 케이씨텍(+7.69%) 같은 장비·부품주도 강했습니다. 코스닥에서도 원익IPS(+2.61%), 주성엔지니어링(+2.95%), 원익홀딩스(+6.79%), 파두(+12.86%)로 반도체 장비·설계주가 거래대금 상위를 차지했습니다. 한국경제는 AMD·인텔 급등 이후 국내에서 25% 급등한 종목이 나왔다고 분석했습니다. 엔비디아·MS 관련 기대로 LG그룹주가 반등했다는 기사도 있습니다. 전력기기·전선도 강했습니다. 일진전기(+6.80%), LS에코에너지(+7.56%)가 올랐고, 태양광·화학 쪽 한화솔루션(+6.38%), OCI홀딩스(+9.57%)도 크게 올랐습니다. 다만 이들 업종의 개별 상승 이유는 입력 기사에서 확인되지 않습니다. 항공은 유가 하락 수혜로, 기사에 따르면 대한항공이 8.8% 오르며 3분기 실적 개선 기대가 나왔습니다. 약한 업종은 건설과 철강입니다. 현대건설(-7.77%), GS건설(-7.61%), 대우건설(-7.23%)이 동반 급락했고, 현대제철(-10.25%), 대양금속(-14.68%), SHD(-9.04%)도 크게 내렸습니다. 원전·발전설비의 두산에너빌리티(-5.55%), 인터넷의 NAVER(-3.13%), 자동차의 현대자동차(-1.94%), 2차전지의 삼성SDI(-1.51%)도 약했습니다. 건설·철강 급락의 직접적인 이유는 입력 기사에 없어 단정하지 않습니다.",
+    "bullets": [
+     "강세: 반도체·전자부품(삼성전자·SK스퀘어·대덕전자·케이씨텍, 코스닥 파두·원익홀딩스)",
+     "강세: 전력기기·전선(일진전기·LS에코에너지), 태양광·화학(한화솔루션·OCI홀딩스)",
+     "유가 하락 수혜: 대한항공 +8.8%(기사)",
+     "약세: 건설(현대건설·GS건설·대우건설 -7%대), 철강(현대제철 -10.25%)",
+     "약세: 두산에너빌리티·NAVER·현대차·삼성SDI — 건설·철강 약세 이유는 입력에 없음"
+    ]
+   },
+   {
+    "heading": "주도주와 급등락",
+    "body": "코스피 상승 상위는 SH에너지화학(+23.11%), KSS해운(+17.89%), OCI홀딩스(+9.57%), 케이씨텍(+7.69%), 유니퀘스트(+7.61%), LS에코에너지(+7.56%), 일진전기(+6.80%), 한화솔루션(+6.38%), 대덕전자(+6.32%), SK아이이테크놀로지(+6.18%)입니다. SH에너지화학은 거래대금 36억 원, 시가총액 281억 원의 소형주입니다. 거래대금이 큰 종목 중에서는 한화솔루션(1121억), 대덕전자(1835억), OCI홀딩스(894억), 일진전기(808억)의 상승이 의미 있습니다. 대형주에서는 SK스퀘어가 거래대금 8500억 원에 5.03% 올랐고, 삼성전자가 3.25% 올라 지수를 이끌었습니다. 삼성전자에는 호재와 부담이 함께 있습니다. 배당기준일을 앞둔 강세와 유안타증권의 목표가 상향(34만→63만 원, '피크아웃 우려는 중장기 매수 기회')이 호재입니다. 반면 키움증권은 3분기 실적이 기대치를 밑돌 것으로 보면서도 파운드리 점유율 확대를 근거로 목표가 35만 원과 매수 의견을 유지했습니다. 삼성전기는 메리츠증권이 환율 악재에도 AI 부품 호조를 이유로 목표가를 올렸습니다. 코스피 하락 상위는 진원생명과학(-80.00%)입니다. 다만 거래대금이 0으로 표시돼 정상 거래가 아닌 데이터 이상이나 특수 사유일 수 있어 해석에 주의가 필요합니다. 이어 계양전기(-15.31%), 대양금속(-14.68%), 현대제철(-10.25%), SHD(-9.04%), 신풍(-8.88%), 현대건설(-7.77%), GS건설(-7.61%), 대우건설(-7.23%), SGC에너지(-6.86%)가 약했습니다. 코스닥 상승 상위는 티엔엔터테인먼트(+30.00%), 파이온엑스(+29.96%), HT로보틱스(+29.95%, 거래대금 773억), 우리넷(+29.90%, 859억), 쓰리빌리언(+23.27%), 아스플로(+22.89%), 토마토시스템(+22.47%), 레메디(+21.46%, 1378억), 삼기에너지솔루션즈(+20.77%), 카페24(+20.20%)입니다. 거래대금 상위의 엑스게이트(+10.16%, 3035억), 빛샘전자(+9.23%), 나라스페이스테크놀로지(+8.90%), 파두(+12.86%)도 강했습니다. 코스닥 하락 상위의 디에이테크놀로지(-96.49%), 케이이엠텍(-80.00%), 원풍물산(-53.49%), 코다코(-45.10%)는 거래대금이 거의 없거나 0이어서 정상적인 시세 변동으로 보기 어렵습니다. 개별 급등락 이유는 입력 기사에 없는 종목이 대부분입니다. 한편 와이즈플래닛컴퍼니는 코스닥 상장 첫날 249% 급등했습니다(한국경제).",
+    "bullets": [
+     "코스피 상승: OCI홀딩스 +9.57%, 한화솔루션 +6.38%, 대덕전자 +6.32%, SK스퀘어 +5.03%, 삼성전자 +3.25%",
+     "코스피 하락: 현대제철 -10.25%, 현대건설 -7.77%, 대우건설 -7.23%, 두산에너빌리티 -5.55%",
+     "코스닥 상승: 우리넷·HT로보틱스 약 +30%, 레메디 +21.46%, 파두 +12.86%, 엑스게이트 +10.16%",
+     "진원생명과학·디에이테크놀로지·케이이엠텍 등 극단적 하락은 거래대금 0 또는 극소 — 데이터 이상·특수 사유 가능성",
+     "와이즈플래닛컴퍼니 코스닥 상장 첫날 +249%(기사)"
+    ]
+   },
+   {
+    "heading": "주요 뉴스·더벨",
+    "body": "기업 뉴스는 증권사 보고서가 중심입니다. 유안타증권은 메모리 가격 상승세가 둔화돼도 공급자 우위가 오래 간다며 삼성전자 목표가를 34만 원에서 63만 원으로 올렸습니다. 키움증권은 삼성전자 3분기 실적이 기대치를 밑돌 것으로 보면서도 목표가 35만 원을 유지했습니다. 메리츠증권은 삼성전기 목표가를 올렸습니다(AI 부품 호조). KB증권은 여객 운임의 구조적 상승과 아시아나항공 손익 개선을 반영해 대한항공 목표가를 4만 원에서 4만2000원으로 올렸습니다. NH투자증권은 현대백화점의 연결실적 턴어라운드를, 한국투자증권은 LG생활건강의 3분기 실적 기대치 하회와 단기 모멘텀 부재를 전망했습니다. 비상장사 당근은 결제 부문이 출범 약 4년 반 만에 처음 월간 손익분기점을 달성해 IPO 청신호라는 보도가 나왔습니다. 정책·시장 제도 측면에서는 두 가지가 눈에 띕니다. 금감원은 국내 원유 ETP 시가총액이 지난해 말보다 약 47% 늘어나자 투자 주의보를 냈습니다. 한국거래소 애프터마켓은 개설 첫 주 하루 평균 1조 원 넘는 거래대금을 기록했습니다. 거시 지표로는 9월 소비심리가 한 달 만에 반등했지만 집값·금리 전망은 높은 수준을 이어갔습니다. 해외에서는 미·이란 협상 기대로 유가가 배럴당 100달러 아래로 내려왔고(WSJ 등), 시장이 연준의 연속 금리 인상 가능성을 반영하기 시작했다는 보도(Forbes)도 있습니다. 더벨 헤드라인은 제목만 있어 해석을 덧붙이지 않습니다. '[코스닥 신사업 옥석가리기] 제이앤티씨, 연결 적자에도 캐파 확대 올인', '코오롱티슈진, 대표 퇴사에도 TG-C 자신감 15년 근속 4인', '[i-point] 삼진어묵, 레이스먼트와 러닝 프로그램 성료' 세 건입니다.",
+    "bullets": [
+     "삼성전자: 유안타 목표가 34만→63만 원 / 키움 3분기 기대치 하회 전망, 목표가 35만 원 유지",
+     "대한항공: KB 목표가 4만→4만2000원, 삼성전기: 메리츠 목표가 상향",
+     "LG생활건강 3분기 기대치 하회 전망(한국), 현대백화점 턴어라운드 기대(NH)",
+     "금감원 원유 ETP 투자 주의보(시총 연초 대비 약 47% 증가)",
+     "애프터마켓 첫 주 일평균 1조 원 돌파, 9월 소비심리 반등",
+     "더벨: 제이앤티씨 캐파 확대, 코오롱티슈진 대표 퇴사·TG-C 관련(제목만)"
+    ]
+   },
+   {
+    "heading": "오늘 이벤트",
+    "body": "입력 자료로 확인되는 오늘·이번 주 일정은 대부분 날짜가 명시되지 않았으므로, 날짜 없이 흐름으로 정리합니다. 첫째, 추석 연휴를 앞둔 마지막 거래일 부근이라 개인 매도와 연휴 리스크 회피 움직임이 이어질 수 있습니다. 한국경제는 코스피가 '연휴 징크스'를 깼다는 분석과 추석 이후 '운명의 날'을 다뤘습니다. 둘째, 미·이란 대면 협상 진행 상황이 유가와 환율을 통해 국내 증시에 직접 영향을 줍니다. 셋째, YTN은 미중 정상회담을 앞둔 시장 분위기를 보도했습니다. 넷째, 삼성전자 배당기준일이 가까워졌고, 삼성전자·SK하이닉스 자사주 매입 종료가 언급됐습니다. 다섯째, 오늘 와이즈플래닛컴퍼니가 코스닥에 상장했습니다. 여섯째, 9월 소비자심리지수가 발표됐습니다. 곧 삼성전자 3분기 실적 발표 시즌이 다가와 키움 등 증권사의 프리뷰가 나오고 있습니다. 연준의 연속 인상 가능성이 시장에 반영되는 흐름도 계속 확인할 부분입니다.",
+    "bullets": [
+     "추석 연휴 앞 개인 매도 지속 여부",
+     "미·이란 협상 진행 상황(유가·환율 연계)",
+     "미중 정상회담 기대(날짜는 입력에 없음)",
+     "삼성전자 배당기준일 임박, 삼성전자·SK하이닉스 자사주 매입 종료",
+     "와이즈플래닛컴퍼니 코스닥 상장(09-23)",
+     "9월 소비자심리지수 발표(09-23)"
+    ]
+   },
+   {
+    "heading": "오늘 장 참고",
+    "body": "아래는 매매 추천이 아니라 입력 데이터를 바탕으로 한 시나리오입니다. 긍정 요인은 세 가지입니다. 미국 기술주는 나스닥이 이틀 연속 사상 최고를 기록했고, 전 세션 필라델피아 반도체 지수가 4.29% 오르는 등 AI·반도체 모멘텀이 살아 있습니다. 원/달러는 표 기준 1373.68원(-0.81%)이고 기사상 1,340원대까지 내려와 외국인 수급에 우호적인 환경입니다. WTI(94.59달러, -1.24%)와 브렌트(99.25달러, -1.09%)는 미·이란 외교 기대로 100달러 아래로 내려와, 09-22에 코스피 상승분을 앗아간 유가 변수가 일단 누그러졌습니다. 기본 시나리오는 반도체 대형주와 외국인·기관 매수가 지수를 떠받치는 흐름입니다. 다만 부담 요인도 있습니다. 코스피 하락 종목이 상승 종목의 약 두 배여서 지수 상승과 체감 장세가 크게 벌어질 수 있습니다. 09-22 미국장은 다우 하락, 트럼프의 이란 압박 발언으로 혼조였습니다. 협상이 틀어지면 유가가 다시 뛰어 09-22처럼 장중 상승분을 반납하는 흐름이 되풀이될 수 있습니다. 추석 전 개인 매도, 삼성전자·SK하이닉스 자사주 매입 종료에 따른 수급 공백, 연준 연속 인상 가능성 반영도 변동성 요인입니다. 업종별로는 유가가 약세를 이어가면 항공(대한항공 등)이 계속 수혜를 볼 수 있습니다. 반대로 유가가 반등하면 반도체 주도 지수가 흔들리는 시나리오를 함께 염두에 둘 만합니다. 구리(6.76달러, +1.09%) 강세는 전선·전력기기 업종 흐름과 함께 볼 수 있습니다. 비트코인(86,603달러, +6.73%) 급등은 위험자산 선호를 보여 줍니다.",
+    "bullets": [
+     "기본 시나리오: 미국 반도체 강세·원화 강세 속 외국인·기관 주도의 반도체 대형주 견인",
+     "위험 시나리오: 미·이란 협상 차질 → 유가 재급등 → 09-22처럼 장중 상승분 반납",
+     "시장 폭 약세(코스피 하락 500종목) — 지수와 개별 종목 체감 차이 주의",
+     "추석 전 개인 매도, 자사주 매입 종료 이후 외국인 의존도 확대",
+     "유가 약세 지속 시 항공 수혜, 구리 강세는 전선·전력기기와 연계해 관찰"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "삼성전자",
+    "ticker": "005930.KS",
+    "comment": "+3.25%, 거래대금 6조(추정)로 지수를 견인했습니다. 배당기준일 전 강세이고, 유안타증권은 목표가를 63만 원으로 올렸으며 키움증권은 3분기 기대치 하회를 전망했습니다."
+   },
+   {
+    "name": "SK하이닉스",
+    "ticker": "000660.KS",
+    "comment": "+1.20%, 거래대금 6조(추정)로 메타 '뮤즈' 발 반도체 랠리의 중심입니다. 자사주 매입 종료가 거론됐습니다."
+   },
+   {
+    "name": "SK스퀘어",
+    "ticker": "402340.KS",
+    "comment": "+5.03%, 거래대금 8500억(추정)으로 반도체 지주 강세를 보였습니다."
+   },
+   {
+    "name": "삼성전기",
+    "ticker": "009150.KS",
+    "comment": "+1.41%. 메리츠증권이 환율 악재에도 AI 부품 호조를 이유로 목표가를 올렸습니다."
+   },
+   {
+    "name": "대덕전자",
+    "ticker": "353200.KS",
+    "comment": "+6.32%, 거래대금 1835억(추정)으로 전자부품 강세를 보였습니다."
+   },
+   {
+    "name": "한화솔루션",
+    "ticker": "009830.KS",
+    "comment": "+6.38%, 거래대금 1121억(추정). 상승 이유는 입력 기사에서 확인되지 않습니다."
+   },
+   {
+    "name": "OCI홀딩스",
+    "ticker": "010060.KS",
+    "comment": "+9.57%, 거래대금 894억(추정)으로 코스피 상승 상위입니다."
+   },
+   {
+    "name": "현대건설",
+    "ticker": "000720.KS",
+    "comment": "-7.77%로 GS건설(-7.61%)·대우건설(-7.23%)과 함께 건설주가 동반 급락했습니다. 이유는 입력에 없습니다."
+   },
+   {
+    "name": "현대제철",
+    "ticker": "004020.KS",
+    "comment": "-10.25%로 철강 업종 약세를 주도했습니다."
+   },
+   {
+    "name": "두산에너빌리티",
+    "ticker": "034020.KS",
+    "comment": "-5.55%, 거래대금 3713억(추정)으로 거래대금 상위 중 낙폭이 큰 편입니다."
+   },
+   {
+    "name": "대한항공",
+    "ticker": null,
+    "comment": "기사 기준 유가 하락에 8.8% 올랐고, KB증권이 목표가를 4만→4만2000원으로 올렸습니다."
+   },
+   {
+    "name": "파두",
+    "ticker": "440110.KQ",
+    "comment": "+12.86%, 거래대금 1051억(추정)으로 코스닥 반도체 강세를 보였습니다."
+   },
+   {
+    "name": "엑스게이트",
+    "ticker": "356680.KQ",
+    "comment": "+10.16%, 거래대금 3035억(추정)으로 코스닥 거래대금 2위입니다."
+   },
+   {
+    "name": "레메디",
+    "ticker": "387690.KQ",
+    "comment": "+21.46%, 거래대금 1378억(추정)입니다."
+   },
+   {
+    "name": "와이즈플래닛컴퍼니",
+    "ticker": null,
+    "comment": "코스닥 상장 첫날 249% 급등했습니다(한국경제)."
+   }
+  ],
+  "events_today": [
+   "추석 연휴 앞 개인 매도 흐름(최근 5거래일 9조 원 이상 순매도, 기사)",
+   "미·이란 대면 협상 진행 상황 — 유가·환율 영향",
+   "미중 정상회담 기대(일정은 입력에 없음)",
+   "삼성전자 배당기준일 임박 및 삼성전자·SK하이닉스 자사주 매입 종료",
+   "와이즈플래닛컴퍼니 코스닥 신규 상장(09-23)",
+   "9월 소비자심리지수 발표(09-23)",
+   "삼성전자 3분기 실적 시즌 앞 증권사 프리뷰(키움·유안타)"
+  ],
+  "headlines": [
+   {
+    "text": "메타 '뮤즈' 발 반도체 랠리·나스닥 사상 최고에 코스피 7,153.99(+1.94%) 출발, 외국인·기관 동반 순매수",
+    "importance": 5
+   },
+   {
+    "text": "미·이란 협상 기대에 유가 100달러 하회·원/달러 1,340원대 — 09-22 코스피 상승분을 앗아간 유가 변수 완화",
+    "importance": 4
+   },
+   {
+    "text": "코스피 하락 500 vs 상승 270 — 반도체 대형주 쏠림 속 건설·철강 급락, 추석 전 개인 매도 지속",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "무료 소스에 KRX 투자자별(외국인·기관·개인) 순매수 데이터가 없어 수급은 기사 내용만 인용했습니다.",
+   "지수 표의 세션 표기(09-21)와 기사 속 09-22 '강보합·7000선 방어' 서술이 맞지 않아 기준일 차이가 있을 수 있습니다.",
+   "구성종목 표는 '기준 2026-09-23'으로 장중 값일 수 있고, 거래대금은 추정치입니다.",
+   "원/달러 표 값(1373.68원)과 기사 속 '1,340원대'가 차이 나 시점 차이 가능성이 있습니다.",
+   "진원생명과학·디에이테크놀로지·케이이엠텍 등 거래대금 0 또는 극소 종목의 극단적 등락률은 데이터 이상이나 특수 사유일 수 있습니다.",
+   "미국 지수 표는 09-21 세션 값이고, 09-22 미국장(혼조)은 기사로만 확인됩니다."
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "메타에 웃다가 유가에 발목잡힌 코스피",
+   "url": "https://www.mk.co.kr/news/stock/12159677",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 17:50"
+  },
+  {
+   "title": "\"메타가 불 지폈다\"…삼성전자·SK하이닉스 다시 '들썩'",
+   "url": "https://www.hankyung.com/article/2026092327816",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:34"
+  },
+  {
+   "title": "\"추석 전 팔자\" 개미 2500억 던졌는데…코스피는 7100선 돌파 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yTFJsVzNPa2I1ZEszRjNlWDMxX0ZyVmppX1dJd3RraGNSWjVTdTVXeGtSbEI4M1VOcGlId2JqWlR1cFVKWFpCSFN3OC1MNVpzajh4aFFxbU9XamFTWVkzUnJVX2FwYkZy0gFuQVVfeXFMTTViN3JnTkp0bkwtLS14dldRMlZLeFI5Ykk5Vzd1S2k5RU95ci0zQS1VOTNaVlQ3WHV3eXdVeXRZTmhQd29iam1WMllhRm9OZ3Rwd2Y3c0E3X0tIcjhta1JtVmJwVEpYQV90RURVMnc?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:25"
+  },
+  {
+   "title": "[EBN 데이터센터] 코스피, 장 초반 7116.62 상승 출발...외국인·기관 동반 순매수",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GUTJZbkhvUjJYbVJWODFUOXVXQnlqVUFXQXdiX051Z25QM1p5OHFsTXo5eWpNYmpyVXRGN2FacUhYNXpIcXN1R3h1QVc1Qk5INmN2MzdqdDF6RlBvZHdLd21YZUJJdnZM?oc=5",
+   "source": "Google News 외국인 순매수",
+   "publisher": "ebn.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:20"
+  },
+  {
+   "title": "코스피, 장 초반 7100선 돌파…외국인 순매수에 상승폭 확대",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QYUc2eVhtVmdza0lhQ2V2QzNTVmhFcWRFNFN6Skw0SnN0YndnbGIxeElVQ1B4Ni0wRjNzSHg4NEJ1S0JTOElXMzIwal9RQ3prTjFwRWhWR0tpbVFTSm1aWUprQm9Xd3Fm0gFsQVVfeXFMTmFyOC1sWlhiRk1sWEwybEZPbkxIZk15bDE0Vm1zRHV5UklqeWxXdEVFU0tlSzhmRVBZU2ZhYmRUaDJFUGoxeTZpRmJzS3dTOVQzUWNqTFJ4dUF6WnZNN1RhSzJfcnB6S0d1OEE0?oc=5",
+   "source": "Google News 외국인 순매수",
+   "publisher": "직썰",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:19"
+  },
+  {
+   "title": "코스피, 1.94% 오른 7,153.99 출발…코스닥도 소폭 상승",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzeEdST0YxaEdHZEFGRGg0VTREVm52N3o2eUNtSHNSdndJYmMxN3FsWFRhYTNISWNpaGdGajBQOVlhUjNBUUVSMVE2UUdwTmxoQlg4TlJXRlNtNjYtOGxYTnJ1Mk9YMk0?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "연합뉴스TV",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:17"
+  },
+  {
+   "title": "“연초 그때 그 장 다시 옵니까?”…63만전자 전망까지 나왔다 [오늘 나온 보고서]",
+   "url": "https://www.mk.co.kr/news/stock/12160005",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:13"
+  },
+  {
+   "title": "코스피, 美 반도체 훈풍에 장 초반 7,130선 돌파",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByMXQ4NnA4TG5VQ2tGZnFsMUpka2lNSVptYjFwU3ZuRVVqY2plRHpRcU9UVnFxYkI0THRkWU53UlZfTWQ3SjFUMlB2OFNUVDlTQVlXdS1JekxRWjZuU0VrY0x1X0kyY1ZZdndSYTlqWDA?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:10"
+  },
+  {
+   "title": "코스피, 美 기술주 훈풍에 1%대 상승…외인·기관 '사자'",
+   "url": "https://www.hankyung.com/article/2026092326696",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:09"
+  },
+  {
+   "title": "코스피, 반도체 강세에 장 초반 1%대 상승",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yaDlQTGgybng1azhrZzVVYmNLNUsxZVBWZXZ6elJ5c1Q0WjBTbWFjbUtsMXNNUGhIQVdmZnFnQ1dBVVRJR0QtdjBpUXVYRURxMGc?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "매일경제 마켓",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:04"
+  },
+  {
+   "title": "[속보] 코스피 약 2% 상승…7,150선 출발",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsLUtPcnlNZHhtMHB1SkJqUzZZai0wR3kyY3hGdEI0c3dIbnpZSzdGMWNOQ1NHN0lxRWhBZm9GM0VtcFJDRFZ3SDhuTWdkMkhrazZmZG9mSG03Z0JienpEblBJYWZEU3c?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "연합뉴스TV",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:04"
+  },
+  {
+   "title": "7천 선 간신히 사수한 코스피...미중 정상회담 앞둔 시장 분위기는?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MVVduX2FENXRXTVZQcDBOMDg3ajlGaEJZRlJnVWl6STlibnNzREU1TUF0SlB1eHBDYXlyaWlDX1lRWDRDY0ZoYld6d1M2dzktdXpzNGNtbEdQNl9CRkE?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "YTN",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:02"
+  },
+  {
+   "title": "유가·환율 겹호재에 일제히 상승…'신고가' 터졌다",
+   "url": "https://www.hankyung.com/article/202609221067i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 08:30"
+  },
+  {
+   "title": "“삼성전자, 3분기 실적 기대치 하회 예상…목표주가는 35만원 유지”",
+   "url": "https://www.mk.co.kr/news/stock/12159965",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 08:25"
+  },
+  {
+   "title": "[마켓뷰] 추석 앞둔 코스피, 미 기술주 강세에 상승세 이어갈까",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByN3FnaWsycUZXSm5LNm82WWtZZmtWbWFmR0pRZl9UVV9PN1FmbnNod2V2RGZvbkxqMXVqc21abGRxOEp2Q1NkdTY3WlNhM0xXR2FfVEJzeWFOYXfSAWBBVV95cUxPdlowMFNrUWRnYWFHbDE5eU15SEY4Vi1jUjk0dGNtT3NCVDVTM19USHNlbVljOVVjOGdlNnpNUi10bHBuWk8wZXZTN3Y4X2s0b3ZCZkFDSTNxblFVejg3S0s?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 08:07"
+  },
+  {
+   "title": "\"삼성전자, 전망보다 3분기 실적 밑돌 것…파운드리 주목해야\"-키움",
+   "url": "https://www.hankyung.com/article/2026092323706",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 07:58"
+  },
+  {
+   "title": "\"삼성전기, 환율 악재에도 AI 부품 호조…목표가↑\"-메리츠",
+   "url": "https://www.hankyung.com/article/2026092323746",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 07:56"
+  },
+  {
+   "title": "'챗GPT 제쳤다' 하루 만에 11% 급등…'이 종목' 담은 ETF는?",
+   "url": "https://www.hankyung.com/article/202609221309i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 07:00"
+  },
+  {
+   "title": "AMD·인텔 폭등하더니…한국서 25% '불기둥' 뿜은 종목 [분석+]",
+   "url": "https://www.hankyung.com/article/2026092213686",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 06:30"
+  },
+  {
+   "title": "‘삼전닉스’ 자사주도 끝난다…또 외국인 눈치보는 코스피 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmFvQ1FDRWJQN0xmcmFfWjlGZGoxeldHRHJuR1lzcDFLMl9OcE9WRU5NTmNNZWtwYWg1VmNhTERCUlZIQXk4ck5vVDZiZWFNd1dlMDhvQV9jTXNsUEdKaThnNGJHSDAyQXJyU05mUTUtUjhfdWxJQUd5WW1oNlhjREtpUXpteU9Z0gGcAUFVX3lxTE9kUlQ2UnI3RHEybWFYYW9CSjFCT2Y5TWtuTDFSMjduX2N4UnVJMzIzaWdKN201RGY0c09nLV9Gd0VpdHdnS2dGVS1kUWNiclYydWs1NWpQNTdQRXRUX1c5aHZJRXcxYzN3bjlodDNjN0NhRGhlY2Q1MzFIVUQ4N0szdmJzRFhqNTZOZXVLczFLekxha0l5NTFyUENlUQ?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "Chosunbiz",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 06:00"
+  },
+  {
+   "title": "나스닥 장중 사상 최고…AI 랠리 지속, 오늘 코스피는 외국인 반도체 수급 주목",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QRG0zaTBxVVFSc21SU3RmRllHWE5LUmd3Y19rdWNPdGhITjFUdmhuc2h0aGMtMjg2UE9IT0Q2aktLbWE0VUgwNjJIV2JUX1pHeHJmUDZUem5lRWxRWlZQYndqeVg3TzVR?oc=5",
+   "source": "Google News 외국인 순매수",
+   "publisher": "녹색경제신문",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 02:08"
+  },
+  {
+   "title": "코스피 2%대 상승분 반납...7,000선 가까스로 지켜",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2WlhZa2ZPMnNzVzhxM1FGNEhydWkzZjZnYThmWUJqSGt3YnJHdWFwcmdkRGw1QzRodV9sUmk2QWVmRHRyR3FsQ2NQR1NHcTJXaHVlcUNKeEgxdGJ2bW1iR01GWVNaeGRSN2YycmwtUQ?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "YTN",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 23:03"
+  },
+  {
+   "title": "엔비디아·MS가 날개 달았다…한풀 꺾였던 LG그룹주 '들썩' [종목+]",
+   "url": "https://www.hankyung.com/article/2026092214766",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 22:00"
+  },
+  {
+   "title": "“아침에 분명 다 빨간색이었잖아”…메타에 웃고 유가에 발목잡힌 코스피",
+   "url": "https://www.mk.co.kr/news/stock/12159838",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 21:58"
+  },
+  {
+   "title": "유가 하락에 8.8% 오른 대한항공…증권가 \"3분기 실적 개선 기대\"",
+   "url": "https://www.hankyung.com/article/202609222044i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 21:12"
+  },
+  {
+   "title": "AI 훈풍에도 뒷심 부족…코스피 7,000선은 방어",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3U01SY0lpcXFUMWUwTzNaNWFKZThMWXVEeDliT0U3dmFrNm5kYWowUVlVcFJ6aTBtQ1lhdXVKV0Z5MUlxdXFmZFdmbGRPVmk5bk93ZDJJQ1daVXNPcGctYmx5ZC1nWnc?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "연합뉴스TV",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 20:55"
+  },
+  {
+   "title": "개인 빠진 증시, 외국인이 키 쥔다…“중동 종전이 금리 변곡점”",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LMU0tSEY0eWNOQzR2bVFIMHNRdU9qSm9oS3FaTUdud181TUFwTWpjM2owV1VCeUh4aHhTRklkNl8ycjh4bWRqWTdncXJyZw?oc=5",
+   "source": "Google News 외국인 순매수",
+   "publisher": "전자신문",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 13:12"
+  },
+  {
+   "title": "미 증시 급등과 외국인·기관 순매수에…코스피, 7100선 상승 출발",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pc044bWQxLXB4Tlk0ZlF0MUZNOXFVNHY1dEt4Zk1sUDF6MDdMNVFNTXFmNlQ0SXVoUGFmeS15X2NZQy1rR19SSWZBQlJEcVNvYnc?oc=5",
+   "source": "Google News 외국인 순매수",
+   "publisher": "매일경제 마켓",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 09:32"
+  },
+  {
+   "title": "와이즈플래닛컴퍼니, 코스닥 상장 첫날 249% 급등",
+   "url": "https://www.hankyung.com/article/2026092326836",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:13"
+  },
+  {
+   "title": "\"추석 끝나면 내 주식도 오를까?\"…개미들 '운명의 날' 온다 [분석+]",
+   "url": "https://www.hankyung.com/article/2026092325026",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 09:12"
+  },
+  {
+   "title": "장 마감 뒤에도 개미들 ‘폭풍 매매’…애프터마켓 첫 주부터 하루 1조원 돌파",
+   "url": "https://www.mk.co.kr/news/stock/12159964",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 08:22"
+  },
+  {
+   "title": "\"대한항공, 내년 영업익 전망치 상향…목표가↑\"-KB",
+   "url": "https://www.hankyung.com/article/2026092323756",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 08:20"
+  },
+  {
+   "title": "“대한항공, 여객 운임 상승에 아시아나 비용 마무리까지”…목표가↑",
+   "url": "https://www.mk.co.kr/news/stock/12159960",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 08:19"
+  },
+  {
+   "title": "\"현대백, 연결실적 턴어라운드 기대…주가 반등 모색 구간\"-NH",
+   "url": "https://www.hankyung.com/article/2026092324426",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 08:18"
+  },
+  {
+   "title": "\"LG생활건강, 3분기 실적 기대치 밑돌 듯…단기 모멘텀 부재\"-한국",
+   "url": "https://www.hankyung.com/article/2026092324486",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 08:10"
+  },
+  {
+   "title": "추석 끝나면 수익률 3배?…'연휴 징크스' 깬 코스피에 개미들 '들썩'",
+   "url": "https://www.hankyung.com/article/202609232157i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 08:00"
+  },
+  {
+   "title": "\"1000주 사면 460만원 받는다\"…역대급 배당에 두근두근",
+   "url": "https://www.hankyung.com/article/2026092217601",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-23 06:00"
+  },
+  {
+   "title": "당근, 결제사업서 첫 월간 흑자…IPO '청신호'",
+   "url": "https://www.mk.co.kr/news/stock/12159681",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 17:50"
+  },
+  {
+   "title": "몸집 커진 원유 ETP … 금감원 '투자 주의보'",
+   "url": "https://www.mk.co.kr/news/stock/12159680",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 17:50"
+  },
+  {
+   "title": "외국인 통합계좌, 한국 주식 새 수요 만드나···하나증권 순매수 1조원",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50QjFWQVY3NmhwRjZMcW1FN2hHb2RicjUxcGxER1lTc3ZFOUhReHBqTVp1aWpka0dWNkJLSFpuQl8yTko1VFhOZGZ5N0xEUUdLeE9BWGNPWlk0Snp5RGg4YW1oanFzOHBNTENXZFZjUXVqN0s1M3dr0gF3QVVfeXFMTnRCMVZBVjc2aHBGNkxxbUU3aEdvZGJyNTFwbERHWVNzdkU5SFF4cGpNWnVpamRrR1Y2QktIWm5CXzJOSjVUWE5kZnk3TERRR0t4T0FYY09aWTRKenlEaDhhbWhqcXM4cE1MQ1dkVmNRdWo3SzUzd2s?oc=5",
+   "source": "Google News 외국인 순매수",
+   "publisher": "여성경제신문",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 17:40"
+  },
+  {
+   "title": "[뉴욕증시] AI 강세에도 트럼프 '이란 압박'에 혼조…나스닥 이틀째 사상 최고",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPQmMxOF9fZEQ4UVlWUXZuSmZYSFpwYlhta0R4Xzc0SWdCTng3QVA2SUJJZHZmNTZnNW1MUlZOVmN2a2tZSDY1UWk4WnQwWDRVai1yN1NMVzhpRUtoQjZSeE5vcmVVa1JucHo4UmhpeEg?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "신아일보",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 08:10"
+  },
+  {
+   "title": "뉴욕증시, 미·이란 협상에도 혼조...AI주 강세에 나스닥 최고치",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRVnBFOExVbnRFMlpSdTJtSG1yNXpjSDQyejlLcjhvejZPTlIxTExUdmF5eW1XMUNKMGtPWmZVYjhEaUU3OWZ4eVRvN1JTX1Mxcm81QXViT2ZrM05jUWR3OE81TXJHOE0?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "M이코노미뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 07:53"
+  },
+  {
+   "title": "유가 100달러 아래로 … 뉴욕증시 혼조 속 나스닥 또 최고가",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83T1d2U1BTTGhycC1aS1ExUzh4VENCdUFrMFFYbHhuZ252TV82NXlLX1JsSmNxdVVSZWgxeGNzMTdtaG90VmNKaUx3WF9PNkNWbGlsWWFpZ3lOdXAzckVJVVo3Um1ZZ1BLc3RpZzQwVW1FSGVGMzJTSjhDa9IBgAFBVV95cUxPM1otek9ndFZhMDNJeGczNDRSSUJtM1NMQVJVR01CM2lvZF93VnpjdVdnbFZxcnBLMEo4ZncxcXlQZVd2WUs3MlpSWEhRQThWV1NDbDk2RXJnTFg3VDBKZW1nRzZha1JsS1hicElMRmJXTFlNQWtWQUdRSC13UG5vaQ?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "뉴데일리",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 07:49"
+  },
+  {
+   "title": "[3분증시] 뉴욕증시, 미·이란 대면 협상 속 혼조 마감",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxT0loUzZUOU96SUFkRWVNS196VFVRcUxqVXhDX0JYUnJlQnVtTWJmMEhJeDFhSkl1TGFzS2xQWWpTMjhWNXcyTFFfUENfT2dOQ29IVA?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "연합뉴스TV",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 07:43"
+  },
+  {
+   "title": "뉴욕증시, 미ㆍ이란 3시간 담판에도 숨고르기⋯다우↓ㆍ나스닥 사상 최고 [종합]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RZjUwZWs0dmdVWEE1OEJKdHU3Q2Z1U0E5NzI3Z3VudU1HT3FyMEJMdnI0SkF6d0xhVk81X2xiWTNXcXVpWDd5WkVLMjdUemc?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 07:40"
+  },
+  {
+   "title": "[오늘의 글로벌마켓] 뉴욕증시, 미-이란 관계 주시하며 혼조세...나스닥은 최고치",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vQWlRVElPU3VzVjJpLUFuNmVfWGFXX0VUa0Z4MFM1WFBJNnNSdnpNbjFLVC1aNThILXNfdHR0ZWd0MTMxczlUZWItQTBvRUsyZ05xU08wQWlPSFVOOWh3b2R0X2JfQ3JjSm9xNUt1ZU0?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "오피니언뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 07:36"
+  },
+  {
+   "title": "뉴욕증시, 반도체주 강세 속 혼조…나스닥 0.45%↑ 최고치",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MSXdKTDFpbldwSWp5b28zYmN1andHNnJIYWNWTkVudDVENWM3UTNtaUppWnZSd1g0aUdfLXRaaWZNMnhPV05Jb291TWRFV0U?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 07:33"
+  },
+  {
+   "title": "뉴욕증시, 미·이란 대화 속 혼조…나스닥 사상 최고[뉴욕마감]",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QcFk2WlJObWVLdXVNNVVJbzN5ZlBoQlV3YnQwMUQwSE41cWI3cXV5d1RIY3BVSGI4Vms2UEhtd3RpV202bE5YcXI3dlFha0FfdmFoZURSSGxhUmxrMnloMDh6Zjc?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "MTN 머니투데이방송",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 07:22"
+  },
+  {
+   "title": "Oil prices slip below $100 per barrel",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFh4OVJvMlJtaUVjRk1waDhVSV9IMWtOWkpjQmJpVFlacmFJTmE2V0lKbDR6VkZhWWdDQVA4VFpkM3MxY1ZLSmhheHhkSVM1azBGU1MyZVNkdHJPUmc1YUt4Mm1QMXltR2pJYVFIVG9sNDVIODJ4LTV2Wl91d1pWQ2N3?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "ABC Columbia",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-23 06:47"
+  },
+  {
+   "title": "Oil Prices Tumble Again",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04SzctMDNsU3pqSnBUejhaU04wTmgyMG9CUjhVWHFGeVhzTDc5dDdXTnBaQjIwYmpaTFFhOVBwM1A4aERoQ3lreG92djFqMGNiQTRpN3JKNWJiWmNXU3JiWEVoUVhMYVY5UWh0eXR4Z3JCUkM5Qmc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-23 05:40"
+  },
+  {
+   "title": "Oil Prices Fall on U.S.-Iran Diplomacy Hopes",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0dWcVNNMlhnbkxPYlRmRnlNblltd1JsbHNab0pINjBpTGFPYlR0aTdiZ1ZfRzNXMlJTRXhMeTF1S0xxY29pUk84UzFxQ3dmZy11S0VEWFZjMmczOXE3cjRBTFFQMDF1NlFERTJaYkZHSURES0JySlNQWHhOSGV4SC1yWGdlSXJLaE1TNjc0a1Y2YXdKR1hieEd4cw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-23 04:26"
+  },
+  {
+   "title": "Markets Signal Fed Could Deliver Consecutive Rate Hikes",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmhNUmJsR2NFaFlETUgzc1RqWFd6SU52bUtsbFlaQ0dHVkVReXBoaFZkSmNHUWE1WF9zX29BNklWbmNIRGo5RFVPdkUxdXBJTUlQaFEwZzVwdUV2SFZudjBiLWFaRlBDT1NmNzdsc3VlYVZIc3lpZzdrUE9CdW5UTUp1dW5kM2JxWTNHcDlTdTdyaWwwdGM4d09Da0tQUFQ4b2VCVjZnYktCOGhj?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Forbes",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-23 01:26"
+  },
+  {
+   "title": "환율, 미·이란 협상 소식에…6거래일만에 1,340원대로 하락",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VeW53TGJCTHFiS2YxYlF2VmlWMlNmMXRobDktWjdfVVNoa0tJa19xNWsxdTY0MlVBYnpvN3dYb0ZxSVFVWEpUTEZ0NFlfTzdFMlR2RzlQaU8taUdLMGZ1WdIBYEFVX3lxTE5VeW53TGJCTHFiS2YxYlF2VmlWMlNmMXRobDktWjdfVVNoa0tJa19xNWsxdTY0MlVBYnpvN3dYb0ZxSVFVWEpUTEZ0NFlfTzdFMlR2RzlQaU8taUdLMGZ1WQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-23 09:29"
+  },
+  {
+   "title": "9월 소비심리 한 달 만에 반등…집값·금리 전망은 ‘고공행진’",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5MlF4SDV2Vy02VXVianJESVhvQXlJWkM2N1FPRmRlVUxHSG15eUNEQlFPZE9aamoxUElvbGtVOVhWMmM3NHJEZHRsSUl2UlE?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-23 09:12"
+  },
+  {
+   "title": "[마켓 브리핑] 미·이란 깜짝 회담…뉴욕증시, 사상 최고치 랠리",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0N2VRLUR1aFo1VkJWcEdIMUJFR0FCNm5XWFlLV1JrbEVZcFRmTmdHQ2JRRUNFMTRqZnJ6Z21lbUtwMEplVXRMQXVuNmVNMTg?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 07:19"
+  },
+  {
+   "title": "Meta's AI Assistant 'Muse' Fuels Semiconductor Rally… Nasdaq Hits Record High for Second Straight Day",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fMGpROFcxV25TLXZKSHlvTm9QMnhnVllTVVNzclgyOU5IYWdOMVRkR3VoSWhoT3dkem9tVENCZUVJNEpZajN1Y3lWTmt6QnhXVFZycVd2V3NOWHlkRzg1d1FwMUlGSmZ4c081aGtqUXRQU1hzMmc?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "finance.biggo.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-23 06:55"
+  },
+  {
+   "title": "[글로벌증시] 뉴욕증시, 혼조세 마감…나스닥 또 최고가 경신",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fTFp6VWdNZGdvQXZSWi1TS0dydW14WkR0Vks2dkxjQ1pvc19LVGNzR2ExZjFiSklRdkhtQnBuXy0tYWhLMzREa2FZOW5yczU3SmhKcUt2cnFVRVJYanVaR29lMTJza2M?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "연합뉴스TV",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 06:51"
+  },
+  {
+   "title": "美-이란 관계 주시하며 숨죽인 뉴욕증시…기술주 약진 속 혼조세(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wR25GR0ZhV05BNHRYLVlIaWF1MGJGYmJoSkJzelg1UjROWXpJUHBTNEk5U0tQZXFKRG9OelVsUWpjUEV6cjctM3Vaby1aTms?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 06:45"
+  },
+  {
+   "title": "[뉴욕증시] 기술주 낙관론 확산...나스닥 2만 7,000선 돌파 '사상 최고치'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObU9nckZrdGM3Und5bk50RHVnY3RYZmtMTlZaSjJvZ0NLNVNVakljNjFTcGNVcUxSckh6MW5oMy1TZlpvS24takVlQ0lxVVBUZVhjSU82MVZJcXB4dUc4ZzJBa3daS3FyR05Femh1eUJvUFRxdWItVnMzZmUwMjBJbGRTdlBFS2hw?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "글로벌이코노믹",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 05:44"
+  },
+  {
+   "title": "AI가 가른 뉴욕증시…나스닥 최고치, 다우는 185포인트 하락",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVHNEY1BCbUxHM1M3NlY1Ukh0V3JPVjdKMk1PSTUwX3NwSHNBU3BIbFUzcFB5eS1zOHBjX2pwdXRCVDZrZU9adjdyeTA4elA3X01mVmtPQUEzQQ?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "경북매일",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-23 05:26"
+  }
+ ],
+ "thebell": [
+  {
+   "title": "[코스닥 신사업 '옥석가리기'] 제이앤티씨, 연결 적자에도 캐파 확대 올인",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWNkZ0TnVkLVR3eUVPLUxWOXNidU1XeXA3di05aDBVeDBxY3V0djVCa0NYRm01NGp0THlWWm9NS0duTUtOdnFZTVdIXzl4bzZPUHdoX21VQkFhOGtmLV9HRFhuYUtBSl96Z1ROdF9MMkZuUUxRanVraERVOU9Sdw?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 13:39"
+  },
+  {
+   "title": "[i-point] 삼진어묵, 레이스먼트와 러닝 프로그램 성료",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5scDhBd056blFnSEZ6SktkNmhoMktZLUYtOGtVMFdCTzZZQ3NmbFlwWHVKd29DbEpzRHVZYTdUYzRvckc0eEJnS1FYalJuRHBmVzNJUWdYbWZLaDdCakU5X0w0UlUyNUVicFNiTU1JY2o5czNyYlVaWjlHZlVjUQ?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 10:38"
+  },
+  {
+   "title": "코오롱티슈진, 대표 퇴사에도 TG-C 자신감 '15년 근속 4인'",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wMDRCdGtUVmpaNEhoMWNxaTh5eTd6Z0s0b1RxUkJVWUhkTjJaZklYa1dhTXI4YzduZF9Cdy0zVW1meE00STBaVDlTeFJ5NTIxdWZQNlNDVTU0cl94QnJuOFVQQi1qQUFiNklySDZGR2xRcnE3dHlBYXhzWURVZw?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-22 07:11"
+  }
+ ],
+ "degraded_selection": false
+}

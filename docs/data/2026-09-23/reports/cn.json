@@ -1,0 +1,378 @@
+{
+ "topic": "cn",
+ "name": "중국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-23T17:07:53.252034+09:00",
+ "report": {
+  "title": "중국·홍콩 증시 일일 브리프 (2026-09-23): 미·중 정상회담 앞두고 숨 고르기, AI 테마와 유가 하락이 버팀목",
+  "overview": "시세 표에 있는 가장 최근 확정 종가(9/21 세션)는 상해종합 3949.91(+0.97%), 심천성분 13,730(+0.65%), 항셍 25,043(+1.18%)으로 중화권 증시가 동반 상승했습니다. 9/22 세션은 기사마다 내용이 엇갈립니다. 상해종합이 0.06% 오른 3,952.13에 마감했다는 보도가 있는 반면, A주 3대 지수가 하락하며 '3일 만에 조정'을 받았다는 보도도 있어 전체적으로는 혼조 속 숨 고르기로 볼 수 있습니다. 항셍은 0.18% 오른 채 마감했다는 보도가 있습니다. 시장의 관심은 시진핑 주석의 방미와 트럼프-시진핑 정상회담(무역·관세·AI·이란 의제)에 쏠려 있습니다. 메타발 AI 호재와 뉴욕발 반도체 훈풍이 기술주를 받쳤지만, 광모듈 3인방 '易中天'은 집단 하락하고 미디어 강세·관광 약세로 업종별 차별화가 뚜렷했습니다. 이란의 호르무즈 해협 재개방 제안 보도에 유가가 하락했고, 원화 강세(원/달러 1373.68, -0.81%)와 함께 한국 기술주에도 우호적인 환경이 이어졌습니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "시세 표 기준으로 가장 최근 확정 종가(9/21 세션)는 상해종합 3949.91(+38.04, +0.97%), 심천성분 13,730(+89.15, +0.65%), 항셍 25,043(+291.93, +1.18%)입니다. 닛케이225는 9/18 세션 65,019(+882.70, +1.38%)가 마지막 값이며, 머니투데이 보도처럼 일본 증시는 휴장이었습니다. 직전 주 상해종합은 1.07% 내린 3,888로 2주 연속 주간 하락했지만(BBN Times 주간 리뷰), 이번 주 들어 미·중 협상 기대와 기술주 낙관론으로 상승 흐름을 되찾았습니다(TradingView 'China Stocks Extend Gains on US-China Talks, Tech Optimism'). 9/22 세션 보도는 엇갈립니다. 뉴시스는 상하이지수가 0.35% 오르며 출발했다고 전했습니다. 마감에 대해서는 BBN Times가 상해종합이 0.06% 오른 3,952.13으로 '트럼프-시진핑 정상회담 대기' 속 보합권이었다고 보도했습니다. 반면 동방재부는 'A주 3대 지수 하락, 거래대금 1.8조 위안 미만', 한국 매체는 '3일 만에 조정', '지수별 혼조…연속 상승 뒤 숨 고르기'라고 전했습니다. 종합하면 9/22는 3거래일 연속 상승 뒤 지수별로 엇갈린 차익 소화 장세로 볼 수 있습니다. 홍콩은 9/22 항셍이 0.18% 오른 채 마감했다는 보도(bastillepost, RTHK 'HK stocks inch up as all eyes turn to Xi-Trump summit')가 있고, 9/23은 0.09% 내린 채 출발했다고 전해졌습니다. 별도로 BBN Times는 '유가 급등과 금리 우려로 항셍이 1.00% 하락한 24,667.24'라는 기사를 냈는데, 현재 유가 하락 흐름과 맞지 않아 어느 세션에 대한 기사인지 확인이 필요합니다.",
+    "bullets": [
+     "상해종합 3949.91(+0.97%), 심천성분 13,730(+0.65%), 항셍 25,043(+1.18%) — 표 기준 9/21 세션",
+     "9/22: 상해종합 +0.06%, 3,952.13(BBN) vs. 'A주 3대 지수 하락'(동방재부)으로 보도 엇갈림 → 혼조·숨 고르기",
+     "9/22 A주 거래대금 1.8조 위안 미만으로 관망 심리 반영",
+     "항셍 9/22 +0.18% 마감 보도, 9/23 -0.09% 출발",
+     "직전 주 상해종합 -1.07%(3,888), 2주 연속 주간 하락 후 반등",
+     "닛케이225 65,019(+1.38%, 9/18), 일본 휴장"
+    ]
+   },
+   {
+    "heading": "정책·유동성",
+    "body": "이번 입력 기사에는 인민은행의 금리·지급준비율·유동성 공급, 국무원 부양책, 증권 규제 당국의 새 조치를 다룬 보도가 없습니다. 북향자금(외국인의 홍콩 경유 A주 매매) 동향도 언급되지 않아 이 보고서에서는 평가하지 않습니다. 현재 유동성을 가늠할 근거로 쓸 수 있는 것은 두 가지입니다. 첫째, 9/22 A주 거래대금이 1.8조 위안에 못 미쳤다는 동방재부 보도로, 정상회담을 앞두고 신규 자금 유입이 둔화한 관망 국면으로 해석됩니다. 둘째, 환율입니다. 위안/달러는 6.70(-0.03%)으로 사실상 보합이었고, 달러인덱스는 100.43(+0.21%)으로 소폭 올랐습니다. 정책 측면에서 가장 큰 변수는 국내 부양책이 아니라 대외 협상입니다. CNBC에 따르면 트럼프 대통령은 경제 분야 지지율이 낮은 상태로 중간선거를 앞두고 있어 정상회담에서 무역 성과를 내세울 유인이 큽니다. 무역 안정과 딜이 추진되는 가운데 AI(기술 통제), 관세, 이란 문제가 핵심 쟁점입니다. 폴리티코는 전쟁으로 글로벌 시장이 흔들리는 가운데 시 주석이 새로운 에너지 협상 카드를 들고 미국에 도착했다고 보도했습니다. 회담 결과가 관세·기술 규제의 방향을 정하고, 이것이 A주·홍콩의 위험 선호와 자금 흐름을 좌우할 전망입니다.",
+    "bullets": [
+     "인민은행·국무원·규제 당국의 새 발표는 입력 기사에 없음",
+     "북향자금 관련 언급 없음 → 평가 보류",
+     "9/22 A주 거래대금 1.8조 위안 미만(관망)",
+     "위안/달러 6.70(-0.03%) 보합, 달러인덱스 100.43(+0.21%)",
+     "정책 변수의 초점은 트럼프-시진핑 정상회담(무역·관세·AI·이란)"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "9/22 A주는 업종별로 차별화가 뚜렷했습니다. 강세 업종은 다음과 같습니다. ① AI 관련주: 한국 매체는 '메타 호재에 AI 강세'라고 전했고, 쓰촨 매체(川观解盘)는 'AI+'가 시장의 새 주도 테마가 될 수 있는지 주목했습니다. ② 미디어주: 급등했습니다(biggo 'Media Stocks Surge'). ③ 식음료: 장중 2% 넘게 오르며 역행 강세를 보였습니다(증권시보 stcn). ④ 복합집전체 테마주: 지수 하락에도 강세를 보였습니다(동방재부). 복합집전체는 2차전지 음·양극 집전체의 소재 경량화와 관련된 테마입니다. 약세 업종에서는 관광주가 부진했고, 광모듈 대표 3종목인 '易中天'(新易盛·中际旭创·天孚通信)이 집단 하락했습니다. 같은 AI 테마 안에서도 그동안 많이 오른 하드웨어(광모듈)에서는 차익실현이 나오고, 응용·콘텐츠(미디어) 쪽으로 순환매가 일어난 것으로 해석할 수 있습니다. 9/23에는 CICC(中金公司)의 A주 거래가 재개되는데, 거래정지 사유는 입력 기사에 없어 판단하지 않습니다. 재개 당일 주가 흐름이 증권 업종의 심리에 영향을 줄 수 있습니다. 개별 종목의 등락률은 입력에 없어 제시하지 않습니다.",
+    "bullets": [
+     "강세: AI(메타 호재), 미디어, 식음료(장중 +2% 이상), 복합집전체 테마",
+     "약세: 관광, 광모듈 3인방 '易中天' 집단 하락",
+     "해석: AI 하드웨어는 차익실현, 응용·콘텐츠로 순환매",
+     "CICC A주 9/23 거래 재개 → 증권 업종 심리 점검"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "① 트럼프-시진핑 정상회담: 시진핑 주석이 미국에 도착했고, 회담과 만찬을 앞두고 있습니다. CNBC는 무역 안정과 딜 추진이 목표이지만 AI, 관세, 이란 문제가 큰 변수라고 짚었습니다. 만찬에 참석할 인사가 일부 알려졌지만, 중국 기업인의 참석 여부는 거의 알려지지 않았다고 전했습니다. 뉴스핌은 9/23 중국증시가 '뉴욕발 AI 랠리 지속 기대 속에 미·중 정상회담을 주시할 것'이라고 전망했습니다. ② 중동·유가: CNBC와 배런스는 미국이 군사적 압박을 완화하면 이란이 7일 안에 호르무즈 해협을 재개방할 수 있다고 밝혔다고 보도했고, 이에 브렌트유가 100달러 아래로 내려왔습니다. 트럼프 대통령이 미국과 이란이 3시간 동안 회동했다고 밝힌 뒤 유가는 5거래일 연속 하락했습니다. 시세 표 기준 WTI 94.59(-1.24%), 브렌트 99.25(-1.09%)입니다. 유가 하락은 원유 순수입국인 중국의 비용 부담을 덜어주는 요인입니다. ③ 아시아 기술주: 뉴욕발 반도체 훈풍에 중화권 증시가 강세를 보였고(머니투데이), SK하이닉스·삼성전자 등 기술주가 아시아 증시 상승을 이끌었습니다(Business Times). ④ 기업: CICC가 9/23 A주 거래를 재개합니다. 원자재 중에서는 구리가 6.76(+1.09%)으로 올라 중국 수요 기대가 반영된 것으로 보입니다. 비트코인은 86,603(+6.73%)으로 급등했습니다.",
+    "bullets": [
+     "시진핑 방미, 트럼프와 정상회담 및 만찬 예정 — 무역·관세·AI·이란이 쟁점",
+     "이란의 '7일 내 호르무즈 재개방' 제안 보도 → 브렌트유 100달러 아래, 유가 5거래일 연속 하락",
+     "뉴욕발 반도체·AI 랠리로 중화권·한국 기술주 강세",
+     "CICC A주 9/23 거래 재개",
+     "구리 6.76(+1.09%), 비트코인 86,603(+6.73%)"
+    ]
+   },
+   {
+    "heading": "한국 영향",
+    "body": "첫째, 정상회담 결과가 관세·기술 통제 방향을 정하면서 중국 노출도가 큰 한국 업종의 심리를 좌우할 가능성이 큽니다. 무역 안정이나 관세 완화 쪽으로 결론 나면 중국 경기와 교역에 민감한 철강·화학·반도체 장비 업종에 우호적입니다. 반대로 AI·반도체 통제가 강화되면 반도체 장비와 대중 수출주에 부담이 될 수 있습니다. 둘째, 반도체입니다. Business Times에 따르면 SK하이닉스와 삼성전자가 아시아 기술주 상승을 이끌었고, 뉴욕발 AI 랠리가 한·중 기술주에 함께 파급되고 있습니다. 다만 중국 광모듈주('易中天')의 집단 하락에서 보이듯 AI 하드웨어 안에서 차익실현이 나올 수 있다는 점은 유의해야 합니다. 셋째, 2차전지 소재입니다. 중국에서 복합집전체 테마가 역행 강세를 보인 것은 집전체(동박 등) 소재 기술 변화에 대한 관심을 보여주는 신호로, 한국 2차전지 소재 업종이 참고할 만합니다. 구리 강세(+1.09%)도 관련 원가·테마에 영향을 줄 수 있습니다. 넷째, 소비재입니다. 중국 관광주 약세는 중국 소비·여행 수요에 기대는 한국 화장품·면세 업종의 심리 점검 요인입니다. 반면 식음료 강세는 중국 내수 소비재에 대한 선호가 이어지고 있음을 보여줍니다. 다섯째, 환율입니다. 원/달러는 1373.68(-0.81%)로 원화가 강해졌지만, 위안/달러는 6.70(-0.03%)으로 보합이었습니다. 원화가 위안화보다 더 강했던 만큼 외국인 수급 개선과 유가 하락(WTI -1.24%)에 따른 교역조건 개선이 반영된 것으로 해석됩니다. 정상회담 결과에 따라 위안화가 움직이면 원화도 함께 움직일 가능성이 있습니다.",
+    "bullets": [
+     "정상회담 결과 → 철강·화학·반도체 장비 등 대중 노출 업종의 심리를 좌우",
+     "SK하이닉스·삼성전자, AI·반도체 훈풍 수혜. 다만 중국 광모듈 차익실현은 경계 신호",
+     "중국 복합집전체 테마 강세 → 한국 2차전지 소재(집전체·동박) 업종이 참고할 만함",
+     "중국 관광주 약세 → 화장품·면세 업종 심리 점검",
+     "원/달러 1373.68(-0.81%)로 원화 강세, 위안화는 6.70 보합 — 유가 하락이 원화에 우호적"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "中际旭创 (중제욱창)",
+    "ticker": "300308.SZ",
+    "comment": "광모듈 3인방 '易中天'의 한 축. 9/22 AI 하드웨어 차익실현 속에 집단 하락."
+   },
+   {
+    "name": "新易盛 (신이성)",
+    "ticker": "300502.SZ",
+    "comment": "'易中天'의 한 축. 9/22 광모듈주와 함께 약세."
+   },
+   {
+    "name": "天孚通信 (천부통신)",
+    "ticker": "300394.SZ",
+    "comment": "'易中天'의 한 축. 9/22 광모듈주 동반 하락."
+   },
+   {
+    "name": "中金公司 (CICC)",
+    "ticker": "601995.SS",
+    "comment": "9/23 A주 거래 재개(거래정지 사유는 입력 기사에 없음). 재개 후 주가 흐름이 증권 업종 심리의 지표."
+   },
+   {
+    "name": "SK하이닉스",
+    "ticker": "000660.KS",
+    "comment": "아시아 기술주 상승을 주도(Business Times). 뉴욕발 AI·반도체 랠리 수혜."
+   },
+   {
+    "name": "삼성전자",
+    "ticker": "005930.KS",
+    "comment": "SK하이닉스와 함께 아시아 기술주 강세를 이끎."
+   }
+  ],
+  "events_today": [
+   "트럼프-시진핑 미·중 정상회담 및 만찬(무역·관세·AI·이란 의제)",
+   "CICC(中金公司) A주 9/23 거래 재개",
+   "이란의 호르무즈 해협 재개방 제안 관련 미·이란 협상 진행 상황",
+   "일본 증시 휴장 여부 확인(닛케이 최종 값은 9/18 기준)"
+  ],
+  "headlines": [
+   {
+    "text": "미·중 정상회담 앞두고 중화권 증시 숨 고르기 — 상해종합 9/22 보합권(+0.06%, 3,952.13), A주 거래대금 1.8조 위안 미만",
+    "importance": 5
+   },
+   {
+    "text": "메타발 AI 호재로 AI·미디어 강세, 광모듈 '易中天'은 집단 하락하며 순환매",
+    "importance": 3
+   },
+   {
+    "text": "이란의 호르무즈 재개방 제안 보도에 유가 하락(브렌트 99.25), 원/달러 1373.68로 원화 강세",
+    "importance": 4
+   }
+  ],
+  "data_caveats": [
+   "시세 표의 중국·홍콩 지수 종가는 9/21 세션 기준이며, 9/22 세션 수치는 기사에 인용된 값만 사용함",
+   "9/22 A주 마감 방향이 매체마다 다름(상해 +0.06% 보도 vs. '3대 지수 하락' 보도)",
+   "'항셍 1.00% 하락, 24,667.24' 기사는 해당 세션이 불분명해 확인이 필요함",
+   "닛케이225는 9/18 기준(일본 휴장)",
+   "북향자금·업종별 수급과 개별 종목 등락률 데이터 없음",
+   "CICC 거래정지 사유는 입력에 없음"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "[AI MY 뉴스] 23일 중국증시 '뉴욕발 AI 랠리 지속 기대...미중 정상회담 주시'",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oRDlEbXNBeU95UFVDUmVMRXdCbWhIbTZGdFpzYXRtZE52dEw0OVp3MTV1dGFidEwwcEozRDJLV1NZV2syZHVpSVJ0Uk1ScEt0enNkV3loT28xMXlY?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-23 09:32"
+  },
+  {
+   "title": "Hong Kong Stock Exchange Today: Hang Seng Index Falls 1.00% to 24,667.24 on Oil Surge and Rate Fears",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNk9TZGhqTUI1RGVQX3ktQ2w5cjdsVVVtMERWWnpJUGFOeXlic0g4OG5WdERTZlZTNGUwZVlRQkNGbk5La2tPRFdmaFE2S3E4b2djNVVCcl9Jel9SV1hSVEU0NzN1YjBmN1BBT0JXcENpZEM4UnN0djdhMVA3RlJvck1uSlc2d19VaFVoYjlvY3E5bUlnMWZ5dE1OMHFVRFBtb2pCWkhfQUZCdVhfTnFyNmZpMnU2ajNUZXZWdFJ1YUFZdWxKNWhOWlJqRmpsUQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-23 09:09"
+  },
+  {
+   "title": "SSE Composite: Shanghai Inches Up 0.06% to 3,952.13 as Investors Wait on the Trump-Xi Summit",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONmVMcUoxSnotZlhUaC1oNEtBSkVRWWlBQXc3eVFidVJNV2hQX2pXQTlZYTdOZTVjek9CZDZJNmo0UHBaSjB6d05vcnJJMjNyS0tmenMtWDZ0Zl81ZjY2MDJRREJyYXVQSlIxMTBjVTZVSjc3aHNXeGRuOHR1Y2t0NnpXUWRBeERnSkxiYWlUZEc2T243WTRIRFJqX2lTaVl4eUZZYndVTkdkejR1WElJYk00TFlfMEYwTzI1Y0dNYlhLYWs?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-23 06:36"
+  },
+  {
+   "title": "中金公司：A股股票将于9月23日复牌",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvcm1YRkNSWDY5OXdubWFXWW42UVhNdXkzR3R5ay0wcU1XUTgyYlRMSU8zempzd0hTMHRGclVSUHUyRG9JdEJNcXdlV2ZMaDZhNDhRMkNkNTBJbUVyZDNCOQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-23 02:57"
+  },
+  {
+   "title": "A股三大指数收跌 成交额不足1.8万亿 复合集流体概念股逆市走强",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YWkF2eGFleDJWWE41NTRieDhkZ3FHTDdvQnBJMk5KOHJpcXhmcDlLdTBzTXE3cW5RMjNrSTF4ZFZUdmszSzJMckhuME51NWJuNEdHdWprZXhhTWpBNmVnOQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-23 01:38"
+  },
+  {
+   "title": "今日A股偏爱AI，“AI+”或成市场新主线？丨川观解盘",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUTd0V05xZmtsVW5wUTcxcVVwQnRlLUIteFk1RWtqZlFBdUVUQkg2Z1JqQzZWTW96blZoU3ZxczhTaEF6ZDc1QlA3WXZ0Ym9yOFVPM1d0UXR3LVQ2V0ZaT3JTUQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "四川新闻",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 20:06"
+  },
+  {
+   "title": "Hong Kong's Hang Seng Index closes 0.18 pct higher",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYk15ZGpvRno3M3NBU1k0UXNTMnhWcVEwRlBaOXNNUUhXZUVKOEdxRjRYUXBrT2lhOGRMSkFwN1U5WmJidXdjLWFzTnRBM2NIZ05qemctaEt2UmRDNUVqeXVxRjQ1cE9DTjg5S0pMa2U5eUdoQ1A3am81eV90RzFxYWxsOWJlYWZnTE5FcVdNQXRvekpiSmpxTzgydGpFMEdOUXRJ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "bastillepost.com",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 19:14"
+  },
+  {
+   "title": "[중국증시-마감] 지수별 혼조…연속 상승 뒤 숨 고르기",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qVmxidVlCRFN6d2dPa2JPb3MxaWxkNEE2UDFlX2d6NDZPR0daZkJrLUp0ZTlkNTJXRUF2YVpUbDYxTG1DdlloVVVDS05KM0M3WmNGSFVDbFllc3NpX2ZLRXZtajZEcm50R1FmNkJ3RWM?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "news.einfomax.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 18:24"
+  },
+  {
+   "title": "SSE Composite Today: Shanghai Shares Slip As Global Risk Appetite Cools",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREx0T2VhblVSOFVCQWhSWnVwSVVkSUlVZnFkbXd2UG5URlVfeVgyU0tCOThJMkV3UmFFZU5uVzRIVGdRVk9wczZmVDdhT3VMT2hlbUhNUkxzTU40RXhoSDJHS1hyWWhGRHk4YmotYWlJNEVwcDVoSFFRcGs0NzE5NTRXbEhlQnFQRmIwd3FzZFY5YXh1T0F0UmJpbnNpY3ZMMHFKZm1GdFR2M2tMelhR?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 18:05"
+  },
+  {
+   "title": "HK stocks inch up as all eyes turn to Xi-Trump summit",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RdWszYjdSTUJIT1lCcHQzQzJ1WTRVb092eTJ0X2lzeW5MUEVPX18xck9RUEdCZEloYXpiSFB3WGk0SjEyYS0yWF9ObE1zZ29tZUV6eHhuZDZhakx5R1gxRVQ2ODlNUlhhQzh6VWxFTQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "香港電台新聞網",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 18:01"
+  },
+  {
+   "title": "China A-Shares Close Mixed as Media Stocks Surge; Tourism Slumps",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WYmVKcVdWbUx0cGJVeUJRVHJDRlRxTTVmMzlBSHRxMlotSnpfUW11aFVYck4zNU9tSndvVVYwZEQzQTJXclhWYVVyN25qV0RWM1RfaVRUa1BHU3BDS2lGRkJjX0dON1RZN09lVU9aR2JNcGI4Tnc?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "finance.biggo.com",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 16:35"
+  },
+  {
+   "title": "[中 증시 마감] 3일만에 조정...메타 호재에 AI 강세",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XSEFlUElJNmQ3c0xqYzBkc2pWSXE3eDk3VmVuek84amJhUnZrd29OZEdLZ3BrNGNBZXJSVjJRUFFZSDh2QmxmTUVkRQ?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 16:08"
+  },
+  {
+   "title": "Can AI Optimism Strengthen China Stocks Ahead of the Xi Trump Summit?",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1VWcXJCS3E5cFJoN1J2LTNGUWdPVk80azNuR2laeGItOWNFNHlMLXpiSmRnTWFQMWIwdE0xS3k2S0FRSkpLQUVsSkpKcjNMQVl6aVl1TFJ3VlB2bGdKSl82Ui0wYkZXcWJzUGYzWDFZTW1EX0FCWnhPMy1UNTd2Y3NPckdFMDVZUDNFR3RXQWVYZzFZYlI2ek9KdnRRc2hfbTk2ZzgtZEJDLXc?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "Modern Diplomacy",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 14:01"
+  },
+  {
+   "title": "뉴욕발 반도체 훈풍에 중화권 증시 강세…일본 휴장[Asia오전] - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4taTA1bEJHYVFZNEhiaHYyelRvWUwtZHNkTFNsVWZNMWhuNl9lRVNMdWg2UmhCT05KTW5sNzRDNXpXOG1pd2JyR2I4Wlp0eHhzeDJ1clMwY0pnbllJRXl5a1pfcDh2Sllt0gFuQVVfeXFMTXJCOWQwY0lXSDFFMXpXeEEzM3owSGpkSHRGeDcyS0NYTDhXN1NHUGFJeUV2bFluaWdRWHdHeVBVR1h5alpiNlJzNy1wN0l5QVBaZUdMbUpSOXNEcG53VER2Z1hmeUFjRGlHVVRmd3c?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 12:34"
+  },
+  {
+   "title": "Shanghai Stock Exchange Weekly Review: SSE Composite Slips 1.07% to 3,888 as Global Risks Dominate Second Straight Weekly Loss",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQmNrT19heWhNcm94NFpGZHBqLXh3VS04RlpiME5aLWs4cldZd29lUWVSTW1HSTVVZjFlZTZfR0NieDVLTzlGTXMxVjI3RlB4eTE5REhLUWF5RFZMRTB5cGhGNUFlNlhVQkhjbS1vcTJXeWhIdTdXUFFmMDdvaXJ5ZEk1RUs1R0pfVlZTX1d1UVBmNW5yMHRWdFBZT2U2akQxQ0Z0bGpWdzl0Nk9KNzZrelpFWHlfOFU5eXI5UWZaRW1aWGVQS2l3dmV6T1Q1cGExZ3EwVU9XeWFfSjYwQ3BBQnlDWHQ1eDd6cV84bjdiUjA1YlkzZWc0?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 11:26"
+  },
+  {
+   "title": "[올댓차이나] 중국 증시 상승 출발…상하이지수 0.35%↑",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUXpnTV9HdUNUVHdOUU5wd3Y5aWVGdnl5NS1QNmE4SDN0dlBablZXd1liWnpDZ0VEYlBJNVBtRGtBaXJSa3lGbWJDdGtNc1c5Q3pqVHlKbXMwQkZSam5Xc0ktNzV1ZFhfM0xycFc1eVY0OU9qYkpEVNIBeEFVX3lxTFBZUXpnTV9HdUNUVHdOUU5wd3Y5aWVGdnl5NS1QNmE4SDN0dlBablZXd1liWnpDZ0VEYlBJNVBtRGtBaXJSa3lGbWJDdGtNc1c5Q3pqVHlKbXMwQkZSam5Xc0ktNzV1ZFhfM0xycFc1eVY0OU9qYkpEVA?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 11:16"
+  },
+  {
+   "title": "China Stocks Extend Gains on US-China Talks, Tech Optimism",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2prWFNvWExKNFQzZzhmQjVyd2RkSFBYNmJaLXpud01zZXhGNlJhRG4xV2FCR3NfNTVadGVmRno1MnJZaDV5bUFoOW5GZkxkZTB0M0M4Z2p2OXVmZjkxZjF5VVZMd1h4a3Y5RXVxVzlhb19jd2RlQWJuc3kzUmJKVGdNR0RVdzNKLW41LUJTcjF4SE15ZGVTdndnQkRuZEo2TXhhYktkQkpMclhs?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 11:00"
+  },
+  {
+   "title": "A股调整，“易中天”集体下跌，食品饮料板块盘中逆势涨超2%",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RUXV5T0ZpU3M1TUphYjU0UUxPM0dFT19HY0NKaXd2WGx2ck9jZ1U2M21CT2tsNEE5QzJfVnJpb1dUd0c0dG9rOTd0ZUQ4M2JqWER6T2NxOA?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "stcn.com",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 07:07"
+  },
+  {
+   "title": "Hang Seng Index opens 0.09% lower",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55bUNBMkc0bldEdUxnLTN2cE43LTVaN3JQSDFTRV80VnJtWEVTckdJOHlVazNZX2lVVW95ZDh6N3pqdlVFUFNJYVhKcHA3YVhSa3R5aUhYdllmUQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "chinadailyhk",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-22 20:04"
+  },
+  {
+   "title": "Oil Prices Drop below $100 on Report Iran Has Offered to Open Hormuz in 7 Days",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0d0hCaE5KX0EtVGFnbzR3MXR1WDQtTFFqR1FhQms4YlpxZVM3QWZoeE5OX0dzWlRWbU1aWXVYcFVneVlVLXVXamlBeXpwUUJGeHFsMWI2UGFIRllVakJnMjYyRWRFcmNZMl9ST1hzUzhUaVYwSHBadw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barron's",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 23:19"
+  },
+  {
+   "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
+   "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-22 23:05"
+  },
+  {
+   "title": "뉴욕증시 프리뷰, 주가 선물 혼조… 호르무즈 재개방 기대에 유가 급락",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pYTd2M2VxVFBTM0s5ZVptNTNuUmVsUS1LUWtUc0FpSGxPdVNRZElvLXNrQmVfdnRVYko4RUt5eEFYekkzazdkbzJYRHl0MGcxd19RbmJSNzd2Qzkx?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-22 21:41"
+  },
+  {
+   "title": "Oil prices fall for fifth day after Trump says U.S. met with Iran for three hours",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uMDd4VUtvMk9TNGl6Q1oxYzVidXhGeG9uRFZWajBlMDFhLW9uY0Nncng3aUJOWDhBdDlPeExheFZFeFpfSFQ5R2cxOS1HUlZGQjJRcndueUdnY1VmQnp2bmtpeWQ5LTFfRks0eThPU2hLQjDSAXhBVV95cUxPMW5YX2hUb29hbmhIRHNGU1JoLW9QREdJZUwzcEZQbVZYWW9mejlneF9tNDJhX0Vsb0hjZkJhOWNmSGJjNzdHcWY0ZWhZRlpvWnBWY1lRRElyakpFZDhsM1BZbzZXZjRWYTkwZDlrVjBxTUNVX3VuOF8?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "cnbc.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 13:22"
+  },
+  {
+   "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+   "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-22 07:25"
+  },
+  {
+   "title": "SK Hynix, Samsung gain as Asian stocks edge higher and tech leads, oil slips",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYnRxbGxmSWJNN0pLZmZFTklwQ25YZ3IwNEhlZ1NoWi01a3cxeW9oempwTkhOdTZYaHNRVzUzaGpCUDFLNFZ2clZpdGdtMjhta25CYXlzZVJRQ0c5bUNycUFKWGV6Vld1dWY1YXM3NmFRYW1RY081akM0WThqNlp4LTlmRHZKNXhRZDJRb0lvTXp0Y2RTRnNZc0RlOGJYQlI0MVZUcHdLSXhPTlRuenUzVFF2Yk5CTE5lbnQ1ZXhMYmF2WXl3QllmNnFsUC1tWVFvUVFHUGNDU3VxdnAxZTBRZkh1dw?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "businesstimes.com.sg",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-23 09:44"
+  },
+  {
+   "title": "Here's who we know is going to the Trump-Xi dinner so far",
+   "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-23 08:43"
+  },
+  {
+   "title": "Chinese president arrives in US with new energy leverage as war rattles global markets",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzI3VXBjTVEzcUE5QnViVHVPRjV1UHdSNVZJSUU2dUppNUdhejFCWURocGpnaGZvd1hQZHVsMXhBM0loTUZhcTd6d0JpWkYyN1cwZmNtakJfVjhkNTlJZXRJN1dnY0RLbkNEZzdCSTJzRVlrZzExX2M3eS13RnJWWl9ScHpqNHhQZjRnUjRQWlZEeWdRVHlsTHZOZVZHMURGSVhhOVh5ZE1HR2pzNDgtajNEbHZXTHB0QmJ5RDhOUnM3UmVfYmlUNW9vbmtSbmJnRUFid0hoYnU?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "politico.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-23 06:00"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

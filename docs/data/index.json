@@ -1,6 +1,12 @@
 {
  "dates": [
   {
+   "date": "2026-09-23",
+   "result": "success",
+   "updated_at_kst": "2026-09-23T17:07:53.210497+09:00",
+   "topics_ok": 6
+  },
+  {
    "date": "2026-09-22",
    "result": "success",
    "updated_at_kst": "2026-09-22T08:59:56.304595+09:00",
@@ -25,5 +31,5 @@
    "topics_ok": 6
   }
  ],
- "generated_at_kst": "2026-09-22T08:59:56.478055+09:00"
+ "generated_at_kst": "2026-09-23T17:07:53.385574+09:00"
 }

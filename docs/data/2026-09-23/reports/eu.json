@@ -1,0 +1,439 @@
+{
+ "topic": "eu",
+ "name": "유럽시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-23T17:07:53.235038+09:00",
+ "report": {
+  "title": "유럽증시 마감: 미·이란 외교 기대에 유가 100달러 아래로… 대륙 강보합, 영국은 약세(9/22 세션)",
+  "overview": "9월 22일(화) 유럽증시는 미국과 이란 간 외교적 돌파구 기대감과 국제유가 하락에 힘입어 대부분 올랐지만 상승 폭은 작았습니다. 기사 기준으로 독일 DAX는 0.10% 강보합, 프랑스 CAC40은 0.20% 올랐고 범유럽 스톡스600도 강보합으로 마감했습니다. 영국 FTSE100만 은행·통신주 약세로 소폭 떨어졌습니다. 전날인 21일(월)에는 유가 하락에 주요 지수가 일제히 1% 안팎 올랐습니다(스톡스600 641.93, +1.02%). 22일 장은 그 상승분을 지키면서 숨을 고른 흐름입니다. 이란이 7일 안에 호르무즈 해협을 다시 열 수 있다고 제안했다는 보도가 나오며 유가가 배럴당 100달러 아래로 내려갔습니다. 에너지 가격 부담이 줄어드는 것은 유럽 제조업과 한국 수입물가·원화에는 긍정적입니다. 다만 미 연준 연속 금리 인상 가능성과 프랑스 부채 문제는 부담 요인으로 남아 있습니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "시세 표의 유럽 지수는 2026-09-21(월) 세션 기준입니다. 이날 스톡스600은 641.93(+6.48, +1.02%), 유로스톡스50은 6318.20(+82.00, +1.31%), DAX는 25,575(+270.95, +1.07%), FTSE100은 10,739(+79.90, +0.75%), CAC40은 8138.94(+73.92, +0.92%)로 마감해 모두 올랐습니다. 이코노뉴스도 이날 흐름을 '국제유가 하락 등 영향 일제히 올라, 독일 1.04%·영국 0.75% 상승마감'으로 보도했습니다. 표의 DAX 등락률(+1.07%)과는 소폭 차이가 있습니다. 가장 최근 세션인 9월 22일(화) 수치는 표에 없고 기사로만 확인됩니다. 미국과 이란 간 외교적 돌파구 기대, 유엔(UN) 외교 움직임에 따른 유가 진정이 지수를 떠받쳤습니다. 하지만 전날 크게 오른 데 따른 경계심으로 오름폭은 작았습니다. 기사 기준 DAX는 0.10% 올라 '신중한 마감(Cautious Note)'이라는 평가를 받았고, CAC40은 0.20% 올랐으며 스톡스600은 강보합이었습니다. FTSE100만 하락했는데, 낙폭은 매체에 따라 -0.29%(이코노뉴스)와 -0.16%(TradingView)로 다르게 나옵니다. 장중에는 영국 8월 재정적자 발표 직후 소폭 오르기도 했으나, 유가 약세로 에너지 비중이 큰 영국 지수가 상대적으로 불리했고 은행·통신주가 끌어내렸습니다. 정리하면 21일 급등 뒤 22일 숨 고르기이고, 유가 하락이 대륙 지수에는 호재, 영국 지수에는 중립 이하로 작용한 차별화 장세였습니다.",
+    "bullets": [
+     "9/21(표): 스톡스600 641.93(+1.02%), 유로스톡스50 6318.20(+1.31%), DAX 25,575(+1.07%), FTSE100 10,739(+0.75%), CAC40 8138.94(+0.92%)",
+     "9/22(기사): DAX +0.10%, CAC40 +0.20%, 스톡스600 강보합, FTSE100 -0.16%~-0.29%(매체별 상이)",
+     "상승 배경: 미·이란 협상 기대와 호르무즈 해협 재개방 보도에 따른 유가 하락",
+     "영국 약세 요인: 은행·통신주 부진, 유가 약세로 에너지주 부담"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "22일 세션의 업종별 등락 데이터는 입력 자료에 없어서, 기사에 나온 단서로만 정리합니다. 로이터에 따르면 FTSE100에서는 은행과 통신 업종이 지수를 끌어내린 핵심 약세 업종이었습니다. 유가가 배럴당 100달러 아래로 내려가면서 원유 가격에 연동된 에너지 업종도 상대적으로 부담을 받은 것으로 보입니다. Investing.com의 '유가 약세 속 하락' 제목도 이런 흐름을 시사합니다. 반대로 영국 홈인테리어·DIY 유통업체 킹피셔(Kingfisher)는 이날 급등해 FTSE100에서 가장 눈에 띈 개별 강세주였습니다. 대륙에서는 폭스바겐(Volkswagen)이 주가 하락 끝에 유로스톡스50 지수에서 편출된다는 소식이 나왔습니다. 유럽 대표 완성차 업체의 대형주 지수 제외는 자동차 업종의 상대적 부진을 상징하는 사건입니다. 이 밖에 Yahoo Finance UK는 1년 새 126% 오른 'FTSE100 최고의 성장주'를 다뤘지만, 요약에 종목명이 없어 본 보고서에서는 특정하지 않습니다. 유가 하락 국면에서는 대체로 항공·화학 등 에너지 비용 민감 업종이 유리하고 에너지 업종은 불리한 구도가 형성될 수 있습니다. 다만 이번 세션에 대해 해당 업종 수치를 확인할 수는 없습니다.",
+    "bullets": [
+     "약세: 영국 은행·통신 업종(FTSE100 하락 주도), 유가 연동 에너지 업종 부담",
+     "강세 개별주: 킹피셔(Kingfisher) 급등",
+     "폭스바겐: 주가 하락 속 유로스톡스50 편출",
+     "업종별 등락률 수치는 입력 자료에 없음"
+    ]
+   },
+   {
+    "heading": "ECB·BoE·거시",
+    "body": "입력 자료에는 유럽중앙은행(ECB)이나 영란은행(BoE)의 통화정책 발표·위원 발언을 직접 다룬 기사가 없습니다. 따라서 이번 세션에서 ECB·BoE가 시장을 움직인 재료는 확인되지 않습니다. 영국 거시지표로는 8월 공공부문 순차입(재정적자)이 183억 파운드로 발표됐고, 발표 직후 FTSE100이 장중 소폭 오른 것으로 보도됐습니다. 프랑스 부채 문제도 이날 시장의 관심사로 꼽혔습니다(Yahoo Finance UK). 이는 프랑스 국채 스프레드와 CAC40 금융주의 잠재적 변수입니다. 유럽 물가 경로에 가장 큰 변수는 유가입니다. 트럼프 대통령이 이란과 3시간 동안 회동했다고 밝힌 뒤 유가는 5거래일 연속 떨어졌고, 이후 배럴당 100달러 아래로 내려갔습니다. 에너지 가격 하락은 유로존·영국의 헤드라인 물가 부담을 줄여 ECB·BoE의 매파적 압력을 덜어줄 수 있는 요인입니다. 반면 미국에서는 시장이 연준의 연속 금리 인상 가능성을 반영하고 있고, 바킨 리치먼드 연은 총재도 추가 인상 가능성을 시사했습니다. 달러인덱스는 100.43(+0.21%), 유로/달러는 1.15(-0.13%)로 달러가 소폭 강세였습니다. 미·유럽 간 정책 금리 차 확대 기대가 유로화에 부담이 될 수 있다는 점은 주의해야 합니다.",
+    "bullets": [
+     "ECB·BoE 관련 직접 발표·발언 기사 없음",
+     "영국 8월 공공부문 차입 183억 파운드 → FTSE100 장중 소폭 상승",
+     "프랑스 부채 문제가 시장 관심사로 부각",
+     "유가 5거래일 연속 하락 후 배럴당 100달러 아래 → 유럽 물가 부담 완화 요인",
+     "연준 연속 인상 가능성 반영(바킨 발언), 달러인덱스 100.43(+0.21%), 유로/달러 1.15(-0.13%)"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "① 미·이란 외교: 이란이 미국의 군사적 압박 완화를 조건으로 7일 안에 호르무즈 해협을 다시 열 수 있다고 밝혔다는 보도(CNBC·Barron's)가 나왔습니다. 트럼프 대통령도 미국이 이란과 3시간 동안 만났다고 밝히면서 외교 재개 기대가 커졌습니다. 이 소식에 유가는 배럴당 100달러 아래로 내려갔고(WSJ는 '유가 또 급락'이라고 표현), 독일 DAX 기사도 호르무즈 재개방 보도를 상승 배경으로 꼽았습니다. ② 미·중 정상회담: 시진핑 중국 국가주석이 미국에 도착했습니다. 트럼프·시진핑 회담에서는 무역 안정과 딜이 주요 의제이고 AI·관세·이란 문제도 변수로 거론됩니다. 폴리티코는 시 주석이 새로운 에너지 협상 카드를 갖고 왔다고 보도했습니다. ③ 미국 디젤 수출 금지 검토: 미 재무장관은 11월 중간선거를 앞두고 높은 디젤 가격이 농민·운송업계를 압박하자 디젤 수출 금지가 가능한지 검토 중이라고 밝혔습니다. 유럽은 미국산 디젤 수입 의존도가 있어, 실제 시행되면 유럽 정제마진과 운송 비용에 변수가 될 수 있습니다. ④ 기업: 폭스바겐은 주가 하락 속에 유로스톡스50에서 편출되고, 영국 킹피셔는 급등했습니다. ⑤ 프랑스 부채 문제도 시장의 관심사로 남아 있습니다.",
+    "bullets": [
+     "이란, 7일 내 호르무즈 해협 재개방 가능 입장 보도 → 유가 배럴당 100달러 하회",
+     "트럼프 '이란과 3시간 회동' → 유가 5거래일 연속 하락",
+     "시진핑 방미, 트럼프·시진핑 정상회담(무역·AI·관세·이란)",
+     "미 행정부 디젤 수출 금지 검토",
+     "폭스바겐 유로스톡스50 편출, 킹피셔 급등"
+    ]
+   },
+   {
+    "heading": "미국·한국 영향",
+    "body": "미국: 표의 미국 지수(9/21)는 S&P500 7764.70(+1.49%), 나스닥 종합 27,122(+2.26%), 나스닥100 30,482(+2.83%), 필라델피아 반도체지수 12,433(+4.29%)로 기술·반도체 주도의 강한 상승이었습니다. VIX는 14.87로 낮은 수준입니다. 22일에는 호르무즈 재개방 기대로 유가가 급락한 반면 미국 주가 선물은 혼조를 보였다고 보도됐습니다. 유가 하락은 인플레이션 압력 완화 요인이지만, 시장이 연준 연속 인상 가능성을 반영하고 있어 금리 경로가 미국 기술주 밸류에이션의 핵심 변수입니다. 한국: 원/달러는 표 기준 1373.68(-0.81%, 9/22)이었고, 연합뉴스에 따르면 23일에는 미·이란 협상 소식에 6거래일 만에 1,340원대로 내려갔습니다. 유가 하락과 원화 강세는 한국의 수입물가·무역수지에 우호적이고, 항공·정유 이외 제조업의 원가 부담을 덜어줍니다. 반면 정유 업종은 재고평가 측면에서 부담이 될 수 있습니다. 23일 아시아 증시에서는 기술주가 상승을 이끌며 SK하이닉스와 삼성전자가 올랐습니다. 전날 미국 반도체지수 급등의 연장선으로 해석됩니다. 유럽에서 폭스바겐의 부진(유로스톡스50 편출)은 유럽 완성차 수요 부진을 시사해, 유럽향 배터리·부품 수출 기업에는 점검 요인입니다. 트럼프·시진핑 회담 결과는 관세·AI 반도체 규제를 통해 한국 반도체·수출주에 직접 영향을 줄 수 있어 주목해야 합니다.",
+    "bullets": [
+     "미국(9/21): S&P500 +1.49%, 나스닥100 +2.83%, 반도체지수 +4.29%, VIX 14.87",
+     "원/달러 1373.68(-0.81%, 9/22) → 23일 1,340원대로 하락(연합뉴스)",
+     "유가 하락: 한국 수입물가·무역수지·항공 등에 긍정적, 정유는 부담 가능",
+     "23일 아시아: SK하이닉스·삼성전자 상승, 기술주 주도",
+     "폭스바겐 부진 → 유럽향 배터리·자동차 부품 수출 점검 필요",
+     "트럼프·시진핑 회담 결과가 관세·반도체 규제 경로의 핵심 변수"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "킹피셔(Kingfisher)",
+    "ticker": "KGF.L",
+    "comment": "9/22 FTSE100이 약세였지만 급등해 영국 시장의 대표 강세주로 보도됨"
+   },
+   {
+    "name": "폭스바겐(Volkswagen)",
+    "ticker": "VOW3.DE",
+    "comment": "주가 하락 속 유로스톡스50에서 편출. 유럽 완성차 업종 부진을 상징"
+   },
+   {
+    "name": "SK하이닉스",
+    "ticker": "000660.KS",
+    "comment": "23일 아시아장에서 기술주 강세를 이끌며 상승(유럽 연관 시사점)"
+   },
+   {
+    "name": "삼성전자",
+    "ticker": "005930.KS",
+    "comment": "23일 아시아장에서 SK하이닉스와 함께 상승"
+   }
+  ],
+  "events_today": [
+   "미·이란 협상 진전 여부 및 호르무즈 해협 재개방(7일 내) 관련 후속 보도",
+   "트럼프·시진핑 미·중 정상회담 및 만찬(무역·관세·AI·이란 의제)",
+   "미 행정부의 디젤 수출 금지 검토 진행 상황",
+   "연준 위원 발언(연속 금리 인상 가능성) 및 유가 100달러 전후 흐름",
+   "폭스바겐 유로스톡스50 편출 관련 지수 리밸런싱"
+  ],
+  "headlines": [
+   {
+    "text": "이란 '7일 내 호르무즈 재개방' 제안 보도에 유가 100달러 하회, 유럽증시 대륙 강보합·영국 약세",
+    "importance": 5
+   },
+   {
+    "text": "9/22 DAX +0.10%, CAC40 +0.20%, FTSE100 은행·통신 약세로 하락. 전날(9/21) 스톡스600 +1.02% 급등 뒤 숨 고르기",
+    "importance": 4
+   },
+   {
+    "text": "폭스바겐, 주가 하락 속 유로스톡스50 편출",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "시세 표의 유럽 지수는 2026-09-21(월) 기준이며, 최신 세션인 9/22(화) 종가·지수 값은 표에 없어 기사에 나온 등락률만 인용함",
+   "9/22 FTSE100 등락률이 매체별로 다름(-0.29% vs -0.16%). 9/21 DAX도 표(+1.07%)와 기사(+1.04%)가 소폭 차이",
+   "ECB·BoE 통화정책 관련 기사가 입력에 없어 중앙은행 반응은 분석하지 못함",
+   "업종별 등락률, 수급, 개별 종목 등락률 데이터 없음. 뉴스 소스 대부분이 헤드라인·요약 수준",
+   "입력 기사 중 'Dax Hill'(미식축구) 기사는 시장과 무관해 제외"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "유럽증시, 미국과 이란간 외교적 돌파구 기대감 등 영향 영국 제외 대부분 올라⋯독일 강보합, 프랑스 0.20% 상승-영국 0.29% 하락마감",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXMUR0T0lLclcwVm5Hclk0TUxIM0NxdDd1aS1UUEREWkxRVGVfY2tKZlFUX3JaRTRxb2ZJRVIxVXhvOWR2Ti1WdUVXTS1tNVA2MlQzOVZ3amdzNG1MRXBFUko2QlktUVJidlV5THJoUQ?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "이코노뉴스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 06:33"
+  },
+  {
+   "title": "European stocks gain as markets upbeat on potential US-Iran talks",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN0x2cHdrclVPYUxUejBiVDl5UmFuS3J0NVh6OHFvQlZlM1BMdzhQVEFLQ0VCclZ2QTVfRFJrQ3Z1dHR1OWIyb3R2b3ZTTlVTdjN4M19kOTR2alpIWnBjYy1WWkgwaWd0VEpST0V1Z1d0T3lhRUJhTnpxeHZBYkFlT1puakllM09sdUFScjE3ZW1RdFk5OU5Ba3RKUGxUQWZNakVWRTE5SmFmVmx0bmt1ODVwOV9CQUJOZXRhZXFTTE53b29ZSE5VUm90ZlVoMmJ0?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 01:24"
+  },
+  {
+   "title": "European Shares Rise as Oil Prices Ease, With UN Diplomacy and French Debt in Focus: DAX, CAC, FTSE100",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZDZ1dExLYTFqMlJiUG9ucmVhb1pVUlVwVmt2VXkwMnYzS3JVYnRET1c2cm5wd1N4RGo2NVRlTXh5S0x5UHl2cG1XYVZFZklsVTFnTzhBMGhqYlBCZXRGZUR6TXg4amRNVWhtcGdtRTBqUTZpT2ItN1Q3alQ3SmhmcUFLSnpuMkU?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 22:09"
+  },
+  {
+   "title": "Volkswagen Exits Euro Stoxx 50 Amid Decline",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXZPRXZxemVLYmFvVms5R0ptU21BRE1Hcy1DS1AzQUNPNjdZTDU0dTJYYm00SXUxb1U4SzRJZkR5NzNRQ2RmR1dEMVFlckRuZFhkRUFYNWxrMlQtdFZJZWZhY25ubFhJdTJ5QlVyMFNLRURwaDZIaFg4WlRsbTllNnpCUlQ?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "조선일보",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 05:15"
+  },
+  {
+   "title": "유럽증시, 유가 내림세에 소폭 상승…범유럽지수 강보합",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFMFloeTVsLU83bDBweTQ0NmxkcDZsX2EycEhJak1Ia1ZMMXhlZ0pUQkcwMmY4d1V3elRYU1FsQVFlMHJvVmUyMmxNUzhtM0VndmJwa0sxTTNIdzhH?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 02:43"
+  },
+  {
+   "title": "FTSE 100 today: Stocks slide as oil subdued, Kingfisher surges",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2hrek1QdU5lTC04ZDhpTlFwLUszRlhMeFNPRmtxaWRzVWtBNEhWOHBMQTY1TDRrbVF3Q0I1WU9ZbU8wODZucWh0Mi1QZEc4NlNtVzZyZW5lZGZoOHk3LWhUaG9VRUtiLVFCOEVVZWV2bTd0UGt6RmNiSGFnOG8yNnNZRzY2MEZTb2hzMkRIVlB1OWtCMjRpc3RNSW9mSndOVy1rUjJrRG5td2NSdE5mWHhMQUFyVm9QYnNoVDlXX2trRXRwWHlfMTRxZEk?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 02:34"
+  },
+  {
+   "title": "Germany stocks higher at close of trade; DAX up 0.10%",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2V4WTJuQzFRYzhfLXBuVGd3bkgxWENfRDhvb0FvNWlFLWlaS2JialJuYkJFanNFVTVQWWJWRmo5dV9VMzBfbUo1aWxhelBNWEdUUW0wbks1RjJ0ejdmYXlKOGpXbWt5dUtCbk9VeG9fSjFzdU1MRURTTlJ6bW5XYjFIdHMySGQtamlJd183SnZWdGNqX2E2cFBxdlRRZTJhcjQxTGtadDJfRDQ?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 01:16"
+  },
+  {
+   "title": "DAX Closes on Cautious Note",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1FDLVcxVWZSdkdjTktzNGRlY3FNRFdmVHhqcE9hSkZuMmtXRGlocUg4VUZjUTRZa0JuenlkR3ZYUzM5Qkw5WDd6UTI2ZkNyQ1N5VnJMZnBsMEVoYkhZbVhCaHN0UklCRjVqb09ySGxhSkhZNDJTRTEwdm5UR2NaeXF5aW0?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 01:16"
+  },
+  {
+   "title": "Banks, telecoms weigh on FTSE 100; focus on US-Iran talks",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3JCUDhubW1Yb0o4bFpaMFdtVE9oYVVuUll5R0tpVS1YNXpjd285eWxWa1ZDUklJd0ZBNnZJdnJQdEVnZmJ6czA1TEYtMmFhNjlUcWZGeDdhMFdpNXRJd21TaWlmcjRiWTBHNEpDVmg2U0RicWlnUWNWRFkyUy01WXA4c09OREpKM2JNWUk5dHEyNDQ0SWM1U3BudkhJUENDWXVjdlUyRl9nZw?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 01:11"
+  },
+  {
+   "title": "The FTSE 100 Index Closes 0.16% Lower",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDVyOEU4dXNYekVKTkQ4V3ZXQW9ocjJZdVUwajhZSFRobHlxSE9yR25lZDVyZEhtQkw4dXlBeUVkNHBET0lrZW4tNXBudlFXY0o3azFqaERrVTRhZGRxMndwOTBCQmhPTHQweVZlNWlJdURHX0Nkdml0T2lnSVZIRy1jb2NfQ0xtR0JNSDc2WnA?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 01:07"
+  },
+  {
+   "title": "European Stocks Inch Higher",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUZWeG9JZnNDTWNyYWRGYUxoSG1lMHlZWEtmVlhLNnYxV2h2SjFUUUkyTVRKcnNvTFNhZDlycXRYQmJwWThIaldUWUdSbXNKYXF0cmJKd0JraVFXVlFlSTFVcExyMjFBandkaVBVZEIyZ3JneUtWZFNaRi0wbkhmd0plWEk?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 00:58"
+  },
+  {
+   "title": "Germany's DAX Index Rises Amid Reports of Potential Strait of Hormuz Reopening",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUl2aWNTbHgxbFdJbDBzd3ExRkp3WElkWEpjZ200VFExaTZtcDE4NjJWSU9qQjhzMHMzUHp6eGJzcHVCalNmSXBRcnNGeFFqTG4tMHlBcEEtS1hoSjRIUDhWTGY4TF9mTVN1LVc3VzdKUzFxb3hoN2xNeS1tMjlWSmdWTTJ2NTFfbVlDWkdCU1duY0t4RG5WUnVQQnIzZ2psZnZKQnA4TTFWM0o1RUhOT0NLeG43cS0yaXByTE03cjZTV1U4Vjhlc3lJYw?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "marketscreener.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 00:49"
+  },
+  {
+   "title": "FTSE 100 Edges Down on Tuesday",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnNDeVYyZ3FqQjVrcW1qTmQxa3l0aXRwRHJRRFktTDQ2bllRZVBGemVndWx6NmFCZHpOZmVaV0xKZUI4bkJwQ0Fvd1hTa0NTVy00MGZOVF9NVmk4OUJTc01KbC1hVHFNNVl0aC1pQk1HUDJEbFk4R3g1SjFUdEU3Z0tvS0FrQ3h2?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 00:45"
+  },
+  {
+   "title": "FTSE 100 Edges Higher as UK Borrowing Reaches £18.3 Billion in August",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XS3hjNS1CY01oQkRzVEpTaVdtMFVhV3NtV3Q1TnRJTFZpOEI3STBmLWVVQVBUd0hQU3RPNXNhZHVpN3dBUmxROHJqXzVhc0RyNTBHWEZnRWo3M3JKSTJXeFRqSzRyZ1d2V0ExSF9MdG5RM09jUmhQenVYREdMdw?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 17:56"
+  },
+  {
+   "title": "유럽 증시 혼조세: UN 외교 움직임에 유가 진정",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NWUwwTmZTOWRXd1lYSlYtODRqM3lVeUNRWUw2bkJqUnNlMFNsbl9UM05YUVNYUFJrUlR0RXlWc1d0emFGUlhGR3JSaVktWTNEMzRpVk4xX0xwQ2NKb1RpN1E3QWZ6OTdFeGFMU3Z6YlI?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 16:11"
+  },
+  {
+   "title": "유럽증시, 국제유가 하락 등 영향 일제히 올라⋯독일 1.04%-양국 0.75% 상승마감",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jaUpUVUtsSXVnWWhPdGtCaURSUG1xUTA1am53X1pHN1hxcWQ4bVkxb0tBaXZsY3NfWTZCblhwRTk5ZzJRYmtOMkdLcThPOEVUV2t4dFpNNUpyLVNNbXJTT3hodnBObVJwbW5lVnd4QQ?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "이코노뉴스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 07:19"
+  },
+  {
+   "title": "Inside Bengals CB Dax Hill's Record Game",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXRPSXBmYmVKRmlLRFdqNjQ5VWlWNk9DNWNJcVNYWnRuTVV0WHlxSzBTX1JrODdfaTNDWW1rVk4yS0pPaG5tc2tsUDU2YjZkaFRUNGk4SWdvdHhVZGU1ZmFJa2NjVHZ6bXNiMENlNl9fTVI0WXpWTE5XWjI1TllLZ3B3VVpZN3Vx?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Cincinnati Bengals",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 07:01"
+  },
+  {
+   "title": "Up 126% in a year! Can the FTSE 100’s best growth stock keep smashing it?",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmOGpnS2lMN29MdU14UWJtVGE1WWY1WHZUWFRuOHlhTkxrc0lkVmt5c3UxUG5BRUZZV01mOEZhRGxuU1k2ZWEtSGRfblhXOG5GTnhhLW1WMWFLMlVDbGU4cGVpWEF2ZEJxMFppWGRKXzM4WTFobnNpVXVZNkhUZw?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-23 01:11"
+  },
+  {
+   "title": "GBP/USD, DAX Forecast Two trades to watch 220926",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXZlczNBR2RMS0FTWkoyTnV2MlhtS3pDdGhTOG5SUG0wdHctMmU5a0ZnNFVRNWxjX3I2aUdfamNKVElObUVKT2EwaElQTlhVVHgxdFpVZzNfTXVxbk9YSWJvWkQyQ2hKRDdjeC1UMFdWdTFubHN1djJ2UXhkeDNrS19RekpLRzNfeWU5MkVnX0J6VzV3NFlJRXNIOA?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "stonex.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-09-22 17:44"
+  },
+  {
+   "title": "Oil prices slip below $100 per barrel",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFh4OVJvMlJtaUVjRk1waDhVSV9IMWtOWkpjQmJpVFlacmFJTmE2V0lKbDR6VkZhWWdDQVA4VFpkM3MxY1ZLSmhheHhkSVM1azBGU1MyZVNkdHJPUmc1YUt4Mm1QMXltR2pJYVFIVG9sNDVIODJ4LTV2Wl91d1pWQ2N3?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "ABC Columbia",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-23 06:47"
+  },
+  {
+   "title": "Oil Prices Tumble Again",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04SzctMDNsU3pqSnBUejhaU04wTmgyMG9CUjhVWHFGeVhzTDc5dDdXTnBaQjIwYmpaTFFhOVBwM1A4aERoQ3lreG92djFqMGNiQTRpN3JKNWJiWmNXU3JiWEVoUVhMYVY5UWh0eXR4Z3JCUkM5Qmc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-23 05:40"
+  },
+  {
+   "title": "Oil Prices Fall on U.S.-Iran Diplomacy Hopes",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0dWcVNNMlhnbkxPYlRmRnlNblltd1JsbHNab0pINjBpTGFPYlR0aTdiZ1ZfRzNXMlJTRXhMeTF1S0xxY29pUk84UzFxQ3dmZy11S0VEWFZjMmczOXE3cjRBTFFQMDF1NlFERTJaYkZHSURES0JySlNQWHhOSGV4SC1yWGdlSXJLaE1TNjc0a1Y2YXdKR1hieEd4cw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-23 04:26"
+  },
+  {
+   "title": "Markets Signal Fed Could Deliver Consecutive Rate Hikes",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmhNUmJsR2NFaFlETUgzc1RqWFd6SU52bUtsbFlaQ0dHVkVReXBoaFZkSmNHUWE1WF9zX29BNklWbmNIRGo5RFVPdkUxdXBJTUlQaFEwZzVwdUV2SFZudjBiLWFaRlBDT1NmNzdsc3VlYVZIc3lpZzdrUE9CdW5UTUp1dW5kM2JxWTNHcDlTdTdyaWwwdGM4d09Da0tQUFQ4b2VCVjZnYktCOGhj?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Forbes",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-23 01:26"
+  },
+  {
+   "title": "환율, 미·이란 협상 소식에…6거래일만에 1,340원대로 하락",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VeW53TGJCTHFiS2YxYlF2VmlWMlNmMXRobDktWjdfVVNoa0tJa19xNWsxdTY0MlVBYnpvN3dYb0ZxSVFVWEpUTEZ0NFlfTzdFMlR2RzlQaU8taUdLMGZ1WdIBYEFVX3lxTE5VeW53TGJCTHFiS2YxYlF2VmlWMlNmMXRobDktWjdfVVNoa0tJa19xNWsxdTY0MlVBYnpvN3dYb0ZxSVFVWEpUTEZ0NFlfTzdFMlR2RzlQaU8taUdLMGZ1WQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-23 09:29"
+  },
+  {
+   "title": "9월 소비심리 한 달 만에 반등…집값·금리 전망은 ‘고공행진’",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5MlF4SDV2Vy02VXVianJESVhvQXlJWkM2N1FPRmRlVUxHSG15eUNEQlFPZE9aamoxUElvbGtVOVhWMmM3NHJEZHRsSUl2UlE?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "v.daum.net",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-23 09:12"
+  },
+  {
+   "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-23 08:43"
+  },
+  {
+   "title": "Fed’s Barkin signals more rate hikes may be coming",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONklvWmRfSmNTaUIyaFIxZUw1bUExTGt6a2h1YldMblhpdW5OSkNhaFU3QjNzUjJrQ3ZfQlFLMXVvdk5jcWg3Y3lIQ1ZydGM2aXJ0cFg2Y3NEYnVkREh6QmFaa3BEMERhcjJWc0trempKZE5YQWJLVVhQZ19wVTFVcDVWRnBjRGxPcWw0RWRn?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Scotsman Guide",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-09-23 08:43"
+  },
+  {
+   "title": "Oil Prices Drop below $100 on Report Iran Has Offered to Open Hormuz in 7 Days",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0d0hCaE5KX0EtVGFnbzR3MXR1WDQtTFFqR1FhQms4YlpxZVM3QWZoeE5OX0dzWlRWbU1aWXVYcFVneVlVLXVXamlBeXpwUUJGeHFsMWI2UGFIRllVakJnMjYyRWRFcmNZMl9ST1hzUzhUaVYwSHBadw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barron's",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 23:19"
+  },
+  {
+   "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
+   "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-22 23:05"
+  },
+  {
+   "title": "뉴욕증시 프리뷰, 주가 선물 혼조… 호르무즈 재개방 기대에 유가 급락",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pYTd2M2VxVFBTM0s5ZVptNTNuUmVsUS1LUWtUc0FpSGxPdVNRZElvLXNrQmVfdnRVYko4RUt5eEFYekkzazdkbzJYRHl0MGcxd19RbmJSNzd2Qzkx?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-09-22 21:41"
+  },
+  {
+   "title": "Oil prices fall for fifth day after Trump says U.S. met with Iran for three hours",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uMDd4VUtvMk9TNGl6Q1oxYzVidXhGeG9uRFZWajBlMDFhLW9uY0Nncng3aUJOWDhBdDlPeExheFZFeFpfSFQ5R2cxOS1HUlZGQjJRcndueUdnY1VmQnp2bmtpeWQ5LTFfRks0eThPU2hLQjDSAXhBVV95cUxPMW5YX2hUb29hbmhIRHNGU1JoLW9QREdJZUwzcEZQbVZYWW9mejlneF9tNDJhX0Vsb0hjZkJhOWNmSGJjNzdHcWY0ZWhZRlpvWnBWY1lRRElyakpFZDhsM1BZbzZXZjRWYTkwZDlrVjBxTUNVX3VuOF8?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "cnbc.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-22 13:22"
+  },
+  {
+   "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+   "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-22 07:25"
+  },
+  {
+   "title": "SK Hynix, Samsung gain as Asian stocks edge higher and tech leads, oil slips",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYnRxbGxmSWJNN0pLZmZFTklwQ25YZ3IwNEhlZ1NoWi01a3cxeW9oempwTkhOdTZYaHNRVzUzaGpCUDFLNFZ2clZpdGdtMjhta25CYXlzZVJRQ0c5bUNycUFKWGV6Vld1dWY1YXM3NmFRYW1RY081akM0WThqNlp4LTlmRHZKNXhRZDJRb0lvTXp0Y2RTRnNZc0RlOGJYQlI0MVZUcHdLSXhPTlRuenUzVFF2Yk5CTE5lbnQ1ZXhMYmF2WXl3QllmNnFsUC1tWVFvUVFHUGNDU3VxdnAxZTBRZkh1dw?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "businesstimes.com.sg",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-23 09:44"
+  },
+  {
+   "title": "Here's who we know is going to the Trump-Xi dinner so far",
+   "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-23 08:43"
+  },
+  {
+   "title": "Chinese president arrives in US with new energy leverage as war rattles global markets",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzI3VXBjTVEzcUE5QnViVHVPRjV1UHdSNVZJSUU2dUppNUdhejFCWURocGpnaGZvd1hQZHVsMXhBM0loTUZhcTd6d0JpWkYyN1cwZmNtakJfVjhkNTlJZXRJN1dnY0RLbkNEZzdCSTJzRVlrZzExX2M3eS13RnJWWl9ScHpqNHhQZjRnUjRQWlZEeWdRVHlsTHZOZVZHMURGSVhhOVh5ZE1HR2pzNDgtajNEbHZXTHB0QmJ5RDhOUnM3UmVfYmlUNW9vbmtSbmJnRUFid0hoYnU?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "politico.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-23 06:00"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}
