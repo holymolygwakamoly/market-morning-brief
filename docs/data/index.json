@@ -1,6 +1,12 @@
 {
  "dates": [
   {
+   "date": "2026-09-29",
+   "result": "degraded",
+   "updated_at_kst": "2026-09-29T13:20:13.984270+09:00",
+   "topics_ok": 6
+  },
+  {
    "date": "2026-09-24",
    "result": "success",
    "updated_at_kst": "2026-09-24T14:05:52.020474+09:00",
@@ -37,5 +43,5 @@
    "topics_ok": 6
   }
  ],
- "generated_at_kst": "2026-09-24T14:05:52.110001+09:00"
+ "generated_at_kst": "2026-09-29T13:20:14.160435+09:00"
 }

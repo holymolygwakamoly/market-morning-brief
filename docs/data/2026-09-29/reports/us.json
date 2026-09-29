@@ -1,0 +1,771 @@
+{
+ "topic": "us",
+ "name": "미국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-09-29T13:20:14.000399+09:00",
+ "report": {
+  "title": "미국 증시 마감(9/28): 호르무즈 해법 거부로 유가·금리가 오르고 AI 안전성 우려가 겹쳐 3대 지수 하락, 엔비디아만 강세",
+  "overview": "9월 28일 미국 증시는 3대 지수가 모두 내렸습니다. 트럼프 대통령이 호르무즈 해협 재개방을 위한 이란의 '7일 계획'을 거부하자 유가와 국채금리가 함께 올랐습니다. 여기에 OpenAI의 차기 모델 출시 철회와 AI 보안 사고로 AI 안전성 우려가 커졌습니다. S&P500은 -0.77%(7683.69), 나스닥 종합은 -0.92%, 다우는 -0.67%, 필라델피아 반도체지수(SOX)는 -1.61%로 마감했고 VIX는 +8.07% 오른 16.07입니다. 미 10년물 금리는 5.24%로 0.06%p 올랐습니다. S&P500 구성종목은 상승 162, 하락 335로 하락 종목이 두 배를 넘었습니다. 반도체·통신서비스·경기소비재·방산은 약했고 바이오·헬스케어·필수소비재는 강해 방어주로 돈이 옮겨갔습니다. 엔비디아는 미국 기업 사상 최대인 1,500억 달러 자사주 매입 승인으로 +1.68% 올라 반도체 약세 속에서 홀로 올랐습니다. 반면 Arm(-8.70%), 퀄컴(-7.17%), 인텔(-5.67%), 마이크론(-2.61%), 샌디스크(-3.65%)는 약세였습니다. 전날 반도체 대형주가 5%대 급락했던 한국 반도체주에는 오늘도 부담이 이어질 것으로 보입니다. 수요일 장 마감 뒤 나오는 마이크론 실적이 AI 반도체 흐름을 가를 이번 주 핵심 시험대입니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "주요 지수 마감은 다음과 같습니다.\n- S&P500: 7683.69(-59.72p, -0.77%)\n- 나스닥 종합: 26,820(-248.34p, -0.92%)\n- 나스닥100: 30,277(-331.32p, -1.08%)\n- 다우: 51,482(-347.11p, -0.67%)\n- 러셀2000: 2817.91(-0.69%)\n- 필라델피아 반도체지수(SOX): 12,465(-203.69p, -1.61%)\n- VIX: 16.07(+1.20p, +8.07%)\n\n나스닥100과 SOX의 낙폭이 가장 컸습니다. 기술·반도체 중심의 하락이었다는 뜻입니다.\n\n하락의 첫째 배경은 지정학과 유가입니다. 한국경제·알자지라·야후파이낸스 보도에 따르면 트럼프 대통령이 호르무즈 해협 재개방을 위한 이란의 '7일 계획'을 거부했습니다. 미·이란 협상이 멈췄다 이어지기를 반복하면서 빠른 타결 기대가 약해졌고, 유가는 다시 뛰었습니다(기사 보도 기준 배럴당 108달러 상회, 3% 급등). 유가 상승은 곧 인플레이션과 금리 우려로 번졌습니다. 미 10년물 금리는 5.24%(+0.06%p), 5년물은 5.07%(+0.06%p)로 올랐고, 3개월물은 4.06%로 소폭 내렸습니다. 중·장기 금리가 주로 올라 금리 곡선이 가팔라진 셈입니다. FT는 채권 매도세가 깊어졌다고 전했습니다. 연준 쿡 이사도 AI와 유가가 계속 인플레이션을 밀어올릴 것이라고 경고했습니다.\n\n둘째 배경은 AI 안전성 우려입니다. AI 보안 사고(breach)로 안전성 논란이 커진 데다, OpenAI가 안전 문제로 차기 모델 출시 계획을 철회했습니다. 칸나 하원의원은 '재귀적 AI 기술' 금지를 담은 AI 안전 법안을 발의할 예정입니다. 마이클 버리는 AI 버블이 예상보다 빨리 꺼질 수 있다고 경고했습니다. 이 소식들이 이어지며 반도체·스토리지·네오클라우드 종목이 함께 밀렸습니다. 키플링어는 이날 장을 '전쟁의 안개와 AI 공포'로 요약했습니다.\n\n장중에는 하락을 줄이는 재료도 있었습니다. 사우디 송유관 재가동으로 유가 상승폭이 줄었고, 트럼프 대통령이 핵 문제 진전을 조건으로 이란에 제재 완화를 제안했다는 보도에 트레이더들이 타결 가능성을 다시 높였습니다. 그러나 지수를 되돌리기에는 역부족이었습니다.\n\n직전 거래일에는 중동 긴장 완화 기대로 미 증시가 올랐는데, 하루 만에 흐름이 뒤집혔습니다. 한국경제는 S&P500이 9월 들어 하락으로 돌아섰다고 전했고, AP는 금리 상승으로 증시가 사상 최고치에서 더 멀어졌다고 보도했습니다.",
+    "bullets": [
+     "S&P500 7683.69(-0.77%), 나스닥 종합 26,820(-0.92%), 나스닥100 30,277(-1.08%), 다우 51,482(-0.67%), 러셀2000 2817.91(-0.69%)",
+     "SOX 12,465(-1.61%)로 주요 지수 가운데 낙폭이 가장 컸음",
+     "VIX 16.07(+8.07%): 오름폭은 컸지만 절대 수준은 아직 공포 구간과 거리가 있음",
+     "미 10년물 5.24%(+0.06%p), 5년물 5.07%(+0.06%p) 상승 → 유가발 인플레이션·금리 부담",
+     "하락 배경: 트럼프의 이란 '7일 계획' 거부 → 유가·금리 동반 상승, 여기에 OpenAI 모델 출시 철회 등 AI 안전성 우려",
+     "하락을 줄인 재료: 사우디 송유관 재가동, 대이란 제재 완화 제안 보도"
+    ]
+   },
+   {
+    "heading": "시장 폭과 거래",
+    "body": "시장 폭은 뚜렷하게 나빴습니다. S&P500 503종목 가운데 상승 162, 하락 335, 보합 6으로 하락 종목이 상승 종목의 약 2배였습니다. 나스닥100도 101종목 중 상승 38, 하락 63입니다. 지수 낙폭(-0.77%~-1.08%)은 크지 않았지만, 하락이 일부 대형주에 그치지 않고 넓게 퍼졌습니다.\n\n다만 러셀2000이 -0.69%로 S&P500과 비슷하게 내린 점을 보면, 금리 상승에 따른 중소형주 투매로까지 번지지는 않았습니다.\n\n거래대금(추정)은 AI·반도체 대형주에 몰렸습니다(단위는 입력 표 기준).\n- S&P500 기준 1위: 엔비디아(NVDA) 323억, +1.68%\n- 이어서 마이크론(MU) 231억(-2.61%), 메타(META) 198억(-4.79%), 테슬라(TSLA) 137억(-3.94%), AMD 133억(-3.61%), 인텔(INTC) 128억(-5.67%), 샌디스크(SNDK) 113억(-3.65%), 애플(AAPL) 110억(-0.78%), 마이크로소프트(MSFT) 100억(-1.35%), 아마존(AMZN) 78억(-1.41%)\n- 나스닥100 표에서는 스페이스X(SPCX)도 119억(-2.16%)으로 상위권에 들었습니다.\n\n거래대금 상위 10종목 가운데 오른 종목은 엔비디아 하나뿐입니다. 자사주 매입이라는 개별 호재가 있는 종목만 살아남고 나머지 AI 대형주는 일제히 팔렸습니다. 같은 AI 안에서도 종목을 가려 담았다는 점이 확인됩니다.\n\nVIX는 16.07로 하루 새 8.07% 올랐습니다. 헤지 수요가 늘어난 것은 분명하지만, 수준 자체는 극단적 공포와 거리가 있습니다. 중동 협상 결과를 두고 경계심이 커진 정도로 해석하는 것이 적절합니다.\n\n참고로 이 보고서에 쓴 무료 데이터 소스에는 미국 기관·개인·외국인 투자자별 매매 동향이 없습니다. 따라서 위 수급 판단은 종목 수, 거래대금, 변동성 지표에서 간접적으로 추정한 것입니다.",
+    "bullets": [
+     "S&P500: 상승 162 / 하락 335 / 보합 6 → 하락이 시장 전반으로 확산",
+     "나스닥100: 상승 38 / 하락 63",
+     "거래대금 1위 엔비디아(323억, +1.68%)는 상위 10종목 중 유일한 상승 → AI 내부 종목 차별화",
+     "마이크론(231억, -2.61%), 메타(198억, -4.79%), 인텔(128억, -5.67%) 등 AI·반도체 대형주에 매물 집중",
+     "VIX 16.07(+8.07%): 경계심은 커졌지만 공포 수준은 아님",
+     "무료 소스 한계로 기관·개인 수급 데이터 없음 → 수급은 간접 추정"
+    ]
+   },
+   {
+    "heading": "섹터 동향",
+    "body": "섹터 ETF 등락률은 다음과 같습니다.\n\n상승(4개):\n- 바이오(XBI) +1.02%\n- 헬스케어(XLV) +0.33%\n- 필수소비재(XLP) +0.27%\n- 에너지(XLE) +0.10%\n\n하락(10개, 낙폭 작은 순):\n- 부동산(XLRE) -0.51%\n- 소재(XLB) -0.66%, 유틸리티(XLU) -0.66%\n- 기술(XLK) -0.89%\n- 산업재(XLI) -0.97%\n- 금융(XLF) -1.19%\n- 경기소비재(XLY) -1.41%\n- 커뮤니케이션(XLC) -1.58%\n- 반도체(SOXX) -2.08%\n- 방산(ITA) -2.13%\n\n강한 섹터는 경기방어 성격의 헬스케어·바이오·필수소비재입니다. 유가·금리 동반 상승과 AI 안전성 우려로 성장주를 피하려는 심리가 커지며 방어주로 자금이 옮겨간 것으로 보입니다. 구성종목 표에서도 인튜이티브서지컬(+2.37%), 메틀러토레도(+2.22%), 워터스(+2.17%), 쿠퍼컴퍼니스(+2.15%), 비아트리스(+2.47%) 등 헬스케어 종목이 상승 상위에 대거 올랐습니다.\n\n에너지는 기사 기준 유가가 3% 급등했는데도 +0.10%에 그쳤습니다. 사우디 송유관 재가동으로 유가 상승폭이 줄어든 영향이 있었던 것으로 보입니다.\n\n가장 약한 섹터는 방산(ITA, -2.13%)과 반도체(SOXX, -2.08%)입니다.\n- 방산: 미 연방항공청(FAA)이 소프트웨어 문제로 보잉 737 맥스10 인증을 미룬다고 밝혀 보잉이 -6.91% 급락했고, 허니웰 에어로스페이스(-4.07%)도 약세여서 항공우주 비중이 큰 ITA가 크게 밀렸습니다.\n- 반도체: AI 안전성 우려와 금리 상승이 겹쳐 Arm·퀄컴·인텔·마벨·마이크론·샌디스크 등이 크게 내렸습니다. 엔비디아(+1.68%)와 ASML(+1.58%)만 올랐습니다.\n\n커뮤니케이션(-1.58%)은 메타(-4.79%)와 레딧(-4.51%)이, 경기소비재(-1.41%)는 테슬라(-3.94%)·도어대시(-7.74%)·카바나(-7.06%)가 끌어내렸습니다.\n\n금융(-1.19%)과 유틸리티(-0.66%)·부동산(-0.51%) 약세는 금리 상승 부담과 맞물려 있습니다. 전반적으로 '성장·경기민감 매도, 방어 매수' 구도입니다.",
+    "bullets": [
+     "상승 섹터: 바이오 XBI(+1.02%), 헬스케어 XLV(+0.33%), 필수소비재 XLP(+0.27%), 에너지 XLE(+0.10%)",
+     "최약세: 방산 ITA(-2.13%) — 보잉 737 맥스10 인증 지연(보잉 -6.91%)",
+     "반도체 SOXX -2.08%: AI 안전성 우려와 금리 상승, 엔비디아·ASML만 상승",
+     "커뮤니케이션 XLC -1.58%(메타 -4.79%), 경기소비재 XLY -1.41%(테슬라 -3.94%, 도어대시 -7.74%)",
+     "금리 민감 업종도 약세: 금융 XLF -1.19%, 유틸리티 XLU -0.66%, 부동산 XLRE -0.51%",
+     "에너지는 유가 급등에도 +0.10%에 그침(사우디 송유관 재가동으로 유가 상승폭 축소)"
+    ]
+   },
+   {
+    "heading": "주도주와 급등락",
+    "body": "■ 상승 쪽\n\n엔비디아(NVDA) +1.68%(228.86달러)\n- 거래대금 1위(323억)입니다.\n- 1,500억 달러 규모의 자사주 매입을 추가 승인했습니다. CNBC는 역사상 최대 규모의 자사주 매입 한도 증액이라고 보도했습니다. 매입 기간은 2028년 1월까지이며, 회사는 '장기 기회에 대한 자신감'을 반영했다고 밝혔습니다.\n- 오픈소스 AI 플랫폼 허깅페이스를 약 130억 달러에 인수하기로 한 소식(CNBC), AI 에이전트 보안 플랫폼 공개 소식도 함께 나왔습니다.\n- 야후파이낸스는 반도체주가 AI 보안 사고로 하락하는 가운데 엔비디아만 흐름을 거슬렀다고 짚었습니다.\n\n사이버보안주\n- 팰로앨토네트웍스(PANW) +4.63%: S&P500·나스닥100 상승 1위\n- 크라우드스트라이크(CRWD) +2.82%, 포티넷(FTNT) +1.65%\n- 개별 상승 이유를 다룬 기사는 입력에 없습니다. 다만 AI 보안 사고로 안전성 우려가 커진 날이라 보안 수요 기대가 반영됐을 가능성이 있습니다(추정).\n\n기타 상승 종목\n- 파라마운트 스카이댄스(PSKY) +3.21%, 에버퓨어(P) +2.70%, 뉴스코프(NWSA) +2.14%\n- 헬스케어 종목들도 강세였습니다(섹터 동향 참고).\n\n■ 하락 쪽\n\n- 블룸에너지(BE) -8.95%: S&P500 하락 1위, 거래대금 41억. 개별 사유 기사는 없습니다. 반도체·스토리지·네오클라우드가 동반 하락한 날이라 AI 인프라·전력 관련주 약세의 연장으로 보입니다(추정).\n- Arm(ARM) -8.70%: 나스닥100 하락 1위.\n- 퀄컴(QCOM) -7.17%: 개별 악재 기사는 없고, AI·반도체 약세 흐름 속에서 크게 밀렸습니다.\n- 인텔(INTC) -5.67%(거래대금 128억): 24/7 월스트리트는 '유가발 금리 우려'로 인텔이 급락했다고 보도했습니다.\n- 마벨(MRVL) -3.83%, 마이크론(MU) -2.61%: 트레이딩뷰는 마벨·셈텍·래티스·마이크론이 함께 하락했다고 전했습니다.\n- 코히런트(COHR) -4.52%, 샌디스크(SNDK) -3.65%, AMD -3.61%\n- AMD는 CNBC 보도대로 장중 시가총액 1조 달러 클럽에 잠시 들었고, 월드랩스 인수와 페이페이 리 영입을 발표했습니다. 그러나 마감 시가총액은 표 기준 9,923억에 그쳤습니다.\n- 메타(META) -4.79%(거래대금 198억): 몽고DB CEO CJ 데사이를 영입해 엔터프라이즈 플랫폼 조직을 새로 만든다고 발표했습니다. 이 소식에 몽고DB 주가는 약 20% 급락했습니다(MarketWatch).\n- 보잉(BA) -6.91%: FAA가 소프트웨어 문제로 737 맥스10 인증을 미뤘습니다.\n- 테슬라(TSLA) -3.94%, 스페이스X(SPCX) -2.16%: 뉴욕시의회가 머스크와 스페이스XAI를 AI 안전성 조사와 관련해 소환했다는 보도가 있었습니다. 스페이스X는 스타십 첫 궤도 비행에 성공했고, AI 데이터센터 연산력 임대가 새 성장동력으로 거론됐지만 주가는 내렸습니다.\n- 도어대시(DASH) -7.74%, 카바나(CVNA) -7.06%, 리제네론(REGN) -4.54%, 레딧(RDDT) -4.51%: 개별 사유는 입력 기사에서 확인되지 않습니다.",
+    "bullets": [
+     "엔비디아 +1.68%: 사상 최대 1,500억 달러 자사주 매입 추가 승인, 거래대금 1위(323억)",
+     "보안주 강세: 팰로앨토 +4.63%, 크라우드스트라이크 +2.82%, 포티넷 +1.65%(AI 보안 수요 기대 추정)",
+     "블룸에너지 -8.95%, Arm -8.70%, 퀄컴 -7.17%, 인텔 -5.67% → AI 인프라·반도체 급락",
+     "메타 -4.79%: 몽고DB CEO 영입해 엔터프라이즈 조직 신설, 몽고DB는 약 20% 급락",
+     "보잉 -6.91%: FAA의 737 맥스10 인증 지연",
+     "AMD -3.61%: 장중 시총 1조 달러를 잠시 넘었으나 하락 마감, 월드랩스 인수 발표"
+    ]
+   },
+   {
+    "heading": "실적·기업 뉴스",
+    "body": "1) 엔비디아\n- 1,500억 달러 규모 자사주 매입 한도를 추가 승인했습니다. 한국경제는 미국 기업 사상 최대치라고 보도했습니다. 매입 기간은 2028년 1월까지입니다.\n- 오픈소스 AI 플랫폼 허깅페이스를 약 130억 달러에 인수하기로 했습니다. CNBC에 따르면 인수 전 OpenAI가 초기 투자를 제안하면서 인수 경쟁이 붙었습니다.\n- AI 에이전트 보안 플랫폼도 공개했습니다.\n\n2) AMD\n- AI 스타트업 월드랩스를 인수하고, AI 분야 개척자인 페이페이 리를 최고과학자로 영입합니다(MarketWatch).\n- CNBC의 짐 크레이머는 에이전틱 AI 확산이 AMD 고성능 CPU 수요를 크게 늘릴 것이라며 상승세가 끝나지 않았다고 평가했습니다.\n\n3) 메타\n- 몽고DB CEO CJ 데사이를 영입해 저커버그 CEO 직속 '메타 엔터프라이즈 플랫폼' 조직을 이끌게 합니다. 몽고DB 주가는 약 20% 급락했습니다.\n- 메타의 AI 개인 에이전트 'Muse'가 사용자의 카드 지출을 관리하는 기능으로 구독경제를 위협할 수 있다는 분석도 나왔습니다.\n\n4) AI 규제·안전 이슈\n- OpenAI가 안전 우려로 차기 모델 출시 계획을 철회했습니다. OpenAI와 앤트로픽 수장 모두 최근 모델 개발 속도를 늦춰야 한다는 입장을 내비쳤습니다.\n- 앤트로픽은 최전선 성능을 끌어올리지는 않지만 코딩·지식업무 능력을 개선한 저가 모델 'Sonnet 5.5'를 내놨습니다.\n- 칸나 하원의원은 안전장치가 마련될 때까지 '재귀적' AI 기술을 금지하는 법안을 발의할 예정입니다.\n- 뉴욕시의회는 AI 안전성 조사와 관련해 머스크와 스페이스XAI를 소환했습니다.\n- 마이클 버리는 AI 버블이 예상보다 빨리 꺼질 수 있다며, 대형 기술주 공매도 포지션을 6월 만기 풋옵션으로 옮기고 있다고 밝혔습니다.\n\n5) 보잉\n- FAA 청장은 소프트웨어 문제를 평가할 때까지 737 맥스10 인증을 미룬다고 밝혔습니다.\n\n6) 정책·통상\n- 트럼프 대통령과 시진핑 주석이 미·중 관세 인하에 합의했습니다. 한국어 기사 기준 규모는 600억 달러입니다.\n- 트럼프 대통령은 메사비 메탈릭스와 함께 미국 역사상 최대인 150억 달러 규모의 제철소 건설 계획을 발표했습니다.\n- 캘리포니아에서는 휘발유 가격이 올해 최고치를 경신했고, 디젤 수출 금지 가능성이 거론됐습니다.\n- 대법원의 엑손모빌·선코 관련 기후 소송에서는 알리토 대법관이 참여하지 않기로 했습니다.\n\n7) 스페이스X\n- 스타십 첫 궤도 비행에 성공했습니다.\n- 애널리스트들은 경쟁사에 데이터센터 연산력을 빌려주는 사업이 다음 성장동력이 될 수 있다고 평가했습니다(MarketWatch).",
+    "bullets": [
+     "엔비디아: 사상 최대 1,500억 달러 자사주 매입(2028년 1월까지), 허깅페이스 약 130억 달러 인수, AI 에이전트 보안 플랫폼 공개",
+     "AMD: 월드랩스 인수, 페이페이 리 최고과학자 영입",
+     "메타: 몽고DB CEO 영입해 엔터프라이즈 조직 신설 → 몽고DB 약 20% 급락",
+     "AI 규제 부각: OpenAI 모델 출시 철회, 칸나 AI 안전 법안, 뉴욕시의회의 머스크 소환",
+     "보잉: FAA의 737 맥스10 인증 지연",
+     "미·중 600억 달러 관세 인하 합의(기사 기준), 트럼프 150억 달러 제철소 계획"
+    ]
+   },
+   {
+    "heading": "오늘 이벤트",
+    "body": "입력 자료에서 오늘(9월 29일, 미국 화요일) 예정된 미국 경제지표나 연준 인사 발언 일정은 확인되지 않습니다. 이 보고서는 근거 없는 일정을 적지 않습니다.\n\n이번 주 가장 중요한 일정은 마이크론의 실적 발표입니다.\n- 시점: 수요일(미국 시간) 장 마감 후, 한국 시간으로는 목요일 새벽\n- CNBC는 이를 'AI 트레이드의 핵심 시험대'로 꼽았습니다.\n- 마이크론은 전날 -2.61%로 AI 안전성 우려의 영향을 받았습니다. 실적과 가이던스가 메모리 업황과 AI 수요 둔화 우려를 잠재울 수 있을지가 관건입니다. 결과는 한국 메모리 반도체주에도 직접 영향을 줍니다.\n\n지정학·정책 쪽에서는 다음을 계속 지켜봐야 합니다.\n- 미·이란 협상: 트럼프 대통령이 호르무즈 해협 재개방 계획은 거부했지만, 핵 문제 진전을 조건으로 제재 완화를 제안했다는 보도도 나왔습니다. 협상 진행에 따라 유가와 금리가 다시 크게 움직일 수 있습니다.\n- 연준 발언: 쿡 이사가 AI와 유가발 인플레이션을 경고한 만큼, 추가 연준 인사 발언은 금리 경로 기대에 중요합니다.\n- 대법원: 다음 주 엑손모빌·선코 관련 대형 기후 소송 심리가 예정돼 있습니다(알리토 대법관 불참).",
+    "bullets": [
+     "오늘 미국 경제지표·연준 일정: 입력 자료에서 확인되지 않음",
+     "수요일(미국 시간) 장 마감 후 마이크론 실적 발표 — AI 트레이드의 핵심 시험대",
+     "미·이란 협상(호르무즈 해협 재개방·제재 완화) 진행 상황과 유가 흐름",
+     "연준 인사 발언: 쿡 이사가 AI·유가발 인플레이션 경고",
+     "다음 주 대법원 엑손모빌·선코 기후 소송 심리"
+    ]
+   },
+   {
+    "heading": "한국장 영향",
+    "body": "■ 반도체: 부담 이어질 가능성\n- 미국 반도체주가 크게 밀렸습니다. SOX -1.61%, SOXX -2.08%, 마이크론 -2.61%, 샌디스크 -3.65%이고, AI 안전성 우려로 반도체·스토리지·네오클라우드가 동반 하락했습니다.\n- 한국 반도체주는 이미 전날 크게 내렸습니다. 매일경제에 따르면 미 국채금리 급등 속에 삼성전자·SK하이닉스 등 반도체 대형주가 5%대 약세를 보이며 코스피가 6900선 아래로 밀렸습니다. 외국인과 기관은 매도 우위였습니다. 한국경제는 SK하이닉스가 '204조 상장설'로 급락했다고 전했습니다.\n- 해외 기사도 한국 증시가 AI·반도체 약세로 하락 출발할 것으로 예상했습니다.\n- 완충 요인도 있습니다. 엔비디아가 역대 최대 자사주 매입으로 +1.68% 올랐고, ASML도 +1.58% 상승했습니다. AI 수요 자체가 꺾였다기보다 안전성·규제·금리 우려에 따른 조정이라는 해석이 가능합니다. 방향성은 수요일 마이크론 실적에서 가려질 가능성이 큽니다.\n\n■ 환율·외국인 수급\n- 원/달러는 표 기준 1354.51원으로 12.85원(-0.94%) 내려 원화가 강해졌습니다.\n- 달러인덱스는 101.20(+0.23%)으로 올라 흐름이 엇갈립니다. 환율만 보면 외국인 수급에 우호적이지만, 반도체 매도가 이어질지는 따로 확인해야 합니다.\n\n■ 2차전지·자동차\n- 테슬라가 -3.94%로 약세라 2차전지 투자심리에 부정적입니다.\n- 자동차는 미·중 관세 인하 합의(기사 기준 600억 달러)가 글로벌 교역 환경에 긍정적입니다. 그러나 한국 자동차에 대한 직접 효과는 기사에서 확인되지 않습니다.\n- 원화 강세는 수출주 채산성에 다소 부담이 될 수 있습니다.\n\n■ 조선·방산·에너지\n- 호르무즈 해협 긴장과 유가 상승은 에너지 운송·해양 관련 수요 기대를 자극할 수 있습니다. 반면 유가발 금리 상승은 성장주 전반에 부담입니다.\n- 미국 방산 ETF(ITA)는 -2.13%로 약했지만, 보잉 인증 지연이라는 개별 요인이 컸습니다. 한국 방산주와의 연관성은 제한적입니다.\n- 트럼프 대통령의 150억 달러 제철소 발표는 미국 내 철강 공급 확대와 관련돼 국내 철강 업종에는 중장기 변수입니다.\n\n■ 중국\n- 중국 증시는 기술주 급락과 정상회담 기대 약화로 상하이종합지수가 1.67% 내린 3,823에 마감했습니다.\n- 창업판(ChiNext)지수는 4.5% 넘게 떨어졌습니다. 비즈니스포스트는 엔비디아 AI 반도체의 중국 판매 허가 가능성이 중국 기술주에 타격을 줬다고 보도했습니다.\n- 아시아 기술주 투자심리가 전반적으로 위축된 상태입니다.\n\n■ 대응 포인트\n오늘 한국장은 반도체 중심의 약세 압력과 원화 강세 사이에서 움직일 것으로 보입니다. 헬스케어·바이오 등 방어 업종이 상대적으로 강할 가능성과, 이번 주 마이크론 실적 결과를 주시할 필요가 있습니다.",
+    "bullets": [
+     "반도체: SOX -1.61%, 마이크론 -2.61%, 샌디스크 -3.65% → 삼성전자·SK하이닉스에 부담 지속, 전날 코스피 6900선 붕괴",
+     "완충 요인: 엔비디아 +1.68%(자사주 매입), ASML +1.58% → AI 수요 붕괴보다는 안전성·금리 우려에 따른 조정",
+     "원/달러 1354.51원(-0.94%)으로 원화 강세 → 외국인 수급에는 우호적, 수출주에는 부담 요인",
+     "2차전지: 테슬라 -3.94%로 투자심리 부정적",
+     "자동차: 미·중 관세 인하 합의는 교역 환경에 긍정적이나 직접 효과는 미확인",
+     "중국 증시: 상하이종합 -1.67%(3,823), 창업판 -4.5% 이상 → 아시아 기술주 투자심리 위축",
+     "핵심 변수: 수요일 마이크론 실적, 미·이란 협상에 따른 유가·금리"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "엔비디아",
+    "ticker": "NVDA",
+    "comment": "+1.68%(228.86), 거래대금 1위(323억). 미국 기업 사상 최대인 1,500억 달러 자사주 매입과 허깅페이스 약 130억 달러 인수로 반도체 약세 속에서 홀로 상승"
+   },
+   {
+    "name": "팰로앨토네트웍스",
+    "ticker": "PANW",
+    "comment": "+4.63%(392.09)로 S&P500·나스닥100 상승 1위. 크라우드스트라이크(+2.82%)와 함께 보안주 강세(AI 보안 사고와 관련된 수요 기대 추정)"
+   },
+   {
+    "name": "크라우드스트라이크",
+    "ticker": "CRWD",
+    "comment": "+2.82%(259.25). AI 안전성 우려가 부각된 날 사이버보안주로 매수세 유입"
+   },
+   {
+    "name": "마이크론",
+    "ticker": "MU",
+    "comment": "-2.61%(1053.98), 거래대금 2위(231억). AI 안전성 우려에 반도체·스토리지와 동반 하락. 수요일 장 마감 후 실적 발표가 AI 트레이드의 시험대"
+   },
+   {
+    "name": "Arm",
+    "ticker": "ARM",
+    "comment": "-8.70%(283.33)로 나스닥100 하락 1위. AI·반도체 약세 흐름 속 급락(개별 사유 기사 없음)"
+   },
+   {
+    "name": "퀄컴",
+    "ticker": "QCOM",
+    "comment": "-7.17%(187.48). 반도체 약세 흐름 속 대형 반도체주 가운데 낙폭 상위"
+   },
+   {
+    "name": "인텔",
+    "ticker": "INTC",
+    "comment": "-5.67%(116.03), 거래대금 128억. 기사는 유가발 금리 우려를 하락 원인으로 지목"
+   },
+   {
+    "name": "메타 플랫폼스",
+    "ticker": "META",
+    "comment": "-4.79%(715.62), 거래대금 198억. 몽고DB CEO를 영입해 엔터프라이즈 조직 신설(몽고DB는 약 20% 급락)"
+   },
+   {
+    "name": "보잉",
+    "ticker": "BA",
+    "comment": "-6.91%(184.39). FAA가 소프트웨어 문제로 737 맥스10 인증을 연기해 방산 ETF(ITA) 약세를 주도"
+   },
+   {
+    "name": "AMD",
+    "ticker": "AMD",
+    "comment": "-3.61%(607.87). 장중 시총 1조 달러를 잠시 넘었으나 하락 마감. 월드랩스 인수와 페이페이 리 최고과학자 영입 발표"
+   },
+   {
+    "name": "블룸에너지",
+    "ticker": "BE",
+    "comment": "-8.95%(262.87)로 S&P500 하락 1위. AI 인프라·전력 관련주 약세(개별 사유 기사 없음)"
+   },
+   {
+    "name": "테슬라",
+    "ticker": "TSLA",
+    "comment": "-3.94%(357.45), 거래대금 137억. 경기소비재 약세를 주도했고 한국 2차전지 투자심리에 부담"
+   }
+  ],
+  "events_today": [
+   "오늘(9/29, 미국 화요일) 예정된 미국 경제지표·연준 일정은 입력 자료에서 확인되지 않음",
+   "마이크론 실적 발표: 수요일(미국 시간) 장 마감 후, 한국 시간 목요일 새벽 — AI·메모리 업황의 핵심 시험대",
+   "미·이란 협상(호르무즈 해협 재개방·제재 완화) 진행 상황과 유가·국채금리 흐름",
+   "연준 인사 발언: 쿡 이사의 AI·유가발 인플레이션 경고 이후 금리 경로 기대",
+   "다음 주 대법원 엑손모빌·선코 기후 소송 심리(알리토 대법관 불참)"
+  ],
+  "headlines": [
+   {
+    "text": "트럼프의 이란 호르무즈 계획 거부로 유가·금리 동반 상승, AI 안전성 우려까지 겹쳐 S&P500 -0.77%, 나스닥 -0.92%, SOX -1.61% 하락",
+    "importance": 5
+   },
+   {
+    "text": "엔비디아, 미국 기업 사상 최대 1,500억 달러 자사주 매입으로 +1.68% 역행 상승 — Arm·퀄컴·인텔·마이크론은 급락",
+    "importance": 4
+   },
+   {
+    "text": "미국 반도체 약세로 오늘 한국 반도체주 부담 지속, 수요일 마이크론 실적이 분수령",
+    "importance": 4
+   }
+  ],
+  "data_caveats": [
+   "무료 데이터 소스에는 미국 기관·개인·외국인 투자자별 수급 데이터가 없어, 수급은 종목 수·거래대금·VIX로 간접 추정함",
+   "거래대금·시가총액은 입력 표의 추정치이며 단위는 표 표기(억·조)를 그대로 따름",
+   "일부 기사 수치는 장중 기준으로 보여 마감 표와 다름(다우 377포인트 하락 vs 표 -347.11p, 인텔 4% 하락 vs 표 -5.67%, 엔비디아 3% 상승 vs 표 +1.68%). 본문은 표 값을 우선함",
+   "유가(배럴당 108달러 상회), 미·중 관세 인하 규모(600억 달러) 등은 기사 보도 수치이며 시세 표로 검증되지 않음",
+   "원/달러는 하락(원화 강세)했지만 달러인덱스는 올라 방향이 엇갈림. 환율 표의 기준 시점 차이 가능성 있음",
+   "보안주·블룸에너지·Arm·퀄컴·도어대시 등 일부 급등락 종목은 개별 사유 기사가 없어, 원인 설명이 추정이거나 불명확함"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "U.S. tech stocks fall as semiconductor, storage, and neocloud sectors decline",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakdFZGdmMFBaUHpWdEpiczUzNTMteHpOX29rR3lkbW1lNnpNMC05VGxUU25tVzhlZkRhSGt3ajM1ancydExyZGFHSlpvZXpZSG1UT1RzM1FnWXQteHY1djhEWnY1eU1MOEVGWVF2NGpLZWp5c3pHbmcxNUl6SWRDclpFZ1ZLRmNXQXBmdXBxYWlDcmhWaFlHTjdsU2FnNXRhUkxwbzZuazZBUml6?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "kucoin.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 09:12"
+  },
+  {
+   "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
+   "url": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 09:03"
+  },
+  {
+   "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+   "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 08:19"
+  },
+  {
+   "title": "Artificial intelligence (AI) semiconductor giant Nvidia has approved an additional $150 billion purc..",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zR1Q1aDBWdHd4MF9VQ2YwWkg1ZXJDNlJiWFR4bXZaT3pmU3BScVlGbHdDQVNpU2NGMUkxdjRZRTdQdGVXbVE3MXhSWQ?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "매일경제",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 07:34"
+  },
+  {
+   "title": "[오늘의 글로벌마켓] 뉴욕증시, 국채금리 급등 속 3대 지수 일제히 하락",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwa3kxdW9KZHpNYm9LNU1sOG1oOS1FRmZNWmF2emxHbFZYTWp5VGViS1llV2hHWmNyaUN1SXFTYlRUZGZVZVU0Y3RQMWVHYkdZdEhCX0tmVF9FNW9vWE1ubUFROFBCNV91aFZ2a0tzdGM?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "오피니언뉴스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-29 07:31"
+  },
+  {
+   "title": "엔비디아, 1500억달러 자사주 매입…美 기업 사상 최대치",
+   "url": "https://www.hankyung.com/article/2026092907117",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-29 07:29"
+  },
+  {
+   "title": "美, 이란 '7일 계획' 거부에 주요 지수 하락 …유가·국채금리↑ [뉴욕증시 브리핑]",
+   "url": "https://www.hankyung.com/article/2026092906806",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-29 07:15"
+  },
+  {
+   "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+   "url": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 06:27"
+  },
+  {
+   "title": "Bond yields crank higher and pull US stocks further from their record",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVVRNDh4OTNhYkdoZ3J2aWdBbFpXSjRacGpDWWl0dDUwNXB5d09KMUYweEpLSURiREdvM09IZ3Zhc0k3dVp3NWo3by1UU19BY2JjOU1pdXlxa1FFTzA0NTFIdXNMQmFlS3FubzByZ1JvX1l4eWFxRWtlUzQxNy10cEFGUXFCeFdNUGV5SEFrV1MtNEZkQkE?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "AP News",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 06:07"
+  },
+  {
+   "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+   "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 05:36"
+  },
+  {
+   "title": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRmw5ak5yb3R1Y3A0TGk2cVk0dEJDQkQzZkJTZVNQMGpvcDZHWVYyZ1RLN0g4cGtnSFdpdi1UbVl4LUNHcncwckV2bkNBZnByVkpSTTZjQkJIdmM1dHRlS3FraURNQW5jUHBPWFpiNDBDcjNCVk5WeVhYLUJ0U0Q3T0JfbTZIcVoyWXVrUE93NlMyWWlyYlMxODBScE5fRzZqMjZmbGY0eVAwaWhxLWI4TXpyZjNSRTZhWDNYZVRTRGdtd3dIQXpLcXJRNTBOb3VqSndMLWJZd3hTNmc5ZWdJdHM0ajAyQ1U?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 02:07"
+  },
+  {
+   "title": "Nvidia share buyback plan gets $150 billion boost",
+   "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-28 23:46"
+  },
+  {
+   "title": "Dow drops 377 points as oil prices and Treasury yields rise",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGF2bms1T1IxWnQ1a093cEp4MTFOUGdhMGVoUkFLQ0dhbXVwYXZJZUhvWVM0cUFxWl93d0U3YTlhY2gyWGxVWVdtaU5ERklfYkM2VWc2QWRpanlaYmFBa2RJNGRySUl0aEVPUDVlSjBoY1k2TDdtUmFWWXRDMXgwQ1hSSzh6LWJteUJuV0ZwRTl5ZDA?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-28 22:53"
+  },
+  {
+   "title": "US stocks drop after oil prices and bond yields crank higher",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2piTFJ1bW1yTGdBVE5INmctNktaTnRLQlhScnVSbEZpdnlrcFVrc3NiZ05mU29JU0RpelRUYWdYbWM1RWo2dGlIN1RpU1YtMUlvVlV0c041Vk9HTGE1WmxCSDh6ampUam9BODdkWVEwUlB0YUE4WjVGOHhsTmQzTllpQ1NVYTZtak1QZW5kOGZ0d2vSAZgBQVVfeXFMTldoUFJaVjZUdUEyVm45OVBiN1o0U1ZIR0FyeHVMQmtWa2wtZFNrekFMWWNValg1OU9sbWV0ZVk4XzhOWFB6MWxKb1ZzTzU3bHBqU3kybzcxcG5BT04tbm9QeUdONWtUQ3Z3a3FxNXQ4cV9sOEpOcm9Pd1ZNTER3Ujh6b25kZUF4NFQwaU1xSEMyQkdRVktGRXY?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "abcnews.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-28 14:58"
+  },
+  {
+   "title": "AMD briefly joined the $1 trillion club. Cramer says its monster run isn’t over",
+   "url": "https://www.cnbc.com/2026/09/28/jim-cramer-amd-lisa-su-agentic-ai.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 07:27"
+  },
+  {
+   "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
+   "url": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 07:03"
+  },
+  {
+   "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist",
+   "url": "https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 06:43"
+  },
+  {
+   "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
+   "url": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 06:23"
+  },
+  {
+   "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+   "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 06:20"
+  },
+  {
+   "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+   "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 06:08"
+  },
+  {
+   "title": "Michael Burry believes the AI bubble 'may burst' sooner than he first believed",
+   "url": "https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 05:43"
+  },
+  {
+   "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+   "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 05:23"
+  },
+  {
+   "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+   "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 05:16"
+  },
+  {
+   "title": "Stocks Fall on Fog of War and Fear of AI: Stock Market Today",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGR6T0g1UlpiZVZGaW9CM3dZNEtBcGhFcWh0eUJwQ1MxaDJtSXVaaW9BVzJnOGpfaWdpanRWXzBWR2RZUmdnTnR2S3VHMlZnUXhMVWxzd2VPaENZZEFnTjJNb0hmUGFITUY5SUdQeUFtOExyQVpoRHFuSnRLQ3RiaS1fODBOcE0xeDdJTGF4QkRtNnZFRXFDU3B1MF9pZHJTaEY5Qg?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Kiplinger",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 05:10"
+  },
+  {
+   "title": "Marvell Technology, Semtech, Lattice Semiconductor, and Micron Stocks Trade Down, What You Need To Know",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcVpkTmZ0SW1yZjB0N2lQZkUyT2I3Q2lodzZ4RFVndGNLU0ZMM0ZpZTRrNkQxaU8wQk1tbHpsTGxZTXEtbkdYSXROc1lCOXZXLUw2NTFTUDNPeGtJc3NVRFVGei00WUdzSC1JZDFCWHlBSl9HM2UtMlduQ1R3S2gwcUtiMzdZMk5qQXVNQkFHZnZJb29ocm9fT0VETnFVZjlSd1lQSWhNRHRaQUltLTFhZUxWR2NfaVFzMjljWE1tWXJoRkNaY1JMaW1WSGh6MnFGcGZnWmREQndyRDhUY0hSNGdhUHBTMmtXUGMzWWhuVTQ4QQ?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "tradingview.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 04:30"
+  },
+  {
+   "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
+   "url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 03:00"
+  },
+  {
+   "title": "A key test looms for the AI trade this week. Here's how Mike Khouw is trading it",
+   "url": "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 02:48"
+  },
+  {
+   "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+   "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 01:01"
+  },
+  {
+   "title": "Intel Drops 4% on Oil-Driven Rate Fears, NVIDIA Rises 3% on Record $150B Buyback; Taiwan Semiconductor Slips",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQXzRzbk8yU3RhekhEaXNXMF9WNUFObjZhLW9NWG9Fclp6U2xyckZmSDRRNDFxd2sxanY5VUpXMlJLOGR4TUVDaGpMeUYwc1M2azRGVzFrRm9JeVphSndQckUzRU9wYlE5aXE5UGVUZkN4ZHNGNWVZTnRWS24ydHc3MGVkZTljQk9kR3o0TklBOFRtamw2OHF3NXc1Ykk4eEVWUEJGa3N3Sll5TkVvRlZ0cGJDWm9UQlFhZTVTRkdEV09MRm8yTzNvZHRIWmFOQ3FESm9HRG5mM3c1eHRpaFMzQg?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "24/7 Wall St.",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-28 23:33"
+  },
+  {
+   "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+   "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-28 23:03"
+  },
+  {
+   "title": "“거긴 가면 안 돼”…엔비디아, AI 에이전트 보안 플랫폼 전격 공개",
+   "url": "https://www.hankyung.com/article/202609280312i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-28 19:17"
+  },
+  {
+   "title": "중동 긴장 완화 기대에 미 증시↑",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xR2d6d0ZIamdVVWZWb0RFS1IwYld1YUMwT056dDMxa2NjNkFYNElKLTlSNlgtQWQzdkpEdnk3MEdyMHhRcjdLY3BuLUdCX1lRX0NGUGtfa0cydnBURmtKOUJteE5tV0ctRktEaQ?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-28 07:51"
+  },
+  {
+   "title": "Why a diesel export ban could send California gas prices soaring",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWxIdzlXZlhhdGJaSFRtOXk1NjJ2QkF6VjBhVTRvVE91ZXd4V1E0bmpQalNuRENqRmRQQ0lSMndqWW9PRFBKTDRFcnRsTVNNcmZyRS1NZFJmNVlfWG4yaFRxbnpwYUZ0MDFacnNuV1hlS2xWdEJfV2FZSk9ySkcwWUtIaWhJb3JVSnpqdG9LeFp3TVlKN0JrWUdvMm9LSXJ6Yl8zOGtGd1F1X2tlcThScGNEaWY?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Politico",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 08:30"
+  },
+  {
+   "title": "9월 하락 전환한 S&P500…그런데 \"최고의 7개월이 온다\" [김현석의 월스트리트나우]",
+   "url": "https://www.hankyung.com/article/202609280544i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-29 08:18"
+  },
+  {
+   "title": "Jim Cramer says these stocks can win even as oil and bond yields squeeze the market",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rWGw1V01IUFFQU2k4amp2TnVwQnVub2gwTEtudEpYNFVjVW9RLUc1SXNXOW9qblBSSFAwa1JlRmlndUk3NEVkRUUxV3FpSWJsQmQ2dGpOdlp6VURtUF9IZktEYjJNSWNMYTl5TldQdHVaVVJHY3dsdnRR0gF_QVVfeXFMT09oZTRzRDJNdzlSRXotSmtfUE5uWUpyQ09jM3Q1MkhPR1dZYmdSa1J5eWhLVnlaaTJHTFh0dWd0bDBLOHBzdm9YaW8xajR0M0EtWXhTWklMVjdHNGFrSDN6QUxwbTZhY21Pal8xU1I4cnN5aXl6UGhvTDlCcmF1aw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 07:15"
+  },
+  {
+   "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
+   "url": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 06:19"
+  },
+  {
+   "title": "Governor Newsom takes action to help lower prices amid Trump’s nationwide gas and diesel price spike",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOekk3RnZkWUFNaE1WTTVxNFM0ekVjYXF4ZVJPVmJOMDVIYkMyakpLTGNoU2trUmxJTDFORjVNNExEcE9peEtyS0xhSGNvbnc0WDIxdndBbmVYY05DMFlEV2g1SzlnSEZyRkVuNzBCU3FDMnVic2tiSHU4Z1hyNzRfZnhYLVY0NktIbUNDMFJXZy1fQk15MWdSNHk3bTVESFc0OVFhN2NFOTVoaVFrRmVMZHNLTjZrX0VsZW42QTlYUTdxY01vUkpaT1VfS0dqT2c?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "California State Portal | CA.gov",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 06:08"
+  },
+  {
+   "title": "Not Nvidia, Not AMD. Broadcom's Custom Silicon Business Is Quietly Becoming an AI Chip Powerhouse",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNR2xvZjNKckNrTHVSUGhzUTdWR01OU1pGSWVIakp4bFNqNWVUNnBqYjg3MlYyMjdEVmh0bVVRN0pTRXQ0N0M1ZXFya1BhdnZOVjVZVzJmS2VLVF9JM3BQcnM3S3JCN3N4RnY3WGRMY2taZThVd2dfb3ZqTGJRVEx0WG9iaXFWUGNVcEZFaWNiLVdRUFczcVpXVFhsM3Y5TktkNkNFazh1UmJmc0d5VzdJaUxCQklJOWZtNm5wUG52VjVQRGl6UjNHNGFZWW5TRWlSanBuTWk3RE5JeldTaVc0UzZvZHVNNmxfS2ZqWGJCSmVQcFdRNUNMN0dEcGxTZm9xWUowTlU1T2c3Y0E?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "The Globe and Mail",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 05:34"
+  },
+  {
+   "title": "California gas prices hit new record for 2026 with ‘further increases possible’",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xSWtYLWRLZnl4M3pTX1pRck1hTkhQblFoRDN6Q3Voc0pPXzYyX293OXhOWGVxQnh4WlY1SF9TenBxSlFhcTFCQ0hrY1cxOHpENVdHMENHVnJtZmQ4RGgyaVZ1SVZwd3RMSTl5Tw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Sacramento Bee",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 05:29"
+  },
+  {
+   "title": "Supreme Court Justice Alito will not participate in big climate change case next week",
+   "url": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-29 05:13"
+  },
+  {
+   "title": "Fed's Cook warns AI and oil prices will continue to push up inflation",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQm9LbmU4RWlWcXRNZzJHdVgxS29qX0xoOFlXbENPZlZuUUNzRDNIdkQ2V3JZaWRoYmtPTnk0RTVpcG44U3dXdDdlWENGQjBjZ3h0VVlaZURYZzRpYWhnOGJsY0pLYWZ4SWZSZllsYllCblNlaEJDSDh0YTliMjRKNWd0eEVYb3VYVXZtVk9SUEVaZnVTZXllalJCVHpXR0JtU3QtclZvdm1ZdFhMU3poSjRzQkpSY1FMRTgtV3lsUXVBY0JNYWZnNnBHanQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 03:13"
+  },
+  {
+   "title": "Oil prices top $108 a barrel on fears of a resumption of U.S.-Iran war",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQenJVaEpHaTlSa3cwUjM2OFJDMW9HNm9WckJlYnk5czhHZkJZajh5ZlZqZWR0eU5INUpNVnhYVF9Nbk1NbkNaeF9NNFZnWTB6T0JhbFFKajQ0aTNxWDRtWHhaRnJrRE1NdUhhM2ZVNXllYnlrbC1pVGpaYXdidXBxbjFGRXk4dFY3SGhxOFUxNUw3dnYtYy0weC1CeUh5Y0VNOENYNDQyOFQ1UTBJM3NMd1BHQTNzamw0cGcwR29WZS1rRi00b2d3R2M1YlhYTHFJcmJPMdIB2gFBVV95cUxNdGk4ak5nVG1NaDdoMV9YQkkyYTFfOVhaOEp1ekg4dFdHdEhpQ19sb1BwQXBncVhoVy0weDB0UUZIeW0yUUVENjhIWEMwNjUzeUcxRlZockZKTXl0bjVIbkRXamtBS2h3Nmx3YzZCT3FEd1JKU3llaFNNY1h1NUtUQnlpT1daV1JMR0tYVTBtc1B1S0ozeHE2ZFo5TWo1OHdSVy1abHhzaEd1Y3E4YUlLU3I1MUNvblV2Y1hLNzNFX1RQWHNQVk05UDNUU053OFl1LVN5UV9kZTM1QQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "upi.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-28 22:41"
+  },
+  {
+   "title": "Oil prices jump 3% as stop-start negotiations between the US and Iran faded hopes of a quick deal.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU25lN2N4UndOY2RSVTFBaFpuYk4tVmhXWjFwU19JdlFhVGNETzBxa2piUHc1LUVjTE5iWmJaQXY1N2VBc1FrSmYtcGhKbFdPMFZ3Q1pVU0JDQ1FaZDN3amI4b2ZMOFB4NXpEMlUxUkNHYVpBekgwOExBclJ6Y3Q1WjR5N2luamVBTFYzWk1wNnFqOXFvUEV3LUxKU1dYR3g0MEJNc1MwMmE3Qm5uWmpIQWduSnVSWDJDNE5sUjlaNDB4NGRKS0JEM1pB?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-28 22:30"
+  },
+  {
+   "title": "Bond sell-off deepens and oil rises as Iran-US deal hopes fade",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWVDcjI5dWgwWXpWMGhLWm1aMFRlQXUzNlhNekN5amMyYzcxSFdaVVFEVTVoY2hEWDM5N0ZOeEg2Z2ZWY2ZJbXEtbUdnOGtGVUZyOGRtZFpJN3J4aXoyN3BjRGZyOVIzd1o4bHBNc2hxQzlPcGJQQ0cwM21nVDFubXhFWDc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Financial Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-28 13:31"
+  },
+  {
+   "title": "Oil prices rise for second session on continued Middle East supply concern",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 09:33"
+  },
+  {
+   "title": "Gold falls amid rising oil prices and higher US dollar",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkpoTURPY0szdVRscW13NDhSd0F1X1JtMktXQTZWdmR0Yl9ieFEtdElSeWZLTU40M0FacnNwZU8zMDFfdG54OUs1Y1lNWHhULU5QRGhrTnVYRUtVeEFZUExjNTA3NUtueTQ3UGJINzdJdEh2VFdPTVNpSW9WTHhEbmNReENybkl6aTI4YjlEOWtkc3NEcmJNUFJHQURmSlHSAaQBQVVfeXFMT0paUkdHeUxDUVp6T3B6SWlKcEhlMWpqeE9qSmdJZ1ZrTHNvbEJET1I2Q2RKb3E0aXZJODEyOGpzYlBRd1N1MUtyYjdpWk1ZdEc2Y25zMmdIRjJKR1lRaGl5TGR5ZGNKd21FcGJmT2k5VFNwVExoZUo4Y2NVZWtzX1JrYjN2XzBNcmhHTURtUnQwWlNNcXRzVmNUN1pKbXpBbzVaVW4?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Al Jazeera",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 06:37"
+  },
+  {
+   "title": "Oil Prices Climb on Continued Impasse in U.S.-Iran Talks",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wRlA1VlY2Nkw2SGJULTYySUR3QW9ILTRzMkJhSFZPUHJYNEZ3UFpjdUZCMk5xRlZGZGpBYzYzVzlOdmlacWNzU1NaSjlieXIxV1RPSGgyZjZhTVJTY0pfeE5uS2JGU2duWlRGQkZfbWduSXpXUWpGenJ3?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "The New York Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 05:08"
+  },
+  {
+   "title": "Oil Prices Pare Gains After Saudi Pipeline Reopens",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHo4UVphcUJRc1N3ZjBkTEFiMFJYR1E2eVBjTkZBREJha0lRRFFRNGQtVUlXYnFPNHp6UUlNQlJzUVFPNnN2SmNMTm9CQXl6UjBIQ2dlNUFNTjFWWjVRbWtpTkE1ZHM4SFFJajFiSXBucDlWRE5iTkNUWGN6ZkNNREhNWXNzQQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 03:22"
+  },
+  {
+   "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTG9KcEZwMUZtVnNtZnBmMnBsa0RZN1I2V250T0xaSjBmT2tpNWx0T1ZodnBubENDcks5SWZiZlgwV1NWT3NDemFaX3FkRHFYNV8zdmo0elJfdGY2SWoxMUZZMTBmN1JjczNVYkVGNHNmOGNLR1NUeUJiMzJBejl1c2d5NUo0TFZKdkEtbHBEZFN0Slo5eDM3N1k5eXNpcnBNeVdOQ3U0M1FlVmk1aWNlLVkteVRKVDliUFHSAb8BQVVfeXFMT1lDRk9jWTJZZnFlQXprRWFFZ3pKVFZocjNKYTNtb014MFFXMDc0WEhNa2Exeng5Z1pRb21rWG5NUTYtUVNyeXZNck5pVVpPMDRRZHNIUDlHQUhMeTRsWGlwUWF0SEVGY3U2MGgtWjBDVlB1TWI0QldYRTZLQ0FfZDRfMW9hWXVTWldIZ3JyN2FWWlkxTkcxMHozT2gyNHdwTFM0clU2RDhFNTVGaC1WVG5Hc3d1aFNhTlk2N29VclE?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Al Jazeera",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 09:42"
+  },
+  {
+   "title": "New York's Three Major Indexes Close Lower... Korean Market Expected to Open Down on AI and Semiconductor Weakness",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hcWlBYXNhU3l5cjJwOExDNXYyMVlQOEozN1BOczh3NjVqaDRIQTFLd3dQdzhxWVFIeUI1dksxbWd1ckNWQjd3QUZTbVpaNjFKRTJVU0VaOVpMTkVQc3k3dGNWOVRMYWppXzd5ZWNIVnZpT1lJSUE?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "finance.biggo.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 09:25"
+  },
+  {
+   "title": "Wall Street falls, oil prices rise; markets brace for prolonged war",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTVyd3ZRNy1ScnkzMUxXUkNmWEpSTlpCdDJjUlZvcXdBWVdhUTFMNmM5eDFiczdMdi1qTVRnbndKZUdXaGVZTG5zekRZaXpXM2Z6R1pwajJLbmtraGdnelROUEZHMktvb1AzZk4yUDZ0a1hlWU5JcDRCRGNFV1I4U3NaODJBX2duaVFLdWxDY2FJVV9tWlBaUHk4cmpCalp1LWxGQll4TWdTRktyV0ZydHNNMlJZNENBREhFWHAtb0ZiRE42ZllRaEpR0gHPAUFVX3lxTE15RGJtQTJXaGxOcEZFczF1bk9PZEtxQ3pCMnYyOTZoWXpBd2ZTcDZlU2tXRVhhVlMzQjJTVktqb29BSDEtMTFxQkZMaWx1QlZERS15eEQ0SkM3a2JwOTBMbFg1Q0g0allGQm5hbENNTWYzUGd0enRuVzNnNWJzM2UzSmkxQ1NtVWZkQUNSUVRBclN1Qnc5RklwUnhpZHMxaVI2UEVlS2FBbEYwLU9jRGFkaGxSUVg1dFltaUI4cnhrVXFuc0pBRUUtcTlkekZDVQ?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Moneycontrol.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 07:56"
+  },
+  {
+   "title": "호르무즈 로드맵 거부에 미 증시 하락",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUkVOTDZqLUZhZTVXRlYtVWRqN05vQ1U0NlBqb1lzUHU1RjVkNVE0aERYT3IxcVNTQ0ZlbDVlZk9iU19MdTNKd1hOWUlkVWFmY1AtbkdVOGRXS01jMHJsaHdSQmN1enBiUUVCUA?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-09-29 07:39"
+  },
+  {
+   "title": "Stocks fall, bond yields surge and oil fluctuates as war keeps markets on edge",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzVZOXBIQVItVjY0RzRmVS1aeFBKWTZUUG9HcEZ4dmxKdG8xTjVfZjZPRXRJa1Z6UkE4SDlvZ0xEckxmcEJTSVhCWnpBTFZVVTlzSlc0MUxCRkdnQXlhTHE4RmhmQ2laYy1CU21PZDZsVjhWVnBvSHhXb1RIcnhpQnhUVjdZRzN3c3A3bktmdw?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "NBC News",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 03:24"
+  },
+  {
+   "title": "Trump Offers Iran Sanctions Relief for Nuclear Progress as Traders Raise Deal Odds",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcldqNW5qTVJCUG5uWW5OWmhvcTg5cDlpckNkUFVHTkVyOFZ1dGFKQmwxakpLWWluTlhURE5Jc0RtazB0M2w3dkVzUTQ5dm0xYWRfMXJTbmdUaXo2MEJkLXRGaFg3NE5EYXdsaS1xd3NhMlZuWFRNSEtrb2JLbm5SNGMzdjQ5eml4YlR4eTVSWXVVU04tUTBmOUtxM0RPVEFreHB5Um5RdmkyRGc?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Benzinga",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 03:14"
+  },
+  {
+   "title": "Trump and Xi Jinping agree to US-China tariff cuts as markets react to trade deal",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10RWlrc2hEa2pzc0pwT3dEOGlrYmZBd3lSbEN4d3RxNGJzbUJFalJyOG9yOHZjbFVwN3B0dmhZU3M5REF4UlpHOThBQ1hjLWRxOVdZNmlZWVdab2c?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 03:03"
+  },
+  {
+   "title": "Oil takes off again, Wall Street dips after Trump rejects Iran truce offer",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYS1sY2EyNXh4Y3E3cmVLVUNSYk5KcUVwRlVPRmZqWDZMeXNkQlM1NzhhT1hqQzRBYkdsOGhDdXBrbTFWbm56RGF5MlE0VktYbEpEMEVQVFJ3am5uSnctV2ozRDNxeWhXOW5SaWk4NE5Uclk5RWViM21EMmhXRVhEamZOZXprb20zZ3NXNWt4Yks?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-09-29 01:08"
+  },
+  {
+   "title": "SSE Composite Slides 1.67% to 3,823 as Tech Rout and Fading Summit Hopes Hit China Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjlaZkJDUEt0Ry1oUHZMbHduVnR4Qm1zLXpGOFlILTlWZUUtbnVxUkxQSkptN0dMWjdfVGtVWEdmM2hHMXZMN0RjQjlOeHNzSGdFYnVQLWJfV3o1UVdYQ2U1QXpqczNEaURrN1VPb0lkaDIxaFpoUl9xRnpoT1VCOUdubjAxb3NzaGZKdUE5X0ZUT1hYUzJEYmg2RFN0d1d3aUszbFhnYXBEUTYxdVBYZ3JPMDhiVW9jVzBnSVhYdGg?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-29 08:22"
+  },
+  {
+   "title": "미중 600억 달러 관세 인하 합의…기술 갈등 지속에 중국 증시 급락",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR3Nyc21YcXlxSEtTYTR4bzVlSTVVQjdhTGppd3ZiVTdIRVRhd1pUMEtxWlhpQ01fTFl6Y2gzUThSZFVlX2VFTXl0OFhsQ202LVpKemRtQm5EdjdZU2xRSHRYRUFGb3JaTmZ3cHNQTE5iR0RncmxHZDlSSUp0bFpWU3RtZHlTZ0d1?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "글로벌이코노믹",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-29 07:12"
+  },
+  {
+   "title": "하이닉스 돌연 5% 급락…주주들 놀란 '204조 상장설' 정체 [분석+]",
+   "url": "https://www.hankyung.com/article/2026092899256",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-28 22:00"
+  },
+  {
+   "title": "[중국증시-마감] AI·반도체주 급락에 상하이 1%대↓·선전 3%대↓",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VcHJHRHA1UmM4MTVuVC1aZUhYV1FoaklQMkI3N01MbGRGRjR2amhPeWxmdUVRWWVhb1VsRGc0Q3NaY2t3NzhISjRWZjgzRVEzVHZCcFhKa0dSNXhkZVBGMzRXbERKcUVpV3Y5djB6YnU?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-28 18:08"
+  },
+  {
+   "title": "[중국증시 마감] 촹예반∙커촹 4%대 급락, 기술주 조정 압박 뚜렷",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSQnVLS3RfZEZCLXN4NU5hSmQ0TDU1RDItdmZIZlVzMGgxZDNIemlXTWVwVVJEVDNUcVRIOFZhWUlndEJVS2xxNUJXcG50cEp5RGx5WEgzZldYajdo?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-28 16:36"
+  },
+  {
+   "title": "China A-shares plunge across the board: ChiNext Index tumbles over 4.5%, more than 4,500 stocks close lower",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNlQzMU5ZaGpXVUt1aUlScHpZRGhzQlVWVDNud2pVczBsY3EwY3drb05JdGw3akJFUjEyYUxaMUxCTzhRVnJISFVoOHJhMzdlTTlLNnpuZ04tYTQ3U2NVWlE1M0pqWHRoeUNTS1ZqaDVxY085Qnc?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "finance.biggo.com",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-09-28 16:35"
+  },
+  {
+   "title": "미 국채금리 급등에 반도체주 ‘휘청’…코스피 6900선 붕괴",
+   "url": "https://www.mk.co.kr/news/stock/12162755",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-28 15:58"
+  },
+  {
+   "title": "중국 증시 1년 만에 최저치로 하락, 엔비디아 AI 반도체 구매 허가 가능성에 타격",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoMGNEMnZfcWhoZngwMUQ1T3dMMzFIN05aVzkzQWN3dXhIZUxPbFoteUpwcnV1dzdYeXA3ZkhVaFpQZHlkQUtlRThleUVUZnZPdmJicEhoWk9lRVNqRXdybTJYTHV5T3p0UndJbER2amUzSGs?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "비즈니스포스트",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-09-28 15:36"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}
