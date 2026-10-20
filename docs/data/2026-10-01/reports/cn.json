@@ -1,0 +1,169 @@
+{
+ "topic": "cn",
+ "name": "중국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-10-01T13:42:55.124963+09:00",
+ "report": {
+  "title": "중국·홍콩 시장 데일리 (2026-09-30 세션): 상해·항셍 소폭 상승, 심천 약보합 속 증감회 휴머노이드 IPO 문턱 상향·중국의 대EU 보복 경고",
+  "overview": "9월 30일 세션에서 상해종합지수는 3842.20(+0.31%), 항셍지수는 24,613(+0.37%)으로 소폭 올랐습니다. 반면 심천성분지수는 12,888(-0.11%)로 약보합 마감해 본토 지수끼리 방향이 엇갈렸고, 닛케이 225는 66,754(+1.94%)로 아시아에서 가장 강했습니다. 정책 측면에서는 중국 증권 당국(증감회)이 휴머노이드 로봇 스타트업 상장에 세 가지 기준을 새로 두어 문턱을 높였다는 보도가 나왔습니다. 중국 상무부는 EU가 중국 기업·제품을 제한하면 '단호히 대응'하겠다고 경고했습니다. 해외에서는 유가(WTI 90.42, 브렌트 103.53)와 채권금리 상승이 부담으로 꼽혔습니다. 한국 쪽에서는 원화(1350.50, -0.67%)와 위안화(6.70, -0.11%)가 함께 강세를 보인 점은 우호적입니다. 다만 중국-EU 통상 마찰과 고유가가 중국 노출 업종에 미칠 영향은 계속 지켜봐야 합니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "직전 세션(2026-09-30) 중화권 증시는 소폭 상승했지만 지수마다 결과가 달랐습니다. 상해종합지수는 11.74포인트(+0.31%) 오른 3842.20, 항셍지수는 89.70포인트(+0.37%) 오른 24,613으로 마감했습니다. 심천성분지수는 14.33포인트(-0.11%) 내린 12,888로 약보합이었습니다. 상해는 대형주 비중이, 심천은 성장·기술주 비중이 상대적으로 높습니다. 그래서 이번 엇갈림은 대형주 쪽이 조금 더 버텼다는 정도로 읽을 수 있습니다. 다만 입력 자료에 업종별 등락이나 수급 데이터가 없어 정확한 원인은 확인되지 않습니다. 같은 날 닛케이 225는 1272.45포인트(+1.94%) 급등한 66,754로 아시아에서 가장 강했고, 엔/달러는 157.40으로 엔화 약세가 이어졌습니다. 글로벌 기사들은 9월 30일이 3분기 마지막 거래일이었다는 점을 짚었습니다. 3분기 글로벌 증시가 AI·채권·원유 변수가 한꺼번에 몰린 '격랑'을 견뎌냈다고 평가하면서, 유가와 채권금리 상승을 저울질하며 혼조를 보였다고 전했습니다. 중화권 지수의 소폭 상승도 이런 대외 변수 속에서 분기 말을 무난히 넘긴 흐름으로 볼 수 있습니다.",
+    "bullets": [
+     "상해종합 3842.20 (+11.74, +0.31%)",
+     "심천성분 12,888 (-14.33, -0.11%)",
+     "항셍 24,613 (+89.70, +0.37%)",
+     "닛케이 225 66,754 (+1272.45, +1.94%) — 아시아 최강",
+     "3분기 마지막 거래일: 글로벌 증시는 고유가·금리 상승을 저울질하며 혼조"
+    ]
+   },
+   {
+    "heading": "정책·유동성",
+    "body": "이번 입력에는 인민은행 금리·지급준비율 결정, 국무원 부양책, 북향자금 동향 기사가 없습니다. 따라서 통화·재정 측 새 신호는 확인되지 않습니다. 규제 측에서는 두 가지 발표가 눈에 띕니다. 첫째, CNBC는 소식통 3명을 인용해 중국 증권 당국이 휴머노이드 로봇 스타트업 상장에 세 가지 구체적 기준을 도입해 문턱을 높이고 있다고 보도했습니다. 제목은 '이 기준을 충족하는 기업이 거의 없다'고 전했습니다. 기사 요약에 세 기준의 세부 내용은 나오지 않습니다. 이 조치는 과열 조짐을 보인 휴머노이드 로봇 테마의 상장 붐을 당국이 질적으로 걸러내겠다는 신호로 해석할 수 있습니다. 단기적으로는 관련 비상장 기업의 상장 일정과 상장 기대를 타고 오른 로봇 테마주 심리에 부담이 될 수 있습니다. 둘째, 상무부는 EU가 중국 기업·제품에 제한 조치를 도입하면 중국이 '단호히 대응해야 한다'고 밝혔습니다(CNBC 번역). 통상 정책이 방어에서 맞대응 쪽으로 옮겨갈 수 있음을 시사합니다. 환율에서는 달러당 위안화가 6.70으로 0.11% 내려, 위안화가 소폭 강세였습니다.",
+    "bullets": [
+     "인민은행·국무원 부양책 및 북향자금: 입력 기사에 언급 없음",
+     "증감회: 휴머노이드 로봇 IPO에 3개 기준 도입해 문턱 상향(세부 기준은 기사 요약에 없음)",
+     "상무부: EU가 중국 기업 제한 시 '단호한 대응' 경고",
+     "위안/달러 6.70 (-0.11%) — 위안화 소폭 강세"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "입력 자료에 업종별 등락률이나 구성종목 시세 표가 없어, 특정 업종의 강약이나 대표 종목을 수치로 제시할 수 없습니다. 기사에도 개별 상장 종목명은 나오지 않아 leaders는 비워 두었습니다. 기사로 간접 추론할 수 있는 테마는 두 가지입니다. ① 휴머노이드 로봇: 증감회의 상장 문턱 상향 보도로 신규 상장 기대에 기댄 테마 모멘텀이 약해질 수 있습니다. 성장주 비중이 큰 심천성분지수의 약보합과 함께 볼 대목이지만, 직접적 인과는 확인되지 않습니다. ② 대EU 수출 업종: 상무부의 보복 경고로 EU의 대중 규제와 중국의 맞대응 가능성이 커지면서 유럽 매출 비중이 큰 수출 업종의 불확실성이 높아졌습니다. 원자재에서는 WTI가 90.42(+1.16%), 브렌트가 103.53(+0.92%)으로 올라 에너지 업종에는 우호적이고 정유·화학 등 원가 부담 업종에는 불리한 환경입니다. 구리는 6.56(+0.24%)으로 소폭 올랐습니다.",
+    "bullets": [
+     "업종·종목 시세 표 미제공 → 강·약 업종 수치 확인 불가",
+     "휴머노이드 로봇 테마: 상장 문턱 상향으로 심리 부담 가능",
+     "대EU 수출 업종: 통상 마찰 리스크 확대",
+     "WTI 90.42(+1.16%)·브렌트 103.53(+0.92%): 에너지 우호, 원가 부담 업종 불리"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "1) 중국 휴머노이드 로봇 IPO 기준 강화: CNBC는 소식통 3명을 인용해 증권 당국이 휴머노이드 로봇 스타트업 상장에 세 가지 기준을 적용한다고 보도했습니다. 제목은 이를 충족하는 기업이 거의 없을 것이라고 전했습니다. 산업 육성 기조는 유지하면서 자본시장 진입은 선별하겠다는 의도로 읽힙니다. 2) 중국-EU 통상 긴장: 상무부는 EU가 중국 기업이나 제품을 제한하면 단호히 대응하겠다고 경고했습니다. EU의 대중 무역 압력이 커지는 가운데 나온 발언이라 보복 관세·조사 등 상호 조치로 번질 위험을 남깁니다. 3) 글로벌 매크로: 로이터는 3분기 글로벌 증시가 AI·채권·원유 변수의 격랑을 견뎌냈다고 평가했습니다. 분기 말에는 유가와 채권금리 상승을 저울질하며 혼조를 보였다는 보도도 나왔습니다. 4) 아시아 기타: 싱가포르 국부펀드 테마섹은 2027년 상반기까지 리야드·아부다비 사무소를 열어 역대 최대 규모로 중동에 진출할 계획입니다. 인도에서는 외국계 보험사가 우대와 정책 불확실성을 함께 겪고 있고, 월가의 감원과 달리 주식 애널리스트 채용이 늘고 있다는 보도가 있었습니다. 아시아 자본 흐름이 중국 밖 신흥시장으로 넓어지는 모습입니다. 5) 한국경제는 '4분기 투자 1순위는 미국·한국이 아닌 이익 추정치가 급등한 나라'라는 기사를 냈지만, 제목만으로는 어느 나라인지 확인되지 않습니다.",
+    "bullets": [
+     "증감회, 휴머노이드 로봇 IPO 3개 기준 도입(CNBC, 소식통 3명)",
+     "상무부, EU의 대중 규제 시 '단호한 대응' 경고",
+     "3분기 글로벌 증시: AI·채권·원유 변수 속 선방, 분기 말 혼조",
+     "테마섹, 2027년 상반기까지 리야드·아부다비 사무소 개설 계획",
+     "인도: 외국계 보험사 정책 불확실성, 애널리스트 채용 증가"
+    ]
+   },
+   {
+    "heading": "한국 영향",
+    "body": "원/달러는 9.06원(-0.67%) 내린 1350.50, 위안/달러는 6.70(-0.11%)으로 원화와 위안화가 함께 강세를 보였습니다. 달러인덱스가 101.45(+0.08%)로 거의 보합이었던 만큼, 원화 강세 폭이 위안화보다 컸다는 점이 눈에 띕니다. 원·위안이 함께 강해지는 흐름은 외국인 수급에 대체로 우호적입니다. 업종별 시사점은 다음과 같습니다. ① 2차전지 소재·배터리: 중국-EU 통상 마찰이 커져 EU가 중국 배터리·전기차를 겨냥한 규제를 강화하면, 유럽에 생산 거점을 둔 한국 기업이 상대적 반사이익을 기대할 수 있습니다. 반대로 중국의 맞대응이 핵심 소재·광물 공급망으로 번지면 원가와 조달 리스크가 생길 수 있어 양방향으로 봐야 합니다. ② 화학·정유: 브렌트 103.53, WTI 90.42로 유가가 높아 화학 업종은 원료비 부담이 커지고, 정유 업종은 상대적으로 우호적인 환경입니다. ③ 철강·비철: 구리가 6.56(+0.24%)으로 소폭 올랐지만, 중국 경기부양 신호가 이번 입력에 없어 중국 수요 회복 기대를 뒷받침할 근거는 제한적입니다. ④ 로봇·반도체 장비: 중국 당국의 휴머노이드 로봇 상장 문턱 상향은 중국발 로봇 테마 과열을 식히는 신호입니다. 한국 로봇 테마주 심리에도 간접 영향을 줄 수 있습니다. ⑤ 화장품·소비재: 중국 소비 관련 정책이나 지표 기사가 이번 입력에 없어 별도의 시사점은 없습니다. 끝으로 닛케이 급등(+1.94%)과 엔화 약세(157.40)가 함께 나타난 점은 일본과 경합하는 한국 수출주의 가격 경쟁력 측면에서 점검할 대목입니다.",
+    "bullets": [
+     "원/달러 1350.50(-0.67%)·위안/달러 6.70(-0.11%): 원·위안 동반 강세",
+     "2차전지: 중-EU 마찰은 유럽 거점 한국 기업에 반사이익 가능성과 공급망 리스크가 공존",
+     "화학: 고유가로 원가 부담 / 정유: 상대적 우호",
+     "로봇 테마: 중국 IPO 문턱 상향이 테마 심리에 간접 부담 가능",
+     "화장품·소비재: 중국 소비 관련 신규 근거 없음",
+     "엔/달러 157.40 엔저 지속: 일본과 경합하는 수출주 점검 필요"
+    ]
+   }
+  ],
+  "leaders": [],
+  "events_today": [],
+  "headlines": [
+   {
+    "text": "상해종합 3842.20(+0.31%)·항셍 24,613(+0.37%) 소폭 상승, 심천성분 12,888(-0.11%) 약보합으로 3분기 마감",
+    "importance": 4
+   },
+   {
+    "text": "중국 상무부, EU가 중국 기업을 제한하면 '단호히 대응'하겠다고 경고 — 중-EU 통상 마찰 리스크 확대",
+    "importance": 4
+   },
+   {
+    "text": "중국 증감회, 휴머노이드 로봇 IPO에 3개 기준 도입 — 충족 기업 거의 없어 로봇 테마 상장 붐 제동",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "업종별 등락률·구성종목 시세 표가 없어 섹터·주도주를 수치로 확인할 수 없음",
+   "북향자금 등 수급 데이터와 인민은행 유동성 공급 데이터는 입력에 없음",
+   "시세는 2026-09-30 세션 종가 기준이며, 비트코인만 2026-09-29 기준",
+   "휴머노이드 IPO 세부 기준과 한국경제 기사의 '4분기 투자 1순위 국가'는 기사 요약에 나오지 않아 반영하지 않음",
+   "중국 본토와 홍콩은 통상 10월 초 국경절 연휴로 휴장하므로 실제 휴장 일정은 거래소 공지 확인 필요"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+   "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-30 11:50"
+  },
+  {
+   "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+   "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-30 12:39"
+  },
+  {
+   "title": "Global stocks mixed as markets weigh higher oil prices, bond yields",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmljQWQ4VU9rWU1SeV9oUWg5M1VQVV8tX2kyOWRHZEtnRml5T29fczl4c2pNR3dPMTdycHhEcE5JdWNDTGtwb1JEbXk1QmZqc2otYkI3LUJrcms4djFoYzJpcngzRTNySjRLV3BXM0ZxdnVWdGVUYTdXMjVPaVNTeWp4MDg?oc=5",
+   "source": "Google News Wall Street",
+   "publisher": "Yahoo Finance Singapore",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 05:36"
+  },
+  {
+   "title": "Global stocks weather third-quarter AI, bond and crude maelstrom",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEZjWFpDMnhINXNrdUFFQm50Rjhwc1dLMTRFMTJnU0VSNzgtbDdkS18wTWNGUklqNHAtWnNEM0R0VzYySlR1a3RqZGFMd0pRSnVUd0NzeWREUDFhQVFsVTY4ZVRSNWVuNklsUjJzYTRObHl0NUo0WkRwNFBvUGNNdTBZUlo?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 02:07"
+  },
+  {
+   "title": "4분기 투자 1순위는 미국·한국 아닌 '이 나라'?…\"이익 추정치 폭등\"",
+   "url": "https://www.hankyung.com/article/202609305425i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:00"
+  },
+  {
+   "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
+   "url": "https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-30 17:45"
+  },
+  {
+   "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
+   "url": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 09:23"
+  },
+  {
+   "title": "Stock Analyst Hiring Boom in India Defies Wall Street’s Pullback",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc284enZjMnh6cEFBbWFVUU14ckR6WURmSFBYWVFKZzRZMVI5aEEtSTFOLVlSQ19pVDQ3MTA4ZWtiZnJCMWQ4aGd2eDRWeFpXSmJPTm1KeTFuRFloc1lLcGpNUGJFZkJteDJvLUFZMzhWUWJvMHpNbURvVURWeGg2aDJXOHNreExFWjB4MGlCTVBMaHFfSTFDdktQdVVFRXFJby1sNUdwWXU0UDA2UG55TGRYUzRiQQ?oc=5",
+   "source": "Google News Wall Street",
+   "publisher": "bloomberg.com",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-09-30 10:00"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

@@ -1,0 +1,725 @@
+{
+ "topic": "kr",
+ "name": "한국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-10-01T13:42:55.124963+09:00",
+ "report": {
+  "title": "한국 증시 데일리 (2026-10-01): 미 장기금리 5.3% 부담 속 코스피 3일째 약세, 코스닥 반도체 소부장 강세. 마이크론 호실적·알래스카 LNG 발언 주목",
+  "overview": "9월 30일 코스피는 6838.04(-32.77, -0.48%)로 3거래일 연속 하락했습니다. 기사에 따르면 장 초반 강하다가 후반에 밀리는 '전강후약' 흐름이었고, 외국인은 4거래일 연속 순매도, 기관도 함께 팔았습니다. 반면 코스닥은 855.91(+6.11, +0.72%)로 올랐습니다. 간밤 뉴욕증시는 혼조로 마감했습니다. 8월 PCE 물가가 예상보다 낮았지만 미 10년물 국채금리가 5.306%로 24년 만의 최고치까지 오르면서 다우는 -0.86%, S&P 500은 -0.25%, 나스닥은 +0.24%를 기록했습니다. 마이크론은 사상 최대 실적과 강한 가이던스를 내놨지만, 시장이 비공식적으로 기대하던 수준(위스퍼 넘버)에는 못 미쳤다는 평가가 나오며 '삼전닉스'(삼성전자·SK하이닉스)는 10월 1일 약세로 출발했습니다. 다만 업데이트 시각이 표기되지 않은 장중 구성종목 표에서는 두 종목 모두 2%대 상승, 코스닥 반도체 장비주 강세, 코스피 상승 종목 우위가 확인되고, 트럼프 대통령의 '알래스카 LNG' 발언과 NC '아이온2'의 스팀 1위 소식이 개별 종목 변동성을 키웠습니다. 오늘 장은 미 장기금리, 원화 강세(원/달러 1350.50, -0.67%), 고유가(WTI 90.42, 브렌트 103.53), 그리고 반도체 실적 기대와 외국인 매도 사이의 줄다리기를 함께 살필 필요가 있습니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "직전 세션(9/30) 코스피는 6838.04로 전일보다 32.77포인트(-0.48%) 내리며 6800선에서 마감했습니다. 매일경제 마감 기사에 따르면 장 초반에는 강했지만 후반으로 갈수록 밀리는 '전강후약' 흐름이었고, 미국 국채금리 급등 부담 속에 외국인과 기관이 함께 팔면서 3거래일 연속 하락했습니다. 코스닥은 855.91로 6.11포인트(+0.72%) 올라 대형주 중심의 코스피와 반대로 움직였습니다.\n\n간밤 미국 세션(9/30 현지)은 혼조였습니다. 8월 PCE 물가는 예상보다 낮아 시장을 안심시켰고, 2분기 GDP 증가율이 2.2%로 상향되며 경제 체력도 확인됐습니다. 그러나 '경제가 너무 좋아 고금리가 길어질 수 있다'는 우려로 미 10년물 국채금리는 5.306%(기사 기준 24년 만의 최고치), 30년물은 5.6%를 넘었습니다. 그 결과 다우 50,906(-0.86%), S&P 500 7651.54(-0.25%), 러셀 2000 2796.86(-0.39%)은 내렸고, 나스닥 종합 26,861(+0.24%)과 나스닥 100 30,408(+0.23%)만 올랐습니다. 필라델피아 반도체지수는 12,629로 보합(-0.00%), VIX는 16.34(+1.87%)였습니다. 미니애폴리스 연은 카시카리 총재가 PCE 이후에도 '인플레이션은 여전히 너무 높다'고 말한 점도 금리 부담을 키운 요인입니다.\n\n환율은 원/달러가 1350.50으로 9.06원(-0.67%) 내려 원화가 강해졌고, 달러인덱스는 101.45(+0.08%)로 거의 변화가 없었습니다. 10월 1일 개장 기사에 따르면 코스피는 미 국채금리 상승 여파로 외국인·기관이 함께 팔면서 약세로 출발했습니다. 다만 업데이트 시각이 표기되지 않은 10/1 장중 구성종목 표에서는 코스피 상승 432개·하락 352개로 오르는 종목이 더 많고, 삼성전자·SK하이닉스도 2%대 상승 중이어서 장중에 일부 회복했을 가능성이 있습니다. 표와 기사의 시점이 달라 단정하기는 어렵습니다.",
+    "bullets": [
+     "코스피 6838.04 (-32.77, -0.48%, 9/30): 3거래일 연속 하락, '전강후약' 흐름으로 6800선 마감",
+     "코스닥 855.91 (+6.11, +0.72%, 9/30): 코스피와 반대로 상승",
+     "뉴욕(9/30): 다우 -0.86%, S&P 500 -0.25%, 나스닥 +0.24%, 필라델피아 반도체 보합, VIX 16.34",
+     "미 10년물 5.306%(24년 만의 최고), 30년물 5.6% 돌파. PCE는 예상 하회, GDP는 2.2%로 상향",
+     "원/달러 1350.50 (-0.67%)로 원화 강세, 달러인덱스 101.45 (+0.08%)",
+     "10/1 개장: 코스피 약세 출발(외국인·기관 매도). 장중 표 기준으로는 상승 종목이 더 많음(432 vs 352)"
+    ]
+   },
+   {
+    "heading": "수급",
+    "body": "무료 데이터 소스에는 KRX 투자자별(외국인·기관·개인) 순매매 데이터가 없습니다. 따라서 아래 수급 내용은 기사에서 언급된 것만 근거로 하며, 순매수·순매도 금액은 제시하지 않습니다.\n\n기사 기준 수급: 9/30 마감 기사에 따르면 외국인은 4거래일 연속 순매도했고, 기관도 함께 팔면서 지수 하락으로 이어졌습니다. 10/1 개장 기사 역시 미 국채금리가 튀자 외국인·기관이 '팔자'에 나서며 약세로 출발했다고 전했습니다. 개인과 관련해서는 '삼전닉스 초유의 상황에 개미들 들썩'(한국경제), '삼전닉스 1.4조 판 슈퍼리치, 4분기 대비 이 종목 담았다'(한국경제), '초고수가 내다 판 2차전지주'(한국경제) 등의 기사가 있습니다. 반도체 대형주와 2차전지를 둘러싸고 개인 투자자층 안에서도 차익 실현과 추가 매수가 엇갈리는 모습이지만, 기사 제목 외에 구체적인 금액이나 방향은 확인되지 않습니다. 이 밖에 9월 상장사 자사주 매입이 5600억원이었다는 기사가 있습니다. 삼성전자·SK하이닉스의 대규모 자사주 매입은 마무리 단계이고, 제일기획(지분 12%, 2800억 전량 소각 및 1년 안에 1400억원 추가 취득)·KT&G(9월 물량 3600억원) 등이 뒤를 잇고 있습니다.\n\n거래대금(10/1 장중, 추정치): 코스피에서는 SK하이닉스(2조, +2.14%)와 삼성전자(2조, +2.24%)가 거래를 주도했습니다. 이어 삼성전기(6976억, +2.58%), SK스퀘어(3293억, +0.09%), 삼화콘덴서공업(1609억, +9.19%), 현대모비스(1334억, +3.13%), 두산에너빌리티(1225억, +1.35%), KB금융(1184억, -1.24%), 대덕전자(1182억, +7.17%), 한미반도체(1076억, +2.73%) 순입니다. 반도체와 전자부품에 거래가 몰렸습니다. 코스닥에서는 주성엔지니어링(2722억, +1.94%), 코스모로보틱스(2140억, +22.47%), HPSP(1881억, +4.40%), 제주반도체(1736억, +7.93%), 세미파이브(1706억, +11.11%), 원익IPS(1528억, +5.93%), SFA반도체(1273억, +1.67%), 하나마이크론(924억, +4.96%), 성호전자(886억, +4.92%), 고영(805억, +8.40%) 순이었습니다. 거래대금 상위 10개 중 대부분이 반도체 장비·후공정 종목입니다.\n\n시장 폭(10/1 장중): 코스피는 상승 432 / 하락 352 / 보합 58로 상승 우위가 크지 않은 반면, 코스닥은 상승 1075 / 하락 557 / 보합 143으로 상승 종목이 두 배 가까이 많았습니다(코스닥은 1782종목 중 1775종목만 집계).",
+    "bullets": [
+     "KRX 투자자별 매매 데이터 없음: 기사 언급만 근거로 함",
+     "외국인 4거래일 연속 순매도(9/30), 외국인·기관 동반 매도. 10/1 개장 때도 외국인·기관 매도",
+     "개인: '삼전닉스' 관련 개인 투자 열기와 고액 자산가의 1.4조 매도 기사가 엇갈림(제목 수준 정보)",
+     "9월 상장사 자사주 매입 5600억원. 제일기획 2800억 소각, KT&G 9월 3600억",
+     "코스피 거래대금 1·2위: SK하이닉스·삼성전자(각 2조, 추정)",
+     "코스닥 거래대금 상위 대부분이 반도체 장비·후공정(주성엔지니어링·HPSP·원익IPS·하나마이크론 등)",
+     "시장 폭(장중): 코스피 432↑/352↓, 코스닥 1075↑/557↓"
+    ]
+   },
+   {
+    "heading": "업종 동향",
+    "body": "강한 업종: 10/1 장중 표 기준으로 가장 눈에 띄는 것은 반도체와 반도체 장비·전자부품입니다. 코스피에서는 SK하이닉스(+2.14%), 삼성전자(+2.24%), 삼성전기(+2.58%), 한미반도체(+2.73%)가 오르고 있고, 전자부품 업종에서는 삼화콘덴서공업(+9.19%), 대덕전자(+7.17%), 드림텍(+13.33%), 솔루엠(+8.58%)이 상승 상위권에 있습니다. 코스닥에서는 주성엔지니어링(+1.94%), HPSP(+4.40%), 원익IPS(+5.93%), 제주반도체(+7.93%), 하나마이크론(+4.96%), 고영(+8.40%), 세미파이브(+11.11%), 윈팩(+27.96%) 등 장비·후공정·설계 관련주가 거래대금 상위와 상승 상위에 함께 올라 있습니다. 배경으로는 마이크론의 사상 최대 실적과 강한 1분기 가이던스(데이터센터 매출 11배 증가), KB증권의 '삼성전자 내년 HBM 판매가 100% 넘게 오를 듯'·'하반기 70조원 현금배당 가능' 전망, 그리고 주성엔지니어링 시가총액 10조원 돌파(연초 대비 664% 상승, 에코프로비엠 추월)로 드러난 코스닥 소부장(소재·부품·장비) 주도 흐름이 기사로 확인됩니다. 다만 전자부품 개별 종목의 상승 이유를 직접 설명한 기사는 없습니다.\n\n게임/소프트웨어: NC가 '아이온2'의 스팀 1위 소식에 +11.27% 급등했습니다.\n\n의료기기/바이오(코스닥): 코스모로보틱스(+22.47%, 거래대금 2140억), 리브스메드(+18.92%), 앱클론(+19.46%), 지아이이노베이션(+15.95%)이 상승 상위에 있지만, 개별 이유를 다룬 기사는 입력에 없습니다.\n\n약한 업종과 엇갈린 업종: 1차 철강은 종목별로 크게 갈렸습니다. 대한제강(+23.56%)은 급등했지만 대양금속(-16.50%), SHD(-11.35%), 하이스틸(-10.59%), 동일제강(-6.98%), 그리고 기타 금융업으로 분류된 세아제강지주(-7.22%)가 하락 상위에 있습니다. 한국경제는 트럼프 대통령의 '알래스카 LNG' 발언으로 관련주가 '줄줄이 급등'했다고 보도했고(같은 날 '알래스카 강관' 수혜주 기사도 있음), 매일경제는 한국 정부가 '결정한 적 없다'는 입장이라고 전했습니다. 표 시점에서 강관 관련으로 거론되는 일부 종목이 크게 내리고 있어 급등 후 되돌림이 나타났을 가능성이 있지만, 기사 본문의 종목 목록이 없어 연결은 단정하지 않습니다. 플라스틱제품(진양화학 -13.49%, SUN&L -10.58%, 대원화성 -7.61%)도 약했습니다. 금융은 KB금융(-1.24%)이 거래대금 상위권에서 하락 중입니다. 2차전지는 '초고수 매도' 기사로 차익 실현 분위기가 언급되는 가운데, 한국투자증권은 삼성SDI가 미국 ESS 시장에서 중국산 배터리가 배제되는 데 따른 수혜를 볼 수 있다고 전망했습니다.",
+    "bullets": [
+     "강세: 반도체·HBM(삼성전자·SK하이닉스·한미반도체), 전자부품(삼화콘덴서·대덕전자·드림텍·솔루엠·삼성전기)",
+     "강세: 코스닥 반도체 장비·후공정(주성엔지니어링·HPSP·원익IPS·제주반도체·하나마이크론·고영)",
+     "배경: 마이크론 최대 실적·강한 가이던스, KB증권의 삼성전자 HBM 가격·배당 전망",
+     "게임: NC '아이온2' 스팀 1위에 +11.27%",
+     "엇갈림: 1차 철강(대한제강 +23.56% vs 대양금속·하이스틸·SHD·세아제강지주 하락). '알래스카 LNG' 이슈와의 연결은 확인 필요",
+     "약세: 플라스틱제품, 금융(KB금융 -1.24%)"
+    ]
+   },
+   {
+    "heading": "주도주와 급등락",
+    "body": "코스피 상승 상위(10/1 장중): 대한제강 9625원(+23.56%), 드림텍 9010원(+13.33%), NC 232,500원(+11.27%), 한국화장품제조 16,650원(+10.78%), MH에탄올(+10.18%, 거래대금 3억으로 거래가 적음), 삼화콘덴서공업 162,900원(+9.19%), 삼성제약(+8.72%), 솔루엠(+8.58%), 씨케이솔루션(+8.51%), DB(+8.08%) 순입니다. 이 중 상승 이유가 기사로 확인되는 종목은 NC('아이온2' 스팀 1위)뿐입니다. 대한제강은 같은 날 '알래스카 LNG'·'알래스카 강관' 수혜주 기사가 나왔지만 종목이 직접 언급됐는지는 확인할 수 없습니다. 삼화콘덴서공업은 거래대금 1609억원으로 코스피 거래대금 5위에 올라 중소형주 중 거래가 가장 활발했습니다.\n\n코스피 하락 상위: 진원생명과학(-80.00%)은 거래대금이 0으로 표시돼 정상적인 시장 거래 결과로 보기 어렵습니다(데이터 오류나 가격 조정 등 확인 필요). 이어 대양금속(-16.50%), 진양화학(-13.49%), SHD(-11.35%), 하이스틸(-10.59%), SUN&L(-10.58%), 한화갤러리아(-7.92%), 대원화성(-7.61%), 세아제강지주(-7.22%), 동일제강(-6.98%) 순이며, 철강·강관 계열이 많습니다. 하락 이유를 다룬 기사는 입력에 없습니다.\n\n코스닥 상승 상위: 원일티엔아이(+29.94%), 윈팩(+27.96%), 코스모로보틱스(+22.47%), LK삼양(+21.36%), 씨싸이트(+21.34%), 디에이테크놀로지(+21.21%, 주가 120원·시총 14억의 초소형주), 앱클론(+19.46%), 리브스메드(+18.92%), 지아이이노베이션(+15.95%), 넥사다이내믹스(+15.82%) 순입니다. 코스모로보틱스는 거래대금 2140억원으로 코스닥 2위여서 단기 매매가 크게 몰린 것으로 보입니다. 이 밖에 오늘 코스닥에 새로 상장한 브릴스는 첫날 150%대 급등했다고 보도됐습니다(구성종목 표에는 없음).\n\n코스닥 하락 상위: 케이이엠텍(-80.00%, 거래대금 0으로 진원생명과학과 같은 데이터 이상 의심), E8(-22.76%), 지니틱스(-21.63%), 에스앤더블류(-20.27%), 에이전트AI(-17.56%, 표에 같은 행이 두 번 들어 있음), 광진실업(-16.50%), 퀀텀레일(-16.31%), 국일신동(-13.60%), 바이오인프라(-12.54%) 순으로, 대부분 시가총액이 작은 종목입니다.\n\n대형 주도주: SK하이닉스(1,814,000원, +2.14%)와 삼성전자(274,500원, +2.24%)는 마이크론 실적이 위스퍼 넘버(EPS 33.42달러로 기대 미달)에 못 미쳤다는 평가 속에 장 초반 하락했다고 보도됐지만, 표 시점에는 상승 중입니다. 현대모비스(378,500원, +3.13%)는 대신증권이 목표주가를 69만원에서 58만원으로 내렸는데도(현대차 판매 부진·환율 부담·액츄에이터 양산 시차 반영, '매수' 유지) 오르고 있습니다. 주성엔지니어링(237,000원, +1.94%)은 시가총액 10조원을 넘어 코스닥 소부장 대표주로 부각됐습니다.",
+    "bullets": [
+     "NC +11.27%: '아이온2' 스팀 1위(기사 확인)",
+     "대한제강 +23.56%: 철강 중 홀로 급등. 알래스카 LNG 관련 여부는 미확인",
+     "삼화콘덴서공업 +9.19%: 거래대금 1609억으로 코스피 5위",
+     "코스모로보틱스 +22.47%: 거래대금 2140억으로 코스닥 2위",
+     "진원생명과학·케이이엠텍 -80.00%(거래대금 0): 데이터 이상 가능성",
+     "하이스틸·세아제강지주·대양금속 등 철강·강관 계열 하락",
+     "브릴스: 코스닥 상장 첫날 150%대 급등 보도(표에는 없음)"
+    ]
+   },
+   {
+    "heading": "주요 뉴스·더벨",
+    "body": "참고: 이번 입력에는 더벨 헤드라인이 포함되지 않아 더벨 기사는 다루지 않았습니다. 아래는 한국경제·매일경제·해외 매체 기사의 제목과 요약에 근거한 내용이며, 제목만 있는 기사는 해석을 최소화했습니다.\n\n① 마이크론 실적: CNBC 등에 따르면 마이크론은 4분기 매출과 이익 모두 예상을 웃돌았고, 데이터센터 매출이 11배로 늘며 강한 1분기 가이던스를 제시했습니다(주가는 지난 1년간 500% 넘게 상승). 반면 한국경제는 분기 EPS 33.42달러가 시장의 비공식 기대치(위스퍼 넘버)에는 못 미쳤다고 전했고, 매일경제는 실적 발표 후 주가가 '롤러코스터'를 탔다고 보도했습니다. 이 영향으로 '삼전닉스'는 장 초반 하락했습니다.\n② 삼성전자 관련: KB증권은 삼성전자가 하반기 총 70조원 규모의 현금배당을 할 수 있다고 봤고(김동원 리서치본부장), 내년 HBM 판매가가 100% 넘게 오를 것이라고 전망했습니다.\n③ 트럼프 '알래스카 LNG': 트럼프 대통령 발언에 관련주가 급등했다는 보도와, 한국 정부가 '결정한 적 없다'는 입장을 냈다는 보도가 함께 나왔습니다(매일경제 제목 기준 '알래스카 70조'). 한국경제는 텍사스 가스터빈·알래스카 강관 등 대미투자 프로젝트 수혜주를 정리했습니다. 정부 입장이 확정되지 않아 정책 불확실성이 큰 사안입니다.\n④ 주주환원: 9월 상장사 자사주 매입은 5600억원으로 '밸류업 시계가 다시 돈다'는 평가가 나왔습니다. 제일기획은 지분 12%(2800억원)를 전량 소각하고 1400억원을 추가 취득할 계획입니다. 글로벌 운용사들은 한국의 자본시장 개혁(주주 보호 강화)을 '고무적'이라고 평가했습니다.\n⑤ 정책·제도: 여당이 디스커버리 제도(소송에서 회사에 증거 제출을 요구할 수 있는 제도)의 연내 입법을 추진합니다. 내년부터는 상장사가 보유한 토지 정보 공시가 강화돼 '숨겨진 땅'이 드러날 전망입니다.\n⑥ 증권사 리포트: 하나증권은 포스코인터내셔널에 대해 유가 상승에 따른 에너지 자산 수익 개선을 근거로 '매수'와 목표주가 10만5000원을 유지했습니다. 대신증권은 현대모비스 목표주가를 69만원에서 58만원으로 내렸고, 한국투자증권은 호텔신라의 3분기 영업이익이 기대치를 밑돌 것으로 보고 목표가를 낮췄습니다. 한국투자증권은 삼성SDI가 미국 ESS 시장의 중국산 배제로 수혜를 볼 것으로 기대했고, 웨이버스는 수주잔고가 반년 만에 두 배로 늘었다는 기사가 나왔습니다.\n⑦ 금융·M&A: 한화투자증권은 5000억원 규모 유상증자와 신종자본증권 발행 등으로 총 9000억원 자본을 확충해 종합금융투자사업자(종투사) 진입을 추진합니다. 한화생명은 애큐온캐피탈·저축은행 패키지 인수 본계약을 체결했고(센트로이드PE 재무투자 합류), 헬리오스PE는 서울전선 경영권 인수를 마무리했으며 덴마크 노보홀딩스가 투자자로 참여했습니다.\n⑧ 해외: 미 10년물 국채금리가 5.3%를 넘어 24년 만의 최고를 기록했고, MarketWatch는 미 국채금리가 '한 세대 만의 최대 상승폭'을 보였다고 전했습니다. 트럼프 대통령은 디젤 수출 금지를 검토 중이라고 밝혔고, 구글은 'Gemini 4 Argon'을 발표했습니다.",
+    "bullets": [
+     "더벨 헤드라인은 이번 입력에 없음",
+     "마이크론: 매출·이익 예상 상회, 데이터센터 매출 11배. 다만 EPS 33.42달러로 위스퍼 넘버 미달",
+     "KB증권: 삼성전자 하반기 70조 현금배당 가능, 내년 HBM 판매가 100% 이상 상승 전망",
+     "트럼프 '알래스카 LNG' 발언에 관련주 급등 보도 vs 정부 '결정한 적 없다'",
+     "9월 자사주 매입 5600억원, 제일기획 2800억 소각",
+     "디스커버리 제도 연내 입법 추진, 상장사 토지 공시 강화(내년)",
+     "한화투자증권 9000억 자본확충, 한화생명 애큐온 인수 본계약",
+     "목표가 하향: 현대모비스(69만→58만, 대신), 호텔신라(한투)"
+    ]
+   },
+   {
+    "heading": "오늘 이벤트",
+    "body": "입력 자료에서 확인되는 오늘(10/1) 일정은 많지 않습니다. 경제지표 발표 일정은 입력에 없어 따로 적지 않았습니다. 확인되는 것은 다음과 같습니다. 첫째, 브릴스가 오늘 코스닥에 상장해 첫날 150%대 급등했다고 보도돼, 신규 상장주에 대한 단기 매매 열기를 보여줍니다. 둘째, 마이크론 실적(4분기 실적과 1분기 가이던스)이 국내 메모리·장비주에 처음 반영되는 세션입니다. 셋째, 트럼프 대통령의 알래스카 LNG 발언에 대한 한국 정부의 추가 입장이 나오는지가 관련주 변동성을 좌우할 수 있습니다. 넷째, 10월 첫 거래일로 매일경제는 '10월은 박스권, 승부는 11월부터'라는 전망과 함께 미국 장기금리·국제유가 등을 변수로 꼽았습니다. 다섯째, 증권사들이 3분기 실적 프리뷰를 내놓기 시작했습니다(현대모비스·호텔신라는 기대치 하회 전망). 실적 시즌을 앞둔 실적 추정치 조정 흐름이 이어질 수 있습니다. 공시 측면에서는 자사주 매입·소각 공시가 계속되고 있고, 한화투자증권의 자본확충과 한화생명의 애큐온캐피탈 인수 등 금융권 자본 이벤트가 진행 중입니다.",
+    "bullets": [
+     "브릴스 코스닥 신규 상장 첫 거래일(첫날 150%대 급등 보도)",
+     "마이크론 실적 이후 국내 반도체주 첫 반영 세션",
+     "알래스카 LNG 관련 한국 정부 추가 입장 여부",
+     "10월 첫 거래일: 미 장기금리·유가가 주요 변수로 거론",
+     "3분기 실적 프리뷰 시즌(현대모비스·호텔신라 기대치 하회 전망)"
+    ]
+   },
+   {
+    "heading": "오늘 장 참고",
+    "body": "아래는 매매 추천이 아니라 입력 데이터에 근거한 참고 시나리오입니다. 구성종목 표가 10/1 장중 값이므로, 이미 진행 중인 세션의 남은 시간과 다음 거래일을 참고하는 용도로 정리했습니다.\n\n① 금리 시나리오(가장 큰 변수): 미 10년물 5.306%, 30년물 5.6% 돌파, 카시카리 총재의 '인플레이션은 여전히 너무 높다' 발언까지 겹쳐 고금리가 길어질 수 있다는 우려가 커졌습니다. 기사로 확인된 외국인 4거래일 연속 매도와 10/1 개장 직후 외국인·기관 매도는 이 금리 부담과 연결돼 있습니다. 장기금리가 더 오르면 코스피 대형주는 외국인 매도 압력에 계속 노출될 수 있고, 금리가 안정되면 매도 강도가 약해질 여지가 있습니다. MarketWatch는 9월 채권시장이 혹독했고 10월은 더 나쁠 수 있다는 관측도 전했습니다.\n\n② 반도체 시나리오: 마이크론 실적 자체(데이터센터 매출 11배, 강한 가이던스)는 업황이 좋다는 신호입니다. 다만 위스퍼 넘버 미달과 시간외 등락 때문에 '좋은 실적이 이미 주가에 반영됐는지'를 두고 시장의 판단이 엇갈립니다. 장 초반 약세에서 표 시점의 2%대 상승으로 돌아선 흐름이 유지된다면, KB증권의 HBM 가격·배당 전망과 함께 실적 기대가 금리 부담을 일부 상쇄하는 구도로 볼 수 있습니다. 반대로 필라델피아 반도체지수가 보합에 그친 만큼 상승 탄력이 제한될 가능성도 있습니다. 코스닥 장비주(주성엔지니어링·원익IPS·HPSP)는 거래가 몰린 만큼 변동성도 클 수 있습니다.\n\n③ 환율: 원/달러 1350.50(-0.67%)으로 원화가 강해진 것은 일반적으로 외국인 수급에 우호적인 요인이 될 수 있습니다. 반면 현대모비스 리포트처럼 수출주 실적에는 환율 부담이 될 수 있다는 점도 함께 볼 필요가 있습니다.\n\n④ 원자재: WTI 90.42(+1.16%)와 브렌트 103.53(+0.92%)의 고유가는 10월 증시 전망 기사에서 '발목을 잡는 변수'로 꼽혔습니다. 반면 하나증권은 포스코인터내셔널처럼 에너지 자산을 가진 기업에는 유가 상승이 실적 개선 요인이라고 봤습니다. 트럼프 대통령의 디젤 수출 금지 검토는 석유제품 시장의 변수입니다. 금(4186.70, +0.17%)과 구리(6.56, +0.24%)는 소폭 올랐습니다.\n\n⑤ 정책·테마: 알래스카 LNG처럼 정부 결정이 확정되지 않은 정책 테마는 발언 하나에 급등했다가 되돌림이 나타날 수 있습니다. 표에서도 철강·강관 계열이 크게 엇갈려 있습니다. 신규 상장주(브릴스)와 소형 급등주(코스모로보틱스 등)도 거래대금이 많은 만큼 변동성이 클 수 있습니다.\n\n⑥ 주주환원: 9월 자사주 매입 5600억원과 제일기획 소각 같은 주주환원 확대, 자본시장 개혁에 대한 해외 운용사의 긍정 평가는 중장기 지지 요인으로 거론됩니다. 다만 삼성전자·SK하이닉스의 대규모 자사주 매입이 마무리 단계라는 점도 함께 살펴볼 만합니다.",
+    "bullets": [
+     "핵심 변수: 미 10년물 5.3%대·30년물 5.6%대 금리와 외국인 연속 매도 지속 여부",
+     "반도체: 마이크론 실적 기대와 위스퍼 넘버 미달 사이의 줄다리기. 장중 반등이 유지되는지 확인",
+     "원화 강세(1350.50)는 외국인 수급에 우호적일 수 있으나 수출주 실적에는 부담",
+     "고유가(WTI 90.42·브렌트 103.53): 시장에는 부담, 에너지 자산 보유 기업에는 수혜 논리",
+     "알래스카 LNG 등 미확정 정책 테마와 신규 상장주는 변동성 확대 유의",
+     "10월 박스권 전망: 미 장기금리·유가가 핵심 변수(매일경제)"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "SK하이닉스",
+    "ticker": "000660.KS",
+    "comment": "10/1 장중 1,814,000원(+2.14%), 거래대금 약 2조원으로 코스피 1위. 마이크론의 사상 최대 실적에도 위스퍼 넘버 미달 평가로 장 초반 하락했다고 보도됐지만, 표 시점에는 상승 중."
+   },
+   {
+    "name": "삼성전자",
+    "ticker": "005930.KS",
+    "comment": "274,500원(+2.24%), 거래대금 약 2조원. KB증권은 하반기 70조원 현금배당 가능성과 내년 HBM 판매가 100% 이상 상승을 전망. 대규모 자사주 매입은 마무리 단계."
+   },
+   {
+    "name": "NC",
+    "ticker": "036570.KS",
+    "comment": "232,500원(+11.27%). 글로벌 시장을 겨냥한 '아이온2'가 스팀 1위에 올랐다는 소식에 급등(한국경제)."
+   },
+   {
+    "name": "삼화콘덴서공업",
+    "ticker": "001820.KS",
+    "comment": "162,900원(+9.19%), 거래대금 1609억원으로 코스피 5위. 전자부품 강세를 주도했으나 개별 상승 이유를 다룬 기사는 없음."
+   },
+   {
+    "name": "현대모비스",
+    "ticker": "012330.KS",
+    "comment": "378,500원(+3.13%), 거래대금 1334억원. 대신증권이 현대차 판매 부진·환율 부담·액츄에이터 양산 시차를 이유로 목표가를 69만원에서 58만원으로 내렸지만('매수' 유지) 장중 상승 중."
+   },
+   {
+    "name": "대한제강",
+    "ticker": "084010.KS",
+    "comment": "9625원(+23.56%)으로 코스피 상승 1위. 같은 날 알래스카 LNG·강관 수혜주 기사가 나왔으나 이 종목과의 직접 연관은 기사로 확인되지 않음. 다른 철강·강관주는 대체로 하락."
+   },
+   {
+    "name": "세아제강지주",
+    "ticker": "003030.KS",
+    "comment": "109,100원(-7.22%). 하이스틸(-10.59%) 등과 함께 강관 계열이 약세. '알래스카 LNG 급등' 보도, 정부의 '결정한 적 없다' 입장과의 관련성은 단정할 수 없음."
+   },
+   {
+    "name": "주성엔지니어링",
+    "ticker": "036930.KQ",
+    "comment": "237,000원(+1.94%), 거래대금 2722억원으로 코스닥 1위. 연초 대비 664% 올라 시가총액 10조원을 넘었고 에코프로비엠을 제치며 코스닥 소부장 대표주로 부각."
+   },
+   {
+    "name": "코스모로보틱스",
+    "ticker": "439960.KQ",
+    "comment": "9210원(+22.47%), 거래대금 2140억원으로 코스닥 2위. 단기 매매가 크게 몰렸으며 상승 이유를 다룬 기사는 입력에 없음."
+   }
+  ],
+  "events_today": [
+   "브릴스 코스닥 신규 상장 첫 거래일(첫날 150%대 급등 보도)",
+   "마이크론 4분기 실적·1분기 가이던스 이후 국내 반도체·장비주 첫 반영",
+   "트럼프 '알래스카 LNG' 발언에 대한 한국 정부 추가 입장 여부",
+   "10월 첫 거래일: 미 10년물(5.306%)·30년물(5.6%) 장기금리와 국제유가 추이",
+   "3분기 실적 프리뷰 시즌 진입(현대모비스·호텔신라 기대치 하회 전망 리포트)"
+  ],
+  "headlines": [
+   {
+    "text": "미 10년물 5.3% 돌파(24년 만의 최고)·외국인 4일 연속 매도에 코스피 -0.48%(6838.04)로 3일째 하락, 코스닥은 +0.72%",
+    "importance": 5
+   },
+   {
+    "text": "마이크론 사상 최대 실적·강한 가이던스에도 위스퍼 넘버 미달… '삼전닉스' 장 초반 약세 후 장중 표 기준 2%대 상승, 코스닥 반도체 장비주 강세",
+    "importance": 4
+   },
+   {
+    "text": "트럼프 '알래스카 LNG' 발언에 관련주 급등 보도, 정부는 '결정한 적 없다'… 철강·강관주 엇갈려",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "지수·해외 시세는 9/30 종가 기준이고 코스피·코스닥 구성종목 표는 10/1 장중 값(업데이트 시각 미표기)이라 시점이 섞여 있음",
+   "무료 소스에는 KRX 투자자별(외국인·기관·개인) 매매 데이터가 없어 수급은 기사 언급만 근거로 함",
+   "이번 입력에 더벨 헤드라인이 포함되지 않음",
+   "진원생명과학·케이이엠텍의 -80.00%는 거래대금 0으로 표시돼 데이터 오류나 가격 조정일 가능성이 있음",
+   "코스닥 하락 상위 표에 에이전트AI 행이 중복됨. 일부 거래대금은 단위 표기가 다름(원 단위 숫자)",
+   "거래대금은 추정치이며 코스닥은 1782종목 중 1775종목만 집계됨",
+   "매일경제 '韓 정부… 알래스카 70조' 기사의 요약이 본문과 무관한 내용(오픈AI 요금제)이라 제목만 근거로 사용함",
+   "비트코인 시세는 9/29 기준"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "마이크론 사상 최대 실적인데…'삼전닉스', 장 초반 하락",
+   "url": "https://www.hankyung.com/article/2026100165966",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 09:20"
+  },
+  {
+   "title": "마이크론 분기 EPS 33.42달러…'위스퍼 넘버'엔 못 미쳐",
+   "url": "https://www.hankyung.com/article/2026100162076",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 07:25"
+  },
+  {
+   "title": "\"심상찮더니 결국\"…트럼프 '알래스카 LNG' 한마디에 줄줄이 '급등' [종목+]",
+   "url": "https://www.hankyung.com/article/2026100167546",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 09:38"
+  },
+  {
+   "title": "韓 정부 “결정한 적 없는데…” 트럼프 “알래스카 70조 쏜다”",
+   "url": "https://www.mk.co.kr/news/business/12165651",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 09:29"
+  },
+  {
+   "title": "코스피 약세 출발…미 국채금리 튀자 외국인·기관 '팔자' 나서",
+   "url": "https://www.hankyung.com/article/2026100166196",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 09:16"
+  },
+  {
+   "title": "KB증권 “삼성전자, 하반기 70조 현금배당 가능”",
+   "url": "https://www.mk.co.kr/news/stock/12165575",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:47"
+  },
+  {
+   "title": "텍사스 가스터빈부터 알래스카 강관까지…대미투자 프로젝트 수혜주는",
+   "url": "https://www.hankyung.com/article/202610016309i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:20"
+  },
+  {
+   "title": "마이크론 폭발적인 실적에도 주가는 왜 롤러코스터 타나",
+   "url": "https://www.mk.co.kr/news/business/12165558",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:03"
+  },
+  {
+   "title": "연초 대비 664% 급등…시총 10조 돌파한 '주성엔지니어링'",
+   "url": "https://www.hankyung.com/article/202609305669i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 07:48"
+  },
+  {
+   "title": "마이크론 '괴물 실적'...낮아진 美 금리인상 가능성 [오늘 아침, 당신이 알아야 할 7가지]",
+   "url": "https://www.hankyung.com/article/202610016192i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 07:33"
+  },
+  {
+   "title": "\"삼성전자, 내년 HBM 판매가 100% 넘게 오를 듯\"-KB",
+   "url": "https://www.hankyung.com/article/2026100162116",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 07:27"
+  },
+  {
+   "title": "삼전닉스 이어 우리도 태웁니다…자사주 매입·소각나선 상장사 어디",
+   "url": "https://www.mk.co.kr/news/stock/12165517",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 06:22"
+  },
+  {
+   "title": "\"경제사 새로 쓴다\"…삼전닉스 초유의 상황에 개미들 '들썩' [분석+]",
+   "url": "https://www.hankyung.com/article/2026093052066",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 22:00"
+  },
+  {
+   "title": "9월 자사주 매입 5600억 … '밸류업 시계' 다시 돈다",
+   "url": "https://www.mk.co.kr/news/stock/12165178",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 17:38"
+  },
+  {
+   "title": "코스피, ‘전강후약’ 6800선 마감…외국인 4거래일 연속 ‘팔자’",
+   "url": "https://www.mk.co.kr/news/stock/12164974",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 16:10"
+  },
+  {
+   "title": "NC, 글로벌 겨냥한 '아이온2'의 스팀 1위 소식에 '급등'",
+   "url": "https://www.hankyung.com/article/2026100166986",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 09:30"
+  },
+  {
+   "title": "브릴스, 코스닥 상장 첫날 150%대 급등",
+   "url": "https://www.hankyung.com/article/2026100165666",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 09:08"
+  },
+  {
+   "title": "초고수가 내다 판 2차전지주 정체는?…\"기대감 최고조에서 매도\"",
+   "url": "https://www.hankyung.com/article/202610016331i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 09:00"
+  },
+  {
+   "title": "하나증권 “포스코인터내셔널, 에너지 자산 수익 개선…안정적 성장”",
+   "url": "https://www.mk.co.kr/news/stock/12165576",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:47"
+  },
+  {
+   "title": "\"웨이버스 수주잔고 반년만에 2배로…하반기 매출 급증할 것\"",
+   "url": "https://www.hankyung.com/article/2026100164746",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:46"
+  },
+  {
+   "title": "\"삼성SDI, 미국 ESS 시장 내 중국산 배터리 배제 수혜 기대\"-한국",
+   "url": "https://www.hankyung.com/article/2026100163626",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:22"
+  },
+  {
+   "title": "“주주 보호 강화 고무적”…글로벌 운용사가 본 한국의 자본시장 개혁",
+   "url": "https://www.hankyung.com/article/202610016329i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:20"
+  },
+  {
+   "title": "“현대모비스, 현대차 판매 부진·환율 부담에 주가 전망 휘청”…목표가↓",
+   "url": "https://www.mk.co.kr/news/stock/12165562",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:11"
+  },
+  {
+   "title": "\"현대모비스, 액츄에이터 대량양산 시차 반영…목표가↓\"-대신",
+   "url": "https://www.hankyung.com/article/2026100163116",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:03"
+  },
+  {
+   "title": "\"호텔신라, 3분기 영업익 시장 기대치 밑돌 전망…목표가↓\"-한투",
+   "url": "https://www.hankyung.com/article/2026100162416",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:00"
+  },
+  {
+   "title": "내년부터 '금싸라기 땅' 꽁꽁 숨겨둔 상장사 드러난다",
+   "url": "https://www.hankyung.com/article/202609305001i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 08:00"
+  },
+  {
+   "title": "\"포스코인터내셔널, 유가 상승에 최대 실적 신기록 행진 기대\"-하나",
+   "url": "https://www.hankyung.com/article/2026100162406",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 07:46"
+  },
+  {
+   "title": "1개월 새 목표주가 크게 뛴 '톱10' 종목 분석해보니",
+   "url": "https://www.hankyung.com/article/202609305217i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 07:27"
+  },
+  {
+   "title": "삼전닉스 1.4조 판 슈퍼리치, 4분기 대비 '이 종목' 담았다",
+   "url": "https://www.hankyung.com/article/202609304171i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 07:00"
+  },
+  {
+   "title": "주성엔지니어링, 에코프로비엠 제쳤다…코스닥 시총 상위 소부장 포진",
+   "url": "https://www.hankyung.com/article/2026093049096",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 06:30"
+  },
+  {
+   "title": "미국서 돈방석 앉나…'연 1000억' 잭팟 노리는 한국 회사",
+   "url": "https://www.hankyung.com/article/2026093055081",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 06:00"
+  },
+  {
+   "title": "IMA 어디로 가요? … 안정 원하면 한투·NH, 고수익은 ‘여기’ [IMA 2편]",
+   "url": "https://www.mk.co.kr/news/stock/12164979",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 05:00"
+  },
+  {
+   "title": "“10월은 박스권, 승부는 11월부터?” … 연말 랠리 좌우할 3가지 변수",
+   "url": "https://www.mk.co.kr/news/stock/12165232",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 05:00"
+  },
+  {
+   "title": "예전 같지 않은 미국…예전과 다른 非미국 ETF[이번주 찜할 ETF]",
+   "url": "https://www.mk.co.kr/news/stock/12165319",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 20:54"
+  },
+  {
+   "title": "한화證, 9000억원 자본확충 …\"종투사로 도약\"",
+   "url": "https://www.mk.co.kr/news/stock/12165275",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 19:30"
+  },
+  {
+   "title": "與, 디스커버리 제도 연내 입법 추진…회사에 증거 요구 가능해진다",
+   "url": "https://www.hankyung.com/article/202609305771i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 18:36"
+  },
+  {
+   "title": "한화투자증권, 9000억 자본확충…종투사 진입 시동",
+   "url": "https://www.hankyung.com/article/202609305751i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 18:27"
+  },
+  {
+   "title": "'위고비' 덴마크 노보홀딩스… 서울전선 투자자 전격 참여",
+   "url": "https://www.mk.co.kr/news/stock/12165167",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 17:37"
+  },
+  {
+   "title": "한화생명, 애큐온캐피탈 인수 센트로이드PE 재무투자 합류",
+   "url": "https://www.mk.co.kr/news/stock/12165112",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 17:24"
+  },
+  {
+   "title": "“ETF 사고 최대 27만원 받는다”…키움증권, ISA 이벤트 진행",
+   "url": "https://www.mk.co.kr/news/stock/12165681",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 09:47"
+  },
+  {
+   "title": "PCE 둔화에도 장기금리 5.3%... S&P500 0.25%↓ [뉴욕증시]",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WUUxwVkNfeHh2bjhSQjQ5RThTTi1Mc1B1U3E2aFJkTktVRXpubkE5Y3ZUeFZhT1hhY1NfdmlUQjlKVjJJOGstY21KYUtoZm1sWmtzLTI5cDhwcGZLVGc3aXptLXo?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "매일일보",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-01 08:29"
+  },
+  {
+   "title": "[뉴욕증시] 물가 둔화 속 장기금리 부담에 혼조세…다우 0.86%↓",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xVTZxQm9JSE9XQmUwMS1vNVJ5Vjl6WkFFU0loUjNiaEJUV1hhbjBxalp1elBZbXEwb3hmdVYtZTF6a0I0ekhPanRKYkprLXFoNE44bklxUUlpbGM2ODlKWVpyaDhoc2FoSHM5LVJySS0?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "shinailbo.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-01 08:21"
+  },
+  {
+   "title": "[뉴욕증시] 뉴욕증시 혼조…10년물 금리 5.306% 최고치",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZdjFUV25GZjFfc3ZheTJLcGh3Rm5JN25BZ0Y5TklpWFIwTUw5TzMtdkJfNlBvUlFHMzlha3NzX09Eem41ZDNzaUExcTRsaDhqX3BxcDg3cUc5QU9CNUpNWDJGRmhTRkE?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "자본시장뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-01 08:00"
+  },
+  {
+   "title": "물가 둔화했는데, 멈추지 않는 금리(10년 5.3%) … 마이크론 실적 좋지만 [김현석의 월스트리트나우]",
+   "url": "https://www.hankyung.com/article/202610016031i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 07:59"
+  },
+  {
+   "title": "[3분증시] 뉴욕증시, 국채금리 급등 속 혼조 마감",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hVk1DZlhCTHNoakw5OHRCQllNNklZRmdWYVFlMU9QeXlxdW9SaGNvcF9KTDdkSkFiMEZUdGlCaU9TZFIzWkw5LUNZQUFBSDlpcFhCR3d5NWFWcTFsWUJ1bkh1OFZ1cFE?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "연합뉴스TV",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-01 07:55"
+  },
+  {
+   "title": "뉴욕 증시, 물가지표 예상치 밑돌았지만 혼조 마감",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IUktFMGVSUHhPeUNfeWV6b1FkVXZpNmdZZXBlZEZRbGNZUEM1NXpYVmttdi1iSlB0N3BUZU12cEhET3I1LUQwUHJyU2U0Mmg5R3E0am5OZkQyYzVzT0F4b1ZvOC1jS3c3ajBQelBrbTJuQkhqWWJHbDB30gF6QVVfeXFMUElUcXM3RC1vcU5LX3VVQ2NJV04xY0w5V0xNSm9ORU55eWNoYXQ3NlV6Mi1SQ1l5ZkVwTUNhTWJHby1ILU1UUS1kSWxBTzM3Qk5yNmZ4YnVmd3pESDNmWnRZU2U5eTBuZkI1ZDVqa0RuWE5GVW1Pb3pJaUE?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "MBC 뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-01 07:43"
+  },
+  {
+   "title": "[오늘의 글로벌마켓] 뉴욕증시, 물가 예상치 하회에도 국채금리 상승에 혼조세",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zUGU0Z2FVU1lpSlo1UG1tUnZ2YTB6TFZhZkFxMl9qYWFyRTUyT0VoOTRSbWdwSE8tZjFhWFdQMUhaQ2x0X3lwQVpoWmhWQThFcUlRZ0JORVh1ZWpxaUdTanhBQy1MeHREajdzV3c3VVRGQQ?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "오피니언뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-01 07:15"
+  },
+  {
+   "title": "뉴욕증시, 장기 국채 금리 부담에 혼조세",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53R1Y0TXlrb2hZWWQyWVp1RlVhV25hOWFxb2hQaUZMVnBsNzdyaTZ2RW5xUUNGVTA4eDZucHNEV2tXR3FDTk81X1YyV2I0M0ExdzJKU1pqQkFWVG8?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "KBS 뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-01 07:11"
+  },
+  {
+   "title": "“경제 너무 잘 나가니 증시 긴장 모드”…美 10년물 5.3% 돌파, 24년 만에 최고",
+   "url": "https://www.mk.co.kr/news/stock/12165684",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 09:48"
+  },
+  {
+   "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+   "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 05:32"
+  },
+  {
+   "title": "미 30년물 국채금리 5.6% 돌파…전문가 “6%까지 갈 수도”",
+   "url": "https://www.hankyung.com/article/202609305884i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-09-30 20:27"
+  },
+  {
+   "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+   "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 08:44"
+  },
+  {
+   "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
+   "url": "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 07:43"
+  },
+  {
+   "title": "A brutal September for bonds points to an even darker October",
+   "url": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 05:56"
+  },
+  {
+   "title": "채권금리 압박에 다우 444P↓...마이크론 호실적에도 시간외 약세 [월가월부]",
+   "url": "https://www.mk.co.kr/news/stock/12165530",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-01 06:55"
+  },
+  {
+   "title": "[뉴욕증시] 물가 '안도'·금리 '발목', 혼조 마감···'서프라이즈' 마이크론 시간외 상승",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tVnNLdDVFNGw4dVRkaS1lWmZfRlpqdFVkRHRteVFrQXVrQkJtRm5ocEhWZnhxUDFBV3R5RTBhc1c3T0Q1YlBYQ1VNLUdaX19jMkU5Y1FtdWlrVTJoXy1SckdFMUdXeEx2SWc?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "서울파이낸스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-01 06:49"
+  },
+  {
+   "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+   "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 05:59"
+  },
+  {
+   "title": "Micron Technology Stock (MU) Rises as Financial Results Beat Wall Street Estimates",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTVkQ01SNEZxZEx3R2JjX1hXZGZPc0JFOWkwbFNfZUNpVkxpNjZrc0hwcFJIOG8tR3lPcmlFcTNKNVJoZ3hXc1ZtN09BT0VscmFnTXlVT1F1X2FlV0dMTnpnUl9VMHRNaU5HNlUtYXl4SVNlcFIxNTNVNDRObXloeUZUVnl6MjltXzg5VGRoV0NjeHBnSTFDdF9sZWVwd0lsLWJERU5BYnF1YzNXdC0w?oc=5",
+   "source": "Google News Wall Street",
+   "publisher": "TipRanks",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 05:23"
+  },
+  {
+   "title": "Micron tops Q4 estimates on top and bottom lines, offers strong Q1 outlook",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDlVYjVua3UtY2o4RFFRQi00bDE1dWFkbmRGWEc1UThTV2xsYTd2Y2YxYm44NjNQaGpfZWhFZVQtV0wzLWo4RlNXWWI0LVpKOGJuSFIxMmc5cHFiVmVKeDlCLVdiN0xjamdYYzdLcVA3OXlTb1hXSW9SM21zN3oxQVY2R1BJY0RmaEJFWURtYzB4UERCWGRzblNGWDB0VGljMU0taktnSloxTG1NM2Y0R1pHb2RnSmRyN0Eta0w0b0MtSTNFN1hiRWdfTC1uQQ?oc=5",
+   "source": "Google News Wall Street",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 05:04"
+  },
+  {
+   "title": "Google shows it’s not out of the AI race just yet",
+   "url": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-01 07:51"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

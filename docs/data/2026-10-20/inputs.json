@@ -1,0 +1,1682 @@
+{
+ "articles": [
+  {
+   "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+   "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+   "published_at": "2026-10-19T16:42:14Z",
+   "source": "CNBC Finance",
+   "category": "US",
+   "lang": "en",
+   "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+   "publisher": null
+  },
+  {
+   "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
+   "url": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
+   "published_at": "2026-10-19T23:00:02Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "While economists and former central bankers discuss tech and monetary policy at the Bund Summit, companies are moving faster to capture new revenue.",
+   "publisher": null
+  },
+  {
+   "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+   "published_at": "2026-10-19T06:00:00Z",
+   "source": "ECB 보도자료",
+   "category": "MACRO",
+   "lang": "en",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
+   "url": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T21:58:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism.",
+   "publisher": null
+  },
+  {
+   "title": "한화에어로스페이스, 3분기 실적 추정치 '줄하향'에 7%대 약세",
+   "url": "https://www.hankyung.com/article/2026102024896",
+   "published_at": "2026-10-20T00:34:14Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "‘먹는 탈모 치료제’ 임상 희소식에 관련주 급등…삼익제약, 17%대↑",
+   "url": "https://www.mk.co.kr/news/stock/12180308",
+   "published_at": "2026-10-20T00:48:15Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "미국 바이오기업 베라더믹스(Veradermics)가 개발 중인 경구용 탈모 치료제가 3상 임상시험에서 유의미한 결과를 냈단 소식에 힘입어 국내 관련주도 일제히 강세다. 20일 오전..",
+   "publisher": null
+  },
+  {
+   "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+   "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+   "published_at": "2026-10-19T12:34:01Z",
+   "source": "CNBC Finance",
+   "category": "US",
+   "lang": "en",
+   "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+   "publisher": null
+  },
+  {
+   "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+   "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+   "published_at": "2026-10-19T21:00:02Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "Tensions between Trump and Zelenskyy have steadily risen in recent weeks, while Russia, which invaded Ukraine, has received multiple breaks from the U.S.",
+   "publisher": null
+  },
+  {
+   "title": "When should you dump your target-date funds?",
+   "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T21:37:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
+   "publisher": null
+  },
+  {
+   "title": "K2 전차 잘나가는 데 후속 수주 부진…현대로템, 11% 하락",
+   "url": "https://www.hankyung.com/article/2026102024206",
+   "published_at": "2026-10-20T00:24:20Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "간밤 뉴욕증시 올랐길래 기대했는데…코스피 장 초반 2% 하락이라니",
+   "url": "https://www.mk.co.kr/news/stock/12180302",
+   "published_at": "2026-10-20T00:40:47Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "코스피 5733.57 출발 후 낙폭 확대 기관 순매도…삼전닉스 동반 하락세미국 기술주 반등에도 코스피가 20일 하락 출발한 뒤 낙폭을 키우고 있다. 코스닥도 동반 약세다. 한국거래..",
+   "publisher": null
+  },
+  {
+   "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+   "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+   "published_at": "2026-10-19T20:54:40Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+   "publisher": null
+  },
+  {
+   "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+   "url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T21:36:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "Credit markets are sending unusually mixed messages to investors right now, and it’s making some people nervous.",
+   "publisher": null
+  },
+  {
+   "title": "[오늘의 증권가 콜] 현대로템, 비나텍, 코리아써키트, RFHIC, 고려아연, CJ대한통운 등",
+   "url": "https://www.hankyung.com/article/202610202311i",
+   "published_at": "2026-10-20T00:22:06Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "[MK시그널] 한국콜마, K-뷰티 수출 호조에 따른 ODM 사업 경쟁력 부각 등에 주가 상승세... MK시그널 추천 후 상승률 10.04% 기록",
+   "url": "https://www.mk.co.kr/news/stock/12180287",
+   "published_at": "2026-10-20T00:25:03Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "10월 20일 한국콜마(161890)가 상승 중이다. 전 거래일 한국콜마 주가는 종가기준 129,300원 하락으로 마감했다. 현재 130,000원으로 (9시 5분 기준) 전일 종가..",
+   "publisher": null
+  },
+  {
+   "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+   "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+   "published_at": "2026-10-19T19:46:07Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
+   "publisher": null
+  },
+  {
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
+   "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T21:30:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+   "publisher": null
+  },
+  {
+   "title": "[마켓라이브] 오후에도 빠지는 코스피…자동차·조선까지 '털썩'",
+   "url": "https://www.hankyung.com/article/202610202306i",
+   "published_at": "2026-10-20T00:16:12Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "[MK 골든크로스 돌파종목 : JYP Ent.(035900) & 레이(228670)]",
+   "url": "https://www.mk.co.kr/news/stock/12180279",
+   "published_at": "2026-10-20T00:18:37Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "안녕하세요. 국내 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’ 입니다. MK시그널이 오늘 분석한 핫 이슈 골든크로스 종목은 JYP Ent. & 레이 입니다. - JYP E..",
+   "publisher": null
+  },
+  {
+   "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+   "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+   "published_at": "2026-10-19T19:37:51Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
+   "publisher": null
+  },
+  {
+   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+   "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T21:15:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+   "publisher": null
+  },
+  {
+   "title": "美 기술주 반등도 소용 없네…코스피, 다시 5700선 아래로",
+   "url": "https://www.hankyung.com/article/2026102023486",
+   "published_at": "2026-10-20T00:11:10Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "자영업자 덮친 ‘빚 쓰나미’  식당·학원 줄도산 공포",
+   "url": "https://www.mk.co.kr/news/stock/12180277",
+   "published_at": "2026-10-20T00:17:56Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "거리를 걷다 보면 하루가 다르게 늘어나는 ‘임대 문의’ 현수막을 쉽게 찾아볼 수 있습니다. 예전 같으면 금방 새 주인을 찾았을 목 좋은 상가들조차 텅 빈 채 먼지만 쌓여가고 있습니..",
+   "publisher": null
+  },
+  {
+   "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
+   "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+   "published_at": "2026-10-19T19:13:00Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "publisher": null
+  },
+  {
+   "title": "Micron and other chip stocks spring back to life after bruising selloff",
+   "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T21:06:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+   "publisher": null
+  },
+  {
+   "title": "엘리스그룹, 코스닥 상장 첫날 27% 급락",
+   "url": "https://www.hankyung.com/article/2026102023736",
+   "published_at": "2026-10-20T00:09:52Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
+   "url": "https://www.mk.co.kr/news/economy/12180261",
+   "published_at": "2026-10-20T00:07:05Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "5년여간 10대 증권사 주식매매규정 위반제재 97명 거래금액 88억원, 과태료는 법정상한 못 미쳐최근 5년여간 주식 매매 규정을 어겨 제재를 받은 10대 증권사 임직원이 100명에..",
+   "publisher": null
+  },
+  {
+   "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+   "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+   "published_at": "2026-10-19T16:58:20Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
+   "publisher": null
+  },
+  {
+   "title": "SpaceX earnings will be all about AI — for better or for worse",
+   "url": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T21:02:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
+   "publisher": null
+  },
+  {
+   "title": "삼전·하이닉스 팔아치운 초고수, 코스닥서 '이것' 샀다는데",
+   "url": "https://www.hankyung.com/article/202610202208i",
+   "published_at": "2026-10-19T23:46:46Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "삼성전자 주가 19% 떨어졌는데…KB증권 “내년 이익성장 이미 확보”",
+   "url": "https://www.mk.co.kr/news/stock/12180252",
+   "published_at": "2026-10-19T23:59:31Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "KB증권은 20일 삼성전자가 내년 메모리 생산 예정물량의 약 80%에 대해 장기공급 계약을 체결한 것으로 추정된다며 내년 이익 성장도 확정적이라고 평가했다. 김동원 KB증권 리서치..",
+   "publisher": null
+  },
+  {
+   "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
+   "url": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
+   "published_at": "2026-10-19T16:17:37Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "Some prospective Cornell University students are rethinking applications amid the Jane Doe sexual assault lawsuit, college admissions consultants say.",
+   "publisher": null
+  },
+  {
+   "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+   "url": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T21:00:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
+   "publisher": null
+  },
+  {
+   "title": "삼전닉스 개미들 잠 못 드는데…\"지금이 기회\" 깜짝 전망 [종목+]",
+   "url": "https://www.hankyung.com/article/2026102021526",
+   "published_at": "2026-10-19T23:45:24Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "“실적개선 속도, 주가가 못따라갑니다”…삼성전기 목표가 175만원 [오늘 나온 보고서]",
+   "url": "https://www.mk.co.kr/news/stock/12180245",
+   "published_at": "2026-10-19T23:52:17Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "IBK證 “현재 대비 50% 상승여력” 3분기 영업이익 156% 급증할듯 실적개선에 내년 4.4조 이익 전망삼성전기가 인공지능(AI) 관련 부품 수요 확대에 힘입어 가파른 실적 개..",
+   "publisher": null
+  },
+  {
+   "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+   "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+   "published_at": "2026-10-19T12:58:03Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
+   "publisher": null
+  },
+  {
+   "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
+   "url": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T21:00:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "The six months subsequent to midterm elections have seen strong gains, historically",
+   "publisher": null
+  },
+  {
+   "title": "10월 26일이 바닥? 올해 산타 랠리 확률은 [김현석의 퀵브리프]",
+   "url": "https://www.hankyung.com/article/202610202124i",
+   "published_at": "2026-10-19T23:28:20Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "두산에너빌리티, LIG D&A와 유도무기 개발 MOU 체결",
+   "url": "https://www.mk.co.kr/news/stock/12180241",
+   "published_at": "2026-10-19T23:46:54Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "두산에너빌리티, LIG D&A와 손잡고 유도무기 엔진 국산화 나선다 두산에너빌리티가 LIG 디펜스&에어로스페이스(LIG D&A)와 차세대 유도무기 엔진 개발을 위한 업무협약(MOU..",
+   "publisher": null
+  },
+  {
+   "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+   "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+   "published_at": "2026-10-19T12:33:07Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
+   "publisher": null
+  },
+  {
+   "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+   "url": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+   "published_at": "2026-10-19T20:33:00Z",
+   "source": "MarketWatch Top Stories",
+   "category": "US",
+   "lang": "en",
+   "summary": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
+   "publisher": null
+  },
+  {
+   "title": "\"현대로템, 신규 수주 공백에 내년 수익성 둔화 우려…목표가↓\"-키움",
+   "url": "https://www.hankyung.com/article/2026102021496",
+   "published_at": "2026-10-19T23:15:46Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "한투증권 “NAVER, 주가 상승분 대부분 반납…낮은 밸류에이션 매력”",
+   "url": "https://www.mk.co.kr/news/stock/12180233",
+   "published_at": "2026-10-19T23:32:13Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "한국투자증권은 20일 NAVER에 대해 주가 상승분을 대부분 반납했지만 낮은 기업가치 평가(밸류에이션)이 매력으로 부각되는 상황이라며 투자의견 ‘매수’, 목표주가 36만원을 유지했..",
+   "publisher": null
+  },
+  {
+   "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+   "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+   "published_at": "2026-10-19T10:36:47Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
+   "publisher": null
+  },
+  {
+   "title": "\"삼성전자, 내년 영업익 555조원 전망…성장 동력 흔들리지 않아\"-KB",
+   "url": "https://www.hankyung.com/article/2026102020576",
+   "published_at": "2026-10-19T22:58:38Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "투자비에 눌린 CJ대한통운 실적…“내년 택배 단가 인상 기대”",
+   "url": "https://www.mk.co.kr/news/stock/12180227",
+   "published_at": "2026-10-19T23:16:28Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "하나증권은 20일 CJ대한통운에 대해 단기 실적 전망을 낮춰 목표주가를 기존 12만원에서 10만원으로 내려잡았다. 배송 경쟁력을 바탕으로 한 점유율 확대와 내년 수익성 개선을 예상..",
+   "publisher": null
+  },
+  {
+   "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+   "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+   "published_at": "2026-10-19T07:48:53Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "CXMT shares fell nearly 8% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+   "publisher": null
+  },
+  {
+   "title": "\"빅테크 실적→반등 계기\" 단기 기술적 반등이냐, 연말 랠리 시작이냐 [김현석의 월스트리트나우]",
+   "url": "https://www.hankyung.com/article/202610202032i",
+   "published_at": "2026-10-19T22:56:56Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "목표주가는 내리면서 ‘매수’ 콜 외친 월가... 코어위브 발 AI 투심은 살아날까?",
+   "url": "https://www.mk.co.kr/news/stock/12180224",
+   "published_at": "2026-10-19T23:07:27Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "불앤베어 플러스골드만삭스가 코어위브 투자 등급을 ‘중립’에서 ‘매수’로 올렸습니다. 그러나 목표주가는 기존 대비 내렸습니다. 이 역설적인 행보에 AI를 바라보는 복잡한 월가의 심정..",
+   "publisher": null
+  },
+  {
+   "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+   "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+   "published_at": "2026-10-19T04:36:39Z",
+   "source": "CNBC Top News",
+   "category": "US",
+   "lang": "en",
+   "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
+   "publisher": null
+  },
+  {
+   "title": "\"삼성전기, AI 부품 공급 빠듯…내년 영업익 4.4조 전망\"-IBK",
+   "url": "https://www.hankyung.com/article/2026102020526",
+   "published_at": "2026-10-19T22:55:10Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "“현대로템, 폴란드 전차에 발목 잡히고 수출 비중도 뚝”…목표가↓",
+   "url": "https://www.mk.co.kr/news/stock/12180217",
+   "published_at": "2026-10-19T22:48:57Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "대신증권은 20일 현대로템에 대해 폴란드 전차 생산·매출 인식이 늦어지고 있고, 2027년에는 수출 비중 하락으로 수익성이 떨어질 것으로 예상된다며 목표주가를 기존 20만원에서 1..",
+   "publisher": null
+  },
+  {
+   "title": "\"한국전력, 유가 상승으로 실적 부진 전망…목표가↓\"-대신",
+   "url": "https://www.hankyung.com/article/2026102020356",
+   "published_at": "2026-10-19T22:47:01Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "“저평가 국면 진입했지만”…대신증권, 한국전력 목표가 ↓, 반등 조건은",
+   "url": "https://www.mk.co.kr/news/stock/12180214",
+   "published_at": "2026-10-19T22:44:46Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "대신증권은 20일 한국전력에 대해 저평가 국면에 진입했지만 주가가 본격적으로 반등하려면 국제유가가 안정돼야 한다며 목표주가를 기존 5만4000원에서 4만원으로 하향 조정했다. 투자..",
+   "publisher": null
+  },
+  {
+   "title": "필리 지수 9일만에 반등… 일단 잦아드는 AI 신용불안 [오늘 아침, 당신이 알아야 할 7가지]",
+   "url": "https://www.hankyung.com/article/202610202009i",
+   "published_at": "2026-10-19T22:37:35Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "불확실성 시대 당신의 투자 전략은 [김승호의 투자전망] 2부",
+   "url": "https://www.mk.co.kr/news/stock/12179599",
+   "published_at": "2026-10-19T20:00:00Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "서울머니쇼 스페셜 에디션매일경제가 국내 최고 투자 그루의 재테크 특별 세미나 ‘서울머니쇼 스페셜 에디션: 김승호의 투자전망’을 매경플러스(매플) 구독자에게 단독 공개합니다. 이 특..",
+   "publisher": null
+  },
+  {
+   "title": "저가매수 유입에 반도체·AI주 상승…나스닥 1.11%↑ [뉴욕증시 브리핑]",
+   "url": "https://www.hankyung.com/article/2026102019676",
+   "published_at": "2026-10-19T22:08:15Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "'다우키움·CJ 컨소시엄' 중앙일보 품는다",
+   "url": "https://www.mk.co.kr/news/stock/12180105",
+   "published_at": "2026-10-19T14:42:06Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "워크아웃을 진행 중인 중앙일보가 다우키움그룹을 새 주인으로 맞는다. 숏리스트에 이름을 올린 6곳 모두 입찰에 참여했지만, CJ그룹의 막판 컨소시엄 합류가 인수전 판도를 흔든 것으로..",
+   "publisher": null
+  },
+  {
+   "title": "\"하루 만에 11% 올랐다\"…美 선거 앞두고 들썩이는 종목 [분석+]",
+   "url": "https://www.hankyung.com/article/2026101911456",
+   "published_at": "2026-10-19T21:30:01Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "삼정KPMG, 11월 2일 ‘해외 투자 진출 세미나’",
+   "url": "https://www.mk.co.kr/news/stock/12180102",
+   "published_at": "2026-10-19T14:13:15Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "국내 기업 해외 진출 위한 국가별 투자 전략 제시삼정KPMG가 오는 11월 2일 삼성동 그랜드인터컨티넨탈 서울 파르나스 호텔에서 ‘해외 투자 진출 세미나’를 개최한다고 19일 밝혔..",
+   "publisher": null
+  },
+  {
+   "title": "소부장 늘렸더니...하이닉스 25% 빠질 때 -9% '선방'한 반도체 ETF",
+   "url": "https://www.hankyung.com/article/202610190958i",
+   "published_at": "2026-10-19T21:00:10Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "다올투자증권, 국내 증권사 최초 ‘트레이딩뷰’서 미국주식 거래",
+   "url": "https://www.mk.co.kr/news/stock/12180100",
+   "published_at": "2026-10-19T14:10:24Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "트레이딩뷰 한 화면에서 차트 분석 및 국내·미국주식·ETF 주문 DAOL Fi PRO·MCP 트레이딩 이어 다올 계좌 활용 폭 확대다올투자증권이 19일 글로벌 차트 분석 플랫폼 ..",
+   "publisher": null
+  },
+  {
+   "title": "아마존 목표가 350달러…엔비디아도 비중확대 유지 [월가 업&다운]",
+   "url": "https://www.hankyung.com/article/202610201850i",
+   "published_at": "2026-10-19T18:42:59Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "JP모건, 맞으면 좋고 틀리면 말고…1만5천피 외치더니 “코스피 바닥 몰라”",
+   "url": "https://www.mk.co.kr/news/stock/12180088",
+   "published_at": "2026-10-19T13:51:06Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "선행 PER 역사적 최저에도 외인·기관 매수복귀 불투명글로벌 투자은행 JP모건이 최근 코스피 급락과 관련해 “밸류에이션이 매력적이지만 바닥을 확신할 수는 없다”고 진단했다. 19일..",
+   "publisher": null
+  },
+  {
+   "title": "골드만삭스 \"코어위브 급락 과도…73% 상승 여력\" [월가 업&다운]",
+   "url": "https://www.hankyung.com/article/202610201849i",
+   "published_at": "2026-10-19T18:35:04Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "“삼전닉스 35억원이었는데 지금은 2억 남았다”…더 큰 수익내려다 ‘폭망’",
+   "url": "https://www.mk.co.kr/news/stock/12179997",
+   "published_at": "2026-10-19T11:29:14Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "레버리지 투자로 손실 커 만회 위해 비중 높이기도최근 직장인 익명 커뮤니티 ‘블라인드’에는 반도체주 투자로 거액의 수익을 거뒀다가 대부분을 잃었다는 직장인 A씨의 사연이 전해졌다...",
+   "publisher": null
+  },
+  {
+   "title": "\"삼전닉스 실적 과거일 뿐\"…'코스피 4800선 추락' 경고 [분석+]",
+   "url": "https://www.hankyung.com/article/2026101910246",
+   "published_at": "2026-10-19T13:00:02Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "코스피 반등 모멘텀 찾을까…금통위·테슬라 실적이 시험대 [동여의도 위클리]",
+   "url": "https://www.mk.co.kr/news/stock/12179944",
+   "published_at": "2026-10-19T09:56:23Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "이번 주 자본시장 이슈 점검미국의 물가 지표가 반도체주를 다시 흔들었습니다. 지난 14일(현지시간) 발표된 미국의 9월 소비자물가지수(CPI)는 전년 동월보다 3.7% 상승했습니다..",
+   "publisher": null
+  },
+  {
+   "title": "KB증권, 베트남 교육 인프라 개선",
+   "url": "https://www.hankyung.com/article/2026101915491",
+   "published_at": "2026-10-19T09:33:22Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "NH아문디운용 성장주도 코리아 펀드 출시 1년…“반도체 소부장 투자 확대”",
+   "url": "https://www.mk.co.kr/news/stock/12179925",
+   "published_at": "2026-10-19T08:57:12Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "성장주도 코리아 펀드 설정 1주년 간담회 1년 수익률 85%로 코스피 수익률 넘겨 “반도체 2차 상승은 소부장 주도 전망”NH아문디자산운용은 19일 서울 여의도 FKI타워에서 ‘성..",
+   "publisher": null
+  },
+  {
+   "title": "소방 인건비 재원 '안전교부세' 3000억 줄어든 까닭",
+   "url": "https://www.hankyung.com/article/2026101915051",
+   "published_at": "2026-10-19T09:15:59Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "실적 발표에는 널뛰는 주식…기준금리 변화 영향은 미미 한 까닭 [너드의 투자법]",
+   "url": "https://www.mk.co.kr/news/economy/12179919",
+   "published_at": "2026-10-19T08:51:51Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "美 NBER 연구결과주식투자를 처음 시작할 때는 투자한 종목이 어떤 곳인가에 많은 관심을 쏟지만, 경력이 쌓일수록 종목외 뉴스에 주목하게 됩니다. 이런 종목 외 뉴스의 범위도 점점..",
+   "publisher": null
+  },
+  {
+   "title": "배터리주 들썩…\"中 ESS 업체 美서 철수\"",
+   "url": "https://www.hankyung.com/article/2026101915251",
+   "published_at": "2026-10-19T09:02:56Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "美중간선거 임박…민주당 압승땐 전력·헬스케어 수혜",
+   "url": "https://www.mk.co.kr/news/stock/12179892",
+   "published_at": "2026-10-19T08:45:50Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "미국 중간선거가 2주 앞으로 다가왔다. 증시는 세부 정책보다는 중동 정세와 물가, 기준금리 등 거시경제 지표에 민감하게 반응하고 있다. 보통 중간선거가 있는 해에는 선거 이후에 불..",
+   "publisher": null
+  },
+  {
+   "title": "'마이너스 밭에서 조용히 올랐다'…급락장서 돈 몰린 '종목'",
+   "url": "https://www.hankyung.com/article/2026101915281",
+   "published_at": "2026-10-19T09:00:12Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "뛰는 유가·정유마진에… 美에너지 ETF '훨훨'",
+   "url": "https://www.mk.co.kr/news/stock/12179893",
+   "published_at": "2026-10-19T08:45:50Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "중동 지역의 지정학적 불안 때문에 유가가 고공 행진을 이어가자 미국 원유 기업에 투자하는 에너지 상장지수펀드(ETF) 수익률이 높은 수준으로 올라섰다. 19일 인베스팅닷컴에 따르..",
+   "publisher": null
+  },
+  {
+   "title": "'코어위브 신용 쇼크' 더 세게 맞은 코스피",
+   "url": "https://www.hankyung.com/article/2026101914781",
+   "published_at": "2026-10-19T08:58:56Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "JP모건 \"코스피 매우 싸지만 … 바닥은 글쎄\"",
+   "url": "https://www.mk.co.kr/news/stock/12179891",
+   "published_at": "2026-10-19T08:45:49Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "글로벌 투자은행 JP모건이 최근 코스피 급락과 관련해 \"밸류에이션이 매력적이지만 바닥을 확신할 수는 없다\"고 진단했다. 19일 금융투자업계에 따르면 JP모건 한국주식전략팀은 최근 ..",
+   "publisher": null
+  },
+  {
+   "title": "\"9300 간다\" vs \"6700이 적정\"…내년 전망 엇갈린 이유 [한경 프리미엄9 TODAY]",
+   "url": "https://www.hankyung.com/article/2026101915691",
+   "published_at": "2026-10-19T08:58:27Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "겁도 나고, 방패 든 개미들 … \"경기방어株로 피신\"",
+   "url": "https://www.mk.co.kr/news/stock/12179881",
+   "published_at": "2026-10-19T08:40:34Z",
+   "source": "매일경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "대형 반도체주 약세로 국내 증시가 휘청이는 가운데 필수소비재 등 경기방어주가 모처럼 존재감을 드러내고 있다. 증시 불확실성이 커지는 상황에서 상대적으로 안정적인 실적을 바탕으로 주..",
+   "publisher": null
+  },
+  {
+   "title": "방산주, 3분기 어닝쇼크 전망에도 강세",
+   "url": "https://www.hankyung.com/article/2026101915271",
+   "published_at": "2026-10-19T08:58:26Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  },
+  {
+   "title": "이찬진 \"솔리다임 美 IPO , 중복상장 규제 저촉\"",
+   "url": "https://www.hankyung.com/article/2026101915311",
+   "published_at": "2026-10-19T08:56:52Z",
+   "source": "한국경제 증권",
+   "category": "KR",
+   "lang": "ko",
+   "summary": "",
+   "publisher": null
+  }
+ ],
+ "stage1": {
+  "items": [
+   {
+    "i": 0,
+    "p": 3,
+    "m": "US",
+    "a": true,
+    "s": [
+     "AI_SW",
+     "BIG_TECH"
+    ],
+    "k": "anthropic-ipo-2026"
+   },
+   {
+    "i": 1,
+    "p": 1,
+    "m": "CN",
+    "a": true,
+    "s": [
+     "OTHER"
+    ],
+    "k": "cnbc-china-connection-bund-summit"
+   },
+   {
+    "i": 2,
+    "p": 2,
+    "m": "MACRO",
+    "a": false,
+    "s": [
+     "MACRO_RATES"
+    ],
+    "k": "ecb-elderson-climate-speech"
+   },
+   {
+    "i": 3,
+    "p": 1,
+    "m": "US",
+    "a": false,
+    "s": [
+     "HEALTHCARE"
+    ],
+    "k": "blood-clots-athletes"
+   },
+   {
+    "i": 4,
+    "p": 3,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "DEFENSE",
+     "SPACE"
+    ],
+    "k": "hanwha-aero-q3-estimate-cut"
+   },
+   {
+    "i": 5,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "BIO"
+    ],
+    "k": "oral-hair-loss-drug-phase3"
+   },
+   {
+    "i": 6,
+    "p": 3,
+    "m": "US",
+    "a": false,
+    "s": [
+     "FIN",
+     "DEFENSE",
+     "ROBOT"
+    ],
+    "k": "jpmorgan-defense-investments"
+   },
+   {
+    "i": 7,
+    "p": 4,
+    "m": "GLOBAL",
+    "a": false,
+    "s": [
+     "GEOPOL",
+     "DEFENSE"
+    ],
+    "k": "trump-putin-xi-summit"
+   },
+   {
+    "i": 8,
+    "p": 1,
+    "m": "US",
+    "a": false,
+    "s": [
+     "FIN"
+    ],
+    "k": "target-date-funds"
+   },
+   {
+    "i": 9,
+    "p": 3,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "DEFENSE"
+    ],
+    "k": "hyundai-rotem-target-cut"
+   },
+   {
+    "i": 10,
+    "p": 4,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "kospi-decline-1020"
+   },
+   {
+    "i": 11,
+    "p": 2,
+    "m": "US",
+    "a": true,
+    "s": [
+     "AI_SW"
+    ],
+    "k": "openai-bugging-suspect"
+   },
+   {
+    "i": 12,
+    "p": 3,
+    "m": "MACRO",
+    "a": false,
+    "s": [
+     "MACRO_RATES",
+     "FIN"
+    ],
+    "k": "junk-bond-credit-warning"
+   },
+   {
+    "i": 13,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "DEFENSE",
+     "STEEL",
+     "OTHER"
+    ],
+    "k": "kr-broker-calls-1020"
+   },
+   {
+    "i": 14,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "RETAIL"
+    ],
+    "k": "kolmar-kbeauty-odm"
+   },
+   {
+    "i": 15,
+    "p": 3,
+    "m": "US",
+    "a": false,
+    "s": [
+     "BIG_TECH"
+    ],
+    "k": "apple-oct28-event"
+   },
+   {
+    "i": 16,
+    "p": 1,
+    "m": "US",
+    "a": false,
+    "s": [
+     "REALESTATE"
+    ],
+    "k": "renting-retiree-essay"
+   },
+   {
+    "i": 17,
+    "p": 4,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "AUTO",
+     "SHIP"
+    ],
+    "k": "kospi-decline-1020"
+   },
+   {
+    "i": 18,
+    "p": 1,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "ENT",
+     "HEALTHCARE"
+    ],
+    "k": "mk-golden-cross-jyp-ray"
+   },
+   {
+    "i": 19,
+    "p": 4,
+    "m": "GLOBAL",
+    "a": false,
+    "s": [
+     "GEOPOL",
+     "ENERGY"
+    ],
+    "k": "saudi-houthi-conference-postponed"
+   },
+   {
+    "i": 20,
+    "p": 1,
+    "m": "US",
+    "a": false,
+    "s": [
+     "FIN"
+    ],
+    "k": "loan-scam-calls"
+   },
+   {
+    "i": 21,
+    "p": 4,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "kospi-decline-1020"
+   },
+   {
+    "i": 22,
+    "p": 3,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "FIN",
+     "RETAIL"
+    ],
+    "k": "kr-self-employed-debt"
+   },
+   {
+    "i": 23,
+    "p": 3,
+    "m": "US",
+    "a": true,
+    "s": [
+     "SEMI",
+     "BIO"
+    ],
+    "k": "us-chip-rebound"
+   },
+   {
+    "i": 24,
+    "p": 4,
+    "m": "US",
+    "a": true,
+    "s": [
+     "SEMI",
+     "BIG_TECH"
+    ],
+    "k": "us-chip-rebound"
+   },
+   {
+    "i": 25,
+    "p": 2,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "AI_SW"
+    ],
+    "k": "elice-kosdaq-ipo-drop"
+   },
+   {
+    "i": 26,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "FIN"
+    ],
+    "k": "kr-broker-staff-trading-violations"
+   },
+   {
+    "i": 27,
+    "p": 2,
+    "m": "US",
+    "a": false,
+    "s": [
+     "SPACE"
+    ],
+    "k": "musk-spacex-share-giveaway"
+   },
+   {
+    "i": 28,
+    "p": 3,
+    "m": "US",
+    "a": true,
+    "s": [
+     "SPACE",
+     "AI_INFRA"
+    ],
+    "k": "spacex-earnings-ai"
+   },
+   {
+    "i": 29,
+    "p": 2,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "super-trader-kosdaq-buys"
+   },
+   {
+    "i": 30,
+    "p": 3,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "samsung-kb-2027-profit"
+   },
+   {
+    "i": 31,
+    "p": 1,
+    "m": "US",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "cornell-lawsuit"
+   },
+   {
+    "i": 32,
+    "p": 3,
+    "m": "US",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "intel-jpm-upgrade"
+   },
+   {
+    "i": 33,
+    "p": 3,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "samsung-hynix-opportunity-outlook"
+   },
+   {
+    "i": 34,
+    "p": 3,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "semco-ibk-target"
+   },
+   {
+    "i": 35,
+    "p": 1,
+    "m": "US",
+    "a": false,
+    "s": [
+     "FIN"
+    ],
+    "k": "covered-call-etf-tax"
+   },
+   {
+    "i": 36,
+    "p": 2,
+    "m": "US",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "us-midterms-market"
+   },
+   {
+    "i": 37,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "market-bottom-santa-rally"
+   },
+   {
+    "i": 38,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "DEFENSE",
+     "ENERGY"
+    ],
+    "k": "doosan-lig-guided-missile-mou"
+   },
+   {
+    "i": 39,
+    "p": 3,
+    "m": "US",
+    "a": true,
+    "s": [
+     "AI_SW"
+    ],
+    "k": "anthropic-public-benefit-fund"
+   },
+   {
+    "i": 40,
+    "p": 1,
+    "m": "US",
+    "a": false,
+    "s": [
+     "FIN"
+    ],
+    "k": "retiring-abroad"
+   },
+   {
+    "i": 41,
+    "p": 3,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "DEFENSE"
+    ],
+    "k": "hyundai-rotem-target-cut"
+   },
+   {
+    "i": 42,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "MEDIA"
+    ],
+    "k": "naver-hantoo-valuation"
+   },
+   {
+    "i": 43,
+    "p": 4,
+    "m": "GLOBAL",
+    "a": false,
+    "s": [
+     "GEOPOL",
+     "DEFENSE"
+    ],
+    "k": "trump-putin-xi-summit"
+   },
+   {
+    "i": 44,
+    "p": 3,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "samsung-kb-2027-profit"
+   },
+   {
+    "i": 45,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "cj-logistics-hana-target-cut"
+   },
+   {
+    "i": 46,
+    "p": 3,
+    "m": "CN",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "cxmt-shares-fall"
+   },
+   {
+    "i": 47,
+    "p": 3,
+    "m": "US",
+    "a": true,
+    "s": [
+     "BIG_TECH",
+     "SEMI"
+    ],
+    "k": "bigtech-earnings-rebound-outlook"
+   },
+   {
+    "i": 48,
+    "p": 3,
+    "m": "US",
+    "a": true,
+    "s": [
+     "AI_INFRA"
+    ],
+    "k": "coreweave-goldman-upgrade"
+   },
+   {
+    "i": 49,
+    "p": 4,
+    "m": "MACRO",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "china-q3-gdp"
+   },
+   {
+    "i": 50,
+    "p": 3,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "semco-ibk-target"
+   },
+   {
+    "i": 51,
+    "p": 3,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "DEFENSE"
+    ],
+    "k": "hyundai-rotem-target-cut"
+   },
+   {
+    "i": 52,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "UTIL",
+     "ENERGY"
+    ],
+    "k": "kepco-daishin-target-cut"
+   },
+   {
+    "i": 53,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "UTIL",
+     "ENERGY"
+    ],
+    "k": "kepco-daishin-target-cut"
+   },
+   {
+    "i": 54,
+    "p": 3,
+    "m": "US",
+    "a": true,
+    "s": [
+     "SEMI",
+     "AI_INFRA"
+    ],
+    "k": "us-chip-rebound"
+   },
+   {
+    "i": 55,
+    "p": 1,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "kim-seungho-investment-outlook"
+   },
+   {
+    "i": 56,
+    "p": 4,
+    "m": "US",
+    "a": true,
+    "s": [
+     "SEMI",
+     "AI_INFRA"
+    ],
+    "k": "us-chip-rebound"
+   },
+   {
+    "i": 57,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "MEDIA"
+    ],
+    "k": "joongang-ilbo-daou-kiwoom-acquisition"
+   },
+   {
+    "i": 58,
+    "p": 2,
+    "m": "US",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "midterm-election-stock-surge"
+   },
+   {
+    "i": 59,
+    "p": 1,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "samjong-kpmg-seminar"
+   },
+   {
+    "i": 60,
+    "p": 2,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "semi-sobujang-etf"
+   },
+   {
+    "i": 61,
+    "p": 1,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "FIN"
+    ],
+    "k": "daol-tradingview"
+   },
+   {
+    "i": 62,
+    "p": 2,
+    "m": "US",
+    "a": true,
+    "s": [
+     "BIG_TECH",
+     "SEMI"
+    ],
+    "k": "amazon-nvidia-wall-street-ratings"
+   },
+   {
+    "i": 63,
+    "p": 3,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "jpm-kospi-bottom"
+   },
+   {
+    "i": 64,
+    "p": 3,
+    "m": "US",
+    "a": true,
+    "s": [
+     "AI_INFRA"
+    ],
+    "k": "coreweave-goldman-upgrade"
+   },
+   {
+    "i": 65,
+    "p": 1,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "samsung-hynix-leverage-loss"
+   },
+   {
+    "i": 66,
+    "p": 3,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI"
+    ],
+    "k": "kospi-4800-warning"
+   },
+   {
+    "i": 67,
+    "p": 3,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "MACRO_RATES",
+     "AUTO",
+     "SEMI"
+    ],
+    "k": "kr-weekly-bok-tesla"
+   },
+   {
+    "i": 68,
+    "p": 1,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "FIN"
+    ],
+    "k": "kb-vietnam-education"
+   },
+   {
+    "i": 69,
+    "p": 2,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI",
+     "FIN"
+    ],
+    "k": "nh-amundi-korea-fund"
+   },
+   {
+    "i": 70,
+    "p": 1,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "fire-safety-grant-cut"
+   },
+   {
+    "i": 71,
+    "p": 1,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "nber-earnings-rates-study"
+   },
+   {
+    "i": 72,
+    "p": 3,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "EV_BATTERY",
+     "GEOPOL"
+    ],
+    "k": "china-ess-exit-us"
+   },
+   {
+    "i": 73,
+    "p": 2,
+    "m": "US",
+    "a": false,
+    "s": [
+     "UTIL",
+     "HEALTHCARE"
+    ],
+    "k": "us-midterms-market"
+   },
+   {
+    "i": 74,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "kr-selloff-inflow-stocks"
+   },
+   {
+    "i": 75,
+    "p": 3,
+    "m": "MACRO",
+    "a": false,
+    "s": [
+     "ENERGY",
+     "COMMOD",
+     "GEOPOL"
+    ],
+    "k": "us-energy-etf-oil-surge"
+   },
+   {
+    "i": 76,
+    "p": 4,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "AI_INFRA",
+     "SEMI"
+    ],
+    "k": "coreweave-credit-shock-kospi"
+   },
+   {
+    "i": 77,
+    "p": 3,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "jpm-kospi-bottom"
+   },
+   {
+    "i": 78,
+    "p": 2,
+    "m": "US",
+    "a": false,
+    "s": [
+     "OTHER"
+    ],
+    "k": "market-2027-outlook-split"
+   },
+   {
+    "i": 79,
+    "p": 2,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "FOOD",
+     "RETAIL"
+    ],
+    "k": "kr-defensive-stocks"
+   },
+   {
+    "i": 80,
+    "p": 3,
+    "m": "KR",
+    "a": false,
+    "s": [
+     "DEFENSE"
+    ],
+    "k": "kr-defense-q3-earnings-shock"
+   },
+   {
+    "i": 81,
+    "p": 3,
+    "m": "KR",
+    "a": true,
+    "s": [
+     "SEMI",
+     "FIN"
+    ],
+    "k": "solidigm-us-ipo-regulation"
+   }
+  ],
+  "partial": false
+ }
+}

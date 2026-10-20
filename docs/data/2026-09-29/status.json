@@ -1,8 +1,8 @@
 {
  "date": "2026-09-29",
- "run_kind": "update",
- "started_at_kst": "2026-09-29T13:10:58.043945+09:00",
- "finished_at_kst": "2026-09-29T13:20:13.984270+09:00",
+ "run_kind": "regenerate",
+ "started_at_kst": "2026-09-29T14:00:22.336363+09:00",
+ "finished_at_kst": "2026-09-29T14:02:26.010389+09:00",
  "result": "degraded",
  "sources": [
   {
@@ -347,66 +347,89 @@
  },
  "llm": {
   "engine": "claude-cli",
-  "model": "opus",
   "billed": false,
-  "stages": {
-   "stage1": {
-    "model": "opus",
-    "input_tokens": 4,
-    "output_tokens": 17590,
-    "cost_estimate_usd": 0.756256,
-    "calls": 2
+  "regenerate": {
+   "engine": "claude-cli",
+   "model": "opus",
+   "billed": false,
+   "stages": {
+    "stage2:macro": {
+     "model": "opus",
+     "input_tokens": 2,
+     "output_tokens": 11433,
+     "cost_estimate_usd": 0.351496,
+     "calls": 1
+    }
    },
-   "stage2:macro": {
-    "model": "opus",
-    "input_tokens": 2,
-    "output_tokens": 10515,
-    "cost_estimate_usd": 0.422996,
-    "calls": 1
-   },
-   "stage2:us": {
-    "model": "opus",
-    "input_tokens": 2,
-    "output_tokens": 16171,
-    "cost_estimate_usd": 0.62234,
-    "calls": 1
-   },
-   "stage2:sectors": {
-    "model": "opus",
-    "input_tokens": 2,
-    "output_tokens": 17040,
-    "cost_estimate_usd": 0.663176,
-    "calls": 1
-   },
-   "stage2:eu": {
-    "model": "opus",
-    "input_tokens": 2,
-    "output_tokens": 9142,
-    "cost_estimate_usd": 0.343787,
-    "calls": 1
-   },
-   "stage2:cn": {
-    "model": "opus",
-    "input_tokens": 2,
-    "output_tokens": 9257,
-    "cost_estimate_usd": 0.343791,
-    "calls": 1
-   },
-   "stage2:kr": {
-    "model": "opus",
-    "input_tokens": 2,
-    "output_tokens": 20746,
-    "cost_estimate_usd": 0.586419,
-    "calls": 1
-   }
+   "total_input_tokens": 2,
+   "total_output_tokens": 11433,
+   "total_cost_usd": 0.351496,
+   "total_calls": 1,
+   "warnings": []
   },
-  "total_input_tokens": 16,
-  "total_output_tokens": 100461,
-  "total_cost_usd": 3.738764,
-  "total_calls": 8,
-  "warnings": []
+  "update": {
+   "engine": "claude-cli",
+   "model": "opus",
+   "billed": false,
+   "stages": {
+    "stage1": {
+     "model": "opus",
+     "input_tokens": 4,
+     "output_tokens": 17590,
+     "cost_estimate_usd": 0.756256,
+     "calls": 2
+    },
+    "stage2:macro": {
+     "model": "opus",
+     "input_tokens": 2,
+     "output_tokens": 10515,
+     "cost_estimate_usd": 0.422996,
+     "calls": 1
+    },
+    "stage2:us": {
+     "model": "opus",
+     "input_tokens": 2,
+     "output_tokens": 16171,
+     "cost_estimate_usd": 0.62234,
+     "calls": 1
+    },
+    "stage2:sectors": {
+     "model": "opus",
+     "input_tokens": 2,
+     "output_tokens": 17040,
+     "cost_estimate_usd": 0.663176,
+     "calls": 1
+    },
+    "stage2:eu": {
+     "model": "opus",
+     "input_tokens": 2,
+     "output_tokens": 9142,
+     "cost_estimate_usd": 0.343787,
+     "calls": 1
+    },
+    "stage2:cn": {
+     "model": "opus",
+     "input_tokens": 2,
+     "output_tokens": 9257,
+     "cost_estimate_usd": 0.343791,
+     "calls": 1
+    },
+    "stage2:kr": {
+     "model": "opus",
+     "input_tokens": 2,
+     "output_tokens": 20746,
+     "cost_estimate_usd": 0.586419,
+     "calls": 1
+    }
+   },
+   "total_input_tokens": 16,
+   "total_output_tokens": 100461,
+   "total_cost_usd": 3.738764,
+   "total_calls": 8,
+   "warnings": []
+  }
  },
  "warnings": [],
  "error": null,
- "elapsed_s": 556.0
+ "elapsed_s": 123.7
 }
