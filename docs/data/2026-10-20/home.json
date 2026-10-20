@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "updated_at_kst": "2026-10-20T15:14:05.188436+09:00",
+ "updated_at_kst": "2026-10-20T15:43:52.151583+09:00",
  "result": "degraded",
  "indices": [
   {
@@ -1857,7 +1857,7 @@
    "session_date": "2026-10-19",
    "note": null,
    "error": null,
-   "source": "Yahoo v7 quote + Wikipedia fetched"
+   "source": "Yahoo v7 quote + Wikipedia cache(2026-10-20)"
   },
   "us_ndx": {
    "index_name": "나스닥 100",
@@ -1866,7 +1866,7 @@
    "session_date": "2026-10-19",
    "note": null,
    "error": null,
-   "source": "Yahoo v7 quote + Wikipedia fetched"
+   "source": "Yahoo v7 quote + Wikipedia cache(2026-10-20)"
   },
   "us_djia": {
    "index_name": "다우 30",
@@ -1875,7 +1875,7 @@
    "session_date": "2026-10-19",
    "note": null,
    "error": null,
-   "source": "Yahoo v7 quote + KIND fetched"
+   "source": "Yahoo v7 quote + KIND cache(2026-10-20)"
   },
   "kr_kospi": {
    "index_name": "코스피",
@@ -1884,7 +1884,7 @@
    "session_date": "2026-10-20",
    "note": null,
    "error": null,
-   "source": "Yahoo v7 quote + KIND fetched"
+   "source": "Yahoo v7 quote + KIND cache(2026-10-20)"
   },
   "kr_kosdaq": {
    "index_name": "코스닥",
@@ -1893,39 +1893,39 @@
    "session_date": "2026-10-20",
    "note": null,
    "error": null,
-   "source": "Yahoo v7 quote + KIND fetched"
+   "source": "Yahoo v7 quote + KIND cache(2026-10-20)"
   }
  },
  "headlines": [
   {
-   "text": "미 10년물 5.14%·WTI 103.66달러: 후티 반군의 사우디 공격으로 고유가·고금리가 겹침",
+   "text": "미 10년물 5.14%·WTI 103.66달러: 고유가·고금리 부담에 코스피는 장 초반 2%대 급락해 5600선 이탈",
    "importance": 5,
    "topic": "macro",
    "topic_name": "거시경제"
   },
   {
-   "text": "필라델피아 반도체지수 9거래일 만에 반등(+1.61%)…저가매수에 나스닥 +1.11%, VIX -7.75%로 AI 신용불안 진정",
+   "text": "필라델피아 반도체지수가 8일 연속 하락을 끊고 +1.61%, 나스닥은 +1.11% 상승. 다만 S&P 500 하락 종목이 324개로 상승(176개)보다 많은 좁은 반등",
    "importance": 5,
    "topic": "us",
    "topic_name": "미국시장"
   },
   {
-   "text": "코스피, 미국 기술주 반등에도 20일 장 초반 2% 하락하며 5700선 아래로…기관 순매도 속에 코스피 구성종목 730개 하락",
+   "text": "美 반도체 반등에도 코스피 장 초반 2%대 급락(5634.76, -2.33%)… 외국인·기관 동반 매도, SK하이닉스 -5.25%·삼성전자 -3.90%",
    "importance": 5,
    "topic": "kr",
    "topic_name": "한국시장"
   },
   {
-   "text": "미국 반도체 9일 만에 반등(필라델피아 반도체 +1.61%, 나스닥 +1.11%)했지만, 코스피는 SK하이닉스 -4.46%·삼성전자 -3.33%로 엇갈림",
+   "text": "프랑스 폭동과 국채 금리 24년 만 최고에 유럽 증시 일제히 하락: 스톡스600 -0.80%, DAX -1.18%, CAC40 -1.11%",
    "importance": 5,
-   "topic": "sectors",
-   "topic_name": "섹터별 주요뉴스"
-  },
-  {
-   "text": "유럽 증시 일제히 하락: 스톡스600 -0.80%, DAX -1.18%로 낙폭 최대… 미국 나스닥(+1.11%)·반도체(+1.61%) 강세와 엇갈려",
-   "importance": 4,
    "topic": "eu",
    "topic_name": "유럽시장"
+  },
+  {
+   "text": "중국 3분기 GDP 4.5%로 예상 상회, 상해종합 0.39% 올라 3730.92 마감…대규모 부양 압박은 줄어",
+   "importance": 5,
+   "topic": "cn",
+   "topic_name": "중국시장"
   }
  ],
  "topics": {
@@ -1934,67 +1934,57 @@
    "ok": true,
    "error": null,
    "warnings": [],
-   "title": "거시경제 데일리 (2026-10-20): 미 10년물 5.14%·WTI 103달러, 중동 리스크와 고금리 속 미 기술주만 반등"
+   "title": "거시 브리프 2026-10-20 | 10년물 5.14%·WTI 103달러에도 원화는 '마이웨이'… 금통위·FOMC 앞두고 고유가·고금리 경계"
   },
   "sectors": {
    "name": "섹터별 주요뉴스",
    "ok": true,
    "error": null,
    "warnings": [],
-   "title": "섹터별 주요뉴스 — 2026-10-20: 미국 반도체 9일 만에 반등, 코스피는 반도체·방산 동반 급락"
+   "title": "섹터별 주요뉴스 — 2026-10-20 | 미국은 AI·반도체 저가 매수로 반등, 한국은 반도체·방산 동반 급락"
   },
   "us": {
    "name": "미국시장",
    "ok": true,
    "error": null,
    "warnings": [],
-   "title": "미국 증시 마감 브리핑(10/19 세션): 반도체·AI주 저가매수로 나스닥 1.11% 상승, 시장 폭은 여전히 좁음"
+   "title": "미국 증시 마감(10/19): 반도체가 8일 연속 하락을 끊고 나스닥 1.11% 상승, 다우는 약보합, 유틸리티·방산은 약세"
   },
   "eu": {
    "name": "유럽시장",
    "ok": true,
    "error": null,
    "warnings": [],
-   "title": "유럽 증시 마감 브리핑(10/19 세션): 주요 지수 일제히 하락, DAX -1.18%로 낙폭 최대… 미국 기술주 강세와 엇갈려"
+   "title": "유럽 증시 마감(10/19): 프랑스 폭동과 국채 금리 급등에 주요 지수 모두 1% 안팎 하락, 은행주 약세 두드러져"
   },
   "kr": {
    "name": "한국시장",
    "ok": true,
    "error": null,
    "warnings": [],
-   "title": "한국 증시 데일리 (2026-10-20): 미국 기술주 반등에도 코스피 5700선 아래로, 반도체·방산 동반 약세"
+   "title": "한국 증시 데일리 (2026-10-20): 전날 코스피 1.76% 반등 뒤 오늘은 美 기술주 반등에도 장 초반 2%대 급락, 반도체·방산 약세"
   },
   "cn": {
    "name": "중국시장",
    "ok": true,
    "error": null,
    "warnings": [],
-   "title": "중국·홍콩 시장 브리프 (2026-10-20): 본토 소폭 상승, CXMT 실적 발표 후 약 8% 급락"
+   "title": "중국·홍콩 시장 데일리 (2026-10-20): 3분기 GDP 4.5% 예상 상회에 상해종합 0.39% 상승, 반도체주는 급락"
   }
  },
  "sources": {
-  "ok": 10,
-  "total": 29,
+  "ok": 39,
+  "total": 48,
   "failed": [
    "Yahoo Finance News",
    "Google News 뉴욕증시",
-   "Google News AI stocks",
    "Google News Wall Street",
+   "Google News AI stocks",
    "Google News 경제지표·금리·환율",
    "Google News Fed inflation",
    "Google News 코스피",
    "Google News 외국인 순매수",
-   "더벨 (Google News)",
-   "Google News 유럽 증시",
-   "Google News European stocks",
-   "Google News China stocks",
-   "Google News 중국 증시",
-   "Google News A股 港股",
-   "Google News defense stocks",
-   "Google News oil prices",
-   "Google News semiconductor",
-   "Google News Nikkei",
-   "Google News geopolitics markets"
+   "더벨 (Google News)"
   ]
  },
  "warnings": [],

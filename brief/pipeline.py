@@ -33,7 +33,7 @@ from brief.config import KST, MAX_ARTICLES, load_sources
 from brief.dedupe import dedupe
 from brief.market import collect_market
 from brief.market.base import ConstituentTable, IndexQuote, MarketSnapshot
-from brief.window import filter_window
+from brief.window import filter_window, window_end, window_start
 
 logger = logging.getLogger(__name__)
 
@@ -271,6 +271,8 @@ def update(
 
     try:
         cfg = load_sources(sources_path)
+        # 날짜 필터 없는 API(네이버)가 윈도 안 기사까지 페이지를 넘기도록 수집 윈도를 넘긴다
+        cfg.setdefault("defaults", {})["window"] = (window_start(run_date), window_end(run_date))
         market_cfg = cfg.get("market") or {}
         cache_dir = Path(market_cfg.get("cache_dir") or ".cache")
 

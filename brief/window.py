@@ -21,15 +21,16 @@ def window_start(run_date: date) -> datetime:
     return datetime(pbd.year, pbd.month, pbd.day, 6, 50, tzinfo=KST)
 
 
-def in_window(article: Article, run_date: date, end: datetime | None = None) -> bool:
-    """start <= published_at < end 인지 판정한다.
+def window_end(run_date: date) -> datetime:
+    """늦게 들어온 기사를 포함하기 위한 여유 3시간을 더한 run_date 09:50 KST."""
+    return datetime(run_date.year, run_date.month, run_date.day, 9, 50, tzinfo=KST)
 
-    end 기본값은 늦게 들어온 기사를 포함하기 위한 여유 3시간을 더한
-    run_date 09:50 KST.
-    """
+
+def in_window(article: Article, run_date: date, end: datetime | None = None) -> bool:
+    """start <= published_at < end 인지 판정한다. end 기본값은 window_end(run_date)."""
     start = window_start(run_date)
     if end is None:
-        end = datetime(run_date.year, run_date.month, run_date.day, 9, 50, tzinfo=KST)
+        end = window_end(run_date)
     return start <= article.published_at < end
 
 

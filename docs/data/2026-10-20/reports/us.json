@@ -5,185 +5,264 @@
  "error": null,
  "warnings": [],
  "attempts": 1,
- "generated_at_kst": "2026-10-20T15:14:05.193436+09:00",
+ "generated_at_kst": "2026-10-20T15:43:52.157071+09:00",
  "report": {
-  "title": "미국 증시 마감 브리핑(10/19 세션): 반도체·AI주 저가매수로 나스닥 1.11% 상승, 시장 폭은 여전히 좁음",
-  "overview": "10월 19일(현지) 미국 증시는 최근 크게 빠졌던 반도체·AI주에 저가매수가 들어오면서 기술주 중심으로 반등했습니다. 나스닥 종합은 +1.11%, 나스닥100은 +1.17%, 필라델피아 반도체지수는 +1.61%로 9거래일 만에 올랐습니다. 반면 다우는 -0.07%로 소폭 내렸고, VIX는 -7.75% 하락한 18.44로 내려와 코어위브발 'AI 신용불안'이 일단 진정됐다는 해석이 나왔습니다. 다만 S&P500 구성종목은 324개가 내리고 176개만 올랐고, 미 10년물 금리가 5.14%까지 오르면서 유틸리티(-2.01%)·부동산(-1.16%) 같은 금리 민감 업종은 약했습니다. 일부 대형 기술주에만 매수가 몰린 반등이라는 점에 유의해야 합니다. 미국 기술주가 올랐는데도 오늘(10/20) 코스피는 장 초반 2% 안팎 하락하며 5700선 아래로 내려가, 미국 반도체 반등이 한국 반도체주로 바로 이어지지 않는 모습입니다.",
+  "title": "미국 증시 마감(10/19): 반도체가 8일 연속 하락을 끊고 나스닥 1.11% 상승, 다우는 약보합, 유틸리티·방산은 약세",
+  "overview": "19일(현지시간) 뉴욕증시는 지난주 AI 관련주 급락 이후 저가매수가 들어오면서 기술주 중심으로 반등했습니다. 나스닥 종합은 +1.11%(26,431), S&P 500은 +0.41%(7690.73), 다우는 -0.07%(51,966)로 지수별 방향이 엇갈렸습니다. 필라델피아 반도체지수(+1.61%)는 8거래일 연속 하락을 끝냈고, VIX는 18.44로 7.75% 내렸습니다. 다만 S&P 500 구성종목은 상승 176개, 하락 324개로 하락이 훨씬 많았습니다. 미 10년물 금리가 5.14%로 오르면서 유틸리티(-2.01%)·부동산(-1.16%) 등 금리에 민감한 업종은 약했고, 방산주는 중간선거에서 민주당이 압승할 수 있다는 우려에 계속 밀렸습니다. 한국장은 미국 반도체 반등에도 20일 장 초반 코스피·코스닥이 2%대 하락하며 미국과 다르게 움직이고 있습니다.",
   "sections": [
    {
     "heading": "지수 흐름",
-    "body": "직전 세션(10/19)은 '많이 빠진 기술주의 반등'이 핵심이었습니다. S&P500은 31.29포인트(+0.41%) 오른 7690.73, 나스닥 종합은 290.86포인트(+1.11%) 오른 26,431, 나스닥100은 341.80포인트(+1.17%) 오른 29,529로 마감했습니다. 반면 다우는 36.38포인트(-0.07%) 내린 51,966으로 약보합에 그쳤고, 중소형주 중심의 러셀2000은 +0.25%(2728.30) 오르는 데 그쳤습니다. 필라델피아 반도체지수(SOX)는 179.05포인트(+1.61%) 오른 11,316으로 9거래일 만에 반등했습니다(한국경제 보도). 시장의 불안 심리를 보여주는 VIX(변동성지수)는 1.55포인트(-7.75%) 내린 18.44로 크게 낮아졌습니다. 배경으로는 ① 코어위브 신용 쇼크로 크게 빠졌던 반도체·AI주에 저가매수 유입(한국경제·MarketWatch·CNBC), ② 골드만삭스의 코어위브 투자의견 상향('중립'→'매수')으로 AI 인프라 관련 신용 우려 완화, ③ 이번 주 메타 실적 발표와 엔비디아의 유럽 행사를 앞둔 빅테크 실적 기대가 꼽힙니다. 다만 미 10년물 금리는 5.14%(+0.04포인트), 5년물은 4.93%로 올라 성장주에는 부담이 되는 금리 환경이 이어졌습니다. 다우가 약세였던 것도 금리에 민감한 업종과 방어 업종이 빠졌기 때문으로 보입니다. 한국경제는 이번 반등이 '단기 기술적 반등인지 연말 랠리의 시작인지'는 빅테크 실적이 가를 것이라는 시각을 전했습니다.",
+    "body": "19일 미국 3대 지수는 방향이 엇갈렸습니다. 기술주 비중이 큰 지수가 강했습니다. 나스닥 종합 26,431(+290.86p, +1.11%), 나스닥 100 29,529(+341.80p, +1.17%), S&P 500 7690.73(+31.29p, +0.41%), 러셀 2000 2728.30(+0.25%)은 올랐고, 다우는 51,966(-36.38p, -0.07%)으로 소폭 내렸습니다. 필라델피아 반도체지수(SOX)는 11,316(+1.61%)으로 8거래일 연속 하락을 끊고 9일 만에 반등했습니다. 공포지수로 불리는 VIX는 18.44(-7.75%)로 내려 불안 심리가 일부 누그러졌습니다. 기사들은 이번 반등을 지난주 AI 관련주 매도로 지수가 크게 빠진 뒤의 '기술적 반등'으로 봅니다. 기술적 반등은 펀더멘털 변화보다 낙폭이 과도했다는 인식에서 나오는 되돌림을 말합니다. 장 시작 전에는 나스닥 선물이 1% 넘게 오르며 저가매수 분위기가 먼저 형성됐습니다. 부담 요인도 많았습니다. 주말에 나온 9월 CPI와 PPI가 모두 예상을 웃돌았고, 기사에 따르면 PPI는 전년 대비 6.3% 올라 2022년 12월 이후 가장 높았습니다. 여기에 유가 상승과 연준의 추가 인상 우려가 겹치며 미 10년물 금리는 5.14%(+0.04)로 올랐습니다. 유럽 증시는 시위 확산과 재정 불안으로 1% 넘게 떨어졌습니다. 즉 이번 반등은 금리·물가 부담이 그대로인 상태에서 AI·반도체로만 매수가 몰린 '불안한 반등'입니다. 코어위브발 AI 신용 우려도 완전히 사라지지 않았다는 평가가 이어졌습니다.",
     "bullets": [
-     "S&P500 7690.73 (+0.41%) / 나스닥 종합 26,431 (+1.11%) / 나스닥100 29,529 (+1.17%)",
-     "다우 51,966 (-0.07%) / 러셀2000 2728.30 (+0.25%)",
-     "필라델피아 반도체 11,316 (+1.61%): 9거래일 만에 반등",
+     "나스닥 종합 26,431 (+1.11%), 나스닥 100 29,529 (+1.17%)",
+     "S&P 500 7690.73 (+0.41%), 다우 51,966 (-0.07%), 러셀 2000 2728.30 (+0.25%)",
+     "필라델피아 반도체 11,316 (+1.61%): 8거래일 연속 하락 종료",
      "VIX 18.44 (-7.75%): 불안 심리 완화",
-     "미 10년물 5.14% (+0.04포인트), 5년물 4.93%, 3개월물 4.07%: 금리는 상승",
-     "달러인덱스 101.98 (+0.14%), 원/달러 1333.43 (-0.56%)"
+     "미 10년물 5.14% (+0.04), 5년물 4.93%, 3개월물 4.07%: 물가 지표 서프라이즈와 추가 인상 경계",
+     "배경: 지난주 AI주 급락 뒤 저가매수(기술적 반등), 한편 CPI·PPI 서프라이즈와 유가 상승은 부담"
     ]
    },
    {
     "heading": "시장 폭과 거래",
-    "body": "지수 상승과 달리 시장 폭(오른 종목과 내린 종목의 비율)은 약했습니다. S&P500 503개 종목 가운데 상승 176개, 하락 324개, 보합 3개로, 내린 종목이 오른 종목의 두 배에 가까웠습니다. 즉, 지수 상승은 시가총액이 큰 기술주·경기소비재 일부가 끌어올린 결과입니다. 나스닥100은 상승 59개, 하락 40개, 보합 2개로 상대적으로 고르게 올랐습니다. 거래대금(추정) 상위는 마이크론(231억, +2.97%), 엔비디아(213억, +1.38%), 아마존(144억, +4.98%), 테슬라(142억, +3.76%), 애플(118억, -0.15%), 샌디스크(116억, +5.53%), 메타(111억, -0.55%), 스페이스X(109억, +1.32%), AMD(108억, +1.76%), 마이크로소프트·인텔(각 93억, +0.84%·+2.43%) 순이었습니다. 거래대금 상위 종목이 대부분 반도체·메모리·AI 관련주이고 대부분 올랐다는 점에서, 매매가 '최근 급락한 반도체·메모리 되사기'에 몰렸다고 볼 수 있습니다. VIX가 18.44로 7.75% 내려 단기 불안 심리는 누그러졌지만, 하락 종목이 다수이고 MarketWatch가 '가장 위험한 투기등급 채권(정크본드)이 경고 신호를 보낸다'고 보도한 점을 보면 신용시장의 경계는 남아 있습니다. 참고로 무료 데이터 소스에는 기관·개인·외국인 같은 투자 주체별 수급 데이터가 없어, 누가 샀는지는 직접 확인할 수 없습니다.",
+    "body": "지수 상승과 달리 시장 전체의 체력은 약했습니다. S&P 500 503개 종목 중 상승은 176개, 하락은 324개(보합 3개)로 하락 종목이 두 배 가까이 많았습니다. 일부 대형 기술주가 지수를 끌어올린 좁은 장세였다는 뜻입니다. 나스닥 100은 상승 59개, 하락 40개로 상대적으로 양호해 매수가 기술·성장주에 몰렸음을 보여줍니다. 거래대금(추정)은 반도체와 메가캡에 집중됐습니다. 마이크론(MU, 231억 달러, +2.97%)이 엔비디아(NVDA, 213억 달러, +1.38%)를 제치고 1위였고, 아마존(144억 달러, +4.98%), 테슬라(142억 달러, +3.76%), 애플(118억 달러, -0.15%), 샌디스크(116억 달러, +5.53%), 메타(111억 달러, -0.55%), AMD(108억 달러, +1.76%), 마이크로소프트와 인텔(각 93억 달러)이 뒤를 이었습니다. 상위 10개 중 메모리·반도체가 5개로, 메모리 쪽에 매수가 특히 강했습니다. VIX가 7.75% 내린 것은 단기 공포가 진정됐다는 신호입니다. 다만 골드만삭스 집계로 지난주 글로벌 헤지펀드가 기술주, 특히 반도체를 역대급 규모로 팔았다는 보도가 있어, 이번 반등에는 숏커버(공매도 포지션을 되사서 청산하는 매수)나 비중 일부 회복 성격이 섞였을 수 있습니다. 무료 데이터 소스에는 미국 시장의 기관·개인 매매 동향이 없어 실제 수급 주체는 확인할 수 없습니다. 거래대금도 종가와 거래량으로 계산한 추정치입니다.",
     "bullets": [
-     "S&P500 상승 176 / 하락 324 / 보합 3: 지수는 올랐지만 시장 폭은 약함",
-     "나스닥100 상승 59 / 하락 40 / 보합 2",
-     "거래대금 1·2위: 마이크론 231억(+2.97%), 엔비디아 213억(+1.38%)",
-     "거래대금 상위 종목 대부분이 반도체·메모리·AI 관련주로 매수 쏠림",
-     "VIX 18.44(-7.75%)로 불안 완화, 다만 정크본드 시장 경고(MarketWatch)는 남아 있음",
-     "무료 소스에는 기관·개인 수급 데이터가 없어 주체별 매매는 확인 불가"
+     "S&P 500: 상승 176 / 하락 324 / 보합 3 → 일부 종목에 쏠린 좁은 반등",
+     "나스닥 100: 상승 59 / 하락 40 / 보합 2",
+     "거래대금 1·2위: MU 231억 달러, NVDA 213억 달러",
+     "거래대금 상위 10개 중 MU·NVDA·SNDK·AMD·INTC 등 반도체 비중이 큼",
+     "VIX 18.44 (-7.75%): 단기 공포 진정",
+     "골드만삭스: 지난주 헤지펀드 기술주 매도 역대급(반도체 최대) → 반등에 숏커버가 섞였을 가능성",
+     "기관·개인 수급 데이터 없음(무료 소스 한계)"
     ]
    },
    {
     "heading": "섹터 동향",
-    "body": "섹터 ETF는 '성장·기술주 강세, 방어·금리 민감 업종 약세'로 뚜렷하게 갈렸습니다. 상승 순위는 바이오(XBI) +2.45%, 경기소비재(XLY) +1.78%, 반도체(SOXX) +1.73%, 기술(XLK) +1.36%, 소재(XLB) +0.06% 순이었습니다. 하락 순위는 유틸리티(XLU) -2.01%가 가장 컸고, 부동산(XLRE) -1.16%, 금융(XLF) -0.83%, 에너지(XLE)·산업재(XLI) 각 -0.64%, 방산(ITA) -0.63%, 헬스케어(XLV) -0.60%, 필수소비재(XLP) -0.47%, 커뮤니케이션(XLC) -0.21%가 뒤를 이었습니다. 경기소비재 강세는 아마존(+4.98%)과 테슬라(+3.76%) 두 대형주 덕분이 큽니다. 기술·반도체는 마이크론·샌디스크·웨스턴디지털 등 메모리·저장장치주와 마벨·인텔이 주도했습니다. 유틸리티는 NRG(-4.21%), 에버소스(-3.55%), 컨스텔레이션에너지(-3.01%), 엑셀론(-2.51%), AEP(-1.90%)가 한꺼번에 빠졌습니다. 10년물 금리가 5.14%로 오른 데다, 그동안 'AI 전력 수요' 수혜로 피난처 역할을 하던 전력주에서 반도체로 자금이 옮겨간 것으로 해석됩니다(추정). 부동산과 주택건설(D.R. 호튼 -2.93%)도 금리 상승의 영향을 받은 것으로 보입니다. 바이오(XBI)는 모더나(+4.07%) 등의 강세로 가장 많이 올랐지만, 대형 제약·바이오가 많은 헬스케어(XLV)는 길리어드(-2.00%)·암젠(-1.75%) 약세로 내려 같은 업종 안에서도 엇갈렸습니다. 에너지는 중동 불안으로 유가·정제마진이 오르며 에너지 ETF 수익률이 좋았다는 기사(매일경제, 세션 전 보도)가 있었지만, 이날은 -0.64%로 쉬어 갔습니다.",
+    "body": "섹터 ETF 기준으로 오른 곳은 바이오(XBI +2.45%), 경기소비재(XLY +1.78%), 반도체(SOXX +1.73%), 기술(XLK +1.36%), 소재(XLB +0.06%) 다섯 곳뿐입니다. 나머지는 모두 내렸습니다. 하락폭은 커뮤니케이션(XLC -0.21%), 필수소비재(XLP -0.47%), 헬스케어(XLV -0.60%), 방산(ITA -0.63%), 에너지(XLE -0.64%), 산업재(XLI -0.64%), 금융(XLF -0.83%), 부동산(XLRE -1.16%), 유틸리티(XLU -2.01%) 순으로 커졌습니다. 기사에서도 S&P 500 11개 업종 중 7개가 내렸다고 전합니다. 강한 쪽에서 경기소비재는 아마존(+4.98%)과 테슬라(+3.76%)라는 두 대형주의 급등으로 올랐습니다. 반도체·기술은 AI 저가매수와 메모리 가격 개선 기대로 강했습니다. 바이오는 모더나(+4.07%) 등이 오르며 가장 크게 반등했지만, 같은 헬스케어인 대형 제약주 길리어드(-2.00%)와 암젠(-1.75%)은 내려 XLV는 하락했습니다. 약한 쪽에서는 유틸리티가 가장 부진했습니다. NRG(-4.21%), 에버소스(-3.55%), 컨스텔레이션에너지(-3.01%), 엑셀론(-2.51%), AEP(-1.90%)가 동반 하락했습니다. 기사에 직접적인 이유는 없지만, 10년물 금리가 5.14%로 오른 것이 배당주 성격의 유틸리티·부동산에 부담이 됐을 것으로 보입니다. 방산(ITA)은 중간선거에서 민주당이 상·하원을 모두 가져가면 국방예산 증액이 어려워질 수 있다는 우려로 증시 상승과 반대로 움직였습니다. 금융(XLF -0.83%)은 아메리프라이즈(-4.07%)의 약세가 두드러졌습니다.",
     "bullets": [
-     "강한 섹터: 바이오 XBI +2.45% > 경기소비재 XLY +1.78% > 반도체 SOXX +1.73% > 기술 XLK +1.36%",
-     "약한 섹터: 유틸리티 XLU -2.01% > 부동산 XLRE -1.16% > 금융 XLF -0.83%",
-     "에너지 XLE·산업재 XLI 각 -0.64%, 방산 ITA -0.63%, 헬스케어 XLV -0.60%",
-     "유틸리티 급락: 금리 상승 + 전력주에서 반도체로의 자금 이동 가능성(추정)",
-     "바이오(XBI)는 강세, 대형 헬스케어(XLV)는 약세로 엇갈림"
+     "상승: XBI +2.45% > XLY +1.78% > SOXX +1.73% > XLK +1.36% > XLB +0.06%",
+     "하락: XLC -0.21%, XLP -0.47%, XLV -0.60%, ITA -0.63%, XLE -0.64%, XLI -0.64%, XLF -0.83%, XLRE -1.16%, XLU -2.01%",
+     "경기소비재 강세의 동력: 아마존(+4.98%)·테슬라(+3.76%)",
+     "유틸리티 최약세: NRG·ES·CEG·EXC·AEP 동반 하락(금리 상승 부담 추정)",
+     "방산: 중간선거 민주당 압승 가능성 → 국방예산 증액 불확실성"
     ]
    },
    {
     "heading": "주도주와 급등락",
-    "body": "상승 상위는 메모리·저장장치 종목이 차지했습니다. 웨스턴디지털(WDC)이 +6.09%로 S&P500·나스닥100 모두에서 1위였고, 샌디스크(SNDK) +5.53%, 씨게이트(STX) +3.41%가 함께 올랐습니다. 거래대금 1위 마이크론(MU)도 +2.97%였습니다. MarketWatch는 '마이크론 등 반도체주가 혹독한 매도 이후 되살아났다'고 전했습니다. 소프트웨어·데이터 쪽에서는 데이터독(DDOG) +5.36%, 트윌리오(TWLO) +5.29%, 팔란티어(PLTR) +4.36%가 강했고, 반도체 설계·전력칩의 마벨(MRVL) +4.06%, 모놀리식파워(MPWR) +3.53%도 올랐습니다. 아마존(AMZN)은 +4.98%로 시가총액 대형주 가운데 가장 많이 올랐는데, 월가에서 목표가 350달러 의견이 나온 것이 보도됐습니다(한국경제 '월가 업&다운'). 같은 기사에서 엔비디아(NVDA)는 '비중확대' 의견이 유지됐고, 주가는 +1.38%였습니다. 인텔(INTC)은 +2.43%였는데, 4년간 부정적 의견을 냈던 JP모건 애널리스트가 제조 공정과 칩 설계 개선을 이유로 부정적 의견을 거둬들였다는 MarketWatch 보도가 있었습니다. 테슬라(TSLA)는 +3.76%, 모더나(MRNA)는 +4.07%였습니다. 하락 상위는 비료업체 모자이크(MOS) -4.78%, NRG에너지 -4.21%, 아메리프라이즈파이낸셜(AMP) -4.07%, 에버소스(ES) -3.55%, 허니웰 에어로스페이스(HONA) -3.33%, 플렉스(FLEX) -3.23%, 컨스텔레이션에너지(CEG) -3.01%, D.R. 호튼(DHI) -2.93%, 번지(BG) -2.85%, 제뉴인파츠(GPC) -2.82% 순이었습니다. 나스닥100에서는 파카(PCAR) -2.17%, 길리어드(GILD) -2.00%, T모바일(TMUS) -1.89% 등이 약했습니다. 하락 종목 대부분은 개별 기사로 이유가 확인되지 않았고, 유틸리티·주택·산업재 등 업종 전반의 약세 흐름과 겹칩니다.",
+    "body": "상승 상위는 메모리·스토리지와 AI 소프트웨어가 차지했습니다. 웨스턴디지털(WDC +6.09%)과 샌디스크(SNDK +5.53%, 거래대금 116억 달러)가 S&P 500과 나스닥 100에서 모두 1·2위였고, 시게이트(STX +3.41%)와 마이크론(MU +2.97%, 거래대금 1위)도 강했습니다. 엔비디아(+1.38%)는 메모리 가격에 대한 낙관론이 반도체 매도세를 상쇄하며 반등했다는 보도가 나왔습니다. 인텔(INTC +2.43%)은 장 초반 반도체 반등을 이끌었다는 평가를 받았습니다. 4년간 부정적 의견을 유지하던 J.P.모건 애널리스트가 인텔의 제조·칩 설계 개선을 이유로 그 의견을 거둔 것이 배경으로 꼽힙니다. 아마존(AMZN +4.98%)은 자체 AI 칩과 클라우드 성장 기대로 5% 가까이 오르며 AI 기술주 반등을 주도했습니다. 기사는 반도체 상승 배경으로 최근 낙폭에 따른 반발 매수와 투자은행의 긍정적 평가를 함께 꼽았습니다. 이 밖에 데이터독(DDOG +5.36%), 트윌리오(TWLO +5.29%), 팔란티어(PLTR +4.36%), 마벨(MRVL +4.06%), 모놀리식파워(MPWR +3.53%), 테슬라(TSLA +3.76%), 모더나(MRNA +4.07%)가 상위에 올랐습니다. 하락 상위는 모자이크(MOS -4.78%), NRG(-4.21%), 아메리프라이즈(AMP -4.07%), 에버소스(ES -3.55%), 하니웰 에어로스페이스(HONA -3.33%), 플렉스(FLEX -3.23%), 컨스텔레이션에너지(CEG -3.01%), D.R.호튼(DHI -2.93%), 번지(BG -2.85%), 제뉴인파츠(GPC -2.82%)였습니다. 유틸리티·전력, 주택, 농업·소재 등 금리와 경기에 민감한 종목이 많습니다. 하니웰 에어로스페이스 약세는 방산주 매도 흐름과 같은 방향입니다. 개별 하락 종목의 구체적 이유는 입력 기사에 없습니다. 상장 종목은 아니지만 코어위브는 골드만삭스가 투자의견을 '중립'에서 '매수'로 올리면서도 목표주가는 내려, AI를 바라보는 월가의 복잡한 시각을 보여줬습니다.",
     "bullets": [
-     "메모리·저장장치 강세: WDC +6.09%, SNDK +5.53%, STX +3.41%, MU +2.97%",
-     "소프트웨어·AI: DDOG +5.36%, TWLO +5.29%, PLTR +4.36%",
-     "AMZN +4.98%: 월가 목표가 350달러 보도 / NVDA +1.38%: 비중확대 유지",
-     "INTC +2.43%: JP모건, 4년 만에 부정적 의견 철회(MarketWatch)",
-     "하락 상위: MOS -4.78%, NRG -4.21%, AMP -4.07%, ES -3.55%, HONA -3.33%",
-     "유틸리티 동반 약세: CEG -3.01%, EXC -2.51%, AEP -1.90%"
+     "메모리·스토리지 강세: WDC +6.09%, SNDK +5.53%, STX +3.41%, MU +2.97%",
+     "아마존 +4.98%: 자체 AI 칩·클라우드 성장 기대",
+     "인텔 +2.43%: J.P.모건 애널리스트가 4년 만에 부정적 의견 철회",
+     "엔비디아 +1.38%: 메모리 가격 낙관론으로 반등",
+     "AI 소프트웨어: DDOG +5.36%, TWLO +5.29%, PLTR +4.36%",
+     "하락 상위: MOS -4.78%, NRG -4.21%, AMP -4.07%, ES -3.55%, HONA -3.33%, CEG -3.01%",
+     "코어위브: 골드만 '매수' 상향 + 목표가 하향 → AI 신용 우려는 진행형"
     ]
    },
    {
     "heading": "실적·기업 뉴스",
-    "body": "AI 인프라 관련 신용 우려의 중심에 있던 코어위브에 대해, 골드만삭스가 투자의견을 '중립'에서 '매수'로 올리면서 목표주가는 오히려 낮췄습니다(매일경제). 한국경제는 골드만이 '코어위브 급락은 과도하며 73% 상승 여력이 있다'고 봤다고 전했습니다. 의견을 올리면서 목표가를 내린 것은 AI 인프라에 대한 월가의 복잡한 시각을 보여줍니다. 그래도 시장은 이를 신용불안이 진정되는 신호로 받아들이는 분위기입니다. 이번 주 기술주 일정으로는 메타의 실적 발표 준비와 엔비디아의 유럽 콘퍼런스가 있습니다(MarketWatch). 스페이스X(나스닥100 편입, +1.32%)는 실적 발표를 앞두고 '컴퓨팅 파워 임대가 매출 성장의 큰 원천이지만 비용도 크다'는 점이 핵심 쟁점으로 꼽혔습니다. 일론 머스크는 내년에 미국의 모든 어린이에게 스페이스X 주식 1주씩을 주겠다고 밝혔지만, 구체적인 방식은 밝히지 않았습니다. 애플은 10월 28일 제품 발표 행사('Pro and tell')를 예고했고, 애널리스트들은 터치스크린 노트북 공개를 예상합니다. IPO(신규 상장) 시장에서는 오픈AI가 상장을 미루면서, 예측시장 칼시(Kalshi)에서 앤트로픽이 올해 남은 마지막 대형 IPO 후보로 꼽혔습니다. 앤트로픽은 AI로 인한 일자리 변화에 대응할 수 있는 공익 펀드에 지분 5%를 넣기로 했습니다. JP모건체이스는 자기자본으로 방산 기술·하드웨어·공급망에 이미 50억 달러를 직접 투자했습니다(로봇 공장, 극초음속 미사일 등). 이 밖에 오픈AI 본사 임원 회의실에 도청장치를 설치한 혐의를 받는 사우디 국적자가 보석 없이 구금됐습니다. 거시·정책 측면에서는 미국 중간선거가 2주 앞으로 다가왔고, 역사적으로 중간선거 이후 6개월간 증시가 강했다는 분석(MarketWatch)과 민주당이 압승하면 전력·헬스케어가 수혜를 본다는 분석(매일경제)이 나왔습니다. 중국의 3분기 성장률은 수출 호조로 4.5%를 기록해 예상을 웃돌았습니다(CNBC). 지정학적으로는 사우디가 후티 반군의 공격 격화로 대형 투자 행사(FII)를 2027년으로 미뤘습니다. 또 푸틴이 젤렌스키를 뺀 트럼프·시진핑과의 3자 회담을 제안했다는 보도가 있었고, 트럼프는 푸틴·시진핑과 만날 의향을 밝혔습니다.",
+    "body": "이번 주는 빅테크 실적이 반등의 계기가 될지가 핵심이라는 분석이 나옵니다. 메타가 실적 발표를 준비 중이고 엔비디아는 유럽 콘퍼런스를 앞두고 있어 기술주에 중요한 한 주로 꼽힙니다. 스페이스X(SPCX, +1.32%, 거래대금 109억 달러)는 실적 발표를 앞두고 있습니다. 컴퓨팅 파워 임대가 큰 매출 성장원이지만 비용도 커서, 실적의 초점은 AI 사업의 수익성이 될 전망입니다. AI 자금조달 쪽에서는 오픈AI가 앤트로픽 IPO에 앞서 300억 달러 조달을 서두르고 있다는 보도가 있었습니다. 데이터센터·반도체 확보를 위한 투자(자본지출)가 늘면서, 투자자들은 매출 성장률뿐 아니라 비용과 현금흐름까지 따지고 있습니다. CNBC에 따르면 오픈AI가 상장을 미루면서 예측시장 칼시(Kalshi)에서는 앤트로픽이 올해 마지막 대형 AI IPO로 여겨지고 있습니다. 앤트로픽은 AI로 인한 일자리 충격 등에 대응할 공익 기금에 지분 5%를 내놓기로 했습니다. 투자의견 변화로는 골드만삭스의 코어위브 '매수' 상향(목표가는 하향)과 J.P.모건 애널리스트의 인텔 부정적 의견 철회가 나왔습니다. 정책 쪽에서는 미국의 일부 대러시아 제재 완화가 유가를 끌어내리는 쪽으로 작용했고, 방산업계는 중간선거 결과에 따라 국방예산 증액이 불투명해질 수 있다는 위험이 부각됐습니다. 이날 S&P 500 구성종목의 구체적인 실적 수치는 입력 자료에 없습니다.",
     "bullets": [
-     "골드만삭스, 코어위브 '중립'→'매수' 상향(목표가는 하향), '73% 상승 여력'",
-     "이번 주 메타 실적 발표, 엔비디아 유럽 콘퍼런스",
-     "스페이스X 실적: AI 컴퓨팅 임대 매출의 성장성과 비용이 쟁점 / 머스크, 미국 어린이 1인당 1주 지급 발언",
-     "애플, 10월 28일 'Pro and tell' 행사(터치스크린 노트북 예상)",
-     "앤트로픽: 올해 마지막 대형 IPO 후보 거론, 지분 5%를 공익 펀드에 출연",
-     "JP모건, 방산 기술에 50억 달러 직접 투자",
-     "중국 3분기 GDP 4.5%로 예상 상회 / 사우디 FII 2027년 연기(후티 공격)",
-     "미 중간선거 2주 앞: 선거 후 증시가 강했다는 과거 통계 분석"
+     "메타: 이번 주 실적 발표 예정(빅테크 실적이 반등 지속 여부의 관건)",
+     "엔비디아: 유럽 콘퍼런스 앞둠",
+     "스페이스X: 실적 앞두고 AI 컴퓨팅 임대의 수익성이 초점",
+     "오픈AI: 300억 달러 조달 추진 / 앤트로픽: 올해 마지막 대형 AI IPO 후보, 지분 5% 공익 기금 출연",
+     "골드만삭스: 코어위브 '매수' 상향, 목표가 하향",
+     "J.P.모건: 인텔 부정적 의견 철회",
+     "정책: 대러 제재 일부 완화, 중간선거 관련 국방예산 불확실성"
     ]
    },
    {
     "heading": "오늘 이벤트",
-    "body": "입력 자료에는 오늘(10/20) 발표되는 미국 경제지표나 연준 인사 발언 일정이 구체적으로 나와 있지 않아, 지표·연준 일정은 따로 적지 않습니다. 기사로 확인되는 이번 주 핵심 일정은 빅테크 실적 시즌입니다. MarketWatch는 엔비디아가 유럽 콘퍼런스를 준비하고 메타가 실적 발표를 앞두고 있어 이번 주가 기술주에 중요한 주간이라고 짚었습니다. 한국경제도 빅테크 실적이 이번 반등을 연말 랠리로 이어갈지를 가를 계기라고 봤습니다. 스페이스X 실적에서는 AI 컴퓨팅 임대 사업의 수익성이 관전 포인트입니다(정확한 날짜는 기사에 없음). 그 밖에 10월 28일 애플 제품 발표 행사와 약 2주 뒤 미국 중간선거가 예정돼 있습니다. 미 10년물 금리가 5%를 넘는 수준이어서, 금리 흐름과 정크본드 등 신용시장 지표도 계속 지켜봐야 합니다.",
+    "body": "입력 기사에는 오늘(10/20) 미국 시간으로 발표되는 경제지표나 개별 실적 일정이 구체적으로 나와 있지 않습니다. 따라서 이번 주와 다음 주 일정 중심으로 정리합니다. 첫째, 이번 주에는 메타 실적 발표와 엔비디아의 유럽 콘퍼런스가 예정돼 AI 투자심리의 방향을 가를 변수로 꼽힙니다. 스페이스X 실적도 앞두고 있습니다. 둘째, 다음 주 FOMC(연준 통화정책회의)가 열립니다. 연방기금금리 선물시장은 10월 추가 인상 가능성을 20% 안팎으로 낮게 보지만, 연말까지 한 차례 더 올릴 가능성은 여전히 높게 반영하고 있습니다. 시장은 인상 여부 자체보다 향후 정책 방향에 대한 메시지(매파 여부)에 주목합니다. 셋째, 한국은행 10월 기준금리 결정은 동결이 유력하며, 전문가 86%가 11월 인상을 예상한다는 설문이 나왔습니다. 정확한 회의 날짜는 기사에 없습니다. 넷째, 중동(후티 반군의 사우디 시설 공격 주장, 호르무즈 해협 운송 위험)과 대러 제재 완화에 따른 유가 변동, 그리고 푸틴이 트럼프·시진핑에게 제안했다는 3자 정상회담 보도 등 지정학 이슈도 계속 지켜봐야 합니다.",
     "bullets": [
-     "이번 주: 메타 실적 발표(구체 날짜는 기사에 없음)",
-     "이번 주: 엔비디아 유럽 콘퍼런스",
-     "스페이스X 실적 발표 예정: AI 컴퓨팅 임대 사업의 수익성이 관전 포인트",
-     "10월 28일: 애플 제품 발표 행사",
-     "약 2주 후: 미국 중간선거",
-     "오늘 발표되는 미국 경제지표·연준 일정은 입력 자료에 없음"
+     "이번 주: 메타 실적, 엔비디아 유럽 콘퍼런스, 스페이스X 실적",
+     "다음 주: FOMC(10월 추가 인상 가능성은 약 20%로 반영, 핵심은 향후 정책 메시지)",
+     "한국은행 10월 금통위: 동결 유력, 11월 인상 전망 우세(날짜는 기사에 없음)",
+     "유가·지정학: 중동 긴장(사우디·호르무즈), 대러 제재 완화, 우크라이나 관련 정상회담 보도"
     ]
    },
    {
     "heading": "한국장 영향",
-    "body": "미국 반도체지수가 9거래일 만에 반등(+1.61%)하고 마이크론(+2.97%)·샌디스크(+5.53%)·웨스턴디지털(+6.09%) 등 메모리주가 강했던 것은, 원래 한국 메모리 반도체에 우호적인 신호입니다. 그러나 오늘(10/20) 코스피는 5733.57로 출발한 뒤 장 초반 2% 안팎 하락하며 5700선 아래로 내려갔습니다. 기관 순매도 속에 삼성전자·SK하이닉스가 함께 약세를 보였습니다(매일경제·한국경제). 앞서 '코어위브 신용 쇼크'에 코스피가 미국보다 더 크게 흔들렸다는 보도처럼, 한국 반도체주는 AI 투자 관련 신용 우려에 더 민감하게 반응하고 있습니다. 미국 반등을 그대로 따라가기보다 이번 주 빅테크 실적을 확인하려는 심리가 강한 것으로 보입니다. 증권가에서는 반등 근거를 내놓고 있습니다. KB증권은 삼성전자가 내년 메모리 생산 예정물량의 약 80%에 대해 장기공급 계약을 맺은 것으로 추정하며, 주가가 19% 빠졌지만 내년 이익 성장은 확정적이라고 평가했습니다(내년 영업이익 555조원 전망). IBK투자증권은 AI 부품 수요 확대를 근거로 삼성전기 목표가를 175만원(현재 대비 50% 상승 여력)으로 제시하고, 3분기 영업이익이 156% 급증하고 내년 이익은 4.4조원에 이를 것으로 내다봤습니다. 2차전지는 테슬라(+3.76%) 강세가 심리적으로 우호적이지만, 국내 2차전지주 관련 직접 기사는 없습니다. 자동차·부품은 미국에서 파카(-2.17%)·제뉴인파츠(-2.82%)가 약했고, 원/달러가 1333.43(-0.56%)으로 원화가 강해진 점은 수출주 환율 효과에 다소 부담이 될 수 있습니다. 조선·방산은 미국 방산 ETF(ITA)가 -0.63%로 약했지만, JP모건의 방산 투자 확대와 중동(후티)·우크라이나 관련 지정학 이슈가 이어지고 있습니다. 다만 국내 조선주와 직접 연결되는 근거는 제한적입니다. 미국 유틸리티·전력주(CEG·NRG 등)의 급락은 국내 전력기기·원전 관련주 투자심리에 부담이 될 수 있습니다.",
+    "body": "미국 반도체 반등이 한국장에는 바로 이어지지 않았습니다. 기사에 따르면 20일 코스피는 0.60% 내린 5,733에서 출발한 뒤 낙폭을 키워 장중 2%대 하락(오전 9시 13분 5634.76, -2.33%)을 보였습니다. 코스닥도 2%대 하락하며 800선을 내줬습니다. 같은 시각 외국인과 기관은 순매도, 개인은 순매수였습니다. 반도체: 미국에서는 마이크론·샌디스크·웨스턴디지털 등 메모리주가 메모리 가격 낙관론으로 강세를 보였습니다. 원래라면 삼성전자·SK하이닉스에 우호적인 재료이지만, 장 초반 삼성전자는 약세였고 SK하이닉스는 기사마다 등락이 엇갈릴 만큼 변동성이 컸습니다. 지난주 글로벌 헤지펀드의 반도체 대규모 매도가 국내 반도체 대형주 급락에도 영향을 줬다는 분석을 감안하면, 수급 부담이 해소됐는지 확인할 필요가 있습니다. 2차전지: 테슬라(+3.76%)가 올랐지만 코스닥에서는 에코프로가 4%대 하락하는 등 연결고리가 약했습니다. 자동차·수출주: 원·달러 환율이 1333.43(-0.56%, 표 기준)에서 장중 1320원대로 내려 약 2년 만의 최저 수준(원화 강세)을 보였습니다. 원화 강세는 외국인 자금 유입에는 우호적이지만 수출 기업의 원화 환산 이익에는 부담입니다. 금리: 미 10년물 5.14%와 국내 국채금리 급등(국내 요인이 크다는 분석), 한국은행의 11월 인상 전망은 성장주 밸류에이션(주가 수준)에 부담입니다. 방산: 미국 방산주 약세는 미국 국내 예산 이슈 때문이어서, 중동·우크라이나 수요를 받는 한국 방산에 직접 이어진다고 볼 근거는 기사에 없습니다. 조선·에너지: 중동 긴장으로 유가 변동성이 커지고 있지만, 조선에 미칠 직접 영향은 입력 자료로 판단하기 어렵습니다. 결론적으로 오늘 한국장은 미국 기술주 반등보다 국내 금리·외국인과 기관 매도라는 자체 요인이 더 크게 작용하고 있어, 반도체 대형주의 장중 수급 회복 여부가 관건입니다.",
     "bullets": [
-     "반도체: 미국 메모리주 강세에도 오늘 코스피 장 초반 약 2% 하락, 삼성전자·SK하이닉스 동반 약세",
-     "코어위브발 AI 신용 우려에 한국 반도체가 더 민감, 빅테크 실적 확인 심리",
-     "KB증권: 삼성전자 내년 메모리 물량 약 80% 장기계약 추정, 내년 영업이익 555조원 전망",
-     "IBK: 삼성전기 목표가 175만원, 내년 이익 4.4조원 전망",
-     "2차전지: 테슬라 +3.76%는 심리적으로 우호적(국내 직접 근거는 제한적)",
-     "자동차: 원/달러 1333.43(-0.56%)로 원화 강세, 미국 자동차 부품주 약세",
-     "조선·방산: 지정학 이슈는 지속, 미국 방산 ETF는 -0.63%",
-     "전력기기: 미국 유틸리티 급락(XLU -2.01%)이 심리적 부담 요인"
+     "코스피: 5,733(-0.60%) 출발 후 장중 2%대 하락(9시 13분 5634.76, -2.33%), 코스닥 800선 이탈",
+     "장 초반 외국인·기관 순매도, 개인 순매수",
+     "반도체: 미국 메모리주 강세에도 삼성전자 약세, SK하이닉스 등락 엇갈림 → 수급 부담 확인 필요",
+     "2차전지: 테슬라 +3.76%에도 에코프로 등 약세",
+     "원·달러: 1333.43(-0.56%), 장중 1320원대(2년 만의 최저) → 외국인 자금엔 우호적, 수출주 환산 이익엔 부담",
+     "금리: 미 10년물 5.14%, 국내 국채금리 급등, 한은 11월 인상 전망 → 성장주 부담",
+     "방산·조선: 미국 방산 약세는 미국 국내 예산 이슈로, 한국 방산에 직접 이어진다는 근거 부족"
     ]
    }
   ],
   "leaders": [
    {
-    "name": "마이크론",
+    "name": "Micron Technology",
     "ticker": "MU",
-    "comment": "거래대금 1위(231억), +2.97%(904.90). MarketWatch는 '마이크론 등 반도체주가 혹독한 매도 이후 되살아났다'고 보도했습니다. 한국 메모리 업종의 핵심 비교 종목입니다."
+    "comment": "+2.97%(904.90), S&P 500 거래대금 1위(231억 달러). 메모리 가격 낙관론 속 반도체 반등의 중심이며, 삼성전자·SK하이닉스와 비교해 보기 좋은 지표 종목입니다."
    },
    {
-    "name": "엔비디아",
-    "ticker": "NVDA",
-    "comment": "+1.38%(217.09), 거래대금 2위(213억). 월가에서 '비중확대' 의견이 유지됐고, 이번 주 유럽 콘퍼런스가 예정돼 있습니다."
-   },
-   {
-    "name": "아마존",
-    "ticker": "AMZN",
-    "comment": "+4.98%(262.45), 시가총액 대형주 중 가장 많이 오름. 월가 목표가 350달러 보도가 있었고, 경기소비재 ETF(XLY +1.78%) 강세를 이끌었습니다."
-   },
-   {
-    "name": "웨스턴디지털",
+    "name": "Western Digital",
     "ticker": "WDC",
-    "comment": "+6.09%(352.21)로 S&P500·나스닥100 상승률 1위. 샌디스크(+5.53%)·씨게이트(+3.41%)와 함께 저장장치·메모리 반등을 주도했습니다."
+    "comment": "+6.09%(352.21)로 S&P 500·나스닥 100 상승률 1위. 메모리·스토리지 강세를 이끌었습니다."
    },
    {
-    "name": "샌디스크",
+    "name": "Sandisk",
     "ticker": "SNDK",
-    "comment": "+5.53%(1371.12), 거래대금 116억. 낸드 메모리 반등을 대표하는 종목입니다."
+    "comment": "+5.53%(1371.12), 거래대금 116억 달러. 낸드(NAND) 관련주 강세를 이끌었습니다."
    },
    {
-    "name": "인텔",
+    "name": "Amazon",
+    "ticker": "AMZN",
+    "comment": "+4.98%(262.45), 거래대금 144억 달러. 자체 AI 칩·클라우드 성장 기대로 AI 기술주 반등과 경기소비재 강세를 이끌었습니다."
+   },
+   {
+    "name": "Nvidia",
+    "ticker": "NVDA",
+    "comment": "+1.38%(217.09), 거래대금 213억 달러. 메모리 가격 낙관론으로 반등했고, 이번 주 유럽 콘퍼런스를 앞두고 있습니다."
+   },
+   {
+    "name": "Intel",
     "ticker": "INTC",
-    "comment": "+2.43%(92.03). 4년간 부정적이던 JP모건 애널리스트가 제조 공정·칩 설계 개선을 이유로 부정적 의견을 철회했습니다(MarketWatch)."
+    "comment": "+2.43%(92.03). J.P.모건 애널리스트가 제조·설계 개선을 이유로 4년간 유지한 부정적 의견을 철회하면서 장 초반 반도체 반등을 이끌었습니다."
    },
    {
-    "name": "테슬라",
+    "name": "Tesla, Inc.",
     "ticker": "TSLA",
-    "comment": "+3.76%(368.06), 거래대금 142억. 경기소비재 강세에 기여했고, 국내 2차전지 투자심리에 우호적입니다."
+    "comment": "+3.76%(368.06), 거래대금 142억 달러. 경기소비재 강세를 함께 이끌었지만 한국 2차전지주로 온기가 퍼지지는 않았습니다."
    },
    {
-    "name": "팔란티어",
+    "name": "Palantir Technologies",
     "ticker": "PLTR",
-    "comment": "+4.36%(194.15). 데이터독(+5.36%)·트윌리오(+5.29%)와 함께 소프트웨어·AI주 반등을 이끌었습니다."
+    "comment": "+4.36%(194.15). AI 소프트웨어주 반등에 동참했습니다."
    },
    {
-    "name": "코어위브",
-    "ticker": "CRWV",
-    "comment": "골드만삭스가 투자의견을 '중립'→'매수'로 올리고(목표가는 하향) '급락이 과도하며 73% 상승 여력'이 있다고 평가했습니다. AI 신용불안 완화의 계기로 거론됐습니다(입력 자료에 주가 데이터는 없음)."
-   },
-   {
-    "name": "컨스텔레이션에너지",
+    "name": "Constellation Energy",
     "ticker": "CEG",
-    "comment": "-3.01%(263.19). NRG(-4.21%)·에버소스(-3.55%) 등과 함께 유틸리티 급락(XLU -2.01%)을 대표했습니다. 금리 상승과 전력주에서 반도체로의 자금 이동 가능성이 거론됩니다(추정)."
+    "comment": "-3.01%(263.19). 금리 상승 속에서 유틸리티·전력주 동반 약세(XLU -2.01%)를 대표했습니다."
+   },
+   {
+    "name": "Honeywell Aerospace",
+    "ticker": "HONA",
+    "comment": "-3.33%(162.49). 중간선거에서 민주당이 압승하면 국방예산 증액이 불투명해질 수 있다는 우려로 방산·항공우주 약세와 같은 방향으로 움직였습니다."
    }
   ],
   "events_today": [
-   "이번 주 메타 실적 발표(구체 날짜는 기사에 없음)",
+   "이번 주 메타 실적 발표 예정: 빅테크 실적이 반등 지속 여부의 관건",
    "이번 주 엔비디아 유럽 콘퍼런스",
-   "스페이스X 실적 발표 예정(AI 컴퓨팅 임대 사업 수익성 주목)",
-   "10월 28일 애플 제품 발표 행사('Pro and tell', 터치스크린 노트북 예상)",
-   "약 2주 후 미국 중간선거"
+   "스페이스X 실적 발표 예정(AI 컴퓨팅 임대 수익성 주목)",
+   "다음 주 FOMC: 10월 추가 인상 가능성은 약 20%로 반영, 향후 정책 메시지에 주목",
+   "한국은행 10월 기준금리 결정: 동결 유력, 11월 인상 전망 우세(날짜는 기사에 없음)",
+   "중동 긴장·대러 제재 완화에 따른 유가 변동성"
   ],
   "headlines": [
    {
-    "text": "필라델피아 반도체지수 9거래일 만에 반등(+1.61%)…저가매수에 나스닥 +1.11%, VIX -7.75%로 AI 신용불안 진정",
+    "text": "필라델피아 반도체지수가 8일 연속 하락을 끊고 +1.61%, 나스닥은 +1.11% 상승. 다만 S&P 500 하락 종목이 324개로 상승(176개)보다 많은 좁은 반등",
     "importance": 5
    },
    {
-    "text": "S&P500 +0.41%에도 324개 종목 하락…10년물 5.14%에 유틸리티(-2.01%)·부동산(-1.16%) 약세, 기술·소비재로 매수 쏠림",
+    "text": "CPI·PPI 서프라이즈에 미 10년물 5.14%로 상승. 유틸리티(-2.01%)·부동산(-1.16%) 약세, 다음 주 FOMC 메시지가 관건",
     "importance": 4
    },
    {
-    "text": "미국 기술주 반등에도 코스피 장 초반 약 2% 하락해 5700선 아래로…삼성전자·SK하이닉스 동반 약세",
+    "text": "미국 반도체 반등에도 코스피는 장 초반 2%대 급락. 외국인·기관 매도에 원·달러는 1320원대로 하락",
     "importance": 4
    }
   ],
   "data_caveats": [
-   "무료 데이터 소스에는 기관·개인·외국인 등 투자 주체별 수급 데이터가 없습니다.",
-   "구성종목 거래대금은 추정치입니다.",
-   "오늘 발표되는 미국 경제지표·연준 일정은 입력 자료에 없어 따로 적지 않았습니다.",
-   "메타·스페이스X 실적 발표의 정확한 날짜는 기사에 나와 있지 않습니다.",
-   "중국 3분기 GDP는 기사 제목의 4.5%를 썼습니다(기사 URL에는 4.6%로 표기돼 있어 확인이 필요합니다).",
-   "미국 에너지 ETF 강세 기사(매일경제)는 이번 세션 이전 기준이며, 이번 세션 XLE는 -0.64%였습니다.",
-   "코어위브는 입력 시세표에 없어 주가 등락률을 적지 않았습니다.",
-   "코스피 수치는 장 초반 기사 기준이며, 마감 값과 다를 수 있습니다."
+   "무료 데이터 소스에는 미국 시장의 기관·개인 매매 동향이 없음",
+   "구성종목 거래대금은 종가와 거래량으로 계산한 추정치",
+   "섹터 ETF(XLY +1.78%)와 기사 속 S&P 500 경기소비재 업종 상승률(2.7%)은 계산 기준이 달라 수치가 다름",
+   "한국장 수치(코스피·코스닥·환율·외국인/기관 순매도)는 20일 장 초반 기사 기준이며 마감 값이 아님",
+   "SK하이닉스 장 초반 등락은 기사마다 상승·급락으로 엇갈림",
+   "하락 상위 개별 종목(MOS, NRG, AMP 등)의 하락 이유는 입력 기사에 없음. 유틸리티 약세를 금리 탓으로 본 것은 추정",
+   "오늘(10/20) 미국 경제지표·실적의 구체적 일정은 입력 자료에 없음"
   ],
   "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
  },
  "articles": [
+  {
+   "title": "필리 반도체지수 드디어 '반등', 월가 공포지수는 '하락'",
+   "url": "https://economist.co.kr/article/view/ecn202610200005",
+   "source": "네이버 AI 관련주",
+   "publisher": "economist.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:21"
+  },
+  {
+   "title": "나스닥100, AI 충격 딛고 반등… 코어위브 신용 우려는 여전",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172354",
+   "source": "네이버 AI 관련주",
+   "publisher": "조선일보",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:20"
+  },
+  {
+   "title": "‘기술주 저가매수’에 반등…나스닥 1% 상승 [뉴욕증시]",
+   "url": "https://www.mk.co.kr/article/12180259",
+   "source": "네이버 물가 지표",
+   "publisher": "매일경제",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-20 09:04"
+  },
+  {
+   "title": "뉴욕증시, 기술주 반등에 혼조세⋯엔비디아 1%대, 마이크론 2%대 상승-아...",
+   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445954",
+   "source": "네이버 연준 금리",
+   "publisher": "econonews.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-20 08:58"
+  },
+  {
+   "title": "AI 반도체 반등에 나스닥 1.11%↑... 신용불안 속 뉴욕증시 혼조 [뉴욕증...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2007812",
+   "source": "네이버 연준 금리",
+   "publisher": "m-i.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-20 08:26"
+  },
+  {
+   "title": "[굿모닝! 글로벌 뉴욕증시] 반도체 8일 하락 끊었다…AI 저가매수에 나...",
+   "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302977",
+   "source": "네이버 연준 금리",
+   "publisher": "newsquest.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-20 08:20"
+  },
+  {
+   "title": "Nasdaq Gains 1.11% on Semiconductor Rebound, AI Debt Worries Persist",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnpVbThVVXZqY2NCeFBMaGJWREVVWGR6Y2xLUG8xcFNTeGVIS0NESWl1UlpwNDRrZGk2NUNxaGpsN2pfVG4wb1gwaVVlbFFFUjdqZW5QTHdiVE04MFl0MDFNSWF0MWFlRXRGOUVOUU9GTXRDczFjcG1aUDZGbVoyWkRWT0xOanhReWxQVzNB?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "조선일보",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 08:19"
+  },
+  {
+   "title": "반도체·AI주 '저가 매수'에 급반등…나스닥 1% 넘게 뛰었다",
+   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66056",
+   "source": "네이버 연준 금리",
+   "publisher": "newsroad.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-20 08:04"
+  },
+  {
+   "title": "[오늘의 글로벌마켓] 뉴욕증시, AI 및 반도체주 반등...3대지수 혼조세",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85S3cwY0kzOUw4cEFNUUhWTHJkeVZLcWROZXR2T3NnOUFiMG9DdUpzbjc0UkNxc21vZFNWVmVRbTlVYkFOc3A1aGI1NHBEaThRU3lWTEQ1YkRXbjFuZV9mTmdFMUtFaGJxX3Q1RFFrSWI?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "오피니언뉴스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 07:29"
+  },
   {
    "title": "저가매수 유입에 반도체·AI주 상승…나스닥 1.11%↑ [뉴욕증시 브리핑]",
    "url": "https://www.hankyung.com/article/2026102019676",
@@ -194,13 +273,85 @@
    "published_at_kst": "2026-10-20 07:08"
   },
   {
-   "title": "Micron and other chip stocks spring back to life after bruising selloff",
-   "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-   "source": "MarketWatch Top Stories",
-   "publisher": null,
+   "title": "AI Buying Returns to Tech Stocks as Philadelphia Semiconductor Index Ends Eight-Day Losing Streak; Triple-Leveraged Chip ETF Jumps Over 5% in a Single Session",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HdGhDRmMtUnJMTFpVTmtLVFdjaTBSVVpQWFdSdVd2RVJsbk56bTlPSmlmMmlKTkN1WjlDTF92d3RGN21URTZhM3pVSV9fUU12YVJRb1o4RG5JZmtka01YSHN3M0NOd3E5bWVtT0Z3NTB3cG5YQ3c?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "BigGo Finance",
    "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 06:06"
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 07:05"
+  },
+  {
+   "title": "AI stocks lead a rebound on Wall Street as European markets drop following protests",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUXJyT3R3SVJ0dUdUaUJyVTRIU1NKNTd2TkNYMmp1LVBoNnk4TzltM19XVGtVX29PNGJWTjVhYWlOVzRYX09NLWZQMS1vRXhKNjZDVmE5Rzgyd0FIT1JHVE8yY0taTDBTZHBZeXlYTGNpSU5kdElwakhKRGotRzBzd3J5OVQ2VjNmNnk5MWVFYWZ6YXNvNVFOT2FzbHplZGxsczJYc1pOSWtfamVaRi1PaHJxWmhhQ21sMk5UYVRva0szVWwtSkdkeGJURkZkUGVMcDRuaVVtdkc?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "BNN Bloomberg",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 05:27"
+  },
+  {
+   "title": "Semiconductor rebound lifts Nasdaq as investors favor stronger AI plays - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUJuZ3B3ampKaTRUNlY2QXExQ1pvaHNhdjltVHphODczV0luOGlhS3VlUjlQUHE1Q3R4aTNMakVUa3hlQk9IUGNwSEhrU21KbUhqZHhXdUw2eHd2czg5UWhNTXc4QjNtSy16M3ZnSlQ0eWVHQ1Qzd0RhdjVGNmZuaWFaQ3VyQm5w0gGcAUFVX3lxTFAzQk5PSzYxM3MzSC1CMkwxWGtVQlpjYTctdThQYl80b01aZFJycEdfc2FhLUp5SW8zU0pkU1VoSHdycnliSE1pNUtsX19UYWFCTDlvYTRjNk5RdThWRTV1T2JkT0xzZTYzc19DYkFqZnliOEduQk9iaUc5X3ZSdkViS0FrTGtHZy1ENWxBaFpsZWVfZVh4R2pCNGNOVA?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Chosunbiz",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 05:27"
+  },
+  {
+   "title": "뉴욕증시, AI·반도체주 반등에 상승…나스닥 1.18%↑",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91214",
+   "source": "네이버 유럽 증시",
+   "publisher": "thefairnews.co.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 00:00"
+  },
+  {
+   "title": "오픈AI, 앤트로픽 IPO 앞서 300억달러 조달 속도전",
+   "url": "https://www.ddaily.co.kr/page/view/2026102009372556062",
+   "source": "네이버 반도체 주가",
+   "publisher": "ddaily.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:44"
+  },
+  {
+   "title": "아마존 5% 급등…자체 AI칩·클라우드 성장 기대",
+   "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200205",
+   "source": "네이버 AI 관련주",
+   "publisher": "mstoday.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:42"
+  },
+  {
+   "title": "U.S. defense stocks plunged as the market began pricing in a Democratic sweep of both chambers in the midterm elections.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0FOMHhDZVV5ckx0VHFrNWZrUmx4SXppdW83TlBHZFBnVl9zZ0RPUVhRU19sclQtZEUxbTVZSEJOZnk3S0laYlItLUVydTZtTHpRNXJNS3ZqazA0OElzVDZJZEtJVFNPQWRrOWNUdXJkNGFjeklWXzhaMlF6NEl5Mm9nakluVnJFalA5NFlSVWc4U2pOWUhFbVNRWlhXaWd1?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "富途牛牛",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:32"
+  },
+  {
+   "title": "美 방산주, 민주당 중간선거 승리 우려에 급락…국방예산 증액 불투명",
+   "url": "https://www.g-enews.com/view.php?ud=2026102008145620929a1f309431_1",
+   "source": "네이버 방산주",
+   "publisher": "g-enews.com",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 08:18"
+  },
+  {
+   "title": "뉴욕증시, AI주 반등에 혼조 마감⋯WTI, 중동 불안에 상승 [글로벌마켓 ...",
+   "url": "https://www.etoday.co.kr/news/view/2637642",
+   "source": "네이버 연준 금리",
+   "publisher": "etoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-20 08:14"
   },
   {
    "title": "목표주가는 내리면서 ‘매수’ 콜 외친 월가... 코어위브 발 AI 투심은 살아날까?",
@@ -221,6 +372,15 @@
    "published_at_kst": "2026-10-20 07:56"
   },
   {
+   "title": "Nvidia NVDA Stock Rebounds as Memory Price Optimism Offsets Semiconductor Sell-Off",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3FqUF94VDcxRkdXTGtTZXpCdTlBVXpQZGxOU3poTy1SRWlHT1FuTmRLa3k1LTZZaXhPV2VuZ0QwMHB5cE5ZR3hoYVpxUUNqTWhVVm8yYWtvYUpGRkJXazduTXg2TjVjNm5zaEdldXR0Q2F5aXBLX3I2TE45Q3E2M3BkVGMtRXQ2UjJCbk11YnFEVGNfYVdwUWlSZi0ta2tVTmZyampoVS1ZSlZtVno3eXVsSW5MM2l1OTVMUzhGdXhRMTA?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "FXLeaders",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 07:38"
+  },
+  {
    "title": "필리 지수 9일만에 반등… 일단 잦아드는 AI 신용불안 [오늘 아침, 당신이 알아야 할 7가지]",
    "url": "https://www.hankyung.com/article/202610202009i",
    "source": "한국경제 증권",
@@ -228,6 +388,42 @@
    "lang": "ko",
    "category": "KR",
    "published_at_kst": "2026-10-20 07:37"
+  },
+  {
+   "title": "[뉴욕증시] AI·반도체주 '불안한 반등'···국채↓·유가↑·'뇌관' 코...",
+   "url": "https://www.seoulfn.com/news/articleView.html?idxno=640458",
+   "source": "네이버 유럽 증시",
+   "publisher": "seoulfn.com",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 06:59"
+  },
+  {
+   "title": "Micron and other chip stocks spring back to life after bruising selloff",
+   "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-20 06:06"
+  },
+  {
+   "title": "기술주 반등에도 美 방산주는 하락, 왜?…“민주당 이기면 국방비 증액...",
+   "url": "https://www.chosun.com/economy/int_economy/2026/10/20/TRRNWJL4SFAQ7K56RRM7HHEKNM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "source": "네이버 방산주",
+   "publisher": "조선일보",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 06:06"
+  },
+  {
+   "title": "Defense stocks plummet as investors worry possible Dem midterms win could thwart Trump's spending plans",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHd1bFZMdmNMNVpXeWRRUjRBaWZseW9TS1dCRzBPY2dqSzkwV2pacE9vcVFUeUJzb0MxYUpjdW9GUGswd1FWV3dMSVEwOEZ6RTRUaDI5cWVqbFJfWHl4bHdKaXJCWWRJdlpXbFk1Q2NsQUhaR3hybC1PTW5jZXJLM2tqcVEyUE1XeS1jTXdPT2ZxcHdfYmdTRzdDVkdFNG9ubmNaVTJBRGRXRjdfSFh1c2QyVE9rcEhQUXhCekQ4NFlmNDZkZGRndHNjRXlxd29BWmk2ZU5Fd1VSQQ?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "New York Post",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 06:02"
   },
   {
    "title": "SpaceX earnings will be all about AI — for better or for worse",
@@ -248,49 +444,85 @@
    "published_at_kst": "2026-10-20 06:00"
   },
   {
-   "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-   "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-   "source": "CNBC Top News",
-   "publisher": null,
+   "title": "US Defense Stocks Plunge 16% Ahead of Midterms on Fears Trump's Military Spending Boost Could Stall",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vdXcxUFVleEQ4YzVsY3ZsWnJoYTVnNmUzdG1YZUxLSUJZQjZQRVEza0g2aWZ2V3p3ZFZNZ29UZ1dlbXhFR2NpWnZCLUVPY00xNTQxdFBFNHdrN0Mxb0xkWjQxb19UbzMyMnNVaWlVQUM4UXQzeEE?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "BigGo Finance",
    "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 04:46"
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 05:55"
   },
   {
-   "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
-   "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
-   "source": "CNBC Top News",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 04:13"
-  },
-  {
-   "title": "골드만삭스 \"코어위브 급락 과도…73% 상승 여력\" [월가 업&다운]",
-   "url": "https://www.hankyung.com/article/202610201849i",
-   "source": "한국경제 증권",
-   "publisher": null,
+   "title": "전쟁에도 美방산주 16% 급락…중간선거 때문?",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=01541606645614888&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "네이버 방산주",
+   "publisher": "이데일리",
    "lang": "ko",
-   "category": "KR",
-   "published_at_kst": "2026-10-20 03:35"
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 04:43"
+  },
+  {
+   "title": "'민주당 중간선거 승리' 전망에 미 방산주 날벼락",
+   "url": "https://www.fnnews.com/news/202610200401350280",
+   "source": "네이버 방산주",
+   "publisher": "파이낸셜뉴스",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 04:31"
+  },
+  {
+   "title": "U.S. defense stocks rocked by prospect of Democratic midterm victory",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tVGNjN2RnYTZSdDhpTmo0YzZldnVzejF4OWpoSjg1eV85Tlg5Q2kzLW5YSFdwa2ZJWGVwak15UkhDSExzT2lWa1lCZDIwZjRqdUpSdjJMd0Q?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "파이낸셜뉴스",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 04:30"
   },
   {
    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
    "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-   "source": "CNBC Finance",
+   "source": "CNBC Top News",
    "publisher": null,
    "lang": "en",
    "category": "US",
    "published_at_kst": "2026-10-20 01:42"
   },
   {
-   "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-   "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-   "source": "CNBC Finance",
-   "publisher": null,
+   "title": "뉴욕증시, 기술주 저가 매수에 혼조 출발",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440016",
+   "source": "네이버 유럽 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-19 23:04"
+  },
+  {
+   "title": "Intel leads chip stocks higher as investors jump back into AI trade",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEt3a3NfQVIwNnB5bDRyMWtCdU1fVjN6YXlGOFhwVF9VdWhhVW5aSi1lTzZPSVdFVUhrOFJJWXJpM29yOEVXVWwzWVRDalJHREZqMkVsS0prYjJtYXROOGh0ejdwY2JzclFTNk1EVE9BSVdWejd6RnBJa2Z6azJFdEhYdS1UMWdmSGFKYzBtLVJ5RlYxcWQxRUZzdllGUXNibUNCNnh0VmlSdmZWNjA2QjVOQ3VuaWFwTE8wX0ZiYVRpQQ?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Yahoo Finance",
    "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-19 21:34"
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 22:57"
+  },
+  {
+   "title": "Tech rebounds as semiconductor stocks jump: AlphaCheck",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzVfTVVqSjM2ZUYxRGtSSlY1cHhJVmtjb3YwLWxJVG5hWmZiSU9vd1FCczdzU1VNWEVLNDB1OG1JaU8wM1ZMOER4QU52czJtSWtGYmwwTG1NcDRObWNUNXZHaHM3elVoOEN1LTNMcGpPcFEzeFV0Q2ZQdFE2eDVYVzZ6QlBaRjNmQ09uYzBJQkYwTjNDdlBna2U2c1BJNnE1MHAxR1ZNd2pUdExEOUJv?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 22:50"
+  },
+  {
+   "title": "US defence stocks tumble as investors bet on Democratic election sweep",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTA4clpLQkN0ZDkxX1dYY0ItRUZKNEcwblhqbmhjNGt4VjFweWlzQXFBU3REdk1lODJfeFRTY1RjV2laT2xNa2NkQXdIem10WWloM0JfMjk2WmRzYm5zZkdRMmdMY2xSVzY0QlM1MUlLak1oM1RheHppQnFySnRYanFmR0U?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "Financial Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 22:04"
   },
   {
    "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
@@ -302,184 +534,112 @@
    "published_at_kst": "2026-10-19 21:33"
   },
   {
-   "title": "\"하루 만에 11% 올랐다\"…美 선거 앞두고 들썩이는 종목 [분석+]",
-   "url": "https://www.hankyung.com/article/2026101911456",
-   "source": "한국경제 증권",
-   "publisher": null,
+   "title": "뉴욕증시 프리뷰, 주가 선물 혼조...AI주 저가 매수에 나스닥 선물 1% 상...",
+   "url": "https://www.newspim.com/news/view/20261019001484",
+   "source": "네이버 유럽 증시",
+   "publisher": "뉴스핌",
    "lang": "ko",
-   "category": "KR",
-   "published_at_kst": "2026-10-20 06:30"
+   "category": "EU",
+   "published_at_kst": "2026-10-19 21:21"
   },
   {
-   "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
-   "url": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
-   "source": "MarketWatch Top Stories",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 06:00"
-  },
-  {
-   "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-   "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-   "source": "CNBC Top News",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 05:54"
-  },
-  {
-   "title": "아마존 목표가 350달러…엔비디아도 비중확대 유지 [월가 업&다운]",
-   "url": "https://www.hankyung.com/article/202610201850i",
-   "source": "한국경제 증권",
-   "publisher": null,
+   "title": "10월 기준금리 동결 유력…전문가 86% 11월 인상 전망",
+   "url": "http://www.issuenbiz.com/news/articleView.html?idxno=80777",
+   "source": "네이버 국제유가",
+   "publisher": "issuenbiz.com",
    "lang": "ko",
-   "category": "KR",
-   "published_at_kst": "2026-10-20 03:42"
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:14"
   },
   {
-   "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-   "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-   "source": "CNBC Top News",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 01:58"
-  },
-  {
-   "title": "\"9300 간다\" vs \"6700이 적정\"…내년 전망 엇갈린 이유 [한경 프리미엄9 TODAY]",
-   "url": "https://www.hankyung.com/article/2026101915691",
-   "source": "한국경제 증권",
-   "publisher": null,
+   "title": "엔화, 국제 유가 상승세에 1달러=158엔대 중반 하락 출발",
+   "url": "https://www.newsis.com/view/NISX20261020_0003832822",
+   "source": "네이버 물가 지표",
+   "publisher": "뉴시스",
    "lang": "ko",
-   "category": "KR",
-   "published_at_kst": "2026-10-19 17:58"
-  },
-  {
-   "title": "美중간선거 임박…민주당 압승땐 전력·헬스케어 수혜",
-   "url": "https://www.mk.co.kr/news/stock/12179892",
-   "source": "매일경제 증권",
-   "publisher": null,
-   "lang": "ko",
-   "category": "KR",
-   "published_at_kst": "2026-10-19 17:45"
-  },
-  {
-   "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
-   "url": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
-   "source": "MarketWatch Top Stories",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 06:58"
-  },
-  {
-   "title": "When should you dump your target-date funds?",
-   "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-   "source": "MarketWatch Top Stories",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 06:37"
-  },
-  {
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
-   "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "source": "MarketWatch Top Stories",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 06:30"
-  },
-  {
-   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-   "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-   "source": "MarketWatch Top Stories",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 06:15"
-  },
-  {
-   "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
-   "url": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-   "source": "MarketWatch Top Stories",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 05:33"
-  },
-  {
-   "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
-   "url": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
-   "source": "CNBC Top News",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 01:17"
-  },
-  {
-   "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
-   "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
-   "source": "CNBC Top News",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-19 21:58"
-  },
-  {
-   "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-   "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-   "source": "CNBC Top News",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-19 13:36"
-  },
-  {
-   "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
-   "url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
-   "source": "MarketWatch Top Stories",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 06:36"
-  },
-  {
-   "title": "뛰는 유가·정유마진에… 美에너지 ETF '훨훨'",
-   "url": "https://www.mk.co.kr/news/stock/12179893",
-   "source": "매일경제 증권",
-   "publisher": null,
-   "lang": "ko",
-   "category": "KR",
-   "published_at_kst": "2026-10-19 17:45"
-  },
-  {
-   "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-   "source": "ECB 보도자료",
-   "publisher": null,
-   "lang": "en",
    "category": "MACRO",
-   "published_at_kst": "2026-10-19 15:00"
+   "published_at_kst": "2026-10-20 09:43"
   },
   {
-   "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-   "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-   "source": "CNBC Top News",
-   "publisher": null,
-   "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 06:00"
+   "title": "Brent↓, WTI↑…10월19일 국제유가, 혼조세",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229083",
+   "source": "네이버 국제유가",
+   "publisher": "energy-news.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:42"
   },
   {
-   "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-   "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-   "source": "CNBC Top News",
-   "publisher": null,
+   "title": "환율, 1320원대로 추가 하락…달러 강세에도 원화 상승세 지속",
+   "url": "https://www.news2day.co.kr/article/20261020500074",
+   "source": "네이버 원달러 환율",
+   "publisher": "news2day.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-20 09:40"
+  },
+  {
+   "title": "[신윤우의 외환분석] 아래로 쏠리는 시선",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440073",
+   "source": "네이버 원달러 환율",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-20 09:40"
+  },
+  {
+   "title": "원·달러 환율, 1.3원 내린 1329원",
+   "url": "https://biz.chosun.com/policy/policy_sub/2026/10/20/75GPO3SOKJFFRAMR2N3DXZNUAM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "네이버 원달러 환율",
+   "publisher": "조선비즈",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-20 09:38"
+  },
+  {
+   "title": "원·달러 환율 또 마이웨이 장중 1325원대 진입 ‘2년만 최저’",
+   "url": "https://www.etoday.co.kr/news/view/2637740",
+   "source": "네이버 국제유가",
+   "publisher": "etoday.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:34"
+  },
+  {
+   "title": "미국 탓인 줄 알았는데…한국 국채금리 급등 ‘국내 요인‘이 주범",
+   "url": "https://www.kmib.co.kr/article/20261020500111",
+   "source": "네이버 외국인 순매수",
+   "publisher": "국민일보",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-20 09:28"
+  },
+  {
+   "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZzlrRVp3SjY0Qjc1ejhzdHcxQWFQejJLS2hfZzJocWhnV3AtUi1OM1NGX2s2b0NjQkV4NnpYZUxTOGJTRVBlSEM2blAzMXRhbjNydFRjVnYyNGM4a25waTR1aGVTVWt1MXlKOURybDlzS0kxQXVrbUNlQTlRN3lxa3YxMEZ5djByOUhzTlg4MUZUYTRMT1V6MzBYODY3d2FhSk5zRkxMdWpocU1KYTV0TUVLMUtHcWZHbkJWVHVHc2NIRGFwQ1F2c0x3?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
    "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 04:37"
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 07:19"
+  },
+  {
+   "title": "Oil Prices Fall as Donald Trump’s Russia Sanctions Relief Meets Hormuz Crisis",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNai10blFhUm1aak5sLXRzNzl0SXJIN2VEOGFzVmVYUmlBMjRpbDlhVkRlX0ZiWUdQYkFVc3E0WWxKNVM3OFVhaXg4ejdYYmNDQmFKZjQ0OTJabUhfTlZRRFFVN3lmRWVOUXhhQXNuT2hUMHFtczZTYkZRMWlUbTE3VzFEUTVfNlBtSW9UbUZB?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 05:05"
+  },
+  {
+   "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 04:11"
   },
   {
    "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
@@ -491,6 +651,69 @@
    "published_at_kst": "2026-10-19 19:36"
   },
   {
+   "title": "AI 투자비 회수 우려에 한일 증시 동반 하락…유가 내리자 美 선물 반등",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03011046645614560&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "네이버 일본 증시",
+   "publisher": "이데일리",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 11:18"
+  },
+  {
+   "title": "Japan, South Korea Stocks Weaken in Early Trading; Kospi Drops Over 1%, Nikkei 225 Falls Over 1.7%, SoftBank Drops Over 4%",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFlYZGwtS2ZKcFRoTkRrWUstTmVldVZ4bmRqanFYMzZjY2o0cnB2OVRCRWZOS1FjRU5iUmtHbXFBT3Nkc3o0bEFCZVQ1Zmp5RV8wd0pqbVJqZlgtX29nNUhmNmdZOVJVMlBOYmxXNk12UzhmTGhGRTNSQmZJeF9vTzdSa1JDbDZvOXJpM3RLNWt2WnlmUUotQ3ZLWS1yQ1NwX1BFQk9Md2UtZ3o3NC0zVGlseGViZVctRFh0aXcxbzVteDRDSlRwa0xET010cmlBZFRDWjdn?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "TradingKey",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 09:38"
+  },
+  {
+   "title": "WP \"美, 우크라 패트리엇 미사일 확보에 제동…방공망 비상\"",
+   "url": "https://www.news1.kr/world/usa-canada/6325411",
+   "source": "네이버 국제유가",
+   "publisher": "뉴스1",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:47"
+  },
+  {
+   "title": "\"글로벌 헤지펀드, 지난 주 기술주 역대급으로 팔아 치워\"...골드만삭스...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=2026102009303245122aaae0046f_30",
+   "source": "네이버 반도체 주가",
+   "publisher": "beyondpost.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:36"
+  },
+  {
+   "title": "장 초반 흔들리는 반도체株⋯코스피 2%대 '급락'",
+   "url": "http://www.inews24.com/view/2016788",
+   "source": "네이버 외국인 순매수",
+   "publisher": "inews24.com",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-20 09:49"
+  },
+  {
+   "title": "美 반도체주 반등은 남의 일?···코스피 5630선 밀리고 코스닥도 '털썩...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=156907",
+   "source": "네이버 코스피",
+   "publisher": "smartbizn.com",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-20 09:48"
+  },
+  {
+   "title": "코스피, 중동 긴장·美 금리 상승에 2%대 하락...5640선",
+   "url": "https://www.greened.kr/news/articleView.html?idxno=352491",
+   "source": "네이버 미국 기술주",
+   "publisher": "greened.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-20 09:44"
+  },
+  {
    "title": "간밤 뉴욕증시 올랐길래 기대했는데…코스피 장 초반 2% 하락이라니",
    "url": "https://www.mk.co.kr/news/stock/12180302",
    "source": "매일경제 증권",
@@ -500,67 +723,40 @@
    "published_at_kst": "2026-10-20 09:40"
   },
   {
-   "title": "美 기술주 반등도 소용 없네…코스피, 다시 5700선 아래로",
-   "url": "https://www.hankyung.com/article/2026102023486",
-   "source": "한국경제 증권",
-   "publisher": null,
+   "title": "美 기술주 반등에도 삼전닉스 ‘글쎄’…코스피 2%대 약세 [시황]",
+   "url": "https://www.dailian.co.kr/news/view/1703478/?sc=Naver",
+   "source": "네이버 코스닥",
+   "publisher": "dailian.co.kr",
    "lang": "ko",
    "category": "KR",
-   "published_at_kst": "2026-10-20 09:11"
+   "published_at_kst": "2026-10-20 09:40"
   },
   {
-   "title": "'코어위브 신용 쇼크' 더 세게 맞은 코스피",
-   "url": "https://www.hankyung.com/article/2026101914781",
-   "source": "한국경제 증권",
-   "publisher": null,
+   "title": "[마켓펄스] 美 기술주 반등에도 코스피 '약세'...삼전닉스 동반 하락",
+   "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130189",
+   "source": "네이버 코스닥",
+   "publisher": "ntoday.co.kr",
    "lang": "ko",
    "category": "KR",
-   "published_at_kst": "2026-10-19 17:58"
+   "published_at_kst": "2026-10-20 09:40"
   },
   {
-   "title": "삼성전자 주가 19% 떨어졌는데…KB증권 “내년 이익성장 이미 확보”",
-   "url": "https://www.mk.co.kr/news/stock/12180252",
-   "source": "매일경제 증권",
-   "publisher": null,
+   "title": "외인·기관 매도에 반도체까지 휘청… 코스피 2%대 하락",
+   "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729549",
+   "source": "네이버 코스닥",
+   "publisher": "the-biz.co.kr",
    "lang": "ko",
    "category": "KR",
-   "published_at_kst": "2026-10-20 08:59"
+   "published_at_kst": "2026-10-20 09:40"
   },
   {
-   "title": "“실적개선 속도, 주가가 못따라갑니다”…삼성전기 목표가 175만원 [오늘 나온 보고서]",
-   "url": "https://www.mk.co.kr/news/stock/12180245",
-   "source": "매일경제 증권",
-   "publisher": null,
+   "title": "코스피 하락 출발...SK하이닉스 장중 5% 급락",
+   "url": "https://www.ytn.co.kr/_ln/0102_202610200939521924",
+   "source": "네이버 코스피",
+   "publisher": "YTN",
    "lang": "ko",
    "category": "KR",
-   "published_at_kst": "2026-10-20 08:52"
-  },
-  {
-   "title": "삼전닉스 개미들 잠 못 드는데…\"지금이 기회\" 깜짝 전망 [종목+]",
-   "url": "https://www.hankyung.com/article/2026102021526",
-   "source": "한국경제 증권",
-   "publisher": null,
-   "lang": "ko",
-   "category": "KR",
-   "published_at_kst": "2026-10-20 08:45"
-  },
-  {
-   "title": "\"삼성전자, 내년 영업익 555조원 전망…성장 동력 흔들리지 않아\"-KB",
-   "url": "https://www.hankyung.com/article/2026102020576",
-   "source": "한국경제 증권",
-   "publisher": null,
-   "lang": "ko",
-   "category": "KR",
-   "published_at_kst": "2026-10-20 07:58"
-  },
-  {
-   "title": "\"삼성전기, AI 부품 공급 빠듯…내년 영업익 4.4조 전망\"-IBK",
-   "url": "https://www.hankyung.com/article/2026102020526",
-   "source": "한국경제 증권",
-   "publisher": null,
-   "lang": "ko",
-   "category": "KR",
-   "published_at_kst": "2026-10-20 07:55"
+   "published_at_kst": "2026-10-20 09:39"
   }
  ],
  "thebell": [],

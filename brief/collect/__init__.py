@@ -9,6 +9,7 @@ from brief.config import ADAPTER_TYPES
 
 from .base import Article, SourceResult
 from .google_news import GoogleNewsAdapter
+from .naver import NaverNewsAdapter
 from .rss import RssAdapter
 
 logger = logging.getLogger(__name__)
@@ -16,6 +17,7 @@ logger = logging.getLogger(__name__)
 _ADAPTER_REGISTRY: dict[str, type] = {
     "rss": RssAdapter,
     "google_news": GoogleNewsAdapter,
+    "naver_news": NaverNewsAdapter,
 }
 
 
@@ -47,6 +49,10 @@ def collect_all(
     defaults = cfg.get("defaults", {})
     if adapters is None:
         adapters = [_build_adapter(s, defaults) for s in cfg.get("sources", [])]
+    skipped = [_adapter_name(a) for a in adapters if getattr(a, "enabled", True) is False]
+    if skipped:  # 키 없는 소스(네이버)는 실패가 아니라 생략
+        logger.warning("sources skipped (no API key): %d — %s", len(skipped), ", ".join(skipped))
+        adapters = [a for a in adapters if getattr(a, "enabled", True) is not False]
 
     results: list[SourceResult] = []
     with ThreadPoolExecutor(max_workers=max_workers) as executor:

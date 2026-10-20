@@ -1,10 +1,49 @@
-# 소스 정의 — PLAN.md §3(v2.1) + §11.3(v4). type은 rss / google_news 만 허용(페이지 크롤링 없음).
+# 소스 정의 — PLAN.md §3(v2.1) + §11.3(v4). type은 rss / google_news / naver_news 만 허용(페이지 크롤링 없음).
 # tz: pubDate에 시간대가 없을 때 가정할 시간대. category: US / KR / MACRO / EU / CN / GLOBAL.
 # required: 매 실행 반드시 시도·누락 시 배너 명시. 2026-09-17 프로브: ECB·BoE OK, BLS·IMF 403, 미 재무부 타임아웃(제외).
 defaults:
   timeout_s: 15
   retries: 2
   user_agent: "MarketMorningBrief/0.1 (+https://github.com/holymolygwakamoly/market-morning-brief; RSS reader; contact via repo issues)"
+  naver_min_interval_s: 0.5   # 네이버 API HUB 요청 간격(전체 공유)
+  naver_max_pages: 4          # 검색어당 최대 페이지(100건/쪽, 최신순) — 수집 윈도 안 기사가 나올 때까지
+  # 네이버 결과엔 매체명이 없어 링크 도메인으로 붙임(없으면 도메인 그대로)
+  naver_media_domains:
+    yna.co.kr: 연합뉴스
+    news.einfomax.co.kr: 연합인포맥스
+    hankyung.com: 한국경제
+    mk.co.kr: 매일경제
+    mt.co.kr: 머니투데이
+    edaily.co.kr: 이데일리
+    sedaily.com: 서울경제
+    fnnews.com: 파이낸셜뉴스
+    asiae.co.kr: 아시아경제
+    heraldcorp.com: 헤럴드경제
+    biz.chosun.com: 조선비즈
+    chosun.com: 조선일보
+    joongang.co.kr: 중앙일보
+    donga.com: 동아일보
+    hani.co.kr: 한겨레
+    khan.co.kr: 경향신문
+    news1.kr: 뉴스1
+    newsis.com: 뉴시스
+    etnews.com: 전자신문
+    zdnet.co.kr: 지디넷코리아
+    thebell.co.kr: 더벨
+    bloter.net: 블로터
+    newspim.com: 뉴스핌
+    infostock.co.kr: 인포스탁
+    yonhapnewstv.co.kr: 연합뉴스TV
+    sbs.co.kr: SBS
+    kbs.co.kr: KBS
+    imbc.com: MBC
+    ytn.co.kr: YTN
+    seoul.co.kr: 서울신문
+    kmib.co.kr: 국민일보
+    dt.co.kr: 디지털타임스
+    ajunews.com: 아주경제
+    businesspost.co.kr: 비즈니스포스트
+    nocutnews.co.kr: 노컷뉴스
 
 sources:
   # ---- 미국
@@ -191,6 +230,124 @@ sources:
     category: GLOBAL
     lang: en
     tz: UTC
+
+
+  # ---- 네이버 뉴스 검색 (NAVER API HUB, 국내 매체). 키 = .env NAVER_CLIENT_ID/SECRET(SHARED_ENV_FILE 가능), 없으면 생략.
+  # Google News가 이 PC에서 자주 타임아웃 → 같은 주제를 국내 매체로 보강. 검색어 1개 = 소스 1개, 최신순 max_items건.
+  - name: 네이버 뉴욕증시
+    type: naver_news
+    query: 뉴욕증시
+    category: US
+    lang: ko
+    max_items: 25
+  - name: 네이버 미국 기술주
+    type: naver_news
+    query: 미국 기술주
+    category: US
+    lang: ko
+    max_items: 25
+  - name: 네이버 연준 금리
+    type: naver_news
+    query: 연준 금리
+    category: MACRO
+    lang: ko
+    max_items: 25
+  - name: 네이버 원달러 환율
+    type: naver_news
+    query: 원달러 환율
+    category: MACRO
+    lang: ko
+    max_items: 25
+  - name: 네이버 미국 국채금리
+    type: naver_news
+    query: 미국 국채금리
+    category: MACRO
+    lang: ko
+    max_items: 25
+  - name: 네이버 물가 지표
+    type: naver_news
+    query: 물가 지표
+    category: MACRO
+    lang: ko
+    max_items: 25
+  - name: 네이버 코스피
+    type: naver_news
+    query: 코스피
+    category: KR
+    lang: ko
+    max_items: 25
+  - name: 네이버 코스닥
+    type: naver_news
+    query: 코스닥
+    category: KR
+    lang: ko
+    max_items: 25
+  - name: 네이버 외국인 순매수
+    type: naver_news
+    query: 외국인 순매수
+    category: KR
+    lang: ko
+    max_items: 25
+  - name: 네이버 유럽 증시
+    type: naver_news
+    query: 유럽 증시
+    category: EU
+    lang: ko
+    max_items: 25
+  - name: 네이버 ECB 금리
+    type: naver_news
+    query: ECB 금리
+    category: EU
+    lang: ko
+    max_items: 25
+  - name: 네이버 중국 증시
+    type: naver_news
+    query: 중국 증시
+    category: CN
+    lang: ko
+    max_items: 25
+  - name: 네이버 홍콩 항셍
+    type: naver_news
+    query: 홍콩 항셍
+    category: CN
+    lang: ko
+    max_items: 25
+  - name: 네이버 중국 경기부양
+    type: naver_news
+    query: 중국 경기부양
+    category: CN
+    lang: ko
+    max_items: 25
+  - name: 네이버 반도체 주가
+    type: naver_news
+    query: 반도체 주가
+    category: GLOBAL
+    lang: ko
+    max_items: 25
+  - name: 네이버 AI 관련주
+    type: naver_news
+    query: AI 관련주
+    category: GLOBAL
+    lang: ko
+    max_items: 25
+  - name: 네이버 국제유가
+    type: naver_news
+    query: 국제유가
+    category: GLOBAL
+    lang: ko
+    max_items: 25
+  - name: 네이버 방산주
+    type: naver_news
+    query: 방산주
+    category: GLOBAL
+    lang: ko
+    max_items: 25
+  - name: 네이버 일본 증시
+    type: naver_news
+    query: 일본 증시
+    category: GLOBAL
+    lang: ko
+    max_items: 25
 
 # ---- 시장 데이터 (v4 §11.3). Yahoo 차트 일봉 → 직전 완료 세션. constituents: 구성종목 표가 있는 지수 키.
 # ^KS200·000300.SS·^HSTECH 는 Yahoo가 일봉을 주지 않아 제외(2026-09-17 프로브).

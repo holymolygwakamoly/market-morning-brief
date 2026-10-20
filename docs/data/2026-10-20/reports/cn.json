@@ -5,136 +5,484 @@
  "error": null,
  "warnings": [],
  "attempts": 1,
- "generated_at_kst": "2026-10-20T15:14:05.201436+09:00",
+ "generated_at_kst": "2026-10-20T15:43:52.163581+09:00",
  "report": {
-  "title": "중국·홍콩 시장 브리프 (2026-10-20): 본토 소폭 상승, CXMT 실적 발표 후 약 8% 급락",
-  "overview": "10월 19일(월) 중국 본토 증시는 상해종합이 3730.92(+0.39%), 심천성분이 11,817(+0.13%)로 마감했습니다. 두 지수 모두 소폭 올랐지만, 상승을 설명할 뚜렷한 정책 재료는 입력 기사에서 확인되지 않습니다. 항셍지수는 10월 16일 기준 값(24,187, +0.52%)만 있어 직전 세션 흐름을 판단하기 어렵고, 닛케이 225는 64,917(-0.62%)로 내렸습니다. 종목 측면에서는 중국 메모리 반도체 업체 CXMT가 1~9월 실적 전망을 내놓은 뒤 이익 턴어라운드에도 불구하고 약 8% 급락한 것이 핵심 뉴스입니다. 대외적으로는 푸틴 대통령이 트럼프·시진핑과의 3자 정상회담을 제안했다는 보도, 그리고 후티 반군의 사우디 공격 격화(WTI 103.66, +2.22%)가 지정학 변수로 부각됐습니다.",
+  "title": "중국·홍콩 시장 데일리 (2026-10-20): 3분기 GDP 4.5% 예상 상회에 상해종합 0.39% 상승, 반도체주는 급락",
+  "overview": "10월 19일 중국 본토 증시는 3분기 GDP 성장률이 4.5%로 시장 예상을 웃돌았다는 소식에 상해종합지수가 3730.92(+0.39%), 심천성분지수가 11,817(+0.13%)로 소폭 올랐습니다. 다만 장중에는 EU와의 무역 갈등 우려와 AI 관련주 매도로 약세를 보였다는 보도가 있었고, 창신메모리(CXMT)를 비롯한 반도체주는 급락했습니다. 그 결과 지수는 올랐어도 기술주에서 방산·고배당 가치주로 자금이 옮겨가는 흐름이 뚜렷했습니다. 홍콩 증시는 중양절로 휴장해 항셍지수는 10월 16일 종가 24,187(+0.52%)에 머물렀습니다. 성장률이 잘 나온 만큼 4분기 대규모 부양책을 내놓아야 한다는 압박은 줄었다는 평가가 많아, 오늘(20일) 대출우대금리(LPR) 결정과 홍콩 증시 재개 후 흐름이 단기 변수입니다.",
   "sections": [
    {
     "heading": "지수 흐름",
-    "body": "10월 19일(월) 중국 본토 증시는 대형주 중심인 상해종합지수가 전일보다 14.64포인트(+0.39%) 오른 3730.92에 마감했습니다. 중소형·성장주 비중이 큰 심천성분지수는 14.96포인트(+0.13%) 오른 11,817로 상승폭이 더 작았습니다. 즉 상해 쪽 대형주가 상대적으로 강했던 장이었습니다. 다만 입력 기사에는 이날 지수를 움직인 거시 지표나 정책 발표가 없어, 상승 배경을 특정하기는 어렵습니다. 같은 날 메모리 반도체 업체 CXMT가 실적 전망 발표 뒤 약 8% 급락한 점을 보면, 지수가 오른 가운데서도 기술주 안에서는 종목별로 실적 해석이 크게 엇갈린 것으로 보입니다. 홍콩 항셍지수는 표의 세션 날짜가 10월 16일(24,187, +124.11포인트, +0.52%)이어서 19일 흐름은 반영되지 않았습니다. 일본 닛케이 225는 407.59포인트(-0.62%) 내린 64,917로 마감해, 같은 날 중국 본토와 반대로 움직였습니다. 환율은 위안/달러가 6.69로 보합(+0.00%)이어서 위안화 변동이 증시에 준 영향은 제한적이었던 것으로 판단됩니다.",
+    "body": "10월 19일 상해종합지수는 전일 대비 14.64포인트(+0.39%) 오른 3730.92, 심천성분지수는 14.96포인트(+0.13%) 오른 11,817로 마감했습니다. 같은 날 오전 발표된 3분기 GDP 성장률(전년 동기 대비 4.5%)이 시장 예상을 웃돈 것이 지수를 받쳤습니다. 다만 하루 내내 순조롭지는 않았습니다. 장중에는 'China Stocks Fall Despite Strong Data'(TradingView), 'EU 무역 우려와 AI 매도로 상해종합이 2025년 7월 이후 최저 수준으로 하락'(BBN Times) 같은 보도가 나왔습니다. 장 초반 약세를 딛고 장 후반에 상승 마감한 것으로 해석됩니다. 연합인포맥스는 'GDP 호조에 소폭 상승…반도체주는 급락'으로, 홍콩 RTHK는 'GDP 지표가 기술주 부진을 상쇄'로 이날 장을 정리했습니다. 심천성분지수 상승폭(+0.13%)이 상해종합(+0.39%)보다 작았는데, 기술주 비중이 큰 심천 시장에 반도체 약세가 더 크게 작용했을 가능성이 있습니다. Protos는 AI 관련주가 중국 증시의 '최장 연속 하락'을 이끌고 있다고 보도해, 기술주 조정이 하루짜리 현상이 아님을 시사했습니다. 홍콩 증시는 10월 19일 중양절 연휴로 휴장했습니다. 항셍지수는 직전 거래일인 10월 16일 종가 24,187(+124.11, +0.52%)이 최신 값이며, 오늘 장 재개 시 본토의 GDP 호재와 글로벌 AI·반도체 약세를 한꺼번에 반영하게 됩니다. 닛케이225는 10월 19일 407.59엔(-0.62%) 내린 64,917로 마감했습니다. 주말 미국 증시에서 AI·반도체주가 급락한 영향으로 장 초반 낙폭이 1,400엔을 넘기도 했지만, 나스닥100 선물이 반등하면서 낙폭을 줄였습니다.",
     "bullets": [
-     "상해종합 3730.92 (+14.64, +0.39%) — 2026-10-19 마감",
-     "심천성분 11,817 (+14.96, +0.13%) — 상해 대비 상승폭 작음",
-     "항셍 24,187 (+124.11, +0.52%) — 2026-10-16 기준으로 최신 세션 미반영",
-     "닛케이 225 64,917 (-407.59, -0.62%) — 본토와 반대로 하락",
-     "위안/달러 6.69 보합 — 환율 변수는 중립"
+     "상해종합 3730.92 (+14.64, +0.39%) — GDP 호조로 장중 약세를 딛고 상승 마감",
+     "심천성분 11,817 (+14.96, +0.13%) — 반도체 약세로 상승폭 제한",
+     "항셍 24,187 (+124.11, +0.52%) — 10/16 기준, 10/19 중양절 휴장",
+     "닛케이225 64,917 (-407.59, -0.62%) — 미국발 AI·반도체 매도 영향, 장 초반 낙폭 일부 회복",
+     "AI 관련주가 중국 증시 '최장 연속 하락'을 주도했다는 외신(Protos) 보도"
     ]
    },
    {
     "heading": "정책·유동성",
-    "body": "입력 기사에는 인민은행(PBOC)의 금리·지급준비율 조정, 공개시장 조작, 국무원의 부양책, 증권 규제 당국의 발표가 없습니다. 홍콩을 거쳐 본토 주식을 사는 외국인 자금인 북향자금 수급 데이터나 관련 언급도 없어 이번 보고서에서는 다루지 않습니다. 정책 관련으로 참고할 만한 것은 CNBC 뉴스레터 'The China Connection'입니다. 이 뉴스레터는 상하이 와이탄(Bund) 서밋에서 경제학자와 전직 중앙은행 인사들이 기술과 통화정책을 논의하고 있으며, 그사이 기업들은 새 매출원을 확보하려고 더 빠르게 움직이고 있다고 전했습니다. 다만 서밋에서 나온 구체적 발언이나 정책 신호는 요약에 없어 해석을 덧붙이지 않습니다. 위안/달러가 6.69 보합, 달러인덱스가 101.98(+0.14%)로 크게 움직이지 않은 점을 보면, 직전 세션에서 환율발 유동성 충격은 없었던 것으로 보입니다.",
+    "body": "국가통계국에 따르면 3분기 GDP는 전년 동기 대비 4.5% 늘어 2분기보다 0.2%포인트 높아졌고, 1~3분기 누적 성장률은 4.6%입니다. 9월 산업생산은 5.5%, 소매판매는 1.1% 늘어 모두 예상을 웃돌았다고 보도됐습니다. 한국경제 보도 기준 올해 성장률 목표는 4.5~5%로, 누적 성장률이 목표 범위 안에 들면서 4분기 대규모 부양책을 서둘러야 한다는 부담이 줄었다는 분석이 많습니다(중앙일보, 동아일보, 한국일보, 뉴시스). BofA의 헬렌 차오 이코노미스트는 정부가 현 수준의 부양 정책을 유지하면서 제한적으로만 조정할 가능성이 크다고 봤습니다. UOB와 ING 이코노미스트들도 추가 부양 압력이 다소 줄었다고 평가했습니다. 블룸버그는 은행의 낮은 이익률과 지방정부 재정난 때문에 정책 여력 자체가 제한적이라고 지적했습니다. 중국 정부는 전면적인 대규모 부양보다 특정 분야를 겨냥한 지원을 택하고 있습니다. 9월 하순 국무원이 연간 목표 달성을 위한 추가 조치를 약속했고, 이후 선별적 금리 인하와 생애 첫 주택 구매자 지원책이 나왔습니다. 반면 성장률 목표(4.5~5%) 달성을 위해 추가 부양책이 나올 수 있다는 시각(한국경제)과 시장이 추가 부양 발표 가능성에 주목한다는 보도(문화일보)도 함께 있습니다. 금리 쪽에서는 홍콩 휴장 관련 외신이 '화요일(10월 20일) LPR 결정'을 앞두고 있다고 전했습니다. 국내 한 브리핑 기사(The Asian)는 제목에서 '인민은행 금리 동결'을 언급했는데, 구체적으로 어떤 금리를 언제 결정했는지는 입력 기사만으로 확인되지 않습니다. 지표 호조로 위안화가 강세를 보였다는 보도(중앙일보)도 있었지만, 시세 표의 위안/달러는 6.69로 보합(0.00%)입니다. 북향자금(홍콩을 거쳐 본토 주식을 사는 외국인 자금) 관련 내용은 입력 기사에 없습니다.",
     "bullets": [
-     "인민은행·국무원·규제 당국 발표: 입력 기사에 없음",
-     "북향자금: 기사·데이터 모두 없음",
-     "와이탄(Bund) 서밋: 기술·통화정책 논의 중(CNBC), 구체적 정책 신호는 확인 안 됨",
-     "위안/달러 6.69 보합, 달러인덱스 101.98(+0.14%) — 환율·유동성 환경은 안정적"
+     "3분기 GDP +4.5%(전분기보다 0.2%p 상승), 1~3분기 누적 +4.6%, 성장률 목표 4.5~5%",
+     "9월 산업생산 +5.5%, 소매판매 +1.1%로 예상 상회",
+     "대규모 부양 압박 완화 → 현 수준 유지·선별 지원 전망 우세(BofA 등)",
+     "9월 하순 국무원 추가 조치 약속 이후 선별적 금리 인하·생애 첫 주택 구매자 지원 시행",
+     "10/20 LPR 결정 예정 — 인민은행 '금리 동결' 보도도 있으나 세부 내용 불명확",
+     "위안화 강세 보도가 있었으나 표상 위안/달러 6.69 보합, 북향자금 정보 없음"
     ]
    },
    {
     "heading": "섹터·주도주",
-    "body": "이번 세션에서 섹터별로 확인되는 가장 뚜렷한 움직임은 메모리 반도체입니다. 중국 대표 D램(DRAM) 업체 CXMT(창신메모리)는 10월 19일(월) 2026년 1~9월 실적 전망을 발표한 뒤 주가가 약 8% 급락했습니다. CNBC는 이를 '투자자들이 이익 턴어라운드(적자에서 흑자로의 전환)를 넘어 그다음을 보고 있다(look past)'고 표현했습니다. 실적 개선이 이미 주가에 반영됐거나, 시장이 향후 이익 흐름·밸류에이션을 더 엄격하게 따지기 시작했다는 뜻으로 읽힙니다. 다만 기사 요약에는 구체적 실적 수치나 하락 원인이 나오지 않으므로, 실적이 시장 기대에 못 미쳤는지는 단정하지 않습니다. 상해종합(+0.39%)과 심천성분(+0.13%)이 모두 오른 장에서 대형 반도체 종목이 급락했다는 것은, 중국 기술주 안에서 '좋은 소식에 파는' 차익 실현 심리가 있다는 신호일 수 있습니다. 이 밖의 업종별 등락이나 다른 주도주는 입력 자료에 없어 다루지 않습니다.",
+    "body": "약세 업종은 반도체·AI입니다. 연합인포맥스는 이날 중국 반도체주가 급락했다고 전했습니다. 대표 사례인 메모리 업체 창신메모리(CXMT)는 3분기 순이익 성장이 정체됐다는 소식에, 오후 3시 46분께 전 거래일보다 3.22위안(7.15%) 떨어진 41.80위안을 기록했습니다. 장중 낙폭은 최대 8.9%로, 지난 7월 상장 이후 가장 컸다고 보도됐습니다. 딥시크(DeepSeek)가 일부 성능 평가에서 미국 주요 AI 모델을 앞서고 이용료는 최대 40분의 1 수준인 신제품을 내놓았다는 소식도 있었습니다. 지난해와 같은 '딥시크 충격'이 다시 올 수 있다는 우려가 코어위브(CoreWeave) 부실 우려와 함께 AI 투자 회의론을 키웠습니다(뉴데일리). 강세 업종은 방산입니다. 아주경제는 방산 섹터가 연일 강세라고 전했고, 같은 시기 미국과 일본이 대만과 가까운 요나구니섬에 대함미사일을 배치하는 등 지역 군사 긴장이 이어졌습니다. 휴머노이드 로봇주도 강했습니다. 정부의 정책 지원, 시장 확대, 기술 표준화 기대가 겹치면서 유비테크(UBTech)에 이어 유니트리(Unitree) 주가도 폭등세를 보였습니다(뉴스핌). 자금 흐름에서는 '기술주를 팔고 고배당 가치주로' 옮겨가는 모습이 뚜렷합니다. 배당수익률이 국채 수익률의 두 배를 넘는 종목에 관심이 몰렸고, 모건스탠리는 내수 억제와 가계 부채 축소가 이어지는 만큼 배당주가 부각될 수밖에 없다고 분석했습니다. 증권시보는 지난 10년간 A주 최고가 종목('股王')이 소비재 우량주에서 '하드테크'(첨단 제조·기술)로 바뀌어 온 흐름을 다뤘는데, 최근 기술주 조정과 대비되는 장기 관점입니다.",
     "bullets": [
-     "약세: 메모리 반도체 — CXMT, 1~9월 실적 전망 발표 후 약 8% 하락",
-     "시장 반응의 성격: 이익 턴어라운드보다 이후 전망·밸류에이션에 주목하는 흐름",
-     "강세 업종: 입력 자료로 확인 불가",
-     "업종별 등락률 데이터 없음 — 지수 마감 값만 확인"
+     "약세: 반도체·AI — 창신메모리(CXMT) 장중 7.15% 하락(41.80위안), 장중 최대 -8.9%로 상장 후 최대 낙폭",
+     "AI 우려 요인: 딥시크 저가·고성능 신제품, 코어위브 부실 우려, AI 투자비 회수 의문",
+     "강세: 방산 섹터 연일 강세(아주경제)",
+     "강세: 휴머노이드 로봇 — 유비테크에 이어 유니트리 급등, 정책 지원 기대",
+     "수급 성격: 기술주에서 고배당 가치주로 이동, 모건스탠리는 고배당 방어주 위주의 압축 전략 유지"
     ]
    },
    {
     "heading": "주요 뉴스",
-    "body": "① CXMT 급락: 중국 메모리 반도체 업체 CXMT가 2026년 1~9월 실적 전망을 발표한 뒤 10월 19일 주가가 약 8% 떨어졌습니다. 이익 턴어라운드라는 호재에도 주가가 크게 밀려, 중국 반도체주에 대한 기대치가 이미 높아져 있음을 보여줬습니다. ② 미·러·중 정상회담 논의: 푸틴 러시아 대통령이 우크라이나 전쟁을 두고 젤렌스키 대통령을 뺀 채 트럼프·시진핑과 3자 정상회담을 제안했다는 보도가 나왔습니다. 트럼프 대통령은 푸틴·시진핑과 만날 의향이 있다고 밝히면서 젤렌스키를 비판했습니다. 미국과 우크라이나의 긴장이 커지는 가운데 중국이 주요 지정학 협상 테이블에 오를 수 있다는 점에서 미·중 관계에 변수가 될 수 있습니다. ③ 중동 리스크: 이달 초 치명적인 공항 공격 이후 이란이 지원하는 후티 반군이 사우디아라비아에 미사일과 드론을 반복 발사했고, 사우디는 대형 투자 콘퍼런스(FII)를 2027년으로 미뤘습니다. 같은 날 WTI는 103.66(+2.22%)으로 올랐고 브렌트는 109.55(-0.28%)로 소폭 내렸습니다. 유가가 높은 수준을 유지하는 것은 원유 수입국인 중국에 비용 부담으로 작용할 수 있습니다. ④ 와이탄 서밋: 경제학자·전직 중앙은행 인사들이 기술과 통화정책을 논의하는 가운데, 기업들은 새 매출원 확보를 서두르고 있다는 CNBC 진단이 나왔습니다.",
+    "body": "① 중국 경기: 3분기 성장은 '수출이 이끌고 내수는 제자리'라는 평가가 많습니다. 세계적인 AI 붐이 산업생산과 수출을 끌어올렸지만, 내수와 부동산은 '여전히 한겨울'이라는 진단(파이낸셜뉴스)과 '속 빈 강정', '이상 신호' 같은 비판적 시각(한국경제)이 함께 나왔습니다. ② AI·반도체 매도의 글로벌 확산: 골드만삭스는 지난주 글로벌 헤지펀드가 기술주를 역대급 규모로 팔았고, 금액 기준으로 반도체가 가장 큰 타격을 받았다고 밝혔습니다. 국내 삼성전자·SK하이닉스 하락도 이런 비중 축소의 영향을 받았다는 분석입니다. 일본에서는 장 초반 도쿄일렉트론이 4% 넘게, 어드밴테스트·키옥시아가 4% 안팎, 소프트뱅크가 4% 넘게 떨어졌습니다. 키옥시아는 63% 하락에 신용거래(빚투) 잔고 부담 경고까지 나왔습니다. ASML의 공급 경고가 닛케이 하락 요인으로 거론됐습니다. ③ 무역: EU와의 무역 갈등 우려가 장중 중국 증시 약세 요인으로 꼽혔습니다(BBN Times). ④ 지정학·에너지: 푸틴 대통령이 젤렌스키 대통령을 뺀 채 트럼프·시진핑과 우크라이나 전쟁을 논의하는 3자 정상회담을 제안했다는 보도가 나왔습니다(CNBC). 미국은 일부 대러시아 제재를 유예했고, WP는 미국이 우크라이나의 패트리엇 미사일 확보에 제동을 걸었다고 보도했습니다. 유가는 사우디 아람코 피격 보도와 호르무즈 해협 운항 위험(상승 요인), 대러 제재 완화(하락 요인)가 엇갈렸습니다. 시세 표 기준 WTI는 103.66달러(+2.22%), 브렌트는 109.55달러(-0.28%)입니다. ⑤ 오늘 전망: 뉴스핌은 간밤 뉴욕 기술주 반등으로 AI 투자심리가 일부 살아났지만, 20일 중국 증시는 경기 회복 신호와 기술주 조정 부담이 맞설 것으로 내다봤습니다.",
     "bullets": [
-     "CXMT, 1~9월 실적 전망 발표 후 약 8% 급락(10-19)",
-     "푸틴, 젤렌스키를 뺀 트럼프·시진핑과의 3자 정상회담 제안 보도 — 트럼프 '만날 의향 있다'",
-     "후티 반군의 사우디 공격 격화 → 사우디 FII 콘퍼런스 2027년으로 연기",
-     "WTI 103.66(+2.22%), 브렌트 109.55(-0.28%) — 유가 고공행진 지속",
-     "와이탄 서밋에서 기술·통화정책 논의(CNBC 뉴스레터)"
+     "3분기 성장은 수출·산업생산이 주도, 내수·부동산 부진은 지속",
+     "골드만삭스: 지난주 글로벌 헤지펀드의 기술주 매도가 역대급, 반도체 타격 최대",
+     "일본 반도체주 약세(도쿄일렉트론·어드밴테스트·키옥시아·소프트뱅크), ASML 공급 경고",
+     "EU 무역 갈등 우려가 장중 중국 증시 약세 요인으로 거론",
+     "푸틴, 트럼프·시진핑과 3자 정상회담 제안 보도(젤렌스키 제외)",
+     "유가: 아람코 피격 보도·호르무즈 위험 vs 대러 제재 유예 — WTI 103.66(+2.22%), 브렌트 109.55(-0.28%)"
     ]
    },
    {
     "heading": "한국 영향",
-    "body": "① 반도체(메모리·장비): CXMT는 삼성전자·SK하이닉스와 D램 시장에서 경쟁하는 중국 업체입니다. CXMT가 이익 턴어라운드를 발표했다는 사실 자체는 중국 메모리 업체의 경쟁력이 커지고 있다는 점을 다시 확인시켜 줍니다. 반면 주가가 약 8% 급락한 것은 중국 반도체주 기대치가 이미 높다는 뜻이어서, 한국 메모리주와의 상대 매력 비교에 참고할 만합니다. 중국 메모리 공장에 장비를 공급하는 한국 반도체 장비주는 CXMT의 설비 투자 흐름에 민감하지만, 이번 기사에는 투자 계획 관련 내용이 없어 영향은 지켜봐야 합니다. ② 화학·정유: WTI가 103.66(+2.22%)으로 오르는 등 유가가 100달러를 넘는 수준이 이어지면 원료 비용이 늘어 한국 석유화학의 수익성(스프레드)에 부담이 됩니다. 중국 수요 회복을 확인할 지표도 이번 입력에는 없습니다. ③ 철강·2차전지 소재: 구리가 6.54(+0.11%)로 보합권이고 중국 부양책 관련 뉴스가 없어, 중국 경기 기대에 기댄 업종의 단기 모멘텀은 중립으로 판단합니다. ④ 화장품·소비재: 중국 소비 관련 기사가 없어 판단 근거가 부족합니다. ⑤ 환율: 위안/달러는 6.69 보합인 반면 원/달러는 1333.43(-0.56%)으로 원화가 강세를 보였습니다. 이날 원화 움직임은 위안화와 따로 움직인 것이어서, 위안화보다는 다른 요인의 영향이 컸던 것으로 보입니다. ⑥ 지정학: 미·러·중 3자 정상회담 논의가 진전되면 미·중 관계와 대중국 제재 환경이 바뀔 수 있어, 중국 매출 비중이 높은 한국 기업에 중장기 변수입니다. 아직은 보도 단계입니다.",
+    "body": "① 반도체·반도체 장비: 중국 반도체 급락, 일본 반도체 장비주 약세, 골드만삭스가 밝힌 헤지펀드의 반도체 비중 축소가 한꺼번에 나타났습니다. 국내 반도체와 장비주에도 투자심리 부담이 이어질 수 있습니다. 창신메모리(CXMT)의 이익 성장 정체가 투자 계획 조정으로 이어지는지는 중국향 매출이 있는 국내 장비·소재 업체가 확인해야 할 변수입니다. 반대로 메모리 경쟁 구도에서는 중국 업체의 실적 둔화가 삼성전자·SK하이닉스 입장에서 상대적 부담 완화로 읽힐 여지도 있습니다. ② 화장품·소비재: 9월 소매판매는 1.1% 증가에 그쳤고 내수 부진이 이어진다는 평가가 지배적입니다. 대규모 부양 기대도 줄어든 만큼, 중국 소비 회복을 전제로 한 화장품·면세·소비재의 업황 반등 기대는 제한적으로 보는 편이 합리적입니다. ③ 철강·화학: 산업생산(+5.5%)과 수출은 좋지만 부동산은 여전히 부진하고, 부양책도 대규모가 아닌 선별 지원 쪽입니다. 철강·화학 수요가 크게 늘어나는 그림을 기대하기는 어렵습니다. 여기에 WTI가 103.66달러(+2.22%)로 오른 상태라 정유·화학 업체의 원가 부담도 함께 봐야 합니다. ④ 2차전지 소재: 입력 기사에 중국 배터리·전기차 관련 직접 언급은 없어 판단을 미룹니다. 다만 AI 붐 덕분의 수출 호조와 구리 가격(6.54, +0.11%) 보합은 원자재 쪽에서 참고할 만합니다. ⑤ 테마 연동: 중국의 휴머노이드 로봇·방산 강세는 정책·지정학 기대에 따른 것으로, 국내 같은 테마주에 심리적으로 연동될 수 있습니다. ⑥ 원화·위안: 원/달러는 1333.43원으로 7.52원(-0.56%) 내려 원화가 강세였습니다. 위안/달러는 6.69로 보합이지만, 중국 지표 호조로 위안화가 강세를 보였다는 보도가 있어 원화 강세와 같은 방향입니다. 오늘 LPR 결과와 홍콩 증시 재개 후 흐름이 위안화와 원화의 단기 방향에 영향을 줄 수 있습니다.",
     "bullets": [
-     "반도체: CXMT 이익 턴어라운드로 중국 D램 경쟁 심화 재확인, 다만 주가 급락으로 기대치 부담 노출",
-     "반도체 장비: 중국 메모리 설비 투자 관련 정보 없음 — 후속 확인 필요",
-     "화학·정유: WTI 103.66(+2.22%) — 원가 부담 요인",
-     "철강·2차전지 소재: 구리 6.54(+0.11%), 부양책 뉴스 없어 중립",
-     "화장품: 중국 소비 관련 근거 없음",
-     "환율: 원/달러 1333.43(-0.56%)으로 원화 강세, 위안/달러 6.69 보합 — 이날은 원화와 위안화가 따로 움직임"
+     "반도체·장비: 중국·일본 반도체 약세와 헤지펀드 매도로 투자심리 부담, CXMT 투자 조정 여부 점검 필요",
+     "화장품·소비재: 소매판매 +1.1%, 내수 부진 지속 → 중국 소비 회복 기대는 보수적으로",
+     "철강·화학: 산업생산은 양호하나 부동산 부진·선별 부양 → 수요 확대 제한적, 유가 상승은 원가 부담",
+     "2차전지 소재: 입력 기사에 직접 근거 없음",
+     "테마: 중국 휴머노이드 로봇·방산 강세가 국내 관련 테마에 심리적으로 연동될 가능성",
+     "환율: 원/달러 1333.43(-0.56%) 원화 강세, 위안/달러 6.69 보합 — 위안화 강세 보도와 같은 방향"
     ]
    }
   ],
   "leaders": [
    {
-    "name": "CXMT (창신메모리)",
+    "name": "창신메모리(CXMT)",
     "ticker": null,
-    "comment": "2026년 1~9월 실적 전망 발표 후 10월 19일(월) 주가가 약 8% 급락했습니다. 이익 턴어라운드에도 투자자들은 그 이후의 전망에 주목했습니다(CNBC). 삼성전자·SK하이닉스와 D램 시장에서 경쟁하는 업체여서 한국 메모리주와 비교해 볼 만합니다."
+    "comment": "3분기 순이익 성장 정체 소식에 10/19 오후 3시 46분께 3.22위안(7.15%) 떨어진 41.80위안을 기록했습니다. 장중 낙폭은 최대 8.9%로 7월 상장 이후 최대였고, 중국 반도체주 급락을 상징하는 종목입니다."
+   },
+   {
+    "name": "유비테크(UBTech Robotics)",
+    "ticker": "9880.HK",
+    "comment": "중국 정부의 휴머노이드 로봇 정책 지원 기대로 주가가 강세를 보였고, 로봇 테마 상승을 이끌었습니다(뉴스핌)."
+   },
+   {
+    "name": "유니트리(Unitree Robotics)",
+    "ticker": null,
+    "comment": "유비테크에 이어 주가가 폭등세를 보였습니다. 정책 지원, 시장 확대, 기술 표준화 기대가 반영됐다는 평가입니다(뉴스핌)."
+   },
+   {
+    "name": "딥시크(DeepSeek)",
+    "ticker": null,
+    "comment": "비상장사입니다. 일부 성능 평가에서 미국 주요 AI 모델을 앞서고 이용료는 최대 40분의 1인 신제품을 내놓으면서 '딥시크 충격' 재현 우려와 AI 투자 회의론을 키웠습니다."
+   },
+   {
+    "name": "도쿄일렉트론",
+    "ticker": "8035.T",
+    "comment": "10/19 장 초반 4% 넘게 하락했습니다. 미국발 AI·반도체 매도가 일본 반도체 장비주로 번졌습니다."
+   },
+   {
+    "name": "키옥시아",
+    "ticker": "285A.T",
+    "comment": "장 초반 4% 안팎 하락했습니다. 63% 추락에 신용거래(빚투) 잔고 부담 경고까지 나온 AI 메모리 약세의 대표 사례입니다."
    }
   ],
   "events_today": [
-   "상하이 와이탄(Bund) 서밋 — 경제학자·전직 중앙은행 인사들이 기술·통화정책 논의(CNBC 보도, 구체 일정은 기사에 없음)",
-   "미·러·중 3자 정상회담 제안 관련 후속 보도 주목(일정 미확정)"
+   "10/20(화) 중국 대출우대금리(LPR) 결정 — 홍콩 휴장 관련 외신이 언급",
+   "10/20 홍콩 증시 거래 재개(10/19 중양절 휴장) — 본토 GDP 호재와 글로벌 반도체 약세를 함께 반영할 첫 거래일",
+   "중국 4분기 추가 부양책 발표 여부(시점은 미정)",
+   "글로벌 AI·반도체주 반등이 이어질지 — 간밤 뉴욕 기술주 반등 이후 아시아 반응"
   ],
   "headlines": [
    {
-    "text": "중국 D램 업체 CXMT, 1~9월 실적 전망 발표 후 약 8% 급락 — 이익 턴어라운드보다 이후 전망에 주목",
+    "text": "중국 3분기 GDP 4.5%로 예상 상회, 상해종합 0.39% 올라 3730.92 마감…대규모 부양 압박은 줄어",
+    "importance": 5
+   },
+   {
+    "text": "AI·반도체 매도 확산: 창신메모리 장중 7% 넘게 급락, 닛케이 -0.62%, 헤지펀드 기술주 역대급 매도",
     "importance": 4
    },
    {
-    "text": "상해종합 3730.92(+0.39%), 심천성분 11,817(+0.13%) 소폭 상승 — 정책 재료 없는 보합권 장세",
-    "importance": 3
-   },
-   {
-    "text": "푸틴, 트럼프·시진핑과 3자 정상회담 제안 보도…후티의 사우디 공격 격화로 WTI 103.66(+2.22%)",
+    "text": "기술주에서 방산·휴머노이드 로봇·고배당주로 순환매, 오늘 LPR 결정과 홍콩 장 재개가 변수",
     "importance": 3
    }
   ],
   "data_caveats": [
-   "항셍지수는 2026-10-16 세션 값으로, 10-19 홍콩 시장 흐름은 반영되지 않음",
-   "북향자금·외국인 수급 데이터 없음",
-   "업종별 등락률·구성종목 표가 없어 섹터 분석은 기사에 나온 종목(CXMT)에 한정",
-   "CXMT 실적의 구체 수치와 종목코드·상장 시장 정보는 기사 요약에 없음",
-   "인민은행·국무원 등 정책 관련 기사 없음"
+   "항셍지수는 10/16 종가 기준입니다(10/19 중양절 휴장).",
+   "닛케이 관련 일부 외신 제목의 지수 수치(67,744.29)가 시세 표(64,917)와 맞지 않아, 표 값을 기준으로 썼습니다.",
+   "북향·남향자금 등 수급 데이터와 업종별 등락률은 무료 소스에 없어 반영하지 못했습니다.",
+   "창신메모리 주가(41.80위안, -7.15%)는 오후 3시 46분께 장중 값이며 종가가 아닙니다.",
+   "'인민은행 금리 동결' 보도는 대상 금리와 결정 시점을 기사 제목·요약만으로 확인할 수 없습니다.",
+   "위안/달러는 소수 둘째 자리까지만 표시돼 하루 변동폭을 확인하기 어렵습니다.",
+   "상당수 기사가 제목·요약만 제공돼 세부 수치와 맥락이 제한적입니다."
   ],
   "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
  },
  "articles": [
   {
-   "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
-   "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-   "source": "CNBC Top News",
-   "publisher": null,
+   "title": "SSE Composite Rises 0.39% to 3,730.92 as China's Q3 GDP Beats Forecasts",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemZScFJEbkkzUXBVYVRfenRBeW1WaEZEaWk5b1RiWWhfZThTTE1zMnRUQ0tiejBxODRDRFlGamk5TUx3cHh2OVFfLTBHeUY1OGE5MWlUR2UtNThNRFRmMFBkZVJUaElMTHJxanhkbjRxMlkxRUxCNlVRSmU3ajJCemVQX0d0M09xRmt3djI5bGpzSndBdGxGRURjcjJSTUNlNlcweEFtZ3ZXRW0tdFBJ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
    "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-19 16:48"
+   "category": "CN",
+   "published_at_kst": "2026-10-20 07:52"
   },
   {
-   "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
-   "url": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
-   "source": "CNBC Top News",
-   "publisher": null,
+   "title": "Shanghai Composite closes 15 points higher as GDP beats forecast - ad-hoc-news.de",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0xIY2lWNE5RbThJUjFERjhVUmx3VHhtVUlHdWpQaTY1OXNwbjFEdnRpbzVSMWIyUkJrMkRJeEtKYmJJR0w5djFjS3VMM0pQT2xQZlZDN1ZjNGZPZ1QxTW5PTWx6TV9VV3JCRnl2WXRaU1ZJMERFYUNBSi1YNGo3MDlSX0o2N190ZzJ5S3JNanlZYWU3TDJnZmpTUFJDNms5UnY0QlR2YXRROVJORENnbjhnUkE0b0RXVnVZUVpHbHB5TGdj?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "ad-hoc-news.de",
    "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 08:00"
+   "category": "CN",
+   "published_at_kst": "2026-10-19 20:40"
   },
   {
-   "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-   "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-   "source": "CNBC Top News",
-   "publisher": null,
+   "title": "China stocks end higher as strong GDP outweighs AI jitters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVHF4ZEJlNU1YT3RlSmV1OFB5S3laMS1fV3BKaVoxV2tVa3dRTzlNZFJWSmJyU2VMalZTWW9NcVp2ejJmZkd2clpuU3JKQS0yUWtNZ3dNdWZzdHZLTm9PMnBETzNpMmtNdkNzUkpWWXQ3azZMeDZZVUlnOXZpaGVzNTRodUVqLTUxRHpIbVpseGxwRGtCNE9kc1NGU2gwZElLQmhfQUpMMEFPWGljSTBpOWVySXNaM3Voa3J2TElPdVlOaFhyZGRsUUYzSVrSAdIBQVVfeXFMTWZCV0hsUm9WMnBSRk9pZ3dXeW1fRWRYOGpSRW43ZWt0RUhwckpfYjE2enF5OElCZEo4UEl5RGEzUklzQ2toSXphVjNTcFQyNE9VTy1raXFTWm9DcFJ0NEZTMW1Sd2h0VC1ib00wQWhfclEwcXBpY196dkJveFB2ZVE1VDFyNFdRX2FpQ1NMQ3FlMk5OODl2SHZJOTNmd1BfSXR2dmZBdVh1bWN1el92SVlsWVJMcC0tTTJFS3dfSElfQ3R3aE9VLWRVODB4dzFSZlVn?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "ET Enterprise AI",
    "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 06:00"
+   "category": "CN",
+   "published_at_kst": "2026-10-19 18:39"
   },
   {
-   "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-   "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-   "source": "CNBC Top News",
-   "publisher": null,
+   "title": "[중국증시-마감] GDP 호조에 소폭 상승…반도체주는 급락",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQnlzeWs0ZHAtRmlXbGY0T1lwcHRpaXJ1ZjVvYkZiaEpWNURBakhVdThmUkFyTmN0Q2pyZmhNWkNPNzA4U2Q2TjhmZkNadmdzNGxLOUNpUzhFSHMzWXExTEZWNWp3TDNncm9raFp4c3I?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 18:08"
+  },
+  {
+   "title": "Mainland stocks up as GDP data offsets tech woes",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rNGM5UjdlcnQzUWxpSGw4bVVMaVFZeVg2RjV2dTA0R0hBM0RWRE5YN2tuWVlmTHdCSHNHcVRwS2dyUHg4c1R6ZTVBa2RWMElmRUtaRkFPUWZudE9VNXVVTnpYYkUxN2tYeHUtcWVXVQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "香港電台新聞網",
    "lang": "en",
-   "category": "US",
-   "published_at_kst": "2026-10-20 04:37"
+   "category": "CN",
+   "published_at_kst": "2026-10-19 18:04"
+  },
+  {
+   "title": "中 3분기 성장률 4.5% ‘예상 밖 선방’…올해 목표 달성권 들어왔다",
+   "url": "https://www.joongang.co.kr/article/25470974",
+   "source": "네이버 중국 경기부양",
+   "publisher": "중앙일보",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 17:25"
+  },
+  {
+   "title": "中 3분기 성장률 4.5%로 반등…수출 호조에도 내수는 부진",
+   "url": "https://www.donga.com/news/Inter/article/all/20261019/134867207/1",
+   "source": "네이버 중국 경기부양",
+   "publisher": "동아일보",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 17:01"
+  },
+  {
+   "title": "중국 3분기 성장률 4.5%… 수출은 뛰고 내수는 제자리",
+   "url": "https://www.hankookilbo.com/news/article/A2026101911530003437?did=NA",
+   "source": "네이버 중국 경기부양",
+   "publisher": "hankookilbo.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 16:16"
+  },
+  {
+   "title": "中 3분기 경제성장률 4.5%·0.2%P↑…1~3분기는 4.6%(종합)",
+   "url": "https://www.newsis.com/view/NISX20261019_0003831627",
+   "source": "네이버 중국 경기부양",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 13:41"
+  },
+  {
+   "title": "中 3분기 성장률 4.5% ‘예상 상회’… 9월 생산·소비도 반등",
+   "url": "https://biz.chosun.com/international/international_economy/2026/10/19/GKL7VECEWFBTBBIKRX27FTSCUY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "네이버 중국 경기부양",
+   "publisher": "조선비즈",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 13:22"
+  },
+  {
+   "title": "중국 3분기 GDP 성장률 4.5%… 전분기 대비 0.2%P 올라",
+   "url": "https://www.munhwa.com/article/11624502?ref=naver",
+   "source": "네이버 중국 경기부양",
+   "publisher": "munhwa.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 12:02"
+  },
+  {
+   "title": "중국 3분기 GDP 4.5% 증가…1~3분기는 4.6%↑",
+   "url": "https://www.newsis.com/view/NISX20261019_0003831497",
+   "source": "네이버 중국 경기부양",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 11:44"
+  },
+  {
+   "title": "[동북아 정세 브리핑] 중국 3분기 성장률 4.5% 반등·인민은행 금리 동결...",
+   "url": "http://kor.theasian.asia/archives/412216",
+   "source": "네이버 중국 경기부양",
+   "publisher": "kor.theasian.asia",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 08:54"
+  },
+  {
+   "title": "AI leads ‘longest losing streak’ for Chinese stocks",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fdnBBNjFaaWhCWjRTMEhqbWRyZFctSXNBOHlTa3MyUEtNQ2c0TXdMTmtXXzZjQ3lJZDlrNHNlZ0JYZE9yT25weE82OFNCM0dqenhsdzBiSnZqdmhfeGQ3eEZ3R2tzX19DNlE1UVJaV3Rna1dHYVFwSQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "Protos | Informed crypto news",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 04:30"
+  },
+  {
+   "title": "[亞증시-종합] 반도체주 약세·경제 지표 호조에 엇갈림",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1N2xMc196MG5RUVFMNTVmVm1XRnlJRXEwdVRfcWZ0aGRITDdLVkZCaDQxTUd5RU5NRG90WjQzMC1meV91WUlZTFNKTEtfUmhUMzVfd3FGTUdRQzBNUV96bU1yTVJ2UzRnMXFxaU1hVXc?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 19:24"
+  },
+  {
+   "title": "中 3분기 4.5% 성장… 내수·부동산은 여전히 엄동설한",
+   "url": "https://www.fnnews.com/news/202610191820411115",
+   "source": "네이버 중국 경기부양",
+   "publisher": "파이낸셜뉴스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 18:21"
+  },
+  {
+   "title": "[中 증시 마감] GDP 예상 상회에 상승...방산섹터 연일 강세",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFY1d4UVktQi02aThTSnJJQlhqdmNkbk5EQUNXRF9MZGdjY19SZDBpOUowWmM3NUtYRkwxcEttTE9zVjNRa2FtVkRsbUpxRVpvaDhxNUNReELSAVhBVV95cUxQRWNXeFFZLUItNmk4U0pySUJYanZjZG5OREFDV0RfTGRnY2NfUmQwaTlKMFpjNzVLWEZMMXBLbUxPc1YzUWthbVZEbG1KcUVab2g4cTVDUXhC?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 16:06"
+  },
+  {
+   "title": "중국 창신메모리 7.15% 급락…\"3분기 순이익 성장 정체\"",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2120007",
+   "source": "네이버 중국 증시",
+   "publisher": "4th.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 15:52"
+  },
+  {
+   "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
+   "url": "https://www.hankyung.com/article/202610190820i",
+   "source": "네이버 중국 경기부양",
+   "publisher": "한국경제",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 14:51"
+  },
+  {
+   "title": "유비테크 이어 유니트리 주가도 폭등세, 中 휴머노이드 로봇 정책 훈풍",
+   "url": "https://www.newspim.com/news/view/20261019001049",
+   "source": "네이버 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 14:36"
+  },
+  {
+   "title": "중국 9월 산업생산 5.5%↑·소매판매 1.1%↑…예상 웃돌아",
+   "url": "https://www.newsis.com/view/NISX20261019_0003831551",
+   "source": "네이버 중국 경기부양",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 12:35"
+  },
+  {
+   "title": "SSE Composite Falls to 3,707.48, Hitting Lowest Level Since July 2025 on EU Trade Fears and AI Selloff",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDVUMkxJRWIyYmdHcGQwMm9hbXB4QngtWER5WTBUSEtqdjVON0haSTF6bmVCZ2JGVEhCRGdpT3NNWjJUUjdBRTFYcklJQWp2aHI1ekdKcjZobUhYLVh4dXFpN0FSOUlCdUNKeTU1Sms2Rmk5MUNmT0pFZHZvS2lYM0UxX3VnbVZ4MVFGWDA1Mmc1U3dRY2plRWEwTXNaSzdSUmRxMXhGV20tY0ptVGJVbkJVT1U1QzBYYUdWcHBuRWhNUl9vaGx3UmNMVHFJTE5NQXozRWRuSHg?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 11:27"
+  },
+  {
+   "title": "China Stocks Fall Despite Strong Data",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczJEWHJxMUNGYkJaeDY4Njg5eEg4NXQ1UVh3RDh4eXhOdXlBWXNxY25yb2R4ajBpbXVXTC1TeVBPbmxZbjFEMTAxN1hra05PYS1Ncm9uMlZWMDFrc2hWekRDUFlJcDROVzRLNmNuNDBaMU1MVndzNHFCVW1wQVBtTnF3WHQ0b0lHVXpuYi1sWGR5QQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 11:22"
+  },
+  {
+   "title": "\"수출 폭발이 내수 부진 메웠다\"… 中 3분기 GDP 4.5% 성장 '선방'",
+   "url": "https://www.g-enews.com/view.php?ud=2026101911130924600c8c1c064d_1",
+   "source": "네이버 중국 경기부양",
+   "publisher": "g-enews.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 11:16"
+  },
+  {
+   "title": "中 3분기 성장률 4.5%로 반등…경제 반등에도 '속 빈 강정' [차이나 워치...",
+   "url": "https://www.hankyung.com/article/202610199836i",
+   "source": "네이버 중국 경기부양",
+   "publisher": "한국경제",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 11:05"
+  },
+  {
+   "title": "코어위브 부실에 中 딥시크·CXMT 쇼크까지 곳곳서 경고음 … 기로에 선...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/19/2026101900052.html",
+   "source": "네이버 중국 증시",
+   "publisher": "biz.newdaily.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-19 09:58"
+  },
+  {
+   "title": "[AI MY 뉴스] 20일 중국증시 'AI 투자 회의론 여전…中 증시, 성장·부양...",
+   "url": "https://www.newspim.com/news/view/20261020000033",
+   "source": "네이버 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 07:51"
+  },
+  {
+   "title": "从消费白马到硬科技：近十年A股“股王”轮动折射产业变迁",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oM2lkOGJoNmxkRGRuaHRvX3owcUg2dll1TEJLTi1PTm5BNEhEZ3BsYmFFUHJ5V3Y4ek1nbGpRWHVoNHZlb1A5N3lTbHVPZTRRVlJKTmpPMlZsa3J0?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "证券时报网",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 07:50"
+  },
+  {
+   "title": "Hong Kong Stock Exchange Closed for Chung Yeung Holiday: Hang Seng Holds at 24,186.83 Ahead of Tuesday's LPR Decision",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb08tTUlNVG54RU52V3pfS3VrUlZsTmxlT1NrOUFVeUhNMHhaa1RNS085dHJkZFRBVWJoSWpxaDRUbUJQajZrNmpjR0NRaGZ4bXhyam4tVUlfbktGUTA1RjM0QVl3a2VPcEhGX1lDQURPS3phYWE3c3NTZUcza0xlY3h2V281NFFKd3lKbGxIanRXeEQ1XzVyX1REanlMV3prYU01QktPaFYwcmV5al9FdEVZOVhkQm9JVFhlME1ZdmNpbmdoNFVtMHJBdTNqVVNHR1VuRWZhclEzOHIzSGRtQ25uWkw2RnByLVhCXw?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 07:35"
+  },
+  {
+   "title": "\"국채 수익률 2배 넘는다\"… 中 투자자, 기술주 던지고 '고배당 가치주...",
+   "url": "https://www.g-enews.com/view.php?ud=2026101917563813350c8c1c064d_1",
+   "source": "네이버 중국 증시",
+   "publisher": "g-enews.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 05:26"
+  },
+  {
+   "title": "Nikkei 225 Slips to 67,744.29, Extending Its Losing Streak to Five Sessions on ASML Supply Warning",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQzBqaVhGaHRTR0ZYNXpyNGxWRXdjNHhxWTEtdThMVk5TbHgtdGE2bzl0Tm03SGpaM2M4QnVmWUlYMXdSS0NTTXEwNWdRSldqQTVNUk5xSzNUV1gtVDJvblhrVXRoNTlSNXE4c2MycFFsdnlpbnBseVlLMnplWFJ1Um5rYlhFNWdZeGpydkFyWHh4Z3lyUU11Z3o3R3VHaW5ZYmpCMklSbjFFdFF1OGtCbVBObXFUampPamdhV2RFSmQ2Y3JyLXdrUUNoSGhWS0JlYUs0?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 00:01"
+  },
+  {
+   "title": "아시아증시, AI 투자 부담에 혼조세⋯日 닛케이 0.6%↓",
+   "url": "https://www.etoday.co.kr/news/view/2637542",
+   "source": "네이버 일본 증시",
+   "publisher": "etoday.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 17:04"
+  },
+  {
+   "title": "[일본 증시] 닛케이, 0.6% 하락 마감...반도체주에 매도세",
+   "url": "https://www.newspim.com/news/view/20261019001309",
+   "source": "네이버 일본 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 16:19"
+  },
+  {
+   "title": "홍콩 휴장 속 일제히 약세…닛케이 1.2%↓[Asia오전]",
+   "url": "https://www.mt.co.kr/world/2026/10/19/2026101911453079193",
+   "source": "네이버 일본 증시",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 12:00"
+  },
+  {
+   "title": "日 증시, 美 기술주 투매에 하락 개장…닛케이 다시 63,000선",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439902",
+   "source": "네이버 일본 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 11:28"
+  },
+  {
+   "title": "日 키옥시아, 63% 추락은 시작일까⋯‘빚투 폭탄’ 경고음",
+   "url": "https://www.etoday.co.kr/news/view/2637288",
+   "source": "네이버 일본 증시",
+   "publisher": "etoday.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 11:02"
+  },
+  {
+   "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZzlrRVp3SjY0Qjc1ejhzdHcxQWFQejJLS2hfZzJocWhnV3AtUi1OM1NGX2s2b0NjQkV4NnpYZUxTOGJTRVBlSEM2blAzMXRhbjNydFRjVnYyNGM4a25waTR1aGVTVWt1MXlKOURybDlzS0kxQXVrbUNlQTlRN3lxa3YxMEZ5djByOUhzTlg4MUZUYTRMT1V6MzBYODY3d2FhSk5zRkxMdWpocU1KYTV0TUVLMUtHcWZHbkJWVHVHc2NIRGFwQ1F2c0x3?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 07:19"
+  },
+  {
+   "title": "Oil Prices Fall as Donald Trump’s Russia Sanctions Relief Meets Hormuz Crisis",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNai10blFhUm1aak5sLXRzNzl0SXJIN2VEOGFzVmVYUmlBMjRpbDlhVkRlX0ZiWUdQYkFVc3E0WWxKNVM3OFVhaXg4ejdYYmNDQmFKZjQ0OTJabUhfTlZRRFFVN3lmRWVOUXhhQXNuT2hUMHFtczZTYkZRMWlUbTE3VzFEUTVfNlBtSW9UbUZB?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 05:05"
+  },
+  {
+   "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 04:11"
   },
   {
    "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
@@ -144,6 +492,42 @@
    "lang": "en",
    "category": "US",
    "published_at_kst": "2026-10-19 19:36"
+  },
+  {
+   "title": "AI 투자비 회수 우려에 한일 증시 동반 하락…유가 내리자 美 선물 반등",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03011046645614560&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "네이버 일본 증시",
+   "publisher": "이데일리",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 11:18"
+  },
+  {
+   "title": "Japan, South Korea Stocks Weaken in Early Trading; Kospi Drops Over 1%, Nikkei 225 Falls Over 1.7%, SoftBank Drops Over 4%",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFlYZGwtS2ZKcFRoTkRrWUstTmVldVZ4bmRqanFYMzZjY2o0cnB2OVRCRWZOS1FjRU5iUmtHbXFBT3Nkc3o0bEFCZVQ1Zmp5RV8wd0pqbVJqZlgtX29nNUhmNmdZOVJVMlBOYmxXNk12UzhmTGhGRTNSQmZJeF9vTzdSa1JDbDZvOXJpM3RLNWt2WnlmUUotQ3ZLWS1yQ1NwX1BFQk9Md2UtZ3o3NC0zVGlseGViZVctRFh0aXcxbzVteDRDSlRwa0xET010cmlBZFRDWjdn?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "TradingKey",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-19 09:38"
+  },
+  {
+   "title": "WP \"美, 우크라 패트리엇 미사일 확보에 제동…방공망 비상\"",
+   "url": "https://www.news1.kr/world/usa-canada/6325411",
+   "source": "네이버 국제유가",
+   "publisher": "뉴스1",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:47"
+  },
+  {
+   "title": "\"글로벌 헤지펀드, 지난 주 기술주 역대급으로 팔아 치워\"...골드만삭스...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=2026102009303245122aaae0046f_30",
+   "source": "네이버 반도체 주가",
+   "publisher": "beyondpost.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 09:36"
   }
  ],
  "thebell": [],

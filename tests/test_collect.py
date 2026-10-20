@@ -151,3 +151,88 @@ def test_feedparser_never_receives_url(monkeypatch):
 
     assert "arg" in captured
     assert not captured["arg"].startswith("http")
+
+
+# --- (g) 네이버 뉴스(API HUB): 헤더 키·파싱·키 없으면 생략 -------------------
+
+NAVER_JSON = {"items": [
+    {"title": "<b>코스피</b>, 외국인 매수에 &quot;반등&quot;", "originallink": "https://www.hankyung.com/article/1",
+     "link": "https://n.news.naver.com/mnews/article/015/1", "description": "<b>코스피</b>가 올랐다",
+     "pubDate": "Tue, 20 Oct 2026 09:30:00 +0900"},
+    {"title": "", "originallink": "https://x.com/2", "link": "", "description": "", "pubDate": ""},
+]}
+NAVER_CFG = {"name": "네이버 코스피", "type": "naver_news", "query": "코스피", "category": "KR", "lang": "ko", "max_items": 25}
+
+
+def _naver_keys(monkeypatch, present: bool):
+    monkeypatch.setattr("brief.collect.naver.get_keys", lambda names: ["test-id", "test-secret"] if present else None)
+    monkeypatch.setattr("brief.collect.naver._throttle", lambda s: None)
+
+
+@respx.mock
+def test_naver_news_sends_hub_headers_and_parses(monkeypatch):
+    from brief.collect.naver import NaverNewsAdapter
+
+    _naver_keys(monkeypatch, True)
+    route = respx.get(url__regex=r"https://naverapihub\.apigw\.ntruss\.com/search/v1/news.*").mock(
+        return_value=httpx.Response(200, json=NAVER_JSON)
+    )
+    r = NaverNewsAdapter(NAVER_CFG, {"naver_media_domains": {"hankyung.com": "한국경제"}}).fetch()
+
+    req = route.calls[0].request
+    assert req.headers["X-NCP-APIGW-API-KEY-ID"] == "test-id"
+    assert req.headers["X-NCP-APIGW-API-KEY"] == "test-secret"
+    assert req.url.params["query"] == "코스피" and req.url.params["sort"] == "date"
+    assert r.ok and r.count == 1
+    a = r.articles[0]
+    assert a.title == '코스피, 외국인 매수에 "반등"'
+    assert a.url == "https://www.hankyung.com/article/1"
+    assert a.publisher == "한국경제" and a.summary == "코스피가 올랐다"
+    assert a.published_at == datetime(2026, 10, 20, 0, 30, tzinfo=timezone.utc)
+
+
+def test_naver_without_keys_is_skipped_not_failed(monkeypatch):
+    _naver_keys(monkeypatch, False)
+    cfg = {"defaults": {}, "sources": [NAVER_CFG]}
+    assert collect_all(cfg) == []
+
+
+def test_env_shared_file(tmp_path, monkeypatch):
+    from brief.env import get_keys
+
+    monkeypatch.delenv("NAVER_CLIENT_ID", raising=False)
+    monkeypatch.delenv("NAVER_CLIENT_SECRET", raising=False)
+    monkeypatch.delenv("SHARED_ENV_FILE", raising=False)
+    (tmp_path / "other").mkdir()
+    (tmp_path / "other" / ".env").write_text("NAVER_CLIENT_ID=a\nNAVER_CLIENT_SECRET=b\n", encoding="utf-8")
+    root = tmp_path / "proj"
+    root.mkdir()
+    assert get_keys(["NAVER_CLIENT_ID"], root) is None
+    (root / ".env").write_text("# c\nSHARED_ENV_FILE=../other/.env\nNAVER_CLIENT_SECRET=local\n", encoding="utf-8")
+    assert get_keys(["NAVER_CLIENT_ID", "NAVER_CLIENT_SECRET"], root) == ["a", "local"]
+    monkeypatch.setenv("NAVER_CLIENT_ID", "env")
+    assert get_keys(["NAVER_CLIENT_ID"], root) == ["env"]
+
+
+def test_naver_pages_until_window(monkeypatch):
+    from brief.collect import naver
+
+    _naver_keys(monkeypatch, True)
+    # 1쪽 = 윈도 뒤(오후) 기사 100건, 2쪽 = 윈도 안 3건 + 윈도 앞 1건(여기서 멈춤)
+    late = [{"title": f"late{i}", "link": f"https://a.kr/l{i}", "pubDate": "Tue, 20 Oct 2026 15:00:00 +0900"} for i in range(100)]
+    inside = [{"title": f"in{i}", "link": f"https://a.kr/i{i}", "pubDate": "Tue, 20 Oct 2026 08:00:00 +0900"} for i in range(3)]
+    old = [{"title": "old", "link": "https://a.kr/o", "pubDate": "Sun, 18 Oct 2026 08:00:00 +0900"}]
+    pages = {1: late, 101: inside + old + late[:96]}
+    calls: list[int] = []
+
+    def fake_page(self, display, start):
+        calls.append(start)
+        return pages[start]
+
+    monkeypatch.setattr(naver.NaverNewsAdapter, "_get_page", fake_page)
+    from brief.window import window_end, window_start
+    from datetime import date
+    d = date(2026, 10, 20)
+    r = naver.NaverNewsAdapter(NAVER_CFG, {"window": (window_start(d), window_end(d)), "naver_max_pages": 4}).fetch()
+    assert calls == [1, 101]
+    assert [a.title for a in r.articles] == ["in0", "in1", "in2"]

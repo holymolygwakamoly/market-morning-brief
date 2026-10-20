@@ -2,7 +2,7 @@
 
 > **목적**: 새 Claude Code 세션이 이 파일 + `PLAN.md`만 읽으면 지금까지의 맥락·결정·현재 상태를 그대로 이어갈 수 있게 하는 인수인계 문서.
 > 사용자 불러오기 명령: **`HANDOFF.md 읽고 이어서 진행해줘`**
-> 마지막 갱신: 2026-09-21 (월) — **v4.0 구현 완료·push됨. 사용 단계. GitHub Pages 공개 링크 활성화됨.** 상세 이력(v1~v3 계획, 리뷰, 결정 표 원문)은 `.omc/plans/archive/`와 git 로그에만 있음(평소엔 읽지 않아도 됨).
+> 마지막 갱신: 2026-10-20 (화) — **네이버 뉴스 검색(NAVER API HUB) 소스 19개 추가.** v4.0 사용 단계, GitHub Pages 공개 링크 활성화됨. 상세 이력(v1~v3 계획, 리뷰, 결정 표 원문)은 `.omc/plans/archive/`와 git 로그에만 있음(평소엔 읽지 않아도 됨).
 
 ---
 
@@ -15,6 +15,7 @@
 [완료] v1~v3 (09-14~15): 딥 인터뷰 → 계획 합의 → 단일 3부 보고서 + 로컬 대시보드(Claude CLI) 구현·사용
 [완료] v4.0 (09-17): "리서치 대시보드" 재구성 구현(Step A~F), 실제 1회 실행 관측, push (커밋 a643c0c, 78250de)
 [완료] 09-18·09-21 사용자 직접 업데이트 성공(6/6) · GitHub Pages 설정·게시 확인(09-21)
+[완료] 10-20 네이버 뉴스 검색 소스 추가(Google News 타임아웃 보강) — 같은 날 재실행: 기사 82→400건, 유럽 근거 7→46·중국 5→44
 [대기] 결정 19(robots API 기준) 확인
 ```
 
@@ -25,6 +26,8 @@
 ## 2. 확정 규칙 (되묻지 말 것)
 
 **비용·모델**: API 결제 없음. LLM = `claude -p`(구독). **모든 단계 opus**(`BRIEF_MODEL`). 비용 경고 없음(청구 없음).
+**네이버 키**: `NAVER_CLIENT_ID/SECRET` = **NAVER API HUB** 인증 정보(개발자센터 아님, 헤더 `X-NCP-APIGW-API-KEY-ID`/`X-NCP-APIGW-API-KEY`). 키 원본은 `..\자산운용사 동향\.env` 하나만 두고, Research `.env`(gitignore)는 `SHARED_ENV_FILE=../자산운용사 동향/.env` 포인터만 가짐. 값 출력 금지. 키 없으면 네이버 소스는 생략(실패 아님).
+**자산운용사 동향 연동**: 그쪽 `amc brief update`가 `Research\.venv` python으로 `brief.pipeline`을 cwd=Research로 실행 → 시장 브리핑 탭이 `docs/data/<날짜>/`를 읽음. 키는 Research가 스스로 읽으므로 그쪽 코드 수정 불필요.
 **소스**: 무료 공개 소스만. **더벨은 Google News RSS 헤드라인만**(thebell.co.kr 직접 호출 0건, 테스트로 강제). robots 기준: 콘텐츠 페이지는 robots 준수, JSON API(Yahoo `query1/query2` 등)는 낮은 요청량·식별 UA·캐시로 사용(README §4 — **결정 19, 사용자 확인 대기**).
 **대시보드**: 좌측 탭 7개(홈/거시경제/섹터별 주요뉴스/미국시장/유럽시장/한국시장/중국시장). 상단 기준일 + [업데이트]. **업데이트는 오늘(KST)만, 하루 1회**(완료된 날 409, 실패한 날은 재시도 가능). 탭별 [이 탭 재생성]은 당일 횟수 제한 없음. 과거 기준일은 저장분만(없으면 "내역 없음").
 **구성종목 순위**: **미국(S&P500·나스닥100·다우30)·한국(코스피·코스닥)만**, 등락폭/거래대금/시가총액 내림차순. 유럽·중국·나스닥 종합·러셀·스톡스600은 카드만.
@@ -39,7 +42,7 @@
 
 ## 3. 어떻게 돌아가나 (코드 안 읽어도 되게)
 
-- **`brief/pipeline.py`** `update(date)`: market(Yahoo 45심볼 + 구성종목 5표, ≈30초) ∥ collect(뉴스 30소스, 3분 예산) → window(직전 영업일 06:50 KST~, 월요일 72h) → dedupe(소스당 40, 총 400) → **stage1** 태깅(opus, 200건 배치 ×2 병렬, 배치당 캡 2회, 480s; 지역 US/EU/KR/CN/JP/MACRO/GLOBAL·섹터·AI·story_key) → `select_for_topics`(토픽별 지역 쿼터 + AI 보강, 더벨은 kr·sectors만) → **stage2** `run_topics`(6토픽, 동시 3, 토픽당 캡 2회, 480s) → JSON 스냅샷. 내부 데드라인 45분. `regenerate(date, topics)`는 저장된 `inputs.json` + 시장 데이터로 해당 토픽 stage2만.
+- **`brief/pipeline.py`** `update(date)`: market(Yahoo 45심볼 + 구성종목 5표, ≈30초) ∥ collect(뉴스 30소스, 3분 예산) + **네이버 뉴스 19검색어**(`naver_news`, 최신순·윈도 안 기사까지 최대 4쪽, 0.5초 간격, 검색어당 25건; 파이프라인이 `defaults.window`를 넣어 줌) → window(직전 영업일 06:50 KST ~ 기준일 09:50, 월요일 72h) → dedupe(소스당 40, 총 400) → **stage1** 태깅(opus, 200건 배치 ×2 병렬, 배치당 캡 2회, 480s; 지역 US/EU/KR/CN/JP/MACRO/GLOBAL·섹터·AI·story_key) → `select_for_topics`(토픽별 지역 쿼터 + AI 보강, 더벨은 kr·sectors만) → **stage2** `run_topics`(6토픽, 동시 3, 토픽당 캡 2회, 480s) → JSON 스냅샷. 내부 데드라인 45분. `regenerate(date, topics)`는 저장된 `inputs.json` + 시장 데이터로 해당 토픽 stage2만.
 - **`brief/market/`**: Yahoo 차트 일봉(`range=1mo`)에서 **현지 날짜 < 기준일인 마지막 봉** = 직전 완료 세션(장중 값 혼입 방지). 구성종목 목록 = Wikipedia(S&P500, 나스닥100 목록 페이지) / stockanalysis.com(다우30, 섹터는 S&P500 목록으로 보충) / KRX KIND 상장법인 목록(코스피·코스닥, 6자리 숫자 코드만) → `.cache/`에 7일 캐시(실패 시 오래된 캐시). 시세 = Yahoo v7 배치 quote(crumb, 250심볼/요청, 시총·거래량·등락률). **한국 표는 장중에 업데이트하면 장중 값**(표에 노트). 거래대금 = 거래량×종가 추정. **KRX 수급(외국인·기관·개인) 데이터 없음**(로그인 필요) → 보고서는 기사 언급분만.
 - **`brief/analyze/`**: `client.py` = `claude -p --model <m> --no-session-persistence --tools "" --output-format json --json-schema <schema> --system-prompt <sys>`(user=stdin), `--bare` 금지, 자식 env에서 `CLAUDE*` 제거, 스레드 안전. `schemas.py` = `TopicReportOut{title, overview, sections[{heading, body, bullets}], leaders, events_today, headlines[{text, importance}], data_caveats, disclaimer}`(거시·미국·유럽·한국·중국) / `SectorReportOut{…, sectors[{name, direction, markets, reason, news, leaders, etf_note}], ai_sector, cross_events}`. 검증: overview ≥150자, 섹션 ≥4개·각 ≥200자, headlines 1~3, disclaimer 고정 — **분량 규칙만 미달이면 마지막 시도에서 완화 게시**(warnings `length_short`). 프롬프트·섹션 구성은 `topics.py` `_TOPIC_SYSTEM`.
 - **`brief/serve.py`** (127.0.0.1:8765, `BRIEF_PORT`): `GET /`(SPA) · `POST /api/update {date}` · `POST /api/regenerate {date, topic}` · `GET /api/status` · `POST /api/publish`(git add docs → commit → pull --rebase → push ×3) · 정적 `docs/` 루트. 포트 사용 중이면 브라우저만 열고 종료.
@@ -57,6 +60,7 @@
 - **KRX 수급**: 로그인 자격 증명은 채팅·리포에 넣지 않음. 사용자가 나중에 KRX **Open API 키**(openapi.krx.co.kr, 무료)를 발급받아 `.env`(gitignore)에 `KRX_API_KEY=`로 넣기로 함 → 그때 수급·전종목 어댑터 추가(이용약관 확인 후).
 - **다음 단계(사용자 의향, 미착수)**: 이 대시보드 데이터·보고서를 바탕으로 **실제 매매 전략 수립**. 착수 시 딥 인터뷰부터(전략 유형·시장·리스크 한도·백테스트 여부 등). 현재 보고서는 참고 자료이며 매매 추천 로직은 없음.
 - 나스닥100·다우 구성종목은 현재 Wikipedia/stockanalysis + Yahoo로 정상(102/30 전부 수집). 네이버 금융은 HTML 크롤링·약관 문제로 쓰지 않음.
+- 네이버 API HUB는 한시 무료(유료화 가능성) — 유료화되면 `sources.yaml`의 naver_news 항목을 지우면 됨.
 - follow-up(낮음): 한국 구성종목 전일 종가 기준화(현재 장중 업데이트 시 장중 값), 유럽·중국 뉴스 소스 보강(Google News 의존), 스냅샷 정리 스크립트, 카드 클릭 시 미국·한국 외 지수 5일 차트 뷰, RSS 인코딩·pubDate None 처리, BOK 피드 오래됨.
 
 ---

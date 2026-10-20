@@ -12,7 +12,7 @@ KST = ZoneInfo("Asia/Seoul")
 MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "200"))
 PER_SOURCE_MAX = 40
 
-ADAPTER_TYPES = {"rss", "google_news"}
+ADAPTER_TYPES = {"rss", "google_news", "naver_news"}
 
 _DEFAULT_SOURCES_PATH = Path(__file__).resolve().parent / "sources.yaml"
 

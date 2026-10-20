@@ -3,7 +3,7 @@
 폴더 안의 **`시장브리핑 대시보드`** 바로가기를 누르면 브라우저에 대시보드가 열립니다. 상단 기준일을 **오늘**로 두고 **[업데이트]** 를 누르면(하루 1회):
 
 1. 미국·유럽·한국·중국 지수, 환율·금리·원자재, 미국 섹터 ETF 시세와 **S&P500·나스닥100·다우30·코스피·코스닥 전 구성종목**(등락률·거래대금·시가총액)을 무료 공개 JSON에서 수집하고,
-2. 30여 개 무료 뉴스 소스(RSS·Google News, 더벨은 헤드라인만)를 모아 Claude Code(구독)로 태깅한 뒤,
+2. 30여 개 무료 뉴스 소스(RSS·Google News, 더벨은 헤드라인만) + **네이버 뉴스 검색 19개 검색어**(키가 있을 때)를 모아 Claude Code(구독)로 태깅한 뒤,
 3. **거시경제 / 섹터별 주요뉴스 / 미국시장 / 유럽시장 / 한국시장 / 중국시장** 보고서 6종을 opus로 생성해 `docs/data/<기준일>/`에 저장합니다.
 
 좌측 탭으로 보고서를 읽고, 홈의 지수 카드를 누르면 구성종목을 **등락폭 / 거래대금 / 시가총액** 기준으로 정렬해 볼 수 있습니다. 지난 기준일은 그날 업데이트한 스냅샷만 볼 수 있습니다(지나간 날은 새로 만들 수 없음). 약 12~20분 걸립니다.
@@ -22,7 +22,8 @@
    python -m venv .venv
    .venv\Scripts\pip install -r requirements.lock -e .
    ```
-3. (선택) 바로가기 아이콘이 없으면 `powershell -ExecutionPolicy Bypass -File scripts\make_shortcut.ps1` 로 `시장브리핑 대시보드.lnk` 를 다시 만듭니다.
+3. (선택) **네이버 뉴스 검색 키** — 폴더에 `.env`(git 제외)를 두고 `SHARED_ENV_FILE=../자산운용사 동향/.env` 처럼 키가 든 공용 env 파일을 가리키거나, `NAVER_CLIENT_ID=`/`NAVER_CLIENT_SECRET=` 를 직접 넣습니다(NAVER API HUB 인증 정보, 개발자센터 키 아님). 없으면 네이버 소스만 건너뜁니다(실패로 세지 않음).
+4. (선택) 바로가기 아이콘이 없으면 `powershell -ExecutionPolicy Bypass -File scripts\make_shortcut.ps1` 로 `시장브리핑 대시보드.lnk` 를 다시 만듭니다.
 
 ## 2. 사용법
 
@@ -62,6 +63,7 @@
 | 빨간 "업데이트 실패" 배너 | `docs/data/<날짜>/status.json` 의 `error`, 대시보드 로그 | 일시 오류면 다시 업데이트. 같은 오류 반복이면 로그를 이슈로 |
 | "생성 실패한 보고서: …" 배너 | 해당 탭의 오류 메시지 | 그 탭에서 [이 탭 재생성] |
 | "누락 소스: …" 배너 | `status.json` 의 `sources[].error` | 개별 소스 장애는 무시 가능. Google News 계열이 전부 누락이면 `scripts\probe.py` 로 `news.google.com` 접속 확인(사내망 차단 등) |
+| 로그에 `sources skipped (no API key)` | `.env` / `SHARED_ENV_FILE` 경로 | 네이버 키를 못 찾음 — §1 3번 |
 | 지수 카드 일부 없음 / "시장 데이터 경고" | `home.json` 의 `market_errors` | Yahoo 일시 장애. 다음 업데이트 때 재시도 |
 | 구성종목 표가 비었거나 일부만 | `docs/data/<날짜>/indices/<키>.json` 의 `error`, `rows/total` | 목록 소스(Wikipedia/KIND) 실패 시 7일 캐시(`.cache/`)를 쓰고, 그것도 없으면 빈 표. Yahoo 배치 실패 시 부분 표 |
 | [GitHub에 게시] 실패 | 출력의 git 메시지 | 자격 증명(`git push` 가 터미널에서 되는지) 확인, 충돌이면 `git pull --rebase` 후 재시도 |
@@ -73,13 +75,13 @@
 ## 4. 소스 정책
 
 - **무료 공개 소스만.** 유료 API·유료 벽 우회 없음. 목록은 `brief/sources.yaml`.
-  - 뉴스: RSS / 공식 보도자료 피드(Fed·ECB·BoE·한국은행) / Google News RSS 검색.
+  - 뉴스: RSS / 공식 보도자료 피드(Fed·ECB·BoE·한국은행) / Google News RSS 검색 / **네이버 뉴스 검색 API**(NAVER API HUB `naverapihub.apigw.ntruss.com/search/v1/news`, 공식 API·키 필요 — 제목·링크·발행시각·요약 스니펫만, 0.5초 간격, 검색어당 최대 4쪽).
   - 시세: Yahoo Finance 차트·quote JSON(지수·ETF·환율·원자재·개별 종목 시세·시가총액).
   - 구성종목 목록: Wikipedia(S&P500·나스닥100, CC-BY-SA) / stockanalysis.com(다우30) / KRX KIND 상장법인 목록(코스피·코스닥). 7일 캐시.
 - **더벨(thebell.co.kr)은 직접 접근하지 않습니다.** `robots.txt`가 검색봇 외 전면 차단이므로 Google News RSS(`site:thebell.co.kr`)로 제목·링크·발행시각만 수집합니다. 코드가 `thebell.co.kr` 호스트를 호출하지 않는지 테스트로 강제합니다.
 - **robots.txt 적용 기준(2026-09-17 정리)**: 기사·본문 같은 **콘텐츠 페이지**는 robots.txt를 그대로 따릅니다(더벨 사례). 사이트의 자체 프론트엔드가 쓰는 **JSON API 엔드포인트**(Yahoo `query1/query2`, nasdaq `api.*` 등)의 `Disallow: /`는 검색엔진 색인 금지 목적이므로 접근 자체를 막는 것으로 보지 않되, 하루 수십 회 수준의 낮은 요청량, 식별 가능한 User-Agent, 결과 캐시로 예의를 지킵니다. 이 기준을 바꾸려면 여기와 `PLAN.md` §11.3 을 함께 고치세요.
 - 제외한 소스와 이유: KRX 정보데이터시스템(로그인 없이는 `LOGOUT` 응답 → 투자자별 수급 데이터 없음, 보고서는 기사 언급분만 서술), nasdaq.com 스크리너(Yahoo로 대체 가능해 미사용), 네이버 금융(HTML 크롤링·접근 불안정), Invesco/iShares 보유내역(WAF·HTML 응답), BLS·IMF RSS(403), 미 재무부 RSS(타임아웃).
-- 어댑터 타입은 `rss` / `google_news` 화이트리스트로 제한합니다(페이지 크롤링 없음). **새로 페이지 크롤링 타입을 추가할 때는 대상 사이트의 `robots.txt`와 이용약관을 반드시 확인하고 이 절에 근거를 남겨야 합니다.**
+- 어댑터 타입은 `rss` / `google_news` / `naver_news` 화이트리스트로 제한합니다(페이지 크롤링 없음). **새로 페이지 크롤링 타입을 추가할 때는 대상 사이트의 `robots.txt`와 이용약관을 반드시 확인하고 이 절에 근거를 남겨야 합니다.**
 
 ## 5. 구조
 
