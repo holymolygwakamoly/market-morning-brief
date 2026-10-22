@@ -1,0 +1,679 @@
+{
+ "topic": "macro",
+ "name": "거시경제",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-10-22T11:11:04.694043+09:00",
+ "report": {
+  "title": "[거시경제 데일리] 2026-10-22 | 한은 금통위 '매파적 동결' 전망, 미 10년물 5.15%, WTI·브렌트 엇갈린 흐름, 원/달러 연저점권",
+  "overview": "미 국채 10년물은 5.15%(+0.03), 5년물은 4.97%(+0.04)로 올랐고 3개월물은 4.06%(-0.02)로 내렸습니다. 고금리가 이어지는 가운데, 연준의 10월 인상 확률은 3주 만에 70%에서 17%로 떨어져 시장은 동결 쪽에 무게를 두고 있습니다. 원/달러는 1323.94원(-0.46%)으로 연저점을 다시 썼습니다. 수출 호조와 위험선호가 원화 강세를 이끌었지만, 오늘 오전에는 저가 달러 매수로 1320원대 중반에서 소폭 반등했습니다. 원유는 미·이란 종전 협상 기대에 WTI가 98.28달러(-5.19%)로 100달러 아래로 내려간 반면, 브렌트는 110.23달러(+1.32%)로 올라 방향이 갈렸습니다. 미국의 걸프 지역 외교관 철수 명령과 이란의 유조선 공격 보도가 공급 우려를 다시 키우고 있습니다. 오늘 열리는 한국은행 금통위는 동결이 유력하지만 11월 추가 인상 가능성을 열어 두는 매파적 메시지가 예상되고, 다음 주 FOMC(10/27~28)와 미국 3분기 GDP·9월 PCE(10/29)가 이번 주 이후 최대 변수입니다.",
+  "sections": [
+   {
+    "heading": "금리·채권",
+    "body": "10월 21일 미 국채 10년물 금리는 5.15%로 전일보다 0.03%p, 5년물은 4.97%로 0.04%p 올랐습니다. 3개월물은 4.06%로 0.02%p 내렸습니다. 기사 기준 10년물 종가는 5.145%(+2.9bp)이고, 30년물은 약 1.2bp 올랐습니다. 단기물은 내리고 중·장기물은 오르면서 3개월~10년 구간은 우상향 기울기가 커졌습니다(표 기준 10년-3개월 차이 약 1.09%p, 5년-3개월 약 0.91%p). 금리 상승의 배경은 세 가지로 읽힙니다. 첫째, 미국의 걸프 지역 대사관 직원 철수 보도로 유가가 오르며 국채 가격이 밀렸습니다(Bloomberg). 둘째, 프랑스 국채금리가 24년 만의 최고치로 뛰면서 선진국 국채 전반에 매도 압력이 번졌습니다(WSJ). 셋째, 연준 긴축이 이어질 것이라는 경계감입니다. 다만 시장의 금리 경로 기대는 오히려 완화되는 쪽입니다. 연준의 10월 인상 확률은 3주 전 70%에서 17%로 떨어졌고, 연방기금금리 선물에는 10월 동결 가능성이 80% 넘게 반영돼 있으며, 관심은 12월 회의의 정책 변화로 옮겨 갔습니다. 반면 클라우디아 샘 전 연준 이코노미스트는 '인상이 안전한 보험'이라며 반대 의견을 냈고, 케빈 워시 의장이 기존 통화정책 평가 기조를 유지하겠다고 밝혀 긴축적 환경이 당분간 이어질 것이라는 관측도 있습니다. 데이비드 저보스 재무부 고문은 금리 상승의 원인을 끈적한 인플레이션이 아닌 '에너지 충격'으로 진단했습니다. 오늘 아시아 시간에는 2년물이 2.70bp, 10년물이 0.90bp 오르고 30년물은 1.00bp 내리는 혼조세입니다. 독일 10년물은 3.42%(+2bp), 일본은 2.88%(-2bp)였습니다. 국내 국채선물은 뚜렷한 재료 없이 10년물이 1틱 하락했고, 한은의 '매파 신호'에 국내 금리가 오를 수 있다는 경계도 나옵니다. 연준의 추가 인상 가능성이 남아 있어 장기금리가 고점을 지났다고 단정하기 이르다는 평가가 많고, 그래서 가격 변동 위험이 큰 장기물 대신 3~7년물을 선호하는 의견이 있습니다.",
+    "bullets": [
+     "미 10년물 5.15%(+0.03), 5년물 4.97%(+0.04), 3개월물 4.06%(-0.02): 단기물은 내리고 중·장기물은 오르는 '베어 스티프닝'(장기 금리가 더 올라 커브가 가팔라지는 현상)",
+     "연준 10월 인상 확률: 3주 전 70% → 17%, 선물시장 동결 반영 80% 이상, 관심은 12월 회의로 이동",
+     "금리 상승 요인: 중동발 유가 반등, 프랑스 국채금리 24년 만의 최고치, 연준 긴축 경계",
+     "독일 10년물 3.42%(+2bp), 일본 2.88%(-2bp), 한국 CDS 프리미엄 24bp(변동 없음)",
+     "국채선물 10년물 1틱 하락, 한은 매파 신호에 국내 금리 상승 경계",
+     "채권 투자는 장기물보다 3~7년 중기물 선호 의견(추가 인상 변수 때문)"
+    ]
+   },
+   {
+    "heading": "환율",
+    "body": "달러인덱스는 101.72로 거의 변화가 없었고(-0.01%), 뉴욕 외환시장에서는 이틀째 약세였습니다. 미 국채금리 반등은 달러를 끌어올리는 요인이었지만, 영국 9월 소비자물가 상승률이 3.5%로 1년 만의 최고치를 기록하면서 추가 금리 인상 기대가 커진 파운드와 엔이 강세를 보여 달러 상승을 눌렀습니다. 미국의 걸프 지역 대사관 직원 철수 보도로 장중 출렁임도 있었습니다. 원/달러는 1323.94원으로 6.06원(-0.46%) 내려 연저점을 다시 썼습니다. 수출 호조로 수출업체의 달러 매도가 이어지고, 미국 기술주 반등 등 위험선호가 원화 강세를 뒷받침했습니다. 국제유가 상승세가 둔화된 점도 원화에 유리했습니다. 다만 오늘(22일) 오전 9시쯤에는 연저점 부근의 저가 달러 매수가 들어오면서 직전 거래일 주간 종가보다 2.4원 오른 1327.6원, 9시 27분 기준 1326.3원으로 1320원대 중반에서 소폭 반등했습니다. 시장에서는 1320원 초반까지 내려갈 수 있다는 전망도 나옵니다. 엔/달러는 158.27엔으로 0.16% 내려 엔이 약간 강해졌지만, 일본 기준금리가 1.25%로 미국(3.75~4.00%)보다 2.50~2.75%p 낮아 구조적인 엔저가 이어지고 있습니다. 유로/달러는 1.12로 0.10% 올랐는데, 프랑스 재정 불안이 유로화의 잠재적 약점입니다. 위안/달러는 6.68로 0.19% 내려 위안도 강세를 보였습니다. 한국 입장에서 원화 강세는 수입물가와 인플레이션 부담을 줄여 한은의 '속도 조절론'에 힘을 싣습니다. 반면 수출기업의 원화 환산 이익에는 부담이 될 수 있습니다.",
+    "bullets": [
+     "원/달러 1323.94원(-6.06원, -0.46%) 연저점 경신, 22일 오전에는 저가 매수로 1326~1327원대 소폭 반등",
+     "원화 강세 요인: 수출 호조에 따른 수출업체 달러 매도, 위험선호, 유가 상승세 둔화. 1320원 초반 하락 전망도 있음",
+     "달러인덱스 101.72(보합): 미 금리 반등은 달러 상승 요인이지만 파운드(영국 CPI 3.5%)·엔 강세가 상쇄",
+     "엔/달러 158.27(-0.16%): 미·일 기준금리 차이 2.50~2.75%p로 엔저 구조는 그대로",
+     "유로/달러 1.12(+0.10%), 위안/달러 6.68(-0.19%) 동반 강세",
+     "원화 강세는 한은 동결 근거를 강화하지만 수출기업 원화 환산 이익에는 부담"
+    ]
+   },
+   {
+    "heading": "원자재",
+    "body": "10월 21일 원유시장은 이례적으로 크게 엇갈렸습니다. WTI는 98.28달러로 5.38달러(-5.19%) 급락해 100달러 아래로 내려갔고, 브렌트는 110.23달러로 1.44달러(+1.32%) 올랐습니다. 하락 쪽 재료는 공급 회복 기대입니다. 미·이란 종전 협상 기대가 이어졌고, 10월 페르시아만 원유 수출 물량이 이란 전쟁 이전 수준을 거의 회복했거나 전쟁 전 고점을 넘었다는 보도가 나왔습니다. 미국은 중간선거를 앞두고 난방유 비축분 방출에 나섰고, 전직 에너지장관은 전쟁이 끝나면 유가가 '극적으로' 떨어질 것이라고 했습니다. 반면 상승 쪽 재료는 지정학적 위험입니다. 이란의 유조선 3척 공격, 미국의 사우디아라비아 주재 외교관 철수 명령 등 긴장이 다시 높아지면서 공급 차질 우려가 커졌습니다. 국내 기사에 따르면 브렌트는 장중 배럴당 112달러까지 올랐습니다. MarketWatch는 걸프 원유 흐름이 회복됐어도 회복세가 취약하고 해상 운송 위험이 남아 있어 가격이 곧바로 내려가기는 어렵다고 분석했습니다. 금은 4128.50달러로 0.76% 내렸습니다. 다만 기사마다 시점이 달라, 국채금리 안정과 저가 매수로 반등했다는 보도(Kitco, 국내 국제금융 브리핑 기준 4140.7달러 +0.38%)와 중동 신호·연준 금리 경로를 저울질하며 약보합이라는 보도(Bloomberg)가 섞여 있습니다. 미 10년물 5%대 고금리와 러시아의 9월 금 6.2톤 매각은 부담 요인이고, 중동발 인플레이션 우려는 지지 요인입니다. 국내 금값은 한 돈 65만9588원으로 반등했습니다. 구리는 6.53달러(-0.13%)로 보합권이며, 관련 뉴스는 확인되지 않았습니다.",
+    "bullets": [
+     "WTI 98.28달러(-5.19%) 100달러 하회 vs 브렌트 110.23달러(+1.32%), 장중 112달러: 두 유종의 가격 차이가 크게 벌어짐",
+     "하락 재료: 미·이란 종전 협상 기대, 걸프 원유 수출의 전쟁 전 수준 회복, 미국 난방유 비축분 방출(중간선거 대비)",
+     "상승 재료: 이란의 유조선 3척 공격, 미국의 사우디 주재 외교관 철수 명령 → 공급 차질 우려",
+     "금 4128.50달러(-0.76%): 고금리·러시아 금 매각(9월 6.2톤)은 부담, 중동발 인플레이션 우려는 지지",
+     "구리 6.53달러(-0.13%) 보합, 비트코인 82,941달러(+1.33%, 10/20 기준)는 스페이스X 호실적·금리 안정에 힘입어 8만4000달러 회복 보도"
+    ]
+   },
+   {
+    "heading": "중앙은행",
+    "body": "한국은행은 오늘(22일) 금융통화위원회에서 기준금리를 결정합니다. 동결 전망이 우세한 근거는 다음과 같습니다. 9월 소비자물가 상승률이 2.9%로 8월(3.15%)보다 낮아졌고, 근원물가(식료품·에너지 제외)도 2.8%로 8월(3.4%)보다 내려갔습니다. 고공행진하던 원/달러 환율이 1320원대로 안정된 점도 '속도 조절론'에 힘을 싣습니다. 다만 브렌트유가 장중 112달러까지 오르는 등 물가 압력이 남아 있어, 한은이 동결하더라도 11월 추가 인상 가능성을 남기는 매파적 기조를 유지할 것이라는 관측이 많습니다. 웃으며 회의장에 들어선 신현송 총재의 기자회견 발언 수위가 국내 채권금리의 방향을 정할 것입니다. 한은은 별도 보고서에서 고령화가 물가의 상·하방 불확실성을 키운다고 짚었습니다. 연준(현재 기준금리 3.75~4.00%)은 10월 27~28일 FOMC를 열고, 결과는 한국 시간 29일 오전 3시에 나옵니다. 시장은 동결 쪽으로 기울었지만, 워시 의장이 기존 평가 기조를 유지한다고 밝혔고 '다음 주에는 향후 인상 시점에 대한 시장 평가가 어느 정도 구체화될 것'이라는 전망이 있어 12월 인상 가능성에 대한 신호가 핵심입니다. 트럼프 대통령은 '미국의 적정 금리는 1%'라며 인하를 압박하고 있습니다. ECB는 10월 회의에서 동결하되, 에너지발 물가 부담 때문에 12월 추가 인상 가능성을 남겨 둘 것으로 예상됩니다. 프랑스 국채금리 급등과 관련해 ECB가 언제 개입할지를 두고 전망이 엇갈리지만, 과거보다 위기 대응 수단이 강화돼 유로존 전체로 번질 가능성은 낮다는 평가가 많습니다. BoE는 영국 9월 CPI가 3.5%로 1년 만의 최고치를 기록하면서 추가 인상 기대가 커졌습니다. BOJ는 기준금리 1.25%에서 직전 인상의 효과를 확인하며 동결하더라도, 고유가 장기화와 엔화 약세 때문에 추가 인상 여지를 열어 둘 것이라는 전망입니다. 인민은행 관련 발표나 발언은 입력 자료에 없습니다.",
+    "bullets": [
+     "한은(오늘): 동결 유력. 9월 CPI 2.9%·근원 2.8%로 둔화, 환율 1320원대 안정. 다만 11월 추가 인상 신호(매파적 동결) 가능성",
+     "연준: 기준금리 3.75~4.00%, FOMC 10/27~28, 결과 발표 10/29 03:00(한국 시간). 10월 동결 쪽으로 기울고 관심은 12월로 이동",
+     "ECB: 10월 동결 후 12월 추가 인상 가능성 열어 둘 전망, 프랑스 국채 대응을 위한 개입 시점이 쟁점",
+     "BoE: 영국 9월 CPI 3.5%(1년 만의 최고치)로 추가 인상 기대 확대",
+     "BOJ: 기준금리 1.25%, 동결하더라도 고유가·엔저로 추가 인상 여지",
+     "인민은행: 입력 자료에 관련 발표 없음"
+    ]
+   },
+   {
+    "heading": "경제지표",
+    "body": "어제(21일) 나온 지표 중 가장 눈에 띄는 것은 영국 9월 소비자물가 상승률입니다. 3.5%로 1년 만의 최고치를 기록해 파운드 강세와 BoE 추가 인상 기대로 이어졌습니다. 뉴질랜드 3분기 소비자물가는 전 분기보다 0.7% 올라 예상보다 낮았습니다. 미국에서는 임금 상승률이 물가 상승률에 크게 못 미친다는 연방 보고서가 나왔습니다. 실질소득이 줄어들면 소비가 둔화될 수 있다는 신호로, 에너지 충격이 가계 구매력을 깎고 있음을 보여 줍니다. 한국은 앞서 발표된 9월 소비자물가 2.9%, 근원물가 2.8%로 둔화세가 확인돼 오늘 금통위 판단의 핵심 근거가 됩니다. 러시아가 9월 금 6.2톤을 매각했다는 통계도 금값 부담 요인으로 언급됐습니다. 이 밖에 글로벌 기업 부도율 전망이 3%에서 5%로 크게 높아졌다는 보도가 있어, 고금리가 길어질 때 신용시장 위험이 커질 수 있다는 점도 짚어 둘 만합니다. 앞으로의 일정에서는 오늘 한은 금리 결정이 첫 번째 이벤트입니다. 다음 주에는 한국 시간 10월 29일 오전 3시 FOMC 결과, 같은 날 오후 9시 30분 미국 3분기 GDP 속보치와 9월 개인소득·소비지출 및 PCE 물가지표가 한꺼번에 나와, 연준의 12월 경로와 미국 국채금리의 5% 안착 여부를 가를 전망입니다.",
+    "bullets": [
+     "영국 9월 CPI 3.5%: 1년 만의 최고치 → 파운드 강세, BoE 추가 인상 기대",
+     "뉴질랜드 3분기 CPI 전 분기 대비 +0.7%: 예상 하회",
+     "미국: 임금 상승률이 물가 상승률을 크게 밑돈다는 연방 보고서 → 실질 구매력 약화 신호",
+     "한국 9월 CPI 2.9%(8월 3.15%), 근원 2.8%(8월 3.4%): 둔화",
+     "글로벌 기업 부도율 전망 3% → 5%로 상향: 고금리 장기화에 따른 신용 위험",
+     "예정: 10/29 03:00 FOMC 결과, 10/29 21:30 미국 3분기 GDP 속보치·9월 PCE(이상 한국 시간)"
+    ]
+   },
+   {
+    "heading": "지정학·정책",
+    "body": "시장의 가장 큰 변수는 여전히 미국·이란 관계입니다. 미·이란 종전(평화협정) 협상 기대에 WTI가 100달러 아래로 내려갔지만, 이란의 유조선 3척 공격과 미국의 걸프 지역(사우디아라비아) 대사관 직원 철수 명령이 전해지면서 공급 차질 우려가 다시 커졌습니다. 이 소식은 유가 반등과 미 국채 약세로 곧바로 이어졌습니다. 2월 말 미국과 이스라엘의 이란 공격 이후 에너지발 인플레이션이 각국 중앙은행의 금리 인상을 불렀다는 점을 생각하면, 종전 협상의 진전 여부가 금리·환율·원자재 전반의 방향을 정하는 핵심 변수입니다. 미국 중간선거도 중요한 정책 변수입니다. 행정부는 선거를 앞두고 난방유 비축분 방출에 나섰습니다. 민주당이 하원 또는 상·하원을 장악하면 트럼프 행정부의 추가 감세와 재정정책이 제약을 받아 국채금리가 안정될 수 있다는 기대가 있습니다. 다만 의회 권한이 강화돼도 국채 발행 규모가 곧바로 줄지는 않는다는 반론도 있습니다. 트럼프 대통령은 '적정 금리 1%'를 주장하며 연준을 압박하고 있지만, 오브라이언은 '트럼프가 인플레이션을 바란다고 없앨 수는 없다'고 지적했습니다. 유럽에서는 프랑스의 재정 건전성과 정국 불안이 국채금리를 24년 만의 최고치로 끌어올리며 선진국 국채 수익률 급등세를 자극하고 있습니다. 이 밖에 미·인도 협상 진전 소식이 있고, 베선트 재무장관은 'AI 붐에서 시스템적 문제는 보이지 않는다'며 AI 거품론을 일축했습니다.",
+    "bullets": [
+     "미·이란 종전 협상 기대(유가 하락 요인) vs 이란의 유조선 공격·미국의 사우디 주재 외교관 철수(유가 상승 요인)가 맞서는 국면",
+     "미국 중간선거: 난방유 비축분 방출, 민주당 승리 시 재정 확대 제약 → 국채금리 안정 기대(반론도 있음)",
+     "트럼프 '적정 금리 1%' 압박 vs 연준 독립성·인플레이션 현실 논쟁",
+     "프랑스 재정·정국 불안 → 국채금리 24년 만의 최고치, 선진국 국채로 매도 압력 확산",
+     "미·인도 협상 진전, 베선트 재무장관 'AI 거품 우려 일축'"
+    ]
+   },
+   {
+    "heading": "자산별 함의",
+    "body": "주식: 미국 증시는 스페이스X의 첫 흑자와 7.79% 급등, 메타의 3분기 매출 26% 증가와 시간외 약 6.7% 상승, 테슬라의 예상을 넘는 실적에 힘입어 S&P500 7757.17(+0.58%), 나스닥 26,703(+1.05%), 필라델피아 반도체지수 11,506(+1.97%)으로 올랐습니다. VIX도 16.68(-3.64%)로 내려 위험선호가 회복됐습니다. 필라델피아 반도체지수가 2008년 이후 최장 연속 하락을 기록한 직후의 반등이라, '과매도 업종 반등' 성격이 강합니다. 국내 증시는 표 기준 10월 20일 코스피가 5552.74(-3.73%), 코스닥이 781.97(-3.33%)으로 급락한 상태이고, 오늘 아침에도 코스피 약세 속에서 엔비디아와 기판 공급망 협력이 부각된 삼성전기가 4% 오르는 등 종목별로 차별화되고 있습니다. 미국 반도체 반등과 원화 강세(외국인 환차익 기대)는 우호적이지만, 한은의 매파적 메시지와 미 10년물 5%대 고금리는 성장주 밸류에이션에 부담이므로 실적·공급망 재료가 확실한 종목 위주로 접근하는 편이 낫습니다. 채권: 미 국채는 추가 인상 변수가 남아 있어 장기물보다 3~7년 중기물이 상대적으로 유리하다는 의견이 있고, 국내 채권은 오늘 금통위에서 11월 인상 신호의 강도에 따라 금리가 오를 위험을 염두에 둬야 합니다. 환율: 원/달러는 연저점 부근에서 저가 매수와 수출업체 달러 매도가 맞서는 구간입니다. 중동 긴장(달러 강세 요인)과 금통위 매파 신호(원화 강세 요인)를 모두 확인할 필요가 있습니다. 원자재: WTI와 브렌트가 반대로 움직일 만큼 뉴스 변동성이 크기 때문에, 방향성 베팅보다는 종전 협상과 걸프 지역 긴장 관련 헤드라인에 따른 급변동에 대비하는 것이 중요합니다. 금은 고금리 부담과 지정학 수요가 맞서 박스권 성격입니다.",
+    "bullets": [
+     "미국 주식: 스페이스X·메타·테슬라 실적과 AI 회의론 완화로 나스닥 +1.05%, SOX +1.97%, VIX 16.68로 하락 → 위험선호 회복",
+     "한국 주식: 코스피 5552.74(-3.73%, 10/20) 급락 이후 종목 차별화. 삼성전기 등 엔비디아 공급망 수혜주 강세",
+     "채권: 미 국채는 3~7년 중기물 선호, 국내 채권은 금통위 매파 신호에 금리 상승 위험",
+     "환율: 원/달러 연저점권(1320원대)에서 저가 매수와 수출업체 달러 매도 공방, 중동 헤드라인에 주의",
+     "원자재: 유가는 종전 협상과 걸프 긴장 사이에서 변동성이 크므로 포지션 규모 관리, 금은 박스권",
+     "핵심 일정: 오늘 한은 금통위 → 10/29 FOMC·미국 GDP·PCE"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "삼성전기",
+    "ticker": "009150.KS",
+    "comment": "엔비디아와 반도체 기판 공급망 협력('기판 동맹')이 부각되며 22일 오전 코스피 약세에도 4% 상승"
+   },
+   {
+    "name": "엔비디아",
+    "ticker": "NVDA",
+    "comment": "이달 들어 약 4% 하락했으나 젠슨 황 CEO의 유럽 AI 도입 촉구 발언 등에 힘입어 2.54% 오른 221.97달러, 삼성과의 공급망 확대 보도"
+   },
+   {
+    "name": "메타",
+    "ticker": "META",
+    "comment": "3분기 매출 26% 증가로 시장 예상을 웃돌아 시간외 거래에서 약 6.7% 상승해 744달러선. 청소년 보호 소송 비용이 변수"
+   },
+   {
+    "name": "테슬라",
+    "ticker": "TSLA",
+    "comment": "3분기 이익·매출이 예상을 웃돌았지만 자동차 매출은 감소. 스페이스X와의 합병을 공식화해 서학개미 관심이 커짐"
+   }
+  ],
+  "events_today": [
+   "10/22(오늘) 한국은행 금융통화위원회 기준금리 결정 및 신현송 총재 기자회견: 동결 유력, 11월 추가 인상 신호 여부 주목",
+   "10/27~28 미국 FOMC 정례회의, 결과 발표 10/29 오전 3시(한국 시간)",
+   "10/29 오후 9시 30분(한국 시간) 미국 3분기 GDP 속보치",
+   "10/29 오후 9시 30분(한국 시간) 미국 9월 개인소득·소비지출 및 PCE 물가지표",
+   "ECB 10월 통화정책회의(동결 후 12월 인상 가능성 시사 여부, 구체적 날짜는 입력 자료에 없음)",
+   "BOJ 통화정책회의(동결 전망, 구체적 날짜는 입력 자료에 없음)",
+   "미·이란 종전 협상 및 걸프 지역 긴장 관련 헤드라인"
+  ],
+  "headlines": [
+   {
+    "text": "한은 오늘 금통위, 동결 유력하지만 11월 추가 인상 여지를 남기는 '매파적 동결' 전망. 원/달러 1323.94원 연저점 경신",
+    "importance": 5
+   },
+   {
+    "text": "미 10년물 5.15%로 고공행진, 연준 10월 인상 확률은 3주 새 70%에서 17%로 급락. 시장 관심은 10/29 FOMC·PCE와 12월 회의로",
+    "importance": 5
+   },
+   {
+    "text": "WTI 98.28달러(-5.19%) vs 브렌트 110.23달러(+1.32%): 미·이란 종전 기대와 걸프 지역 긴장 재부각이 맞서 유가 변동성 확대",
+    "importance": 4
+   }
+  ],
+  "data_caveats": [
+   "한국 지수(코스피·코스닥)와 유럽·아시아 지수는 10/20 종가 기준이라 10/21 국내 장 마감 수치가 표에 없습니다.",
+   "원/달러 표 값(1323.94원)은 10/21 기준이고, 22일 오전 장중 값(1326~1327원대)은 기사 인용입니다.",
+   "WTI(-5.19%)와 브렌트(+1.32%)가 크게 엇갈린 데에는 근월물 만기·교체에 따른 기술적 요인이 섞였을 수 있어 해석에 주의해야 합니다.",
+   "금 가격은 소스·시점에 따라 표(4128.50달러, -0.76%)와 기사(4140.7달러, +0.38%)가 다릅니다.",
+   "비트코인은 10/20 기준 값입니다.",
+   "2년물·30년물·독일·일본 금리와 한국 CDS는 표가 아닌 기사 인용 값입니다.",
+   "무료 소스 특성상 외국인 수급과 연방기금금리 선물 확률의 원자료는 직접 확인하지 못했습니다.",
+   "인민은행 관련 발표·기사는 입력 자료에 없습니다."
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "[금통위 스케치] 웃으며 들어선 신현송…동결 전망 속 추가 '인상 신호...",
+   "url": "https://www.ajunews.com/view/20261022090446027",
+   "source": "네이버 원달러 환율",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 09:38"
+  },
+  {
+   "title": "한은 금통위, 기준금리 동결 무게… 속도 조절 나서나",
+   "url": "https://www.pointe.co.kr/news/articleView.html?idxno=86428",
+   "source": "네이버 물가 지표",
+   "publisher": "pointe.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 09:18"
+  },
+  {
+   "title": "연준 10월 인상 확률 3주 새 70%→17%…샘은 '인상이 안전한 보험'",
+   "url": "https://www.tokenpost.kr/news/economy/425633",
+   "source": "네이버 연준 금리",
+   "publisher": "tokenpost.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:40"
+  },
+  {
+   "title": "금통위, 기준금리 동결 전망 우세속에...11월 추가 인상론 '불변'",
+   "url": "https://www.youthdaily.co.kr/news/article.html?no=228645",
+   "source": "네이버 물가 지표",
+   "publisher": "youthdaily.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:02"
+  },
+  {
+   "title": "'연저점 경신' 환율, 위험선호애 1320원대 중반",
+   "url": "https://www.ajunews.com/view/20261022092402108",
+   "source": "네이버 미국 기술주",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-22 09:32"
+  },
+  {
+   "title": "프랑스 국채금리 5% 돌파 향방은…ECB 개입 시점 놓고 엇갈리는 전망",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zclBiMWNxcFFidFFRQ29iOW9ZbTB5QnBwSTdtM2UwSk1GRzZqUkgwY2o5YVlrdXA5WHU2aDZBT0xza3p2WUl2OEJlak9xcGpiS2p2ZDdPUmo4dWxjVDZGZlE1em0tazhUNGpZZWc3X3F3QQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 09:21"
+  },
+  {
+   "title": "\"이걸 어떻게 버텨요\"…프랑스 24년 만에 국채금리 최고, 지금 상황이 심...",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807527&plink=ORI&cooper=NAVER",
+   "source": "네이버 연준 금리",
+   "publisher": "SBS",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 09:07"
+  },
+  {
+   "title": "[美중간선거] ② 민주당 승리 땐 美 국채금리 하락?···재정정책·채권...",
+   "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260021",
+   "source": "네이버 미국 국채금리",
+   "publisher": "womaneconomy.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 09:00"
+  },
+  {
+   "title": "[국제금융 브리핑] 메타 실적 예상 상회·이란 유조선 3척 공격...프랑스...",
+   "url": "https://www.tokenpost.kr/news/economy/425630",
+   "source": "네이버 미국 국채금리",
+   "publisher": "tokenpost.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:32"
+  },
+  {
+   "title": "[국제금융리포트] 프랑스 국채금리 24년 만에 최고…영국 물가도 11개월...",
+   "url": "https://www.ajunews.com/view/20261022075656752",
+   "source": "네이버 ECB 금리",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-22 08:22"
+  },
+  {
+   "title": "[모닝 리포트] \"유가발 물가 압력에 긴축 길어진다…원화는 수출 달러에...",
+   "url": "https://www.newspim.com/news/view/20261022000076",
+   "source": "네이버 ECB 금리",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-22 08:21"
+  },
+  {
+   "title": "美 국채금리 5%대 '고공행진'…추가 인상 변수에 3~7년물 '눈독'",
+   "url": "https://www.youthdaily.co.kr/news/article.html?no=228644",
+   "source": "네이버 연준 금리",
+   "publisher": "youthdaily.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:02"
+  },
+  {
+   "title": "[뉴욕환시] 달러 이틀째↓…'美 걸프 대사관 직원 철수' 보도에 장중 출...",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440457",
+   "source": "네이버 연준 금리",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:02"
+  },
+  {
+   "title": "日 금리 1.25%에도 엔저 지속…미·일 통화정책이 가른다",
+   "url": "https://www.cstimes.com/news/articleView.html?idxno=724778",
+   "source": "네이버 연준 금리",
+   "publisher": "cstimes.com",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 07:52"
+  },
+  {
+   "title": "채권시장에 찬물 끼얹나…한은 ’매파 신호’에 금리 상승 경계 By EBN",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbWRJQ0xaU09lRFg4dFpaSTUwS1h5Sl9xZWRTZWwyYjM5RjF2bV96SDBKRmVGTXJqamNxd1lVV3lTTHEtTXZ1RXdDbTdjdkZZZ2dmV0ZkcE9ibVlkMUU0am1CR3RBSDRRQ2VWdEIzTDk?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 07:32"
+  },
+  {
+   "title": "한은, 기준금리 동결 유력 전망…11월 추가 인상 가능성 주목",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUXVUM2c2WFlwOWp5enRJaW1BVC0tZl96UlVuOVpLLTRiMV9MSmt4aTR0bmFPdGZKdWFfUElxWUdMVW1MeXplcThmenNaVkYteTktcW52VkhkZw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "한국경제",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 06:59"
+  },
+  {
+   "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Kitco",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 06:48"
+  },
+  {
+   "title": "Treasury Counselor David Zervos: Energy shock, not sticky inflation, driving yields",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGstdUNUcVhGZHpWa0Z1RHVYRlRGX0I3OXUwNDI4RGdPbTBHMGdrQ0ZlSUxwcDhaQXhlOG54SkhrUlYwaHVIbDc2YlJHYXo1NDNtLW82NkZMZ3J2MUVGS0p6YnRlTDZEazZxZWVsZ0IyQ3NJS0M1T2hRaFJMazJkRFBwSl9iWEJTV04wX3J6UE45dUtUbnYxaWdZUW5vRFpyTE9vaUdEUllsOEZTZGM2NnF2YlJnNlBHaFVZS084SGg?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "CNBC",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 06:41"
+  },
+  {
+   "title": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 05:30"
+  },
+  {
+   "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1NpTjhYQmpDMUFOVUJRdC1WRTdYNFBRd0V4cl9KZFF4NDVjU3Nkbzdjblh4TXhDaDBQa2hicElLWXFjSlUzWTh0eHB2WHNwSXZnZ2RwTVdGVUpvRE04ZVpMQnB4blBGQlVkdW8yQWV4NXVUOUl4YVZVVU1xc205OGhwTHYxN1Q4M3JCUnlMRUszSzIzeXFmS2FUTURIakRHUGpjMWpXUng4OFY5M1l1MkswaEZ5QQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 04:46"
+  },
+  {
+   "title": "9월 英 인플레, 3.5%로 1년만에 최고",
+   "url": "https://www.newsis.com/view/NISX20261021_0003835791",
+   "source": "네이버 ECB 금리",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 20:12"
+  },
+  {
+   "title": "\"비용 못견뎌...\" 글로벌 기업 부도 전망 3%→5%로 급상향",
+   "url": "https://www.ilemonde.com/news/articleView.html?idxno=30821",
+   "source": "네이버 ECB 금리",
+   "publisher": "ilemonde.com",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 15:34"
+  },
+  {
+   "title": "[국제금융 브리핑] 미·이란 평화협정 기대에 브렌트유 108.79달러...S&P50...",
+   "url": "https://www.tokenpost.kr/news/economy/425217",
+   "source": "네이버 유럽 증시",
+   "publisher": "tokenpost.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 08:32"
+  },
+  {
+   "title": "[오늘 금시세] 금 한돈 65만9588원 반등…美금리 전망이 변수",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16254541",
+   "source": "네이버 물가 지표",
+   "publisher": "topstarnews.net",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 09:40"
+  },
+  {
+   "title": "원·달러 환율, 2.4원 오른 1327.6원",
+   "url": "https://biz.chosun.com/policy/policy_sub/2026/10/22/U42DCLSBOVHONBCF37AE3KYGRQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "네이버 원달러 환율",
+   "publisher": "조선비즈",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 09:31"
+  },
+  {
+   "title": "[오늘 금시세]저가 매수세에 금값 반등…국내 금 0.34% ↑",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=926882",
+   "source": "네이버 미국 국채금리",
+   "publisher": "namdonews.com",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 09:16"
+  },
+  {
+   "title": "금시세·금값 22일",
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610220125",
+   "source": "네이버 물가 지표",
+   "publisher": "bntnews.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 09:14"
+  },
+  {
+   "title": "연저점 행진에 하방 누르는 달러 저가 매수…달러·원 소폭 상승",
+   "url": "https://www.news1.kr/finance/market-exr/6328075",
+   "source": "네이버 국제유가",
+   "publisher": "뉴스1",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:11"
+  },
+  {
+   "title": "Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9iTkZnZUdhMG5jYWozVjdVVnFsNDFKbmNoSGZMMkZINmxkNkRzNU1MTVdCaDhlQms1S2F4OTVuaHkyWmpLQ1JjNnFfS3M1bDE1RlZ6Zm1saUVURXJKcmRhWVNkV292Sl9PYWlJVkdFVHdSZnREOGpHeno0dVZ2V19BWE9JbXdSYkh1VzVvMU14T1BrbW5rZkxiZWxueVRYQktRaGRPTTZyRExYRUZfOHpWaGc?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:56"
+  },
+  {
+   "title": "[이종혁의 투자] 글로벌 경제, 파국과 반전 갈림길에 서다",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440477",
+   "source": "네이버 ECB 금리",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-22 08:52"
+  },
+  {
+   "title": "국채선물, 재료 부재 속 소폭 하락…10년물 1틱↓",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440469",
+   "source": "네이버 미국 국채금리",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:36"
+  },
+  {
+   "title": "스페이스X 호실적에 비트코인도 상승…8만 4000달러 회복 [디센터 시황]",
+   "url": "https://www.decenter.kr/article/20104612?ref=naverdc",
+   "source": "네이버 연준 금리",
+   "publisher": "decenter.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:32"
+  },
+  {
+   "title": "원/달러 환율, 수출 호조에 하락 압력… 1320원대 중반 전망",
+   "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729683",
+   "source": "네이버 미국 국채금리",
+   "publisher": "the-biz.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:22"
+  },
+  {
+   "title": "국제금값, 인플레이션 우려 속 소폭 반등⋯0.2%↑",
+   "url": "https://www.etoday.co.kr/news/view/2638647",
+   "source": "네이버 연준 금리",
+   "publisher": "etoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:18"
+  },
+  {
+   "title": "[경제 이슈] 한국은행, \"고령화가 물가 상·하방 불확실성 높여\"...정년...",
+   "url": "http://www.sisacast.kr/news/articleView.html?idxno=99961",
+   "source": "네이버 물가 지표",
+   "publisher": "sisacast.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:18"
+  },
+  {
+   "title": "[08:03 가상자산] 비트코인, 美 국채금리 안정·규제 불확실성 완화에 상...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074582",
+   "source": "네이버 미국 국채금리",
+   "publisher": "shinailbo.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:08"
+  },
+  {
+   "title": "원·달러 환율, 1326.0원…달러, 美 국채금리 반등에도 보합",
+   "url": "http://www.joseilbo.com/news/news_read.php?uid=577903&class=18&grp=",
+   "source": "네이버 연준 금리",
+   "publisher": "joseilbo.com",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:02"
+  },
+  {
+   "title": "Watch Trump Can't Wish Away Inflation, O'Brien Says",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdURnQTMyX3lYYUJJMXJGYXlNN1lXeUw5bXppbHdYU2pjYThiSFJUZ2N5T3NaS21vZFVLT0FGOXRWUExhZHBNWnpxLTdKTThkQjhKajRuUkZIQXRqOUh5T0s5ZnNSUFB1OUJaM3o2VnJMdi1TOVVoT0I2OTRSWExZWU9pdUdKaUp1VGFMMkpZZGpuRFEzNkRKa3NrSEdyZ2dm?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:00"
+  },
+  {
+   "title": "New Zealand Q3 inflation rises 0.7% from previous quarter, lower than forecast",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2cxUVpqbG13dV8wZWFlbF9YUjFfYnh4cjJGU1FuTXMtbU9XSDYtTjEtU0M0MjdYREs2T1pwU0dTRjBhWHM5aUU5cVZuaVE4QURENm1ackdvNVJvWWlhVVRQeXU3ZGt2UmhlOTNjcDVTSnBHQXAtNk54NkdYaXdQM0UyVlVnR3J6ZUQ3T0hBUFk?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "WTVB",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 07:30"
+  },
+  {
+   "title": "Federal report shows wage growth well below rate of inflation",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYjI0QV9VSVR3bks2QVJadlFDOVlEczh2ekdMemhzNTl1dFc3QlptdjdCTGtVc1pkMjYtdDNsMjhpQW5zV0NuQmt1MDBPRnQzR28yNTQ2VzRWa3ZIazlyNTBCNEZKSnhTOG4wQmJYZXBvc2NyVXZZR25mYWVGSk5WZ2hXWWtIT0lpZUVra0RibVE3OE84elh3TDd5OA?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Talk Business & Politics",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 06:27"
+  },
+  {
+   "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:46"
+  },
+  {
+   "title": "Oil prices rise as M.East tensions fuel fears of supply disruptions",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2k2dGFGcGFwM1ljSVZYU0FrdFJYcXE4dE9sVjBpZ0JCYkl2WmRWR0lnSW1LdFdqdThLNkVGQ2FmT0pkczA4WlZiRjB1S3hIUnhYLXhldThLWU4xc2FISmdZV1FlakJ3ODA2dkpRUVh6MHU1dGdEVU5SMWpxamxYSjVDcVEzV1M2ay1oSHRHZGI0aU9fdXhwcE5oMFVhN2Q1WVpmeFhnTEhIY1NJV0g1MVdGUHEzZ3l3dzBoS09fSQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:43"
+  },
+  {
+   "title": "NVIDIA Expands Semiconductor Supply Chain with Samsung (NVDA)",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWNsdXlFYUtOX2Y5UjBYWkwyQTFqVkFwT3FibEhOdk44YzI2cGpyNU5TYzhYTzV2NmowLUcwZEJIOG9pR1pXdThPb2ZjWmp2X2lRUmxjRnlLXzl0RTRuc0xWdHk4VHVrN0xHbzVkM3EyUzBoeWxZWlVMaUp5TVVkcEd5STNGQ1lrNGxWSGNKSXVqOVRFdlRYUHZaTkN1WHc?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "GuruFocus",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:21"
+  },
+  {
+   "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+   "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-22 06:14"
+  },
+  {
+   "title": "젠슨 황 CEO \"유럽 모든 산업, AI 도입 서둘러야\"",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172530",
+   "source": "네이버 반도체 주가",
+   "publisher": "조선일보",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:42"
+  },
+  {
+   "title": "Oil prices will fall ‘dramatically’ when Iran war ends: Former Energy secretary",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vc3JpeEdOLWd0TWdGZGZsNjNqaU5JZnZZajVzamlYV08waURBZkhFYl9yMUhYUjA3b0xLZGN4c3dyVmExdzhJemtjd3ZVS1ZyOHN3Y092blk3TTg?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 08:44"
+  },
+  {
+   "title": "[Good Morning Market] Semiconductor Stocks Rebound Amid AI Jitters... \"Oversold Sectors Could Bounce Back\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yY1ZPX3h3RjIwWUo3T3JMcFFVcWQtR1VqYmhtSmt1eGJuMXdkam1BN1hndTZMR3Z2VkM5cjlCcmRMZWhoLWE1NzFrbllQM3MwWmdNN3B4T25GRnFBWkFKWEN2Ukg?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "아시아경제",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 08:10"
+  },
+  {
+   "title": "Persian Gulf oil exports surpass pre-war high as market adapts to Iran’s attacks",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRG40ekRPcUFxc05EOEhfaUFxMjJIN0lFQm9XcGVSZFBzbUZOU19mN3BLQThNOFJOUkNjczByeVI0ZUZPU1RVTUY4dG1kcGEtcjBtdVNPSndCbzRaeDdsQ2RwSzRJVURBaVRPLVEzeFVRQUJMODR2Qkt1SGRjUkFCQlBTQVM4ZHlxX1kxUWNRYW9sWTl5Ry1sNklicGJhM3U0dGxJRHUzcExzM1FXeFVYb0ZReEc3YXZnMjNDand3?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "New York Post",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 06:25"
+  },
+  {
+   "title": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUThvQVl1RnVpSjI0NnV3VGhRWUU2eWVmOC01c3hpOXJ6eTR0OXNUOTh3VE1vNW1jNFlobjF6QmJRcDc5eF9nbTZQbngzUlZWbWJ6aXpSYndoNHhsRVFoWURGWHF1WmwwOS1QUTRyTmgwaUZLVlB0UTJqMmUyTTY0SnluSUhTVGR4anFHZGhMTUItM3I5VUlIZkhRVEQydw?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 04:51"
+  },
+  {
+   "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTFXUTEtVnZkUXMtRExqSHZpNmJteDd3RDBRc3JMMFRWUDU5ZEVoZExTNDktLXJOb1ZBeUpXLXppUUxOeVY1bG9meXpMUE43MExiWUJyXzhnNjVMdFVzQjlOVi1RNGZFaElQalk2VC1hTkU1ZXh2S1NvbXBqYmJiUXBZaUp1YzcxX3pnNkFR?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "The New York Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 04:50"
+  },
+  {
+   "title": "메타, 3분기 매출 26% 오른 86조원 기록…청소년 보호 소송비용 여파로...",
+   "url": "https://www.kado.net/news/articleView.html?idxno=2079737",
+   "source": "네이버 뉴욕증시",
+   "publisher": "kado.net",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-22 09:44"
+  },
+  {
+   "title": "베선트 \"AI 붐, 시스템적 문제 안 보여\"…거품 우려 일축",
+   "url": "https://www.newspim.com/news/view/20261022000283",
+   "source": "네이버 AI 관련주",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:40"
+  },
+  {
+   "title": "[뉴욕증시] 스페이스X 7.79% 급등…나스닥 AI 회의론 걷어냈다",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CMzU5dk5SaEV3X0ozTEtwdmNjMGtVYU83eV9jN2JCVDlCS21abjcyTTdTTVdUODZGd2ZtcUpHTGZnOHBTejktTEJuWE9HbFRHcDhwenVWUTYxc1lFajVLc1dJWEVUcE0?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "자본시장뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-22 09:32"
+  },
+  {
+   "title": "엔비디아와 '기판 동맹'…삼성전기, 코스피 약세에도 4% 상승",
+   "url": "https://www.hankyung.com/article/2026102277666",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-22 09:31"
+  },
+  {
+   "title": "테슬라·스페이스X 합병 공식화...서학개미, 대박일까 날벼락일까?",
+   "url": "https://www.mk.co.kr/news/stock/12182516",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-22 09:26"
+  },
+  {
+   "title": "AI·반도체, 스페이스X 타고 날았다…美 3대지수 모두 상승 [뉴욕증시]",
+   "url": "https://www.mk.co.kr/article/12182513",
+   "source": "네이버 미국 기술주",
+   "publisher": "매일경제",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-22 09:24"
+  },
+  {
+   "title": "Tesla beats on earnings and sales even as auto revenue declines",
+   "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-22 08:32"
+  },
+  {
+   "title": "[굿모닝! 글로벌 뉴욕증시] AI가 돈 벌기 시작했다…스페이스X 첫 흑자에...",
+   "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=303157",
+   "source": "네이버 연준 금리",
+   "publisher": "newsquest.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-22 08:22"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

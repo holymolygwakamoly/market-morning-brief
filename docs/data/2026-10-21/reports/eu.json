@@ -1,0 +1,562 @@
+{
+ "topic": "eu",
+ "name": "유럽시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-10-21T14:15:23.599587+09:00",
+ "report": {
+  "title": "유럽 증시 마감(10/20): 프랑스 시위·국채금리 부담에 유럽 증시 이틀째 약세, CAC40·유로스톡스50 -0.38%",
+  "overview": "10월 20일(현지시간) 유럽 증시는 프랑스 반정부 시위 격화와 프랑스 국채금리 급등 부담 속에 소폭 하락 마감했습니다. 스톡스600은 638.64(-0.14%)로 마감했습니다. 프랑스 비중이 높은 유로스톡스50(6121.66, -0.38%)과 CAC40(7838.49, -0.38%)이 상대적으로 부진했고, DAX(25,304, -0.06%)와 FTSE100(10,733, -0.29%)은 약보합에 그쳤습니다. 기사에 따르면 CAC40은 장중 1% 넘게 밀렸으나, 미국 증시가 강세로 돌아서고 저가 매수가 들어오면서 낙폭을 줄였습니다. 업종별로는 AI 투자 우려로 산업재와 반도체주가 약했고, 프랑스·영국 은행주도 부담이 됐습니다. ECB는 이달 동결이 예상되지만 트레이더들은 12월 인상 확률을 85%로 보고 있습니다(LSEG 집계). 물가 대응과 프랑스 국채시장 안정 사이에서 ECB가 어떤 선택을 할지가 핵심 변수로 떠올랐습니다. 한국 시장에서는 유럽발 재정 불안이 다른 시장으로 번지는지, 반도체 투자심리가 회복되는지, 원/달러(1330.00원, -0.26%)가 어떻게 움직이는지를 살펴볼 필요가 있습니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "10월 20일 유럽 주요 지수는 모두 하락했지만 낙폭은 크지 않았습니다. 스톡스600은 638.64로 0.92포인트(-0.14%) 내렸고, 유로스톡스50은 6121.66으로 23.15포인트(-0.38%) 하락했습니다. 독일 DAX는 25,304로 15.35포인트(-0.06%) 내리며 사실상 보합이었습니다. 영국 FTSE100은 10,733으로 31.70포인트(-0.29%), 프랑스 CAC40은 7838.49로 29.56포인트(-0.38%) 하락했습니다. 지수 간 차이를 보면 프랑스 관련 지수(CAC40, 유로스톡스50)가 가장 약했고 독일이 가장 잘 버텼습니다. 이번 하락은 프랑스 정치·재정 불안이 직접적인 원인이었다는 뜻입니다.\n\n배경을 보면, 주말 동안 프랑스 전역에서 대규모 반정부 시위가 벌어지고 일부 지역에서 약탈·방화·폭력 사태가 발생했습니다. 그 결과 직전 세션(10월 19일)에는 유럽 증시가 일제히 1%대 하락했습니다. 아시아경제 보도에 따르면 이탈리아 -1.55%, 스페인 -1.49%, 독일 -1.18%, 프랑스 -1.11%, 영국 -1.08%였습니다. 같은 날 미국 증시가 기술주 중심으로 반등한 것과 대조적이었습니다. 주식·채권·유로화가 동시에 약해지는 이른바 '트리플 약세'가 나타났다는 평가도 나왔습니다.\n\n20일 세션에서는 충격이 다소 진정됐습니다. 연합인포맥스는 CAC40이 장중 1% 넘게 떨어졌다가 저가 매수와 미국 증시 강세 전환에 힘입어 -0.55%까지 낙폭을 줄였다고 전했고, 최종 마감은 -0.38%였습니다. 뉴스핌은 고유가와 높은 국채금리에 지친 투자자들이 견조한 기업 실적에 기대며 스톡스600이 지난 한 달간 좁은 범위에서 움직였다고 설명했습니다. 해외 매체들은 중동 관련 헤드라인이 장중 등락을 키웠다고 전했습니다. 영국 FTSE100은 유가 하락에도 은행·원자재 관련주가 약해 하락했고, 구글 클라우드 장애로 HSBC와 로이즈가 타격을 받으며 낙폭을 키웠다는 보도가 나왔습니다.",
+    "bullets": [
+     "스톡스600 638.64 (-0.92, -0.14%)",
+     "유로스톡스50 6121.66 (-23.15, -0.38%)",
+     "DAX 25,304 (-15.35, -0.06%), 기사 기준 종가 25,304.42",
+     "FTSE100 10,733 (-31.70, -0.29%)",
+     "CAC40 7838.49 (-29.56, -0.38%), 장중 -1% 이상에서 낙폭 축소",
+     "직전 세션(10/19)에는 이탈리아·스페인·독일·프랑스·영국 증시가 모두 1%대 하락(기사 기준)",
+     "프랑스 관련 지수가 가장 약하고 DAX가 가장 선방: 이번 약세의 중심은 프랑스 위험"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "업종별로 가장 약했던 곳은 산업재입니다. 이코노뉴스는 AI 투자에 대한 우려로 산업주가 업종 중 가장 많이 빠졌다고 전했습니다. 같은 날 Yahoo Finance UK와 Investing.com은 유럽 반도체주가 아시아 매도세를 따라 4% 넘게 떨어졌다고 보도했습니다. AI 설비투자(CapEx, 기업이 공장·장비 등에 쓰는 투자) 사이클이 꺾일 수 있다는 의구심이 반도체에서 산업재(전력·자동화 설비 등)로 번진 흐름으로 해석됩니다.\n\n은행주도 약했습니다. 아주경제 종합 기사에 따르면 프랑스 시위 충격으로 BNP파리바와 소시에테제네랄이 각각 3% 떨어졌습니다. 다만 이 기사는 10월 20일 유럽 개장 전에 게재돼 10월 19일 세션 수치일 가능성이 있습니다. 프랑스 국채금리가 오르면 프랑스 은행들이 보유한 국채의 평가손실과 조달비용이 함께 커질 수 있어, 은행주는 국채시장 불안에 특히 민감합니다. 영국에서는 HSBC와 로이즈가 구글 클라우드 장애의 영향을 받았다는 보도가 있었습니다. 은행·원자재 관련주가 FTSE100을 끌어내렸다는 기사(Yahoo Finance)도 나왔습니다.\n\n상대적으로 주목받은 곳은 방산입니다. Simply Wall St는 군사비 지출 확대가 이탈리아 조선·방산업체 핀칸티에리(Fincantieri)와 프랑스 야간투시·센서 업체 엑소상스(Exosens)를 끌어올렸다고 소개했습니다. 반면 미국에서는 국방예산 증액 구상에 제동이 걸릴 수 있다는 관측으로 미국 방산 ETF가 7월 초부터 10월 중순까지 16% 떨어졌습니다(서울경제). 같은 방산이라도 유럽과 미국의 흐름이 다릅니다. 이 밖에 Citi는 성장주에서 빠져나온 자금이 유럽 증시로 유입되고 있다고 분석했는데, 이는 유럽 가치주 전반의 하방을 받쳐주는 요인으로 볼 수 있습니다. 섹터별 등락률이나 개별 종목의 당일 종가는 입력 자료에 없어 숫자로 제시하지 않았습니다.",
+    "bullets": [
+     "약세: 산업재(AI 투자 우려로 업종 중 최대 낙폭), 반도체(유럽 반도체주 4% 넘게 하락)",
+     "약세: 은행. 프랑스는 BNP파리바·소시에테제네랄 각각 3% 하락(기사 기준, 10/19 세션일 가능성), 영국은 HSBC·로이즈가 구글 클라우드 장애 영향",
+     "약세: 영국 원자재 관련주가 FTSE100에 부담",
+     "상대 강세: 방산. 군사비 지출 확대로 핀칸티에리·엑소상스 주목",
+     "수급: Citi는 성장주 이탈 자금이 유럽 증시로 유입된다고 진단",
+     "프랑스 증시는 수년간 정치 불안과 명품·산업재 수요 둔화로 유럽 내 최약세 흐름(FT·CNBC 인용 보도)"
+    ]
+   },
+   {
+    "heading": "ECB·BoE·거시",
+    "body": "ECB(유럽중앙은행)는 이달 정책금리를 동결할 것으로 예상됩니다. 다만 LSEG 집계에 따르면 트레이더들은 12월 인상 확률을 85%로 보고 있습니다. 시장은 연내 추가 긴축을 거의 기정사실로 받아들이고 있다는 뜻입니다. IMF 관련 보도에 따르면 올해 연준과 ECB 모두 정책금리 인상에 나섰고, 연준은 9월 약 3년 만에 금리를 올렸습니다. 이란 전쟁 이후 치솟은 에너지 비용이 물가를 자극하면서 주요국 중앙은행이 긴축으로 돌아선 상황입니다.\n\n가장 큰 변수는 프랑스 국채시장입니다. 프랑스 10년 국채금리는 10월 19일 하루 만에 13~14bp(1bp=0.01%포인트) 뛰어 4.92~4.93% 안팎까지 오르며 5%에 바짝 다가섰습니다. 글로벌이코노믹은 이를 이란 전쟁 이후 G7 국가 중 가장 큰 금리 상승이라고 전했습니다. CNBC는 프랑스 증시가 프랑스·독일 국채 금리 차이인 'OAT-Bund 스프레드'에 민감하게 움직인다고 분석했습니다. 이 때문에 ECB는 물가를 잡기 위해 금리를 올려야 할지, 프랑스 국채 안정을 위해 동결해야 할지 딜레마에 빠질 수 있다는 지적이 나옵니다(서울경제). 정부 부채가 통화정책 결정을 좌우하는 이른바 '재정 우위' 우려도 커지고 있습니다.\n\n시장 안정 장치에 대해서는 시각이 엇갈립니다. ECB가 회원국 채권을 사들여 시장을 방어할 여력이 충분하다는 시각(뉴시안)이 있습니다. 폴 크루그먼은 유로존 2위 경제인 프랑스를 구제하는 것은 결국 ECB의 몫이라는 취지로 언급했습니다. 신한투자증권은 무디스가 프랑스 등급을 Aa3에서 A1으로 한 단계 내리는 경우를 가정해 ECB 국채 담보 기준에 미칠 영향을 점검했습니다. 시장은 프랑스 예산안의 실제 '집행' 여부에 관심을 두고 있습니다.\n\n성장 지표는 약해지고 있습니다. 독일의 10월 ZEW 경기기대지수는 28.1로 전월 34.7에서 떨어져 6개월 만에 하락세로 돌아섰습니다. 고물가에 따른 투자·소비 부진이 반영된 결과입니다. 라가르드 ECB 총재는 '유럽의 전후 성장 모델이 무너지고 있다'고 언급했습니다(칼럼 인용). 영란은행(BoE)에서는 메건 그린 위원의 발언이 보도됐지만 입력 요약이 잘려 있어 구체적인 내용은 확인되지 않습니다. 한편 BIS(국제결제은행)는 중앙은행이 금리를 공격적으로 올리면 불필요한 경제적 피해를 초래할 수 있다고 경고했습니다. 유가는 미·이란 평화협정 기대로 브렌트유가 108.79달러로 보도되는 등 하락 마감했으나, 이후 아시아 시간대에는 중동 긴장과 미국 원유재고 감소로 반등했다는 보도가 나왔습니다.",
+    "bullets": [
+     "ECB: 이달 동결 예상, 12월 인상 확률 85%(LSEG)",
+     "프랑스 10년 국채금리: 10/19 하루 13~14bp 급등해 4.92~4.93%, 5% 근접(이란 전쟁 이후 G7 최대 상승폭)",
+     "ECB 딜레마: 물가 대응(인상)과 프랑스 국채 안정(동결) 사이 선택, '재정 우위' 우려",
+     "무디스의 프랑스 등급 하향(Aa3→A1) 시나리오와 ECB 담보 기준 영향 점검(신한투자증권)",
+     "독일 10월 ZEW 경기기대지수 28.1(전월 34.7), 6개월 만에 하락",
+     "BoE: 메건 그린 위원 발언 보도(세부 내용 확인 불가)",
+     "BIS: 공격적 금리 인상은 불필요한 경제적 피해 초래 경고",
+     "유가: 미·이란 평화 기대로 하락 마감(브렌트 108.79달러 보도), 이후 중동 긴장·미 원유재고 감소로 반등"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "① 프랑스 소요 사태: 주말부터 프랑스 전역에서 대규모 반정부 시위가 이어지고 있습니다. 일부 지역에서는 약탈·방화·폭력 사태가 벌어졌고, 정부는 야간 통행금지를 검토하고 있습니다(서울경제). 뉴시스는 이번 사태를 '긴축이냐 민심이냐'의 갈림길로 표현했습니다. 재정 감축을 담은 예산안이 시위의 배경이자, 국채시장 신뢰 회복의 열쇠라는 뜻입니다. 프랑스 국채금리가 안정될지는 ECB 개입 가능성뿐 아니라 정부가 재정 감축 계획에 대한 시장 신뢰를 되찾을 수 있는지에 달려 있다는 분석이 나왔습니다(EBN).\n\n② 프랑스 정치 위험: CNBC에 따르면 예측시장 칼시(Kalshi)에서 마린 르펜이 2027년 프랑스 대선에서 이길 확률이 높아졌습니다. 시위 장기화가 극우 포퓰리즘 정당의 지지 확대로 이어질 수 있다는 시장 인식을 보여줍니다. 이는 프랑스 국채와 은행주에 중기 위험 프리미엄(위험에 대한 추가 요구 수익률)으로 작용할 수 있습니다. 서구 국가 전반의 부채 문제가 다음에는 미국으로 번질 수 있다는 경고(뉴시안)와 유럽의 '재정 중독'을 비판하는 칼럼(아주경제)도 나왔습니다.\n\n③ 중동 정세: 해외 매체들은 중동 교전 소식과 이란 전쟁 종식을 위한 외교적 해결 기대가 엇갈리며 유럽 증시와 유가의 장중 변동을 키웠다고 전했습니다.\n\n④ 기업·시장 이슈: 구글 클라우드 장애로 영국 HSBC와 로이즈가 영향을 받았다는 보도가 있었습니다. AI 투자 우려로 유럽 반도체주가 4% 넘게 하락했습니다. 방산에서는 군사비 지출 확대 수혜로 핀칸티에리와 엑소상스가 언급됐습니다. 21셰어스는 라이터(Lighter)·베니스(Venice) 토큰을 추종하는 ETP(상장지수상품)를 유럽 증시에 상장했습니다. Citi는 성장주 이탈 속에 유럽 증시로 자금이 유입되고 있다고 진단했습니다.\n\n⑤ 전염 위험 평가: 프랑스 국채금리와 CDS(부도 위험에 대비하는 보험료 성격의 지표)가 오르고 있지만 다른 국가·시장으로 위험이 빠르게 번지는 현상은 아직 뚜렷하지 않다는 분석(더파워뉴스)이 나왔습니다. 이는 20일 유럽 증시의 낙폭이 줄어든 흐름과도 맞아떨어집니다.",
+    "bullets": [
+     "프랑스: 반정부 시위 격화, 야간 통금 검토, 예산안 집행 여부가 국채시장 신뢰의 관건",
+     "정치: 예측시장에서 르펜의 2027년 대선 승리 확률 상승(CNBC·칼시)",
+     "중동: 교전과 평화협상 기대가 엇갈리며 증시·유가 변동성 확대",
+     "기업: HSBC·로이즈 구글 클라우드 장애 영향, 유럽 반도체주 4%대 급락, 핀칸티에리·엑소상스 방산 수혜",
+     "시장: 21셰어스 암호화폐 토큰 ETP 유럽 상장, Citi '유럽 증시 자금 유입' 진단",
+     "전염 위험: 프랑스 국채금리·CDS 상승에도 다른 시장으로의 확산은 아직 제한적이라는 평가"
+    ]
+   },
+   {
+    "heading": "미국·한국 영향",
+    "body": "유럽이 약했던 것과 달리 같은 날 미국 증시는 경기민감주 중심으로 강했습니다. 다우는 52,496(+1.02%), 러셀2000은 2773.42(+1.65%), S&P500은 7712.57(+0.28%)로 올랐습니다. 반면 나스닥 종합은 26,425(-0.02%), 나스닥100은 29,490(-0.13%), 필라델피아 반도체지수는 11,284(-0.29%)로 약보합이었습니다. 공포지수로 불리는 VIX가 17.31(-6.13%)로 내린 것은 프랑스발 불안이 미국 위험자산으로 크게 번지지 않았다는 뜻입니다. 다만 유럽 반도체주 급락과 미국 반도체지수 약세가 함께 나타난 만큼, AI 투자 사이클에 대한 의구심은 미국과 유럽이 함께 안고 있는 부담입니다. 블룸버그는 10월 21일 아시아 증시와 미국 선물이 'AI 트레이드 부활'로 올랐다고 전해, 반도체 투자심리가 단기적으로 회복을 시도하고 있음을 보여줍니다.\n\n한국 시장에 주는 시사점은 다음과 같습니다. 첫째, 반도체·AI 설비 관련주입니다. 유럽 반도체주가 4%대 하락하고 산업재가 AI 투자 우려로 약했던 것은 한국 반도체와 AI 인프라 관련주에도 부담 요인입니다. 다만 21일 아시아 장의 AI 트레이드 회복 기사는 이를 일부 상쇄할 수 있습니다. 증권가는 대만이 AI 인프라 수혜를 독점하는 반면 한국·일본·중국 증시는 주춤하고 있다고 평가했습니다(신한투자증권). 업종 내에서도 종목별 차별화가 이어질 수 있습니다.\n\n둘째, 환율입니다. 원/달러는 1330.00원으로 3.43원(-0.26%) 내렸고, 달러인덱스(주요 통화 대비 달러 가치)도 101.73(-0.25%)으로 약세였습니다. 유로/달러는 1.12(-0.09%)로 소폭 하락했고 엔/달러는 158.52(+0.45%)로 엔화 약세가 이어졌습니다. 엔화 약세는 일본과 경쟁하는 한국 수출 업종(자동차·기계 등)의 가격 경쟁력 측면에서 지켜볼 대목입니다. 원화 강세는 수입물가를 낮추는 쪽으로 작용합니다. 한국은행에 따르면 9월 생산자물가는 전월 대비 0.2%, 전년 동월 대비 7.7% 올랐습니다. 다만 9월 원/달러 하락(전월 대비 3.4%)이 수입가격을 낮췄고, 달러로 가격이 매겨지는 D램 등 반도체 품목은 가격 하락 요인으로 작용했습니다.\n\n셋째, 채권·통화정책입니다. EBN은 2010~2012년 유럽 재정위기 때처럼 유럽 불안이 한국 국채로 자금을 옮기는 계기가 될 수 있다고 분석했습니다. 한국은행은 두 달 연속 기준금리를 올렸고 내년 1분기 3.5%에 이를 수 있다는 전망(칼럼)이 있습니다. ECB의 12월 인상 가능성(85%)과 연준의 추가 인상 가능성까지 겹쳐 글로벌 긴축 기조는 국내 금리와 성장주 평가에 부담입니다. IMF도 올해 아시아 대부분 경제에서 장기금리가 40~60bp 올랐다고 진단했습니다.\n\n넷째, 업종별 연관입니다. 유럽 방산 지출 확대 흐름(핀칸티에리·엑소상스 사례)은 유럽향 방산 수출 기대와 맞닿아 있습니다. 반면 미국 방산 ETF 약세(7월 초~10월 중순 -16%)는 지역별로 흐름이 다르다는 점을 보여줍니다. 브렌트유가 100달러를 웃도는 고유가가 이어지는 가운데 중동 협상 관련 헤드라인에 따라 유가가 오르내리고 있어, 정유·항공·화학 등 유가에 민감한 업종의 변동성도 커질 수 있습니다.",
+    "bullets": [
+     "미국: 다우 +1.02%, 러셀2000 +1.65%, S&P500 +0.28%로 유럽과 차별화, VIX 17.31(-6.13%)로 위험 회피 완화",
+     "반도체: 유럽 반도체주 4%대 급락, 필라델피아 반도체지수 -0.29%. 21일 아시아 장의 'AI 트레이드 부활'이 한국 반도체에 우호적인 상쇄 요인",
+     "환율: 원/달러 1330.00원(-0.26%), 달러인덱스 101.73(-0.25%), 엔/달러 158.52(+0.45%)로 엔화 약세 지속",
+     "한국 9월 PPI 전년 대비 7.7%. 원화 강세가 수입물가를 낮췄고 D램 등 달러 기준 품목엔 가격 하락 요인",
+     "채권: 유럽 재정 불안이 한국 국채로의 자금 이동 계기가 될 수 있다는 분석(2010~2012년 사례)",
+     "정책: 한은 두 달 연속 인상, ECB 12월 인상 확률 85%로 글로벌 긴축 기조 지속",
+     "업종: 유럽 방산 지출 확대는 방산 수출 기대와 연결, 고유가·중동 헤드라인은 정유·항공·화학 변동성 요인"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "BNP파리바",
+    "ticker": "BNP.PA",
+    "comment": "프랑스 시위와 국채금리 급등 충격으로 주가가 3% 하락했습니다(아주경제, 10/19 세션 수치일 가능성). 프랑스 국채시장 불안에 가장 민감한 대형 은행입니다."
+   },
+   {
+    "name": "소시에테제네랄",
+    "ticker": "GLE.PA",
+    "comment": "BNP파리바와 함께 3% 하락했습니다(기사 기준). OAT-Bund 스프레드 확대와 프랑스 정치 위험이 직접적인 부담입니다."
+   },
+   {
+    "name": "HSBC",
+    "ticker": "HSBA.L",
+    "comment": "구글 클라우드 장애의 영향을 받으며 FTSE100 낙폭을 키운 은행주로 보도됐습니다."
+   },
+   {
+    "name": "로이즈 뱅킹 그룹",
+    "ticker": "LLOY.L",
+    "comment": "HSBC와 함께 구글 클라우드 장애로 타격을 받았다는 보도가 있었습니다. 영국 은행주 약세를 대표하는 종목입니다."
+   },
+   {
+    "name": "핀칸티에리",
+    "ticker": "FCT.MI",
+    "comment": "군사비 지출 확대 수혜로 유럽 방산주 가운데 주목받은 이탈리아 조선·방산 기업입니다(Simply Wall St)."
+   },
+   {
+    "name": "엑소상스",
+    "ticker": "EXENS.PA",
+    "comment": "군사비 지출 확대로 주가가 오른 프랑스 방산 센서·광학 기업입니다(Simply Wall St). 프랑스 시장 약세 속에서도 방산 테마로 상대적으로 강했습니다."
+   }
+  ],
+  "events_today": [
+   "ECB 10월 통화정책회의(이달 예정, 동결 예상 / 12월 인상 확률 85%). 정확한 일자는 입력 기사에 없음",
+   "프랑스 반정부 시위 전개와 정부의 야간 통행금지 검토 여부",
+   "프랑스 예산안 처리·집행 경과와 10년 국채금리 5% 돌파 여부",
+   "무디스의 프랑스 신용등급 조정 가능성(Aa3→A1 시나리오 거론)",
+   "미·이란 평화협상 진행 상황과 브렌트유 흐름",
+   "한국은행 9월 생산자물가 발표(10/21, 전년 대비 7.7%) 이후 국내 금리 반응"
+  ],
+  "headlines": [
+   {
+    "text": "프랑스 시위·국채금리 5% 근접 부담에 유럽 증시 이틀째 약세. CAC40·유로스톡스50 -0.38%, 스톡스600 -0.14%",
+    "importance": 4
+   },
+   {
+    "text": "ECB 이달 동결 예상 속 12월 인상 확률 85%(LSEG). 물가 대응과 프랑스 국채 안정 사이 '정책 딜레마' 부각",
+    "importance": 4
+   },
+   {
+    "text": "AI 투자 우려에 유럽 반도체주 4%대 급락, 산업재가 업종 중 최대 낙폭",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "유럽 뉴스 소스가 제한적입니다. 영문 기사 상당수는 제목만 제공되고 한국어 기사 요약은 중간에 잘려 있어 세부 내용 확인에 한계가 있습니다.",
+   "섹터별 등락률, 개별 종목 종가·등락률, 투자자별 수급 데이터는 입력에 없어 수치로 제시하지 않았습니다.",
+   "'FTSE 100 Closes Up 0.34%' 기사는 시세 표(FTSE100 -0.29%)와 맞지 않습니다. 시세 표를 기준으로 했습니다(다른 날짜 기사이거나 오류일 가능성).",
+   "'유럽 증시 일제히 1%대 하락'(이탈리아 -1.55% 등) 기사와 BNP파리바·소시에테제네랄 3% 하락 기사는 10/20 유럽 개장 전 게재돼 10/19 세션 수치로 보입니다.",
+   "DAX는 표에서 25,304(-0.06%), 기사에서 25,304.42(-0.05%)로 반올림 차이가 있습니다.",
+   "유로/달러는 표에 소수점 둘째 자리(1.12)까지만 표시돼 세부 변동 확인이 제한됩니다.",
+   "BoE 관련 정보는 메건 그린 위원 발언 보도 1건뿐이며 내용이 잘려 있습니다.",
+   "이탈리아·스페인 지수는 시세 표에 없어 기사 인용 수치만 언급했습니다."
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "[종합] 佛 대규모 시위에 유럽 금융시장 '트리플 약세'…이탈리아 경기...",
+   "url": "https://www.ajunews.com/view/20261020143452642",
+   "source": "네이버 유럽 증시",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 15:22"
+  },
+  {
+   "title": "佛국채금리 하루새 14bp 급등…시위 격화에 5% 눈앞",
+   "url": "https://view.asiae.co.kr/article/2026102008505524426",
+   "source": "네이버 유럽 증시",
+   "publisher": "아시아경제",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 10:49"
+  },
+  {
+   "title": "프랑스 폭동에 주식·채권·유로화 동반 약세…\"긴축이냐 민심이냐\"",
+   "url": "https://www.newsis.com/view/NISX20261020_0003832703",
+   "source": "네이버 유럽 증시",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 10:28"
+  },
+  {
+   "title": "프랑스 국채 투매 심화…폭동 여파에 금리 4.93% 급등",
+   "url": "https://www.g-enews.com/view.php?ud=2026102008392418389a1f309431_1",
+   "source": "네이버 유럽 증시",
+   "publisher": "g-enews.com",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 08:42"
+  },
+  {
+   "title": "[월드 프리즘] 불타는 프랑스, 다음 뇌관은 미국?…\"빚더미 서구 경제, ...",
+   "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97408",
+   "source": "네이버 ECB 금리",
+   "publisher": "newsian.co.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 07:04"
+  },
+  {
+   "title": "유럽증시, 프랑스 시위격화 등 영향 일제히 떨어져⋯독일 약보합-프랑스...",
+   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445994",
+   "source": "네이버 ECB 금리",
+   "publisher": "econonews.co.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 06:34"
+  },
+  {
+   "title": "유럽증시, 소폭 하락 마감…프랑스 시위에 CAC40 0.38%↓",
+   "url": "https://www.newspim.com/news/view/20261020001240",
+   "source": "네이버 ECB 금리",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 03:02"
+  },
+  {
+   "title": "European stocks close mostly lower as Middle East headlines drive market swings",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFhhblBqMGNocWVzQllWWVpnY1VnQ055cWl6dk15b3p4WXZodTdETTl2SzBkUVk2RkoydGg4MnItNWpUMVdfTGdJejdXZnVlelVRUmRIWUFvY1FHbC1Qd3hsakNwcXI4Q2hLOGNkSDc0SlVpb0VxUUNDcVJZSXRqYzl6RjZrenJWdzlzSlZSZ1VBRWh5dHgyQXJoNXlVdDBBV3hpUVNpa0I3VVV6NXpNNW1wYw?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "investingLive",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 00:50"
+  },
+  {
+   "title": "UK's FTSE 100 Extends Losses; HSBC, Lloyds Hit by Google Cloud Outage",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fcHJxa2J1bUVEcTM1NEhiS1RqNGNWSUNjVWgyYTA3cGVlQjFpUGRwSExlWjIxZllMOU5sSGNyb0VmdzY3ZVgtVlduU0RLVmZsR3BiaUJuczR4ODNnMV9vRFRIalk1aTRyLWo1bElVQmFJUE1BdzhUS1E4LWtPQQ?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 00:49"
+  },
+  {
+   "title": "European Stocks Close Mixed in Tuesday Trading Amid Ongoing Unrest in France, Fighting in Middle East",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejdGX1V0Uzh2RjZBQjM5QjVmSmtUbmhERDlnVjdHSW1wbFRwRFRSNWdxbHdXcnVfT2ZUbGdxeXFQSGZEeU5Ic1N1NlhxVDBXOWY2cnZ6UzV4VDNDekRCUGpMeXlZaDUxb3M3d3RIYWx4VTk4ZVh6cHE4OWxZRWttTzVsRmxhaTdaaXFxZ19NYjdIbXFTQ3JkZ0NBOXZyTy1jNUZYdFlNUDFVZUE?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 00:43"
+  },
+  {
+   "title": "European Chip Stocks Fall More Than 4% as AI Investment Concerns Trigger Asian Sell-Off",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0pUNXAwWUJSNDdleUVBYlh1Y2FHRl91UkR3LVpVSm5DUXloWUxTbmNBXzdRdFJmcTJzUi1YTDNXVjRqbVJ0bnY0V2ZBTThtWnRaTVpJSUZVOXUxLXlaeFVKUDBwM3RiaktDWHB0TVhXeXpBMFdBOG1POHkwMVpkSjVGVFFDZw?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Yahoo Finance UK",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 18:22"
+  },
+  {
+   "title": "AI 투자 우려에 유럽 반도체 주식 하락, 아시아 매도세 추종",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsRDJUc3l2WVlqZnVIdW5UVHhkOVk2TmRpSWpEelh0Ym9IVXdyMERCR04yY0ItV0RzTWxZTGFWOUxpTGFaYVh1MHRlME1WcGd5THRHbHRacjBHUGVmRXBKcWlOdUcxUGFHQzlIQTJGYTY?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 16:35"
+  },
+  {
+   "title": "프랑스 국채금리 5% 코앞… 시장은 예산 '집행'에 관심",
+   "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38161",
+   "source": "네이버 ECB 금리",
+   "publisher": "junggi.co.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 15:48"
+  },
+  {
+   "title": "[글로벌 마켓 리포트 10월 20일]",
+   "url": "https://www.newspim.com/news/view/20261020000276",
+   "source": "네이버 유럽 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 10:28"
+  },
+  {
+   "title": "나랏빚에 발목 잡힌 통화정책…”중앙은행이 재정 경고등 켜야“ [Pick코...",
+   "url": "https://www.sedaily.com/article/20104071?ref=naver",
+   "source": "네이버 ECB 금리",
+   "publisher": "서울경제",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 07:26"
+  },
+  {
+   "title": "[데일리 머니마켓] 뉴욕 증시 혼조",
+   "url": "https://www.bigtanews.co.kr/article/view/big202610210001",
+   "source": "네이버 유럽 증시",
+   "publisher": "bigtanews.co.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 06:38"
+  },
+  {
+   "title": "[오정근의 아주경제적 시선] 불타는 유럽의 '재정 중독' 보고도 무리한...",
+   "url": "https://www.ajunews.com/view/20261019155919234",
+   "source": "네이버 ECB 금리",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 06:02"
+  },
+  {
+   "title": "프랑스 재정불안, 韓 채권시장엔 호재?",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728531",
+   "source": "네이버 ECB 금리",
+   "publisher": "ebn.co.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 06:00"
+  },
+  {
+   "title": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
+   "url": "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 05:34"
+  },
+  {
+   "title": "FTSE 100 Closes Up 0.34%, Outpacing DAX and CAC 40 at the Bell",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVDZJTnJGTW11WE00d21VQnNOSW84UWhrd1lNTWtZZUtpaHpDMDlYWnNBb2hxbUhORl93QmJoUzVPZEhsUkd2em9HamlaRFZfa1doM2UtOVBwZ3d3bmR0c3ZIRFBNSTN4ZEx3Z0RyUHNtUG1iRmV2aHFTa3NFeXIwYU5LN1NlSDNwSnVURTBJaldJcXlvdS03TFU1MGxSTzltaDNyS0VTT0w2UXQtLV9fUy1jN2RtX29ualpHVHprT2dpUXowLUNrVzNB?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "24/7 Wall St.",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 04:46"
+  },
+  {
+   "title": "FTSE 100 today: Stocks lower despite oil slide",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjh5QjFGcDVzUlRseFV3aXRxNS1YN2FVbG1wZ3dId1pYWm9KWnRQVm42a2ZFT3hwZEF1SzdDTUlhN1JoRmRaVjB4TzZQMUxwOVlIMk5KWTZORzZacC1Nc1ZRVlR1WFVhemhzelJ6T0Q5czFnaFFsbFktSVJkckdsLW1ZMVhyb0ZnQ3lhMXJwUzdOS2NoVlp2ZU9xRjBDX3JGSGdhNmVqWlJ3dEM5eW54elkxT002d3RpS0NBZQ?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 02:07"
+  },
+  {
+   "title": "유로-달러, 프랑스 소요 사태 숨 고르기에 반등",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440230",
+   "source": "네이버 유럽 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 01:48"
+  },
+  {
+   "title": "UK stocks slip as banks and commodity-linked stocks weigh",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUtEczZpbG5xY0xEWnF0V2JKSVE2eEcxOU01ZTd0aVB5aE1EbDdMUVNDSkY2QmJfWC1xMER4R2RLc3ZmMGJPXzRzRHFtVzFLVVRUV0tNX1NzS2NseEo3ekJxTHhJMklDcmQ2RVpXN0psYWYwUkpOU2ZlZjlhLWg3VG1aSjJmX0J4ZWQ2WFZySGZXV25GVTFpSS1iTTFkeXc?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Yahoo Finance",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 01:24"
+  },
+  {
+   "title": "Germany stocks mixed at close of trade; DAX down 0.05%",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeERWUGVlMm9SanVCdXBnQ3g2S1hJQlRyNGpRelY5SmdRS2lBTDcyT1lEbW9sdHJJRllKX0VsYUVRTURjNzhnNmMwdS15ei1NakRnQUZ0RGMtRFhkX2ZfQ2gzdE5ieTR5VnBXRm9oRlFRWVZjb3Rxb0k2bV8yZmthUTRGbHkyelN5S2piREgxRElCYTBtVUVRa3h6RE5xQ2FsQVNxbEtoUVhJcjha?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 01:16"
+  },
+  {
+   "title": "Defense Stocks To Watch As Military Spending Lifts Fincantieri And Exosens",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMlZjYU9zamNuWnB2d3o3NXBVYmRLZERQVHlBQ3g4TVFZSUtNcVBvSlBIQjRTMm1jWHR3QzVhc1FPWHdMai1RY3B3OFZSRWpEcHBxdGZIdFNob2k3ejZuZGhlUFNaSnppQWlOem5HemZ3ZFBxdENqYlY5LWtuZmVyeXEzMFduTkhxbVJob2pib25wcTk1cFVGWW1fOXU1b2VLN1AyNjZRUHdRVjBpT3pzenh3anRwV3gxOWc2c29kbmJYSW9FaWNpRktHM2tRQ3F2YV94ZtIB2gFBVV95cUxQVUs5cnVBMDc3WF8wb3BRX3V4LTZzZXNJcG1HX09lNDUzSHpVMVhxcUsteWFhbzJBUTFOeG9ZV2tfcm5nZGVUZ2U2MWhsbS1iWUFPZE82Mm8takFjRzN3Yk1hdmlUMXpsTVlHVnJsRkZfa2R5eldWcEhRa2hfcEt5VlNYT0h5cjJuNTJEOEVybHJZaTNib195ejlTVXVkNnFWblZmeGdCaWY4NWppUWpJTy1jMkRmUjJ0QmkwWVBlbFl5NlRZc2FYOXh6elIzOXZfNVJwX00wd0lRQQ?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "Simply Wall Street",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 22:01"
+  },
+  {
+   "title": "Citi “성장주 이탈 속 유럽 증시로 자금 유입”",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51ZUh1YXpqQzU2OTI4Yko5cGhULThzTzJXYmdVS2R2WWR2SkxjNDBmcFhFWWZucWdPODZZZVI5ZWFaSW9wNjVIUFBvQmRKdnA2VG1VZjVqRmxYT3dEbGM2SXIyYkw4QkFIRTdUNUNuZGYwT1JqanpF?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 18:46"
+  },
+  {
+   "title": "나랏빚 더 뛰면 통화정책 마비…“중앙은행이 ‘재정 파수꾼’ 돼야”",
+   "url": "https://www.sedaily.com/article/20103973?ref=naver",
+   "source": "네이버 ECB 금리",
+   "publisher": "서울경제",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 18:03"
+  },
+  {
+   "title": "[프랑스, 어쩌다 이리 됐나] 폴 크루그먼 \"허리띠 졸라 매지 않아 구제...",
+   "url": "https://www.imaeil.com/page/view/2026102016403158191",
+   "source": "네이버 ECB 금리",
+   "publisher": "imaeil.com",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 16:50"
+  },
+  {
+   "title": "FTSE 100, EUR/USD Forecast: Two trades to watch 61026",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0w2SV9UQ0ZMRmJ2Q1BadGVncmxQYzlGSWxFUDFsWllXNXZhQzhyWkE0VGZwekJDUl9yUFRjME5BUVN3NEZqS0dqQjhUbWRrS1Q5MXIxVmFWMWt4Y3BLYjRpNkRzcjdfdlNNNTNzUFdSVWFKS3JDRXRjRTBYeUhndDJSNzhOeDNhSms3ZGRkTFNOQjZnaDhWT1dOVU54Z0hK?oc=5",
+   "source": "Google News European stocks",
+   "publisher": "StoneX",
+   "lang": "en",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 23:43"
+  },
+  {
+   "title": "21셰어스, 라이터·베니스 토큰 추종 ETP 유럽 증시 상장",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQjFMeXZUVThqdWxTVl9FX2hUYnpuWjdkZ016TzF4SFVWN2taMXdPb19ESEc5VlM1aHlmd0lFMGFIYkRxZ09QcHRZMFZHOGhz?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "블루밍비트",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 17:52"
+  },
+  {
+   "title": "한은 '9월 생산자물가지수' 0.2% 상승… 전년 동월 대비 7.7% 급등",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395834",
+   "source": "네이버 원달러 환율",
+   "publisher": "fntoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:46"
+  },
+  {
+   "title": "전기요금·먹거리 뛰자 9월 생산자물가 0.2%↑…두 달째 상승",
+   "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81881",
+   "source": "네이버 원달러 환율",
+   "publisher": "newsfc.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "9월 생산자물가 전년比 7.7% 상승…원재료·전력 가격 압박 지속 [한국은...",
+   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66151",
+   "source": "네이버 물가 지표",
+   "publisher": "newsroad.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:38"
+  },
+  {
+   "title": "BIS \"중앙은행, 금리 공격적 인상하면 불필요한 경제적 피해 초래\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sSFRvZG5sY1FlTGFiVzBSTFdxODY5TG02VEEzRzZVUlJvVjBjNEduMEdvTjVSUXhEWURrc0hocUQwOUh5WS1BbWZlVnM1c2pCSnQ0cmtkQVFaZVJRSkJXRDY4RDlvSFZhaDlMOEpEUGLSAXRBVV95cUxNem5jMmpOeGIxS1VxNXZOcjRFSkRlMFBVUkJsWExEVjhYdzlBQVpZMk5OQU1LRHYya1ExLWtxTjRRX1dXMHJCOVVraGxUeWZKSXhEQUVLTE9aQ2dKNENhSFhteHZXNlMtZm5IZWN6Yzd2c21fTQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:32"
+  },
+  {
+   "title": "[美 중간선거] 물가에 흔들리는 공화당…데이터센터도 표심 변수",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440296",
+   "source": "네이버 연준 금리",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:26"
+  },
+  {
+   "title": "악재는 그대로인데 시장은 버틴다…고금리·고유가 뒤 '공포 확산' 멈춘...",
+   "url": "https://www.thepowernews.co.kr/view.php?ud=2026102013311962de3f0aa1be_7",
+   "source": "네이버 미국 국채금리",
+   "publisher": "thepowernews.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:16"
+  },
+  {
+   "title": "[IMF 진단 '한국 2026'③] 금리 올리고 증시 흔들리고…'정책 딜레마'",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367553",
+   "source": "네이버 연준 금리",
+   "publisher": "ftoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:56"
+  },
+  {
+   "title": "[국제금융 브리핑] 미·이란 평화협정 기대에 브렌트유 108.79달러...S&P50...",
+   "url": "https://www.tokenpost.kr/news/economy/425217",
+   "source": "네이버 물가 지표",
+   "publisher": "tokenpost.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:32"
+  },
+  {
+   "title": "Crude Oil Prices Fall on Diplomacy Hopes to End Iran War",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXR6WkdySG9hMzBkV3FLcFFlVHFGV3M3Z2MwNExrUGpYY0IwZ3Ezd3FxUXh0a2M1Qml2ZUhhWXdvTHpRbkYza0dJQVFfTms4UHYxME05Sk1mMVd4WXZjM0tOZGN1YzF1ZGVTVlMxRVY0LWUtZ2p3ZS1yTjZocGpiZWhOeDFLZy1mS1lYUWh5NjhiY2g0T045Q0ZFOGdLWVRHanc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barchart.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 04:16"
+  },
+  {
+   "title": "Oil prices rise on M.East tensions, U.S. inventory draw",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXVnZW1aUExZQ3NSMVBJbkVsN3BqZ2hWVTlfcGY5U2Z1Wnh4T3M4ZF9jb1NTQVY4UXczZGdDczlwckNQRnpFOXM2YXJVT1NtRXR5T3BmUHBMakdkQ0UwUUJOcHFZOXRlanJydXlWZGhBZlJJanJTSlZMZGR4S01vYnJ5WGJZSEFfbi1CaHBQdDhLTFY5RG02NWI3elNBeHBGaWl6UGRkb0JWV2c?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "After the initial wave of buying, investors will assess whether semiconductor stocks have bottomed out.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0djQTNPRTc3RUlHd2dOWHZKTFlMS2VJV1I1M3RHQkpzM2dFc0hlYThkTXNWY0lzRnhsTUpsNE9RMHhSNi04eFBiXzMtM0ZpaFJsajV4QTgxdmNMb09WbjQxQVhKZ0tQZ1lQT1RSX2NsX29KWnlaRGItUzhaMi1UTjU5bW1SMVVudWJQcWhpUXl6cl8wOC1sSjlDbUdxSVBlRzdMOE1FbFB1QQ?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Moomoo",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 08:41"
+  },
+  {
+   "title": "한·일·중 묶일 때 홀로 질주…대만, AI 인프라 전반 싹쓸이",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367736",
+   "source": "네이버 중국 증시",
+   "publisher": "ftoday.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:04"
+  },
+  {
+   "title": "AI and semiconductor stocks drop sharply amid i...",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0JsdUh1WDJWNDUzM0lXVHNmeDhXTlFKdFM0SGJ3VGM3ZUlzc2ViQWNFYWs1dlk4Z0VsNXBLalFoLV8tN05LS1BCZFNpWjM3RHdKVFE5dXdSelNiRUNnblpVd0EtdFBSYjI0ZmU0S0JobFpPWUNZV3JrLS1zeWs1NTBsRVJuUmhoOV9ZXzFTa2p1cEY1OVpaWEdjcGxuQ2Zu?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Pluang",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 07:37"
+  },
+  {
+   "title": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDhCbnUwbzFqRTZQb2ZQWmtIWGtBam9ENEc4ak5nNEktMm16NlA0TXJQalJpb1I0X1BDVG9rbVh1d0k1TGU0ZjRabE1IVVNCTmhRM19QQlYtdk9JYkVaQ0xRNXJXSldPenRydmpsczhmX3V6elA2Tmo4MWJrTXphQ0wyNnlDRVM2eGUzeF94MlZBN1NN?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:05"
+  },
+  {
+   "title": "Oil Futures Settle Lower in Volatile Session",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:17"
+  },
+  {
+   "title": "프랑스, 어쩌다 이 지경까지...폭력 시위에 ‘야간 통금’ 검토 [글로벌...",
+   "url": "https://www.sedaily.com/article/20104033?ref=naver",
+   "source": "네이버 방산주",
+   "publisher": "서울경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:01"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

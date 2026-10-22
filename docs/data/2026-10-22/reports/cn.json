@@ -1,0 +1,545 @@
+{
+ "topic": "cn",
+ "name": "중국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-10-22T11:11:04.707926+09:00",
+ "report": {
+  "title": "중국·홍콩 증시 데일리 (2026-10-22) — CATL 3분기 어닝쇼크에 A주·항셍 동반 약세, ETF 자금 유입·자사주 매입이 하단 지지",
+  "overview": "직전 세션(10월 21일) 중국 본토 증시는 CATL의 3분기 실적 쇼크로 배터리주가 급락하면서 하락했습니다. 기사에 따르면 상해종합은 0.6% 내린 3713.03, 심천성분은 0.82% 내린 11704.35, 창업판지수는 1.62% 내린 2694.71로 마감해 2700선을 내줬고, 광모듈·칩주가 반등한 커촹50만 올랐습니다. CATL은 선전에서 12.03%, 홍콩에서 11.41% 급락했고, 홍콩 증시도 AI 관련 매도로 레노버·SMIC가 약세를 보여 하락 마감한 것으로 보도됐습니다. 반면 연휴 이후 주식형 ETF로 대규모 자금이 들어오고 상장사 자사주 매입이 늘고 있으며, 국부펀드의 중국·홍콩 투자도 다시 급증하고 있어 '바닥 다지기' 논의가 함께 나오고 있습니다. 한국 쪽에서는 CATL 둔화가 K배터리의 ESS 경쟁에 반사이익이 될 수 있다는 시각과, 중국 소비·부동산 부진이 화장품·소재 업종에 부담을 준다는 시각이 함께 있습니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "제공된 시세 표는 10월 20일 세션 값입니다. 이날 상해종합은 3735.37(+4.45, +0.12%)로 소폭 올랐고, 심천성분은 11,801(-16.13, -0.14%)로 소폭 내렸습니다. 항셍은 23,868(-319.09, -1.32%), 닛케이 225는 64,075(-841.28, -1.30%)로 홍콩·일본이 더 크게 밀렸습니다. 기준일 직전 세션인 10월 21일 종가는 표에 없어 기사로 보완했습니다. 뉴스핌 보도에 따르면 이날 A주 4대 지수는 엇갈렸습니다. 상해종합은 0.6% 내린 3713.03, 선전성분은 0.82% 내린 11704.35, 창업판지수는 1.62% 내린 2694.71로 마감해 2700선이 무너졌고, 커촹50만 올랐습니다. 창업판은 장 초반 올랐다가 하락 반전했으며(BigGo), 중국 매체들도 '오전에 오르다 밀렸다(冲高回落)', '3대 지수 하락, 거래대금 1.5조 위안 미만'이라고 정리해 거래 열기가 약했던 것으로 보입니다. 연합인포맥스는 아시아 증시 전반이 회복하는 가운데 중국만 CATL 급락과 소비주 약세로 따로 약했다고 평가했습니다. 홍콩도 RTHK가 '홍콩·본토 증시 동반 하락'을 보도했고, AI 관련 매도로 레노버·SMIC가 눌렸다는 보도가 있습니다. 반면 일본은 AI·반도체주 매수세로 닛케이가 545.82포인트(0.85%) 오른 64,621.24에 마감해 3거래일 만에 반등했습니다. 장중 65,000선에 다가섰으나 장 후반 차익실현 매물에 오름폭을 줄였습니다. 22일 아침에는 닛케이가 0.22% 상승, 코스피가 0.06% 하락으로 출발해 방향이 엇갈렸습니다. 한 기사는 중국이 3분기 성장을 이어갔는데도 증시는 10주 연속 하락했다고 지적했습니다.",
+    "bullets": [
+     "10/20 표 기준: 상해종합 3735.37(+0.12%), 심천성분 11,801(-0.14%), 항셍 23,868(-1.32%), 닛케이 64,075(-1.30%)",
+     "10/21 기사 기준: 상해종합 3713.03(-0.6%), 선전성분 11704.35(-0.82%), 창업판 2694.71(-1.62%, 2700선 붕괴), 커촹50 상승",
+     "A주 거래대금 1.5조 위안 미만, 오전에 오르다 밀리는 흐름(冲高回落)",
+     "항셍: AI 관련 매도로 레노버·SMIC 약세, 하락 마감 보도",
+     "닛케이 10/21 +0.85%(64,621.24)로 3거래일 만에 반등, 장중 65,000선에 근접"
+    ]
+   },
+   {
+    "heading": "정책·유동성",
+    "body": "이번 입력에는 인민은행·국무원·증권 당국의 새 발표가 없습니다. 대신 정책 효과와 자금 흐름에 관한 기사가 여럿 있습니다. 첫째, 부동산 쪽에서는 중앙·지방정부가 잇달아 내놓은 주택담보대출 금리 인하와 계약금 비율 완화 등 부양 패키지의 효과로, 골드만삭스·씨티가 5년째 침체한 중국 주택시장이 2027년에 바닥을 찍고 안정될 것이라고 전망했습니다(글로벌이코노믹). 둘째, 증시 자금 흐름에서는 연휴 이후 주식형 ETF 순유입이 1,500억 위안을 넘었다는 보도(펑파이)와 12거래일 동안 2,000억 위안 넘게 들어왔다는 보도(둥팡차이푸)가 있습니다. 중국 매체는 이를 근거로 'A주에 네 가지 지지 요인이 차례로 나타나고 있다', 'A주가 바닥 특징을 갖췄는가'라는 질문을 던지고 있습니다. 셋째, 상장사 자사주 매입이 늘면서 '실제 돈으로 증시 하단을 받친다(真金白银托底)'는 평가가 나옵니다. 넷째, CNBC는 국부펀드의 중국·홍콩 투자가 큰 폭으로 줄었다가 190% 급증했다고 보도해, 해외 장기자금이 돌아오는 신호로 읽힙니다. 다만 같은 시기 '부동산·증시·소비가 함께 침체해 중국도 잃어버린 10년으로 가는가'라는 우려(한국경제)도 나와 정책 효과에 대한 시각은 엇갈립니다. 북향자금(홍콩을 거쳐 본토로 들어오는 외국인 자금) 수치는 입력 기사에 없습니다.",
+    "bullets": [
+     "부동산: 주담대 금리 인하·계약금 비율 완화 부양 패키지 → 골드만·씨티 '2027년 바닥 통과' 전망",
+     "주식형 ETF: 연휴 후 순유입 1,500억 위안 이상, 12거래일 동안 2,000억 위안 이상 유입 보도",
+     "A주 자사주 매입 증가 — '실제 돈으로 하단 지지'",
+     "국부펀드 중국·홍콩 투자 190% 급증(CNBC)",
+     "새 통화·재정 정책 발표와 북향자금 수치는 입력에 없음"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "가장 약했던 업종은 2차전지입니다. 업계 1위 CATL은 3분기 이익 증가세가 크게 꺾였다는 소식에 10월 21일 선전에서 12.03% 내린 227.9위안에 마감했습니다. 5월 6일 종가 기준 고점(460위안)보다 50.4% 낮은 수준이며, 홍콩 상장 주식도 11.41% 떨어졌습니다. 기사들은 매출은 59% 늘었지만 순이익 증가율은 15%에 그쳤다는 점, 치열한 경쟁과 중국 자동차 판매 증가세 둔화를 원인으로 꼽았습니다. 하루 만에 시가총액 약 30조원이 사라졌다는 보도와 함께, 중국 매체는 CATL에서 13억 위안이 넘는 매도가 나왔다고 전했습니다. 다른 배터리주도 함께 밀려 선전의 고션이 6.94%, EVE에너지가 5.27% 떨어졌고, 홍콩의 CALB도 3.57% 내렸습니다. 연합인포맥스는 소비주 약세도 지수 하락 요인으로 짚었습니다. 반대로 강했던 쪽은 광모듈·칩주로, 이들의 반등에 커촹50이 1% 넘게 올랐습니다. IT서비스 업종도 하락장 속에서 강했습니다. 돼지고기 관련주는 시장과 반대로 크게 올랐고, '두유기 대왕'으로 불리는 종목은 13거래일 동안 8번 상한가를 기록했습니다. 반도체 후공정(패키징) 기업 장천과기(长电科技)는 반도체 업황 회복으로 2026년 1~3분기 누적 순이익이 110% 늘 것으로 예상하고, '200억 규모' 자사주 매입(매입가 상한은 이사회 결의 전 30거래일 평균 주가의 150%)을 발표해 주목받았습니다. 홍콩에서는 AI 관련 매도로 레노버와 SMIC가 약세였습니다. 그 밖에 순이익이 크게 늘었다는 A주 상장사 실적 발표가 잇따르고 있어, 실적주 위주로 종목이 갈리는 흐름이 예상됩니다.",
+    "bullets": [
+     "약세: 2차전지(CATL 선전 -12.03%·홍콩 -11.41%, 고션 -6.94%, EVE에너지 -5.27%, CALB -3.57%), 소비주",
+     "강세: 광모듈·칩주 반등에 커촹50 1% 넘게 상승, IT서비스 강세, 돼지고기주 역행 급등",
+     "테마: '두유기 대왕' 종목 13거래일 중 8번 상한가",
+     "장천과기: 1~3분기 누적 순이익 110% 증가 예상 + 자사주 매입",
+     "홍콩: AI 관련 매도로 레노버·SMIC 약세"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "① CATL 3분기 어닝쇼크: 매출이 늘었는데도 이익 증가율이 크게 꺾였고, 주가는 5개월 만에 반토막이 났습니다. 업계 1위의 실적 둔화가 중국 배터리 공급망 전체로 번지는 모습입니다. 이와 관련해 뉴스핌은 CATL의 주주이자 LFP(리튬인산철) 양극재 파트너인 호남유능(湖南裕能)의 공급망 확장(원료·자원·재활용)을 다뤘습니다. ② 엔비디아 GPU 대량 주문: 조선비즈는 중국 빅테크 3사가 미국 수출규제를 피한 엔비디아 GPU를 47조원어치 주문했으며 내년에 생산될 예정이라고 보도했습니다. 선전 상장사 탄순테크놀로지도 13일 RTX PRO 5500 그래픽카드 2만 장 구매 계약을 공시했습니다. 다만 공급 부족과 해외 기술 규제 때문에 인도 일정은 불확실하다는 단서가 붙었습니다. ③ 해외 자금: 국부펀드의 중국·홍콩 투자가 190% 급증했습니다(CNBC). ④ 부동산: 골드만·씨티가 2027년 바닥 통과를 전망했습니다. 반면 부동산·증시·소비가 함께 침체해 '잃어버린 10년'이 올 수 있다는 우려도 함께 나왔습니다. ⑤ 지정학·원자재: 미국이 사우디아라비아 주재 외교관에게 철수를 지시하는 등 중동 긴장이 커지면서 유가가 올랐다는 로이터 보도가 있습니다. 동시에 10월 페르시아만 원유 수출은 이란 전쟁 이전 수준을 회복했거나 넘어섰다는 보도도 있습니다. 시세 표(10/21)에서는 WTI가 98.28(-5.19%)로 급락한 반면 브렌트는 110.23(+1.32%)으로 올라 두 유종이 엇갈렸습니다. ⑥ 미국·일본: 뉴욕증시는 AI 기업 실적 호조와 젠슨 황 엔비디아 CEO 발언에 힘입어 반도체주가 반등했습니다. 엔비디아는 2.54% 오른 221.97에 마감했습니다. 엔비디아가 삼성과 반도체 공급망을 넓힌다는 보도도 나왔습니다. 일본은 수출이 16.7% 늘었다는 소식과 AI 낙관론이 닛케이를 끌어올렸습니다.",
+    "bullets": [
+     "CATL: 매출 59% 증가 vs 순이익 증가율 15%로 둔화, 주가 고점 대비 -50.4%",
+     "중국 빅테크 3사, 미국 규제를 피한 엔비디아 GPU 47조원어치 주문(인도 일정은 불확실)",
+     "국부펀드 중국·홍콩 투자 190% 급증",
+     "중동: 미국이 사우디 주재 외교관 철수 지시 → 유가 상승 보도, 걸프 원유 수출은 전쟁 이전 수준 회복",
+     "엔비디아-삼성 공급망 확대 보도, 일본 수출 16.7% 증가"
+    ]
+   },
+   {
+    "heading": "한국 영향",
+    "body": "2차전지: CATL의 실적 둔화와 주가 급락은 업종 투자심리에 부담이지만, 한국 배터리에는 다르게 작용할 수 있습니다. 머니스톰은 CATL 둔화가 K배터리의 반등 기회가 될 수 있고, 특히 ESS(에너지저장장치)를 먼저 차지하려는 경쟁이 관건이라고 분석했습니다. 다만 경쟁 심화와 중국 자동차 판매 둔화가 원인으로 꼽힌 만큼 전기차 수요 전반의 불안은 국내 배터리 소재(양극재·전구체) 기업에도 부정적입니다. CATL·고션·EVE가 함께 떨어진 흐름이 국내 소재주 심리로 번지는지 확인해야 합니다. 반도체·장비: 중국 빅테크의 엔비디아 GPU 대량 주문, 장천과기의 실적 개선, 엔비디아-삼성 공급망 확대 보도는 AI 반도체 수요가 견고하다는 신호로, 국내 메모리·기판·후공정 업종에 우호적입니다. 반면 홍콩의 SMIC·레노버 약세는 중국 AI 하드웨어 투자심리가 흔들린다는 뜻이어서 중국 매출 비중이 큰 장비주는 종목별로 차별화될 수 있습니다. 화장품·소비재: 중국 소비주가 약하고 '잃어버린 10년' 우려가 나오는 상황은 중국 노출이 큰 화장품·면세 업종에 계속 부담입니다. 철강·화학: 골드만·씨티의 부동산 2027년 바닥론은 중기적으로 철강·화학 수요 회복 기대를 높이지만, 바닥 시점이 2027년인 만큼 단기 실적 개선 근거로 삼기는 이릅니다. 유가는 WTI 급락과 브렌트 상승이 엇갈려 정유·화학 마진에 미치는 영향이 불확실합니다. 환율: 10/21 원/달러는 1323.94(-0.46%), 위안/달러는 6.68(-0.19%)로 둘 다 달러 대비 강해졌습니다. 달러인덱스는 101.72(-0.01%)로 거의 변화가 없어, 원화 강세가 달러 약세보다는 아시아 통화의 동반 강세에 가깝습니다. 위안 강세와 국부펀드·ETF 자금 유입이 이어지면 원화에도 지지 요인이 될 수 있습니다. 다만 중국 증시가 10주 연속 하락한 점을 보면 위안·원 동반 강세가 증시 반등으로 바로 이어진다고 보기는 어렵습니다.",
+    "bullets": [
+     "2차전지: CATL 둔화 → K배터리 ESS 반사이익 기대 vs 전기차 수요 불안에 따른 소재주 부담",
+     "반도체: 중국 엔비디아 GPU 주문·엔비디아-삼성 공급망 확대는 우호적, SMIC 약세는 중국 노출 장비주 차별화 요인",
+     "화장품·소비재: 중국 소비주 약세와 장기 침체 우려가 계속 부담",
+     "철강·화학: 부동산 2027년 바닥론은 중기 기대, 단기 근거로는 부족",
+     "환율: 원/달러 1323.94(-0.46%), 위안/달러 6.68(-0.19%)로 동반 강세"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "CATL(닝더스다이)",
+    "ticker": "300750.SZ",
+    "comment": "3분기 어닝쇼크로 10/21 선전에서 12.03% 내린 227.9위안 마감(홍콩 -11.41%). 5/6 고점 460위안 대비 -50.4%이며, 13억 위안 넘는 매도가 나왔다는 보도가 있음"
+   },
+   {
+    "name": "고션(Gotion)",
+    "ticker": null,
+    "comment": "CATL 쇼크에 선전에서 6.94% 하락하며 배터리주 동반 약세"
+   },
+   {
+    "name": "EVE에너지",
+    "ticker": null,
+    "comment": "선전에서 5.27% 하락, 배터리 업종 동반 약세"
+   },
+   {
+    "name": "CALB",
+    "ticker": null,
+    "comment": "홍콩 증시에서 3.57% 하락"
+   },
+   {
+    "name": "장천과기(长电科技, JCET)",
+    "ticker": null,
+    "comment": "반도체 업황 회복으로 1~3분기 누적 순이익 110% 증가 예상, 자사주 매입 발표(매입가 상한은 30거래일 평균 주가의 150%)"
+   },
+   {
+    "name": "레노버",
+    "ticker": null,
+    "comment": "홍콩에서 AI 관련 매도로 약세를 보이며 항셍 하락을 이끈 종목으로 거론"
+   },
+   {
+    "name": "SMIC",
+    "ticker": null,
+    "comment": "홍콩에서 AI 관련 매도로 약세"
+   },
+   {
+    "name": "호남유능(湖南裕能)",
+    "ticker": null,
+    "comment": "CATL의 주주이자 LFP 양극재 파트너. 원료·자원·재활용으로 공급망 확장 추진"
+   },
+   {
+    "name": "탄순테크놀로지",
+    "ticker": null,
+    "comment": "RTX PRO 5500 그래픽카드 2만 장 구매 계약 공시(10/13). 공급 부족과 규제로 인도는 불확실"
+   }
+  ],
+  "events_today": [
+   "중국 A주 3분기 실적 발표 시즌 진행 중 — CATL 쇼크 이후 실적이 좋은 종목 위주로 차별화되는지 주목",
+   "주식형 ETF 순유입과 상장사 자사주 매입이 계속되는지 확인",
+   "중동 긴장(미국의 사우디 주재 외교관 철수 지시)에 따른 유가 변동성 점검"
+  ],
+  "headlines": [
+   {
+    "text": "CATL 3분기 어닝쇼크로 A·H주 모두 11~12% 급락, 고점 대비 반토막 — 창업판 2700선 붕괴, 배터리주 동반 약세",
+    "importance": 5
+   },
+   {
+    "text": "A주 3대 지수 하락·거래대금 1.5조 위안 미만에도 주식형 ETF 12거래일 동안 2,000억 위안 넘게 유입, 국부펀드 중국 투자 190% 급증",
+    "importance": 4
+   },
+   {
+    "text": "중국 빅테크, 엔비디아 GPU 47조원어치 주문 보도 — 홍콩은 AI 관련 매도로 레노버·SMIC 약세",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "시세 표의 중국·아시아 지수는 10/20 세션 값이고, 직전 세션(10/21) 종가는 기사로 보완함",
+   "10/21 항셍 마감 수치는 기사마다 다르고 표와도 맞지 않아(24,062.72 언급) 인용하지 않음",
+   "북향자금 등 외국인 수급 데이터는 입력에 없음",
+   "중국어 기사는 제목·요약만 확인할 수 있어 세부 수치와 종목명 해석에 한계가 있음",
+   "장천과기 자사주 매입 '200억 규모'는 통화 단위가 확인되지 않음",
+   "WTI(-5.19%)와 브렌트(+1.32%)가 반대로 움직여 데이터 시점·계약월 차이일 수 있음"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "中 CATL 주가 12% 폭락, 전기차 배터리 수요 불안 여파",
+   "url": "https://www.fnnews.com/news/202610211846481816",
+   "source": "네이버 중국 증시",
+   "publisher": "파이낸셜뉴스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 18:52"
+  },
+  {
+   "title": "CATL, 3Q 실적 부진에 주가 '12% 급락'…中 배터리주 동반 약세",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728680",
+   "source": "네이버 중국 증시",
+   "publisher": "ebn.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 18:46"
+  },
+  {
+   "title": "中 빅테크 3사, 美 규제 피한 엔비디아 GPU 47조원어치 주문… 내년 생산...",
+   "url": "https://biz.chosun.com/it-science/ict/2026/10/21/SYXU5L45D5EN3NHP7QZ7IECCCU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "네이버 중국 증시",
+   "publisher": "조선비즈",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 17:52"
+  },
+  {
+   "title": "中 CATL, 매출 59% 늘 때 순익 15%...주가 5개월 새 반토막",
+   "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48370",
+   "source": "네이버 중국 증시",
+   "publisher": "newstopkorea.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 16:52"
+  },
+  {
+   "title": "China's CATL Plunges 9% in A and H Shares After Earnings; Optical Module Chip Stocks Rebound, Lifting STAR 50 Over 1%",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZT3AwYWs4cjhQYW1XbXQxWGsyNUR4ajRCWFk4ZU10S3I4VW94WENRZ2tuRE54b1FobG5PZVNJb2Q5MnMteUNXYWVkUDBEakVNUGFNX2FZMGF1RElRNy12Rk1hUEdsdnh1VDQzb0c5OWF0YTZMRVE?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BigGo Finance",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 11:25"
+  },
+  {
+   "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
+   "url": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-22 09:47"
+  },
+  {
+   "title": "[비즈 인사이트] CATL 실적 둔화에 K배터리 반등 기회…ESS 선점 경쟁이...",
+   "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7524",
+   "source": "네이버 중국 증시",
+   "publisher": "moneystorm.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 09:35"
+  },
+  {
+   "title": "[AI MY 뉴스] 22일 중국증시 'CATL발 변동성 속 실적주 주목'",
+   "url": "https://www.newspim.com/news/view/20261022000177",
+   "source": "네이버 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 09:11"
+  },
+  {
+   "title": "\"2027년 바닥 찍고 돌아선다\"… 골드만·시티, 5년 침체 中 부동산 '안정...",
+   "url": "https://www.g-enews.com/view.php?ud=2026102208521419860c8c1c064d_1",
+   "source": "네이버 중국 경기부양",
+   "publisher": "g-enews.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 08:54"
+  },
+  {
+   "title": "CATL, 3분기 '어닝 쇼크'에 주가 12% 폭락…中 배터리업계 전방위 충격",
+   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66200",
+   "source": "네이버 중국 증시",
+   "publisher": "newsroad.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 07:00"
+  },
+  {
+   "title": "A股三大指数收跌 成交额不足1.5万亿 IT服务板块逆市走强",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IVGpYSkZQbUc3Z04tTXBmQTduMmw2WFhNZ2J6bExqSXFmMzFVTkFRd21hNV9YMW5vWjNmUVJSRG5teFNjOUFfV2tXZTZPNjBsS3hIUjQ2bnQzcU9CTURJLQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 05:27"
+  },
+  {
+   "title": "\"세계 1위라더니 반토막 났다\"…하루 새 30조원 날아간 中기업",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210189&t=NN",
+   "source": "네이버 중국 증시",
+   "publisher": "wowtv.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 20:28"
+  },
+  {
+   "title": "Shanghai Composite ends down 22 points as CATL sinks",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDF1eE1OeGdGZ0thbTNJVG41aVJWNkFFa1lKZjRvTVVNWjVSZWx5QUlzaE5WVDcwdjhqY2VhLXBCRURjdHVPdnFfSlF5YW1fekk1TTd0WER3bkJjaEJBcUZaVUppenEzaVE4VUY2MEhBWEx4QU82a0g2VUpGNTgybG9sMVVNc0FwUVFneUhCUUlkZEhaX0xWY0wyMWlDMnFGekxmZnBNU2hvMmh6U1M3ZGgzUUM?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "AD HOC NEWS",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 20:20"
+  },
+  {
+   "title": "Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits Lenovo and SMIC",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1hTQjdwRU95Q0ZfNnlidzV0em1Qa3EzNlFtZTl2MHR1T1pxOUtmNHE5TVdhSmZTdzRrQS00ZXhhWlJPLWxTMXF5d0xPSVRhR05jNFI0N1YtcE5uQ1JGZWRaU2FMb0V0OS12anlNOFh3NjFKTHVyMnVPeG9DWUp4RzFoX0FqNmNvOXdPNFpGVjlzMjY5dkNjbTFXYXN3YkNiY0hRN25Db0UxakxRcnRsNlVKdGhJaWZhY0ZHZkFXM083MHFJZGdQVGlabFo1eGs?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 18:32"
+  },
+  {
+   "title": "[중국증시-마감] CATL 급락·소비주 약세에 하락",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440420",
+   "source": "네이버 중국 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 18:22"
+  },
+  {
+   "title": "CATL Plunges More Than 12% in One Day as China's ChiNext Index Rallies Then Reverses to Close Down 1.62%",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zd2JSdzh6UWpULVQ0dmtyRjNzOUg5OUliY3RucWVEVWN0UzlJQUVYOFRpZGVLR3pMZ2JtN2ZnQ21uT2ZLWm12a2puQjBwLXcxUDVuUF94eTdnTGRHZzlKUGt3clJPZ0ZKaEN4R1FqcFlKLURjX0E?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BigGo Finance",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 16:35"
+  },
+  {
+   "title": "[中 증시 마감] CATL 어닝 쇼크에 증시 전반 하락",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KSy0xcXdLbkxyV3NVSFRLb0dKdVY1bVYxaHVseEFEbnI2UVJIWlBLeExPWlFIc1RLbjVTMGh0bjFuRHJ4VU5IdEF5VXRCWUNtVnBUc2toOFXSAVhBVV95cUxPSkstMXF3S25McldzVUhUS29HSnVWNW1WMWh1bHhBRG5yNlFSSFpQS3hMT1pRSHNUS241UzBodG4xbkRyeFVOSHRBeVV0QllDbVZwVHNraDhV?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 16:26"
+  },
+  {
+   "title": "[중국증시 마감] CATL발 배터리주 급락, 창업판지수 2700선 무너져",
+   "url": "https://www.newspim.com/news/view/20261021001079",
+   "source": "네이버 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 16:20"
+  },
+  {
+   "title": "부동산·증시·소비 동반 침체…중국도 ‘잃어버린 10년’ 가나",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45ME9LRWdKeFBkSG9aQ3VZbkpXci1tR0FLemFfUkxIUUppYUxZR1J2STJVdHFSeDlmWFRjaGNkeVd4ZVJOTG92SnN2Y09UckZfTFJoQVJLLXczQQ?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "한국경제",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 11:25"
+  },
+  {
+   "title": "중국, 3분기 성장했는데 증시는 '마이너스'...10주 연속 하락",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WQ0JZUXBsVnN4b0JobS1oa2dFZnZLSW5DSVhNUmdWSTd4NnNfUmxCaUZhOHRROXZNLTBtb0dlWkxKdUFr?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "코인리더스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:10"
+  },
+  {
+   "title": "[중국 특징주] '장천과기' 3Q 누적 순익 110%↑…200억 규모 자사주 매입",
+   "url": "https://www.newspim.com/news/view/20261022000279",
+   "source": "네이버 반도체 주가",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:38"
+  },
+  {
+   "title": "股票ETF节后净流入超1500亿元，A股具备见底的特征了吗？",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iTWZkaWNxWS1MQ1U2OFExbFR5YUhNZW1McElCbFIwaHhCSUlvb3J3UENrYTl2YlZlbXI1cjZPeUJLdkZkamd0WTFwblJ4bVZacURkZlFGYTBpZktfUWpocg?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "ThePaper.cn",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 09:07"
+  },
+  {
+   "title": "Asian Stock Markets Today: Nikkei 225 Rebounds While SSE Composite, Hang Seng and BSE SENSEX Fall",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOF9uV19oVHZMWXNJMjZPY1RobjdjamxQXzQ2NTJ6WUh5RHRiSjBJTEVCeVZ6LWpnbE1La3QtZ3lEM0hTUlBUWWw0LTM0ZmpLUUQ5SGJ2VjBBTDctSTV2LTlmeDM1Z3NRYTRSczZuZVZUTmc3V21za0d4NnBLN2tKcGZBeUNCR2RfVW5keVBiVlZlSEdUZTB3RkxtTk9JRFp6RWhCbU1OanU5dFZDT0ZQUHoxR2dGa2RCTUZsSmU4aWVWSGRzTmxoNlVR?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 08:45"
+  },
+  {
+   "title": "A股收评：宁德时代遭抛售超13亿元，猪肉股逆势大涨，“豆浆机大王”13天8板",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVBWWHZlWkdKcS1rM3g0MlVucV9NT01KYVdVaUp1X2VmOVAxN3hVeGo0ZTA2NTVqQUM4a1cyU0sxUWgtVDg0bDJFLWVtZ1VndlduYnJLcU1rdGFqS1cxVHNydHlDVG55UTVweGdpS3ZvWDBvOWVVYUJTQjFoenNwNHp3?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪网",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 08:15"
+  },
+  {
+   "title": "晚间利好！多家A股公司，净利大增",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPUDZueTdnYWg0dFlKSWlzNzlqUjN5TXFoc2Uwc29mbUNVc3N3VG1weWRDYURWVHp6OVc3eXpkUVJIVUppQjJGVW9FcExjSGM4Ny1IMjFsQlZZVEZSWXJ6M3JVNDdCUQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 07:42"
+  },
+  {
+   "title": "[中 거인의 공급망] ①주주∙양극재 파트너로 연계 '호남유능' 없으면 ...",
+   "url": "https://www.newspim.com/news/view/20261021001013",
+   "source": "네이버 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 07:00"
+  },
+  {
+   "title": "股票ETF12天吸金超2000亿元，A股四重支撑渐次显现",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wVWJfbmt2OVdlMVZOSC05bERnajVNZmZFZlhGZElhbGswTVVwcmJUYkNEWGZLY21MVGZ3ZVlmNEdNdElxS1h2RDR6aXpxZzBXYW1BMUlrT0NpelkxSW0zRg?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 06:19"
+  },
+  {
+   "title": "A股冲高回落 科技板块局部回暖",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNkVKdU5jMGN1bXVOX3ZKZEFrV0IxZFhXSi1BNWJKNzVmeVBabkxIY2l0SnFvQ0tOc3VVRW9lSE5hZm1fWWdUZUhKSXJJVlJkMnN6ODM1cjNCRTJXc2xzNTdlc3R1VGM1SmZ2c0lmbU9tb1RhQUcyMTdkNTdjSU1YVjNUejRyUFpuRlBKTGRCdUNpbzNIMDNac1lwbGFNQWlrbGIwM3ZySU9qcjRLdHdJVE9TU0Zja2FOYWlPNTlQMXFIZGd5Smx4dEdOdUV2aFBoamJtLU9QOUJuck5icWVfLVlNVnkzT0tKUGc?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 03:00"
+  },
+  {
+   "title": "真金白银托底 A股回购潮升温",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKV21xN2hkQi1YTXZoUzhreG1OSFdLTUtYU2VTZFZiX2M0ZmNZQzJQSTFWV3ljcWI4Z1d0MFNEb1Z0NFF3Mlk5Zml5WHFxQlk4TDF4RmdCOXQ2NGVHOEE?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "同花顺财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-22 01:51"
+  },
+  {
+   "title": "HK, mainland stocks lose ground",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WT2JfYVFXUURxVkNfcDMxekU4bTJRb0NZQUMzMnVlMHZiQ3N1NHZGUHlWbi1fUWRmVWlKT25zcHA0NlpSM3VHVWpqcUVIOUc5NnRLNkY5SkhaSzNzZVplMjBSSDFGOG03YXJzSld1MA?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "RTHK News",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 19:22"
+  },
+  {
+   "title": "[도쿄증시-마감] AI·반도체주 매수세 힘입어 상승…닛케이 한때 65,000선...",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440415",
+   "source": "네이버 일본 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 17:48"
+  },
+  {
+   "title": "日증시, 반도체·AI주 강세에 상승 마감…닛케이지수 0.85%↑",
+   "url": "https://www.newsis.com/view/NISX20261021_0003835486",
+   "source": "네이버 일본 증시",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 16:22"
+  },
+  {
+   "title": "[일본 증시] 닛케이, AI·반도체주 강세에 3일 만에 반등...0.85%↑",
+   "url": "https://www.newspim.com/news/view/20261021001132",
+   "source": "네이버 일본 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 16:21"
+  },
+  {
+   "title": "Japan’s Nikkei jumps over 1% as AI optimism lifts chip stocks; exports rise 16.7%",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEk5REpTaWRNQ3lCYjllTlBPZ1poMmplMC1Od2UtZ2FnZU1ObndsTDRNZHE5T0FONk9fRVk3ZFY2WmhUbmhKTnR0ZUlNU25YWDJtUVVNYnpObGRZRXRVUERSTlFDR3FTei1rV3pnUkRUUG91dHlGLUVWQmh1c3F4NE9yOU9XbXBYYmJBLWxScFBGb0otTkZlQUpBejdNeFg2eEQ3SVFxZ2JlRkUzVmVqVDg4TEhmc1hHR2ZPaUVqTzhLM0Z0QkxIRlpSb0VnMl9LYUd4U0RfNlpUMy1leVVHU1V6LVZ3ZWFKYm5GOTRTYkVweDNxa1HSAe8BQVVfeXFMTkpGdFAxMFlZOFpoYlJENXlCMlc1ek45VlowM3JCaHNuRXoyUFctWU0yQzUtcmFuVWxnS0E2bFpET1ZTVHpaUnV6aEVYdWh0VE9lTGJkcFV0aWlBOWNFQ1NYWU1JRm9QRjZzSTkyMGU0Z3phV1VfZzRhQ1VjWUVSS2lEdUc4M2g3RldENW5Ec3UyTVhINnltMmhpOUs4LVpFX1NlNi0yckNkTkV3WER6Y3A1anppZHM3cWlIS3dGSXdxWFN3SHRFZjdhaEFDTTlBeGctVEo3WG1TVTFtaC1UcC12b0JTeUFRWm14a0hoc0E?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "The Economic Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 13:16"
+  },
+  {
+   "title": "스페이스X 호실적에 살아난 투심…닛케이 1.1%↑[Asia오전]",
+   "url": "https://www.mt.co.kr/world/2026/10/21/2026102111255837740",
+   "source": "네이버 일본 증시",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 11:45"
+  },
+  {
+   "title": "Japan, South Korea Stocks Diverge in Early Trade; Nikkei 225 Turns 0.22% Higher, Kospi Drops 0.06%, Kioxia Rises Over 1%",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVNtc3NxZjZQSU4yLVp6OWpLSks5WWFPdmFsblU0eVVzS1IzeG1OSW9DcnQxWU93UFlyaFY0OEtIOWtqbmF1V19NRk1sQjNtUmQyYmxQS3NwUDkyRTE3ZWdWMWQwTTdNWnd0SHRXbTNlZTRySnllTHlzSUFGQ08wWXNQd09IY0hMZW1nUm0xMG5EWVY1dVZEOVNHUWIxVFhnSlgtbXlwNmV3b1VGRVlYaXA5ZkJwV0t2eEtxTEFjVzVISWVKVE5EbmlYRl95em1wc1dlMGxB?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "TradingKey",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:45"
+  },
+  {
+   "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:46"
+  },
+  {
+   "title": "Oil prices rise as M.East tensions fuel fears of supply disruptions",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2k2dGFGcGFwM1ljSVZYU0FrdFJYcXE4dE9sVjBpZ0JCYkl2WmRWR0lnSW1LdFdqdThLNkVGQ2FmT0pkczA4WlZiRjB1S3hIUnhYLXhldThLWU4xc2FISmdZV1FlakJ3ODA2dkpRUVh6MHU1dGdEVU5SMWpxamxYSjVDcVEzV1M2ay1oSHRHZGI0aU9fdXhwcE5oMFVhN2Q1WVpmeFhnTEhIY1NJV0g1MVdGUHEzZ3l3dzBoS09fSQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:43"
+  },
+  {
+   "title": "NVIDIA Expands Semiconductor Supply Chain with Samsung (NVDA)",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWNsdXlFYUtOX2Y5UjBYWkwyQTFqVkFwT3FibEhOdk44YzI2cGpyNU5TYzhYTzV2NmowLUcwZEJIOG9pR1pXdThPb2ZjWmp2X2lRUmxjRnlLXzl0RTRuc0xWdHk4VHVrN0xHbzVkM3EyUzBoeWxZWlVMaUp5TVVkcEd5STNGQ1lrNGxWSGNKSXVqOVRFdlRYUHZaTkN1WHc?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "GuruFocus",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:21"
+  },
+  {
+   "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+   "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-22 06:14"
+  },
+  {
+   "title": "젠슨 황 CEO \"유럽 모든 산업, AI 도입 서둘러야\"",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172530",
+   "source": "네이버 반도체 주가",
+   "publisher": "조선일보",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 09:42"
+  },
+  {
+   "title": "Oil prices will fall ‘dramatically’ when Iran war ends: Former Energy secretary",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vc3JpeEdOLWd0TWdGZGZsNjNqaU5JZnZZajVzamlYV08waURBZkhFYl9yMUhYUjA3b0xLZGN4c3dyVmExdzhJemtjd3ZVS1ZyOHN3Y092blk3TTg?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 08:44"
+  },
+  {
+   "title": "[Good Morning Market] Semiconductor Stocks Rebound Amid AI Jitters... \"Oversold Sectors Could Bounce Back\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yY1ZPX3h3RjIwWUo3T3JMcFFVcWQtR1VqYmhtSmt1eGJuMXdkam1BN1hndTZMR3Z2VkM5cjlCcmRMZWhoLWE1NzFrbllQM3MwWmdNN3B4T25GRnFBWkFKWEN2Ukg?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "아시아경제",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 08:10"
+  },
+  {
+   "title": "Persian Gulf oil exports surpass pre-war high as market adapts to Iran’s attacks",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRG40ekRPcUFxc05EOEhfaUFxMjJIN0lFQm9XcGVSZFBzbUZOU19mN3BLQThNOFJOUkNjczByeVI0ZUZPU1RVTUY4dG1kcGEtcjBtdVNPSndCbzRaeDdsQ2RwSzRJVURBaVRPLVEzeFVRQUJMODR2Qkt1SGRjUkFCQlBTQVM4ZHlxX1kxUWNRYW9sWTl5Ry1sNklicGJhM3U0dGxJRHUzcExzM1FXeFVYb0ZReEc3YXZnMjNDand3?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "New York Post",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-22 06:25"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

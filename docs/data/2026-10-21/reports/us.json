@@ -1,0 +1,792 @@
+{
+ "topic": "us",
+ "name": "미국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-10-21T14:15:23.597587+09:00",
+ "report": {
+  "title": "미국 증시 마감(10/20): 유가 하락과 실적이 다우·러셀을 끌어올림, AI·반도체는 약세 지속. 장 마감 후 슈퍼마이크로 깜짝 실적으로 반등 신호",
+  "overview": "10월 20일(현지시간) 미국 증시는 업종별로 엇갈렸습니다. 다우는 +1.02%(52,496), 러셀2000은 +1.65%(2773.42), S&P500은 +0.28%(7712.57) 올랐지만, 나스닥종합은 -0.02%, 나스닥100은 -0.13%, 필라델피아 반도체지수(SOX)는 -0.29%로 약했습니다. 미·이란 외교 진전 기대로 국제유가가 내렸고, 3M·노스롭그루먼·RTX 등이 좋은 실적을 내면서 헬스케어(XLV +2.37%)·바이오(XBI +3.64%)·부동산·유틸리티·금융 같은 경기방어·가치주로 자금이 옮겨갔습니다(순환매). 반면 개장 초 AI주 매도와 한국 AI 기업 엘리스의 상장 첫날 -32% 폭락이 겹쳐 반도체 장비주(LRCX -3.21%, KLAC -2.80%)와 AI 전력·인프라주가 눌렸습니다. S&P500에서는 404개 종목이 오르고 99개가 내려 상승 종목이 훨씬 많았고, VIX는 -6.13% 내린 17.31로 불안 심리가 진정됐습니다. 장 마감 후 슈퍼마이크로가 시장 예상을 크게 웃도는 잠정 매출을 발표해 시간외 거래에서 15% 급등했고, AI주 전반도 반등했습니다. 이 영향으로 오늘 한국장에서는 삼성전자·SK하이닉스가 4~6% 급등하며 반도체 중심의 반등이 나타나고 있습니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "직전 세션(10/20)의 특징은 '가치·중소형주 강세, 기술·AI주 약세'라는 뚜렷한 대비입니다. 다우는 529.85포인트(+1.02%) 오른 52,496(기사 기준 52,495.88)에 마감해 블루칩 중심의 반등을 이끌었습니다. 중소형주 지수인 러셀2000도 +1.65%(2773.42)로 주요 지수 중 가장 많이 올랐습니다. S&P500은 +0.28%(7712.57)로 상승 폭이 작았고, 나스닥종합(-0.02%, 26,425)과 나스닥100(-0.13%, 29,490)은 약보합으로 끝났습니다. 필라델피아 반도체지수는 -0.29%(11,284)로 약세가 이어졌습니다. 기사에 따르면 SOX는 이달 들어 11% 하락해 7월 이후 가장 부진한 월간 성적을 낼 가능성이 커졌습니다.\n\n장중 흐름을 보면, BBC 보도처럼 개장 초에는 AI주 매도가 지수를 끌어내렸습니다. 전날 한국 코스닥에 상장한 AI 인프라 기업 엘리스가 첫날 공모가 대비 30% 넘게 폭락했고, 외신은 이를 'AI 투자 열풍의 종말'을 경고하는 '탄광의 카나리아'(위험을 먼저 알리는 신호)로 해석하며 기술주 투자심리를 위축시켰습니다. 그러나 미·이란 평화협정 기대로 국제유가가 하락하고(기사상 브렌트유 108.79달러) 국채금리가 안정되면서, 3M·노스롭그루먼 등 전통 제조업·방산 기업의 깜짝 실적이 시장을 받쳤습니다. 나스닥은 장중 반등했지만 이를 지키지 못하고 약보합으로 마감했습니다.\n\n변동성지수(VIX)는 -6.13% 내린 17.31로 위험회피 심리가 누그러졌습니다. 미 10년물 금리는 5.12%(-0.02%p)로 소폭 내렸고, 5년물은 4.93%, 3개월물은 4.08%였습니다. 기사에 따르면 연준은 9월에 약 3년 만에 기준금리를 인상했고, 10년물 금리는 이달 한때 5.31%까지 올랐습니다. CME 페드워치 기준으로 이달 추가 인상 확률은 전장보다 약간 낮은 17.2%가 반영돼 있습니다. 달러인덱스는 -0.25% 내린 101.73, 원/달러 환율은 -0.26% 내린 1330.00원으로 달러가 약했습니다.",
+    "bullets": [
+     "다우 52,496(+1.02%), 러셀2000 2773.42(+1.65%), S&P500 7712.57(+0.28%)",
+     "나스닥종합 26,425(-0.02%), 나스닥100 29,490(-0.13%), SOX 11,284(-0.29%)",
+     "VIX 17.31(-6.13%): 불안 심리 진정",
+     "미 10년물 5.12%(-0.02%p), 달러인덱스 101.73(-0.25%), 원/달러 1330.00원(-0.26%)",
+     "상승 배경: 미·이란 외교 진전 기대에 따른 유가 하락, 금리 안정, 3M·노스롭그루먼 등 실적 호조",
+     "하락 배경: 개장 초 AI주 매도, 엘리스 상장 첫날 -32%로 AI 거품 우려 재부각",
+     "페드워치 기준 이달 연준 추가 인상 확률 17.2%(전장보다 소폭 하락)"
+    ]
+   },
+   {
+    "heading": "시장 폭과 거래",
+    "body": "지수 등락률보다 시장 폭(오른 종목과 내린 종목의 비율)이 훨씬 좋았습니다. S&P500 구성종목 503개 중 404개가 오르고 99개만 내려 상승 종목이 하락 종목의 4배를 넘었습니다. 시가총액이 큰 기술주가 지수를 누른 탓에 S&P500 상승률은 0.28%에 그쳤지만, 실제로는 대부분 종목이 오른 '넓은 반등'이었다는 뜻입니다. 동일가중 성격이 강한 러셀2000(+1.65%)과 다우(+1.02%)가 강했던 것도 같은 흐름입니다. 나스닥100은 상승 60개, 하락 41개로 상대적으로 덜 강했습니다.\n\n거래대금(추정) 상위는 여전히 AI·반도체 대형주가 차지했지만, 대부분 내렸습니다. 마이크론(MU)이 174억 달러로 1위였는데 -0.98% 하락했고, 엔비디아(168억, -0.29%), 애플(121억, -1.00%), 메타(116억, -1.59%), 샌디스크(86억, -0.42%), AMD(79억, -0.62%), 마이크로소프트(77억, -0.31%), 인텔(75억, -0.37%)도 모두 약세였습니다. 거래대금 상위에서 오른 종목은 테슬라(115억, +1.54%)와 아마존(91억, +0.07%)뿐입니다. 나스닥100 표에서는 스페이스X(SPCX)가 147억 달러로 3위를 기록했습니다(-0.11%). 정리하면 매매는 기술 대형주에 몰렸지만 가격은 약했고, 상승은 거래가 적은 경기방어·가치·중소형주에 넓게 퍼진 모습입니다. 기술주 비중을 줄이고 그 밖의 업종으로 옮기는 순환매로 볼 수 있습니다.\n\nVIX가 17.31로 6% 넘게 내린 것은 지수 급락을 대비하는 헤지 수요가 줄었다는 신호입니다. 다만 로이터가 인용한 한 CIO(최고투자책임자)는 '경기방어주의 급등은 AI 주도 장세에 더 큰 고통이 올 수 있다는 신호'라고 평가했습니다. MarketWatch에서는 강세장 고점은 극적이지 않고 서서히 형성된다며 S&P500이 15% 조정을 받을 수 있다는 경고도 나왔습니다. 심리가 진정된 것은 맞지만 주도주가 약해지는 점은 경계할 부분입니다. 참고로 무료 소스에는 기관·개인·외국인 같은 투자 주체별 수급 데이터가 없어 누가 샀고 팔았는지는 확인할 수 없습니다. 위 해석은 등락 종목 수, 거래대금(추정), VIX에 근거합니다.",
+    "bullets": [
+     "S&P500: 상승 404 / 하락 99 / 보합 0. 지수 상승 폭보다 시장 폭이 훨씬 좋음",
+     "나스닥100: 상승 60 / 하락 41",
+     "거래대금 상위 10개 중 MU·NVDA·AAPL·META·SNDK·AMD·MSFT·INTC 등 기술 대형주 대부분 하락",
+     "거래대금 상위 중 상승: TSLA(+1.54%), AMZN(+0.07%)",
+     "VIX 17.31(-6.13%)로 헤지 수요 감소. 다만 '방어주 급등은 AI 장세 약화 신호'라는 경고도 있음",
+     "투자 주체별(기관·개인) 수급 데이터는 무료 소스에서 제공되지 않음"
+    ]
+   },
+   {
+    "heading": "섹터 동향",
+    "body": "섹터 ETF 등락 순위는 바이오(XBI +3.64%), 헬스케어(XLV +2.37%), 부동산(XLRE +1.70%), 유틸리티(XLU +1.26%), 금융(XLF +1.20%), 경기소비재(XLY +0.91%), 필수소비재(XLP +0.62%), 소재(XLB +0.55%), 에너지(XLE +0.25%), 커뮤니케이션(XLC +0.09%), 산업재(XLI +0.07%) 순이었습니다. 기술(XLK -0.28%), 반도체(SOXX -0.38%), 방산(ITA -0.77%)은 하락했습니다.\n\n가장 강한 업종은 헬스케어·바이오입니다. 모더나(+6.69%), 찰스리버 래버러토리스(+5.14%), 브리스톨마이어스스퀴브(+4.84%), 암젠(+3.29%), 리제네론(+3.25%) 등이 고르게 올랐고, 기사들도 헬스케어 강세를 이날 상승의 축으로 꼽았습니다. 부동산·유틸리티는 금리 하락(10년물 5.12%)에 민감하게 반응하는 금리 민감·경기방어 업종이라 함께 올랐습니다. 금융(XLF +1.20%)은 캐피털원의 호실적(순이자이익·신용 건전성 개선)과 MSCI(+5.00%) 강세가 힘을 보탰습니다. 경기소비재는 GM(-6.84%)과 제뉴인파츠(-5.12%)가 급락했는데도 해즈브로(+11.20%)와 테슬라(+1.54%) 덕분에 +0.91%로 올랐습니다. 에너지(+0.25%)는 유가 하락에도 소폭 상승에 그쳤습니다.\n\n약한 업종은 기술·반도체·방산입니다. 반도체는 램리서치(-3.21%), KLA(-2.80%), 어플라이드머티어리얼즈(-1.97%) 같은 장비주와 Arm(-3.07%), 케이던스(-1.84%)가 약했습니다. 메모리 대표주인 마이크론(-0.98%)과 SK하이닉스 ADR(-2.16%)도 내렸습니다. 산업재(XLI +0.07%)는 3M(+5.78%)과 에퀴팩스(+11.33%)가 크게 올랐지만, GE에어로스페이스(-3.67%), 하우멧(-3.82%), 퀀타서비스(-3.62%), 컴포트시스템즈(-4.57%), 이튼(-2.43%)이 내려 상승분을 대부분 반납했습니다. 퀀타·컴포트시스템즈·이튼과 유틸리티 업종의 컨스텔레이션에너지(-1.65%)는 시장에서 흔히 AI 데이터센터 전력·설비 수혜주로 분류됩니다. 이 종목들의 동반 약세는 AI 투자 우려가 반도체를 넘어 인프라까지 번졌다는 해석이 가능합니다(분석상 추정). 방산(ITA -0.77%)은 11월 3일 중간선거에서 민주당이 상·하원을 모두 탈환할 가능성이 거론되며 국방예산 증액 구상이 막힐 수 있다는 우려에 약했습니다. 기사에 따르면 미국 방산 ETF는 7월 초부터 10월 중순까지 16% 떨어졌습니다.",
+    "bullets": [
+     "강세: XBI +3.64%, XLV +2.37%, XLRE +1.70%, XLU +1.26%, XLF +1.20%",
+     "중립: XLY +0.91%, XLP +0.62%, XLB +0.55%, XLE +0.25%, XLC +0.09%, XLI +0.07%",
+     "약세: XLK -0.28%, SOXX -0.38%, ITA -0.77%",
+     "헬스케어·바이오: 모더나·BMY·암젠·리제네론 등 대형 제약·바이오가 고르게 상승",
+     "금리 민감 업종(부동산·유틸리티)은 10년물 금리 하락 수혜",
+     "반도체 장비(LRCX·KLAC·AMAT)와 AI 전력 인프라(PWR·FIX·ETN·CEG) 동반 약세",
+     "방산: 중간선거 민주당 우세 전망에 따른 국방예산 불확실성"
+    ]
+   },
+   {
+    "heading": "주도주와 급등락",
+    "body": "S&P500 상승률 1위는 에퀴팩스(EFX, +11.33%)이고, 해즈브로(HAS, +11.20%)가 뒤를 이었습니다. 다만 입력된 기사에는 두 종목의 상승 이유가 나오지 않아 확인할 수 없습니다. 모더나(MRNA, +6.69%)는 S&P500과 나스닥100에서 모두 상승 상위에 올랐고 거래대금도 41억 달러로 많아, 이날 헬스케어 강세를 대표했습니다. 3M(MMM, +5.78%)은 호실적이 직접적인 이유로, 노스롭그루먼과 함께 다우 529포인트 상승의 주역으로 꼽혔습니다. 가트너(+5.74%), 찰스리버(+5.14%), MSCI(+5.00%), 알렉산드리아 리얼에스테이트(+4.97%), BMY(+4.84%), 타일러테크놀로지(+4.74%)도 크게 올랐습니다. 나스닥100에서는 마이크로스트래티지(+4.93%), 워크데이(+4.50%), 톰슨로이터(+4.24%), 어도비(+3.90%), 로퍼(+3.84%) 등 소프트웨어·데이터 업체와 웨스턴디지털(+3.44%), NXP(+3.22%)가 강했습니다. 테슬라(+1.54%)는 일론 머스크가 스페이스X와의 합병 가능성에 대한 새 단서를 내놓으며 올랐습니다.\n\n하락 쪽에서는 GM(-6.84%)이 가장 많이 내렸습니다. 기사에 따르면 비용 부담과 실적 전망에 대한 실망 때문입니다. 다비타(-6.23%), 제뉴인파츠(-5.12%), 컴포트시스템즈(-4.57%), 하우멧(-3.82%)도 크게 내렸습니다. GE에어로스페이스(-3.67%)는 실적이 좋았는데도 현금흐름과 내년 서비스 성장 둔화 우려로 내렸습니다. 퀀타서비스(-3.62%), 램리서치(-3.21%), KLA(-2.80%), 이튼(-2.43%)도 하락 상위에 들었습니다. 나스닥100에서는 램리서치·Arm(-3.07%)·KLA·어플라이드머티어리얼즈(-1.97%)·팔로알토(-1.92%)·케이던스(-1.84%)·넷플릭스(-1.66%)·컨스텔레이션에너지(-1.65%)·메타(-1.59%)가 약했습니다. 메타는 실적 발표를 앞두고 경계 매물이 나온 것으로 보입니다.\n\n정규장 마감 후에는 분위기가 바뀌었습니다. 슈퍼마이크로가 시장 예상을 크게 웃도는 잠정 매출과 수익성 전망을 내놓으며 시간외 거래에서 15% 폭등했고, 델·HPE 등 AI 서버주와 AI 관련주가 일제히 반등했습니다. 스페이스X도 AI 컴퓨팅 수요가 매우 강하다는 실적(매출 161% 성장)으로 시간외에 급등하며 AI 업종 전반을 끌어올렸다는 보도가 나왔습니다. 블룸버그는 아시아 증시와 미국 주가지수 선물이 'AI 트레이드 부활'로 오르고 있다고 전했습니다.",
+    "bullets": [
+     "상승: EFX +11.33%, HAS +11.20% (입력 기사에 이유 없음)",
+     "상승: MRNA +6.69%(거래대금 41억 달러), MMM +5.78%(호실적), IT +5.74%, CRL +5.14%, MSCI +5.00%",
+     "나스닥100 상승: MSTR +4.93%, WDAY +4.50%, ADBE +3.90%, WDC +3.44%, NXPI +3.22%",
+     "하락: GM -6.84%(비용 부담·전망 실망), DVA -6.23%, GPC -5.12%, FIX -4.57%, HWM -3.82%, GE -3.67%(현금흐름·내년 서비스 성장 둔화 우려)",
+     "반도체 장비·설계 약세: LRCX -3.21%, ARM -3.07%, KLAC -2.80%, AMAT -1.97%",
+     "시간외: 슈퍼마이크로 +15%(잠정 매출 서프라이즈), 델·HPE 동반 상승, 스페이스X 급등"
+    ]
+   },
+   {
+    "heading": "실적·기업 뉴스",
+    "body": "① 슈퍼마이크로(AI 서버): 매출과 수익성이 기존 예상보다 훨씬 강할 수 있다는 잠정 실적을 깜짝 공개했습니다. 시간외 주가가 15% 폭등했고 델·HPE도 동반 상승했습니다. 막대한 AI 인프라 투자가 지속될 수 있을지 의심받던 상황에서 AI 데이터센터 수요가 여전히 견조하다는 신호로 받아들여졌습니다. 기사에 따르면 AI 기업에 컴퓨팅 자원을 공급하는 코어위브는 이달 들어 주가가 크게 떨어진 상태였습니다.\n② 스페이스X: AI 사업과 스타링크의 동반 호조로 매출이 161% 늘었다는 분석이 나왔습니다. MarketWatch는 컴퓨팅 파워 수요가 폭발적이라는 점이 AI 붐에 대한 믿음을 되살렸다고 평가했습니다. 테슬라와의 합병 논의도 다시 떠올랐습니다. 머스크는 두 회사의 특별위원회가 합병 가능성을 검토 중이지만 성사가 확정된 것은 아니라고 밝혔습니다. 반면 댄 아이브스는 '합병은 성사 여부가 아니라 시기의 문제'라는 취지의 견해를 냈습니다.\n③ 넷플릭스: 3분기 실적은 시장 예상을 넘었지만 광고와 매출 가이던스(실적 전망)가 실망스러워 주가가 내렸습니다. 회사는 '치열한 경쟁'을 언급하며 시청 시간 증가세에 대한 투자자 우려를 인정했고, 시청 추세를 되살리겠다고 밝혔습니다. 표상 정규장 종가는 68.69달러(-1.66%)입니다.\n④ 방산·항공우주: RTX와 노스롭그루먼은 탄탄한 수요와 수주잔고 증가로 연간 전망을 높였습니다. 반면 GE에어로스페이스는 호실적에도 현금흐름과 내년 서비스 성장 둔화 우려로 내렸습니다. 보잉은 수년간 지연된 737 Max 10의 FAA 인증을 받았습니다.\n⑤ 3M: 호실적으로 +5.78% 올라 다우 상승을 이끌었습니다.\n⑥ GM: 비용 부담과 실적 전망에 대한 아쉬움으로 -6.84% 급락했습니다.\n⑦ 캐피털원: 순이자이익과 신용 건전성이 개선되고 디스커버 통합이 순조롭게 진행되며 시장의 호평을 받았습니다.\n⑧ 유나이티드항공: 연료비 상승으로 2026년 이익 전망을 크게 낮췄습니다. 다만 항공권 가격이 올랐는데도 예약 수요는 유지되고 있다고 밝혔습니다.\n⑨ M&A: 세일즈포스가 브레이즈를 56.6억 달러에 인수한다고 발표했습니다. 브레이즈 주주는 주당 47.50달러를 현금으로 받고, 거래 종결은 2028 회계연도로 예상됩니다. 발표 후 BRZE 주가는 51% 급등했습니다.\n⑩ ASML: '반가운 소식'이라는 보도(Motley Fool)가 있었지만 입력 기사에 구체적인 내용은 없습니다.",
+    "bullets": [
+     "슈퍼마이크로: 잠정 매출 서프라이즈로 시간외 +15%, 델·HPE 동반 상승",
+     "스페이스X: 매출 161% 성장, 테슬라와의 합병 검토(특별위원회 평가 중, 확정 아님)",
+     "넷플릭스: 3분기 실적은 예상 상회, 광고·매출 가이던스 실망으로 주가 하락",
+     "RTX·노스롭그루먼은 연간 전망 상향, GE에어로스페이스는 현금흐름 우려로 하락",
+     "보잉 737 Max 10 FAA 인증 획득",
+     "캐피털원 호실적·디스커버 통합 순항, 유나이티드항공은 연료비로 이익 전망 하향",
+     "세일즈포스, 브레이즈를 56.6억 달러에 인수(주당 47.50달러 현금), BRZE +51%"
+    ]
+   },
+   {
+    "heading": "오늘 이벤트",
+    "body": "입력 자료에는 오늘(10/21) 미국 현지 일정의 구체적인 실적 발표·경제지표 캘린더가 없습니다. 따라서 정확한 발표 시각과 시장 예상치는 별도로 확인해야 합니다. 기사에서 확인되는 이번 주와 단기 주요 변수는 다음과 같습니다.\n첫째, 메타 등 빅테크 실적입니다. 연합뉴스는 '메타 실적 발표를 앞두고' 시장이 혼조 마감했다고 전했고, SBS는 빅테크 실적이 AI 투자 수익성 우려를 풀 트리거(계기)가 될 수 있다고 봤습니다. 메타는 전날 -1.59% 내리며 경계감을 보였습니다.\n둘째, 슈퍼마이크로 시간외 급등이 정규장에서도 이어질지입니다. 기사들은 첫 매수세가 지나간 뒤 반도체주가 바닥을 쳤는지를 투자자들이 평가하는 국면이라고 지적합니다.\n셋째, 연준입니다. 페드워치 기준 이달 추가 인상 확률은 17.2%로, 9월 인상 이후 연말까지 추가 인상 가능성이 거론됩니다. 국제결제은행(BIS)은 중앙은행이 금리를 공격적으로 올리면 불필요한 경제적 피해가 생길 수 있다고 경고했습니다.\n넷째, 국제유가와 중동입니다. 미·이란 외교 진전 기대로 유가가 내렸지만, 아시아 시간대에는 중동 긴장과 미국 원유재고 감소로 다시 오른다는 보도가 나와 변동성이 큽니다.\n다섯째, 11월 3일 미국 중간선거입니다. 민주당의 상·하원 탈환 가능성이 방산·정책 관련주의 변수로 작용하고 있습니다.\n이 밖에 한국에서는 오늘 오전 한국은행이 9월 생산자물가지수를 발표했습니다(전월 대비 +0.2%, 전년 동월 대비 +7.7%).",
+    "bullets": [
+     "메타 등 빅테크 실적 발표 대기(정확한 일정은 입력 자료에 없음)",
+     "슈퍼마이크로 시간외 급등의 정규장 지속 여부와 반도체 바닥 확인",
+     "연준: 이달 추가 인상 확률 17.2%(페드워치)",
+     "유가: 미·이란 외교 진전 기대와 중동 긴장·재고 감소 사이의 변동성",
+     "11월 3일 미국 중간선거: 방산·정책 관련주 변수",
+     "한국 9월 생산자물가지수 발표: 전월 대비 +0.2%, 전년 대비 +7.7%"
+    ]
+   },
+   {
+    "heading": "한국장 영향",
+    "body": "【반도체: 긍정적】 미국 정규장에서는 SOX(-0.29%), 마이크론(-0.98%), SK하이닉스 ADR(-2.16%), 샌디스크(-0.42%), 반도체 장비주(LRCX -3.21%, KLAC -2.80%)가 약했습니다. 하지만 장 마감 후 슈퍼마이크로의 깜짝 잠정 실적과 스페이스X의 AI 컴퓨팅 수요 확인이 'AI 데이터센터 수요는 견조하다'는 신호가 됐습니다. 전날 코스피가 3.7% 급락하며 매도가 과도했다는 인식까지 더해져, 오늘 오전 삼성전자는 약 4~5%, SK하이닉스는 약 6% 급등하고 있습니다. 삼성전자우도 5.30% 오른 17만4700원에 거래 중입니다. 코스피는 3% 반등해 5,700선을 되찾았고 코스닥도 2.5% 올랐습니다. 엘리스도 오늘 오전 상승세를 보이고 있습니다. 다만 기사들이 지적하듯 첫 매수세 이후 반도체 바닥을 확인하는 과정이 남아 있습니다. 또 신한투자증권은 AI 인프라 수혜가 대만에 집중되고 한국·일본·중국은 주춤했다고 평가했습니다. 따라서 메타 등 빅테크 실적에서 설비투자(CapEx) 방향을 확인할 때까지는 변동성이 클 수 있습니다. 한국 9월 생산자물가에서 컴퓨터기억장치 가격이 11.8% 내린 것은 환율 하락 효과가 반영된 결과지만, 메모리 가격 흐름을 볼 때 참고할 부분입니다.\n\n【2차전지·자동차: 엇갈림】 테슬라가 스페이스X 합병 기대로 +1.54% 오른 것은 2차전지 투자심리에 일부 긍정적입니다. 반면 GM이 비용 부담과 실적 전망 실망으로 -6.84% 급락하고 부품사 제뉴인파츠도 -5.12% 내린 것은 미국 완성차 수요·수익성에 대한 경계 신호입니다. GM과 협력 관계인 국내 배터리·부품주와 자동차 업종에는 부담이 될 수 있습니다.\n\n【조선·방산·항공: 신호 혼재】 미국 방산주(ITA -0.77%)는 중간선거 정치 리스크로 약하지만, 이는 미국 국방예산에 대한 이슈라 국내 방산주와 직접 연결 짓기는 어렵습니다. 국제유가 하락과 중동 긴장 완화 기대는 해운·조선에 대한 직접 신호가 제한적이고, 항공·화학처럼 원가 부담이 큰 업종에는 우호적입니다. 보잉 737 Max 10 인증은 항공기 부품 공급망에 간접적으로 긍정적입니다.\n\n【바이오·환율·금리】 미국 바이오(XBI +3.64%)와 헬스케어(XLV +2.37%)의 강세는 국내 바이오 심리에 긍정적입니다. 달러 약세(달러인덱스 -0.25%)와 원/달러 1330.00원(-0.26%), 미 10년물 금리 소폭 하락(5.12%)은 외국인 수급 환경에 우호적입니다. 다만 미 금리가 여전히 5%를 웃돌고 연준의 추가 인상 가능성이 남아 있어 고평가 성장주에는 계속 부담 요인입니다.",
+    "bullets": [
+     "반도체: 미국 정규장은 약세였지만 시간외 슈퍼마이크로 급등으로 삼성전자·SK하이닉스 4~6% 반등",
+     "코스피 3% 반등해 5,700선 회복, 코스닥 +2.5%(오전 기사 기준). 전날 코스피는 -3.7%",
+     "2차전지: 테슬라 +1.54%는 긍정적, GM -6.84%는 GM 관련 공급망에 부담",
+     "자동차: GM·제뉴인파츠 급락은 미국 자동차 업황 경계 신호",
+     "방산·조선: 미국 방산 약세는 미국 정치 이슈, 국내에 직접 전이되는지는 제한적",
+     "바이오: XBI +3.64%로 국내 바이오 심리 우호적",
+     "달러 약세·원화 강세(1330.00원)는 외국인 수급에 우호적, 미 금리 5%대는 성장주에 부담"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "슈퍼마이크로컴퓨터",
+    "ticker": "SMCI",
+    "comment": "시장 예상을 크게 웃도는 잠정 매출 발표로 시간외 15% 폭등. 델·HPE 등 AI 서버주와 한국 반도체주의 반등을 이끔"
+   },
+   {
+    "name": "에퀴팩스",
+    "ticker": "EFX",
+    "comment": "S&P500 상승률 1위(+11.33%). 입력 기사에 상승 이유는 없음"
+   },
+   {
+    "name": "해즈브로",
+    "ticker": "HAS",
+    "comment": "+11.20%로 경기소비재 업종을 받침. 입력 기사에 상승 이유는 없음"
+   },
+   {
+    "name": "모더나",
+    "ticker": "MRNA",
+    "comment": "+6.69%, 거래대금 41억 달러. S&P500·나스닥100 모두 상승 상위로 헬스케어·바이오 강세를 대표"
+   },
+   {
+    "name": "3M",
+    "ticker": "MMM",
+    "comment": "호실적으로 +5.78%. 노스롭그루먼과 함께 다우 529포인트 상승을 주도"
+   },
+   {
+    "name": "노스롭그루먼",
+    "ticker": "NOC",
+    "comment": "탄탄한 수요와 수주잔고 증가로 연간 전망 상향, 다우 상승 기여(입력 표에 등락률 없음)"
+   },
+   {
+    "name": "테슬라",
+    "ticker": "TSLA",
+    "comment": "+1.54%, 거래대금 115억 달러. 머스크가 스페이스X 합병 가능성에 대한 단서를 내놓으며 상승(확정은 아님)"
+   },
+   {
+    "name": "스페이스X",
+    "ticker": "SPCX",
+    "comment": "정규장 -0.11%(거래대금 147억 달러)였으나 매출 161% 성장 실적으로 시간외 급등, AI 업종 전반을 끌어올림"
+   },
+   {
+    "name": "제너럴모터스",
+    "ticker": "GM",
+    "comment": "비용 부담과 실적 전망 실망으로 -6.84%, S&P500 하락률 1위. 한국 자동차·배터리 공급망에 경계 신호"
+   },
+   {
+    "name": "GE에어로스페이스",
+    "ticker": "GE",
+    "comment": "호실적에도 현금흐름과 내년 서비스 성장 둔화 우려로 -3.67%(거래대금 27억 달러)"
+   },
+   {
+    "name": "램리서치",
+    "ticker": "LRCX",
+    "comment": "-3.21%로 나스닥100 하락률 1위. KLA(-2.80%)·AMAT(-1.97%)와 함께 반도체 장비주 약세를 주도"
+   },
+   {
+    "name": "마이크론",
+    "ticker": "MU",
+    "comment": "거래대금 1위(174억 달러)였지만 -0.98%. SK하이닉스 ADR(-2.16%)과 함께 메모리 약세"
+   },
+   {
+    "name": "넷플릭스",
+    "ticker": "NFLX",
+    "comment": "3분기 실적은 예상을 넘었으나 광고·매출 가이던스 실망으로 주가 하락(정규장 -1.66%)"
+   },
+   {
+    "name": "메타 플랫폼스",
+    "ticker": "META",
+    "comment": "실적 발표를 앞두고 -1.59%(거래대금 116억 달러). 빅테크 AI 설비투자 방향을 가늠할 핵심 이벤트"
+   },
+   {
+    "name": "브레이즈",
+    "ticker": "BRZE",
+    "comment": "세일즈포스가 56.6억 달러(주당 47.50달러 현금)에 인수한다고 발표해 주가 51% 급등"
+   }
+  ],
+  "events_today": [
+   "메타 등 빅테크 실적 발표 대기: AI 설비투자와 수익성 우려 해소 여부(구체적 일정은 입력 자료에 없음)",
+   "슈퍼마이크로 시간외 +15% 급등의 정규장 지속 여부와 반도체 바닥 확인",
+   "연준 통화정책: 페드워치 기준 이달 추가 인상 확률 17.2%",
+   "국제유가: 미·이란 외교 진전 기대와 중동 긴장·미국 원유재고 감소 사이의 변동성",
+   "11월 3일 미국 중간선거: 방산·정책 관련주 변수",
+   "한국은행 9월 생산자물가지수 발표(전월 대비 +0.2%, 전년 대비 +7.7%)"
+  ],
+  "headlines": [
+   {
+    "text": "다우 +1.02%·러셀 +1.65% vs 나스닥 약보합: 유가 하락과 실적 호조에 가치·방어주로 순환매, AI·반도체 장비주는 약세",
+    "importance": 5
+   },
+   {
+    "text": "슈퍼마이크로 깜짝 잠정 매출로 시간외 15% 폭등, AI주 반등에 삼성전자·SK하이닉스 4~6% 급등",
+    "importance": 5
+   },
+   {
+    "text": "GM -6.84%·넷플릭스 가이던스 실망, 미국 방산주는 중간선거 리스크로 약세",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "무료 소스에는 기관·개인·외국인 등 투자 주체별 수급 데이터가 없음",
+   "구성종목 거래대금은 추정치임",
+   "슈퍼마이크로·스페이스X·넷플릭스 등의 시간외 주가 반응은 기사 기준이며, 시세 표(정규장 종가)에는 반영되지 않음",
+   "에퀴팩스·해즈브로 등 일부 급등락 종목은 입력 기사에 이유가 없어 원인을 확인하지 못함",
+   "오늘 미국 현지의 구체적인 실적·지표 발표 일정(시각·예상치)은 입력 자료에 없음",
+   "일부 기사 요약이 잘려 있어 세부 수치(예: 코어위브의 월간 하락률)는 인용하지 않음",
+   "한국장 등락률은 장 초반 기사 기준이며 장중에 바뀔 수 있음"
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "AI 투자 우려 잠재운 美 슈퍼마이크로…'깜짝' 가이던스에 시간외 거래...",
+   "url": "https://www.ajunews.com/view/20261021093541346",
+   "source": "네이버 반도체 주가",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "'AI 서버' 슈퍼마이크로, 매출 깜짝 호조…시간외 주가 15% 폭등",
+   "url": "https://www.news1.kr/world/international-economy/6326770",
+   "source": "네이버 뉴욕증시",
+   "publisher": "뉴스1",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:28"
+  },
+  {
+   "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+   "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:15"
+  },
+  {
+   "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+   "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 08:10"
+  },
+  {
+   "title": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXV6SV9KdFBtdTBlYnZjb0RObThaNS1VcHRDSDZYUFNXemJYbGVHYklKSGdkenJGUEJmTzVTRU9pbHJMLWVOa0xxN3A5bFc1cDQtUlZ0TXRWLUpKcnEyTXRQRGZIR1NCeDV5THBsV011WDZQME5rbmdCcW96OGxrQW5CMUdtcVNPdFNUNlpETl9UR25EX1h6LXMyWWFQdmdESWZMc0hhWThTZF82X2g3bTAxWnRVQQ?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:14"
+  },
+  {
+   "title": "US markets open lower as AI stocks lead sell-offs",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VTXZFaVRDZTNkMmR4VG4wdU1xQ2tGMFVHNi02VmoxRkkxSjNNQm5hM05xYnE0VmEwaXU0aWV5QW93c25idEs5U1NONldPcEg1Z29uZmpvNWw?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "BBC",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 01:54"
+  },
+  {
+   "title": "[미국주식 Market Brief] 헬스케어·유틸리티·부동산 업종이 강세를 보...",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395839",
+   "source": "네이버 미국 기술주",
+   "publisher": "fntoday.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:48"
+  },
+  {
+   "title": "'머스크 초거대 제국' 탄생하나…스페이스X·테슬라 합병 수면 위로",
+   "url": "https://zdnet.co.kr/view/?no=20261021090511",
+   "source": "네이버 미국 기술주",
+   "publisher": "지디넷코리아",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:45"
+  },
+  {
+   "title": "\"한국 AI기업 상장날 -32%\" 미 증시도 흔들었다...\"기술주 투심 위축\" - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01bWRVa1J6Wk9hUkFIZmVLSWZOWVJMd2pibFNydmtyNkdsZ2dqMHhQVVBKZEJPVjgzV29peXh1dVQ5Y2lHb2hLWEVVbUt1SGxKalJPNmszczE2d3FQalBudzlrMWFkQ1Fz0gFuQVVfeXFMTl93NkJQRncwd0J4Tkdhamc1cU5xNFZRekJGMU5UdEJpQnBlQjFYeXhOaklRVGhqd2JYYVZwbWVnQWRMR2tfandHOXJDa2RmekFhZTRKWjExSjZsQWlaRWxJQlJmbnozdTBfSnlqcVE?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "\"한국 AI기업 상장날 -32%\" 미 증시도 흔들었다...\"기술주 투심 위축\"",
+   "url": "https://www.mt.co.kr/world/2026/10/21/2026102108360173395",
+   "source": "네이버 뉴욕증시",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+   "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:24"
+  },
+  {
+   "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+   "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:14"
+  },
+  {
+   "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+   "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:12"
+  },
+  {
+   "title": "뉴욕증시, 중동 긴장 완화 기대에 반등…다우 1%↑·나스닥 약보합 By EBN",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MNGxQVGF6ODJWQ19MX1ctSnJuZHBPVWQyMTRBd0dZeTU5N2tWcXViMGZfaVJmbHFqeE4tejRvQ1Y5RFVkNGNGZ0xLQ1RqODVnVWZvcjRJSWpBQ0VTOTZOSVRodVJlZFYyTk91cUVlYk8?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:02"
+  },
+  {
+   "title": "AI·스타링크 쌍끌이 흥행…스페이스X 매출 161% 폭발적 성장 [실적 심층 분석]",
+   "url": "https://www.hankyung.com/article/202610214923i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:00"
+  },
+  {
+   "title": "\"美증시가 알린 선거결과\" 트럼프 미래 '종목' 급락 [여의도 Pick!]",
+   "url": "https://news.mtn.co.kr/article/2026102108510558000",
+   "source": "네이버 방산주",
+   "publisher": "news.mtn.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 08:52"
+  },
+  {
+   "title": "[개장] 뉴욕증시, 기업 호실적에 상승..나스닥은 소폭 하락 By 알파경제 alphabiz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wc3pnNHBfTzdTQjlrZkZHYkxBYXdwYjk1TWwxSlJydDZicGhGVnBiS2NzN0lvU2lQY2F1UVowQ1JxYWphM1pnenFoVWU2UlBwakE3enhrSXBnLU54U1VkR3ZScFdJZjhwaHAtaElGMXo?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "Investing.com 한국어",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 08:37"
+  },
+  {
+   "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
+   "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 08:34"
+  },
+  {
+   "title": "[굿모닝 마켓] 뉴욕증시 혼조 마감…기술주 반등 제약에 나스닥 하락",
+   "url": "https://biz.sbs.co.kr/article_hub/20000341182?division=NAVER",
+   "source": "네이버 연준 금리",
+   "publisher": "SBS",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:31"
+  },
+  {
+   "title": "[해외시황] 뉴욕증시, 기업 호실적·유가 하락 속 '혼조'…나스닥 0.02%↓",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rS0U3MzdyX1pJRTYzQk9TeW1RNGhSaG5PX3NTZnNjc0F4NExtUFBqTnJZeTRGUFVodWZtdWtyYy1mYkpOYUR1N1g5OV9GVm11eTVZbnNXNHczUHJZNTFwVw?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "프라임경제",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 08:30"
+  },
+  {
+   "title": "[뉴욕마켓워치] 중동에서 들려온 반가운 소식…달러↓주식·채권 혼조",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440262",
+   "source": "네이버 연준 금리",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:30"
+  },
+  {
+   "title": "뉴욕증시, 기업 실적 호조에 전반적 강세…유가, 외교 진전 기대에 하락...",
+   "url": "https://www.etoday.co.kr/news/view/2638128",
+   "source": "네이버 연준 금리",
+   "publisher": "etoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:22"
+  },
+  {
+   "title": "[굿모닝! 글로벌 뉴욕증시] AI주 흔들려도 시장은 올랐다…실적·가치주로 순환매",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81WEJnZlY0aHNDSmlkN1lfQUxmMDZuUTNSbTRUcnNBSVVlWHFyTXhsMEZuRl9la3p5bW1ZS0FxRHZTNTdRRURHRE9oN0VqSURMVWczOFU3U0hEVk03cjRWaWpCb2dadUNncV9QenZUYw?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "뉴스퀘스트",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 08:18"
+  },
+  {
+   "title": "[뉴욕증시] AI주 불안 속 유가·금리 안정에 순환매…다우 1% 상승",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SbVhpMVdQd0gwaDFWZG1feHBZUXZra0lVaVJyb1VNOWxhLTd6eVh0c3hacDBoSHFoYTRjMXJzMG9JdERUcWZmMm81TVN0OWR2elkySkdISmVuaHRoamhFS3BXNUxXSERuRzBDRkNFX28?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "신아일보",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 08:16"
+  },
+  {
+   "title": "ASML Just Announced Fantastic News for Investors in AI Stocks",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2VEa1FuRXUtQUlpY0s2ZFZzZF9fMzNPbWN5VmNoMHhUQzNRSmxtc1ZwdzJ2T1k3SVljNDRxSmFoUGNDM21VOUZfU0s1UlZfTm8xYkYtZVUtMVZ3RnRCb1ZadmtHVlhJTlJLLWlwa3k5X2xSUFBkNFdFY1FQRUhSWE9TLVlJZFFkeS1JUHJpY1dTYS0tSGVEWm11ME9aMUFpN3hNUFctNA?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "The Motley Fool",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 08:10"
+  },
+  {
+   "title": "[마켓뷰] 메타 실적발표 앞두고 뉴욕증시 혼조 마감…코스피 향방은",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cXlJaEVmM0V6Q2E4am1VSFlycTNFLVZseHltSlF3U21vZDZkZk5TbFV0dmoxSEJlRGV1ZFZPd0o2ZTh0NlZzTFVDaDUwbktQUVVteGhWTno0bWfSAWBBVV95cUxNenQxb0NpQmJZUUlQUzhMWE5hdjhoTWpxZmhmdk9fZk9VZnFRLV85T1IwLWpUNl9sSjZac042SkZFZlhmU1lSd1llQzBBTFltTlVVblA0ZmZPR2gyay1EUWo?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 08:08"
+  },
+  {
+   "title": "유가 하락·온기 확산, 다우 +1%대↑",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84SHYwbW9HZWVxN1JKNm5NbzVDalFaMi1keXFhQlhwdHFEQUNfc0NlTVpBN1JtdEVsZ1RhZTY2SWl3MVV5dFVIYmVTQzRuREx3bVdySEFlLWgtdEwxR1Y1ZnpFRjd2NTJmdGMzbw?oc=5",
+   "source": "Google News 유럽 증시",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 07:49"
+  },
+  {
+   "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+   "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:29"
+  },
+  {
+   "title": "뉴욕증시, 유가하락 등 영향 혼조 마감...다우존스 1%↑",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aUmhMV3FHbzVNNzg1UlBBZFVyUUlCZHcxZUJBOHI2VVhJYkQwcUlfYjRBUEhmdEs4TUMwOUc0VmhGZmF0VXRyTXBPek9jSWZIUDVFV3NfdG1nNHJfXy11a2J0UjFEZWlZbUdFMElUb9IBc0FVX3lxTFBzNFlvV283Mnlvd3I3RkMxUzFubTJ3X05xR2ZsZS1pSGh1RHltX2dlT2hJVXRwVkRRbXZNUDRrellDTmx6TDFsbkR0SjRwVmNHQTlsOXhhUWdCVzd4WlRJSUNkbHhOTTlkSUJINGtGMjZUUFE?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "여성신문",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:09"
+  },
+  {
+   "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+   "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:01"
+  },
+  {
+   "title": "[증시전략] AI 투자 수익성 우려 여전…빅테크 실적이 트리거 될까",
+   "url": "https://biz.sbs.co.kr/article_hub/20000341145?division=NAVER",
+   "source": "네이버 방산주",
+   "publisher": "SBS",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:56"
+  },
+  {
+   "title": "증시 반등했지만…'한국 AI 30% 폭락'에 숨죽인 빅테크[뉴욕마감] - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81alU1Tml0NG1zcWtMUkJlVVlzVUt3SVZUaVRqbG1IWjNlWTBuVngzTTV6MjNON2RxdWFtenZaMElJazBKRXkzTllES291QmhfeGJuLVlJQ0x4QWl3ek9qYW1qUEZnTEdZ0gFuQVVfeXFMTkJzdElqUFpmVzFoVHdLc0xQNmVoSDZHWDBJaHRjaGpyNGhMVVNBRDQyQm9pWUdBd1ZKYlJTV3dFQTEwR2xxWW5MRTBMeGtFbXpPaElrQmdnenlYZmhZcVJQSVQ2WDF4Q1dIMnp6cmc?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 06:52"
+  },
+  {
+   "title": "Defensive stocks' surge signals more pain for AI-led market, says CIO",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jajJXUzMxRXljbURsekFma2p3eXcyQ2ZIZDUtV1phdTVieTd3S1BZY1RVNjlsUXZTckRiTW90QUFtcmx0akFGb3B2VGNxRllJV1BmX3JxZ1J5dXdkMjBrcElfMkczbzQ?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:41"
+  },
+  {
+   "title": "[뉴욕증시] \"탄광의 카나리아\" AI 거품론 공포탄은 한국 기업?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hUDlnamg5d3dVbzliWTFzRnJXSEtNMzJxYllXUVo5V1FGaTBMRXdCc3M0c2hCUzFNN2k1bHdlR3c5VTltWGRFMXhtdXpBMGxjUUNhRzNQbXV2cmVuZHc?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "YTN",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 06:38"
+  },
+  {
+   "title": "실적 좋았는데 주가는 왜?…美 항공우주·방산주 희비 [美증시 특징주]",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210004&t=NN",
+   "source": "네이버 방산주",
+   "publisher": "wowtv.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:23"
+  },
+  {
+   "title": "뉴욕증시, 헬스케어·기업 실적 호조...다우 1%↑나스닥↓",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91350",
+   "source": "네이버 유럽 증시",
+   "publisher": "thefairnews.co.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-21 06:10"
+  },
+  {
+   "title": "JP모건 ‘美 안보 이니셔티브’ 1년…306조 원 금융 지원에도 주가는 약...",
+   "url": "https://www.sedaily.com/article/20104034?ref=naver",
+   "source": "네이버 방산주",
+   "publisher": "서울경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:01"
+  },
+  {
+   "title": "[뉴욕증시] 3M·노스롭그루먼 호실적에 다우 529p 급등",
+   "url": "https://www.g-enews.com/view.php?ud=202610210547377375e250e8e188_1",
+   "source": "네이버 방산주",
+   "publisher": "g-enews.com",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 05:52"
+  },
+  {
+   "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+   "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 05:23"
+  },
+  {
+   "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
+   "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 05:10"
+  },
+  {
+   "title": "한은 '9월 생산자물가지수' 0.2% 상승… 전년 동월 대비 7.7% 급등",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395834",
+   "source": "네이버 원달러 환율",
+   "publisher": "fntoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:46"
+  },
+  {
+   "title": "전기요금·먹거리 뛰자 9월 생산자물가 0.2%↑…두 달째 상승",
+   "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81881",
+   "source": "네이버 원달러 환율",
+   "publisher": "newsfc.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "9월 생산자물가 전년比 7.7% 상승…원재료·전력 가격 압박 지속 [한국은...",
+   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66151",
+   "source": "네이버 물가 지표",
+   "publisher": "newsroad.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:38"
+  },
+  {
+   "title": "BIS \"중앙은행, 금리 공격적 인상하면 불필요한 경제적 피해 초래\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sSFRvZG5sY1FlTGFiVzBSTFdxODY5TG02VEEzRzZVUlJvVjBjNEduMEdvTjVSUXhEWURrc0hocUQwOUh5WS1BbWZlVnM1c2pCSnQ0cmtkQVFaZVJRSkJXRDY4RDlvSFZhaDlMOEpEUGLSAXRBVV95cUxNem5jMmpOeGIxS1VxNXZOcjRFSkRlMFBVUkJsWExEVjhYdzlBQVpZMk5OQU1LRHYya1ExLWtxTjRRX1dXMHJCOVVraGxUeWZKSXhEQUVLTE9aQ2dKNENhSFhteHZXNlMtZm5IZWN6Yzd2c21fTQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:32"
+  },
+  {
+   "title": "[美 중간선거] 물가에 흔들리는 공화당…데이터센터도 표심 변수",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440296",
+   "source": "네이버 연준 금리",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:26"
+  },
+  {
+   "title": "악재는 그대로인데 시장은 버틴다…고금리·고유가 뒤 '공포 확산' 멈춘...",
+   "url": "https://www.thepowernews.co.kr/view.php?ud=2026102013311962de3f0aa1be_7",
+   "source": "네이버 미국 국채금리",
+   "publisher": "thepowernews.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:16"
+  },
+  {
+   "title": "[IMF 진단 '한국 2026'③] 금리 올리고 증시 흔들리고…'정책 딜레마'",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367553",
+   "source": "네이버 연준 금리",
+   "publisher": "ftoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:56"
+  },
+  {
+   "title": "[국제금융 브리핑] 미·이란 평화협정 기대에 브렌트유 108.79달러...S&P50...",
+   "url": "https://www.tokenpost.kr/news/economy/425217",
+   "source": "네이버 물가 지표",
+   "publisher": "tokenpost.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:32"
+  },
+  {
+   "title": "Crude Oil Prices Fall on Diplomacy Hopes to End Iran War",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXR6WkdySG9hMzBkV3FLcFFlVHFGV3M3Z2MwNExrUGpYY0IwZ3Ezd3FxUXh0a2M1Qml2ZUhhWXdvTHpRbkYza0dJQVFfTms4UHYxME05Sk1mMVd4WXZjM0tOZGN1YzF1ZGVTVlMxRVY0LWUtZ2p3ZS1yTjZocGpiZWhOeDFLZy1mS1lYUWh5NjhiY2g0T045Q0ZFOGdLWVRHanc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barchart.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 04:16"
+  },
+  {
+   "title": "Oil prices rise on M.East tensions, U.S. inventory draw",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXVnZW1aUExZQ3NSMVBJbkVsN3BqZ2hWVTlfcGY5U2Z1Wnh4T3M4ZF9jb1NTQVY4UXczZGdDczlwckNQRnpFOXM2YXJVT1NtRXR5T3BmUHBMakdkQ0UwUUJOcHFZOXRlanJydXlWZGhBZlJJanJTSlZMZGR4S01vYnJ5WGJZSEFfbi1CaHBQdDhLTFY5RG02NWI3elNBeHBGaWl6UGRkb0JWV2c?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "After the initial wave of buying, investors will assess whether semiconductor stocks have bottomed out.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0djQTNPRTc3RUlHd2dOWHZKTFlMS2VJV1I1M3RHQkpzM2dFc0hlYThkTXNWY0lzRnhsTUpsNE9RMHhSNi04eFBiXzMtM0ZpaFJsajV4QTgxdmNMb09WbjQxQVhKZ0tQZ1lQT1RSX2NsX29KWnlaRGItUzhaMi1UTjU5bW1SMVVudWJQcWhpUXl6cl8wOC1sSjlDbUdxSVBlRzdMOE1FbFB1QQ?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Moomoo",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 08:41"
+  },
+  {
+   "title": "한·일·중 묶일 때 홀로 질주…대만, AI 인프라 전반 싹쓸이",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367736",
+   "source": "네이버 중국 증시",
+   "publisher": "ftoday.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:04"
+  },
+  {
+   "title": "AI and semiconductor stocks drop sharply amid i...",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0JsdUh1WDJWNDUzM0lXVHNmeDhXTlFKdFM0SGJ3VGM3ZUlzc2ViQWNFYWs1dlk4Z0VsNXBLalFoLV8tN05LS1BCZFNpWjM3RHdKVFE5dXdSelNiRUNnblpVd0EtdFBSYjI0ZmU0S0JobFpPWUNZV3JrLS1zeWs1NTBsRVJuUmhoOV9ZXzFTa2p1cEY1OVpaWEdjcGxuQ2Zu?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Pluang",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 07:37"
+  },
+  {
+   "title": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDhCbnUwbzFqRTZQb2ZQWmtIWGtBam9ENEc4ak5nNEktMm16NlA0TXJQalJpb1I0X1BDVG9rbVh1d0k1TGU0ZjRabE1IVVNCTmhRM19QQlYtdk9JYkVaQ0xRNXJXSldPenRydmpsczhmX3V6elA2Tmo4MWJrTXphQ0wyNnlDRVM2eGUzeF94MlZBN1NN?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:05"
+  },
+  {
+   "title": "Oil Futures Settle Lower in Volatile Session",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:17"
+  },
+  {
+   "title": "프랑스, 어쩌다 이 지경까지...폭력 시위에 ‘야간 통금’ 검토 [글로벌...",
+   "url": "https://www.sedaily.com/article/20104033?ref=naver",
+   "source": "네이버 방산주",
+   "publisher": "서울경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:01"
+  },
+  {
+   "title": "[특징주] 슈퍼마이크로 호실적 훈풍에 삼성전자·SK하이닉스 동반 강세",
+   "url": "https://www.newspim.com/news/view/20261021000214",
+   "source": "네이버 반도체 주가",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "상장 첫날 32%↓'폭락' 무슨 일?…\"AI 투자 열풍의 종말\"",
+   "url": "https://economist.co.kr/article/view/ecn202610210007",
+   "source": "네이버 코스닥",
+   "publisher": "economist.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:43"
+  },
+  {
+   "title": "[개장시황] 코스피·코스닥 1%대 상승 출발…급락 딛고 반등 시도",
+   "url": "https://www.newspim.com/news/view/20261021000193",
+   "source": "네이버 코스피",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스 5~6%대 급등…반도체 대형주 일제히 반등",
+   "url": "https://www.ajunews.com/view/20261021093341345",
+   "source": "네이버 AI 관련주",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "코스피, 반발 매수세에 3% 반등하며 5,700선…코스닥 2.5%↑(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261021041800008?input=1195m",
+   "source": "네이버 AI 관련주",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:35"
+  },
+  {
+   "title": "유가 진정에 투심 회복···코스피 5700선 반등",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=157050",
+   "source": "네이버 뉴욕증시",
+   "publisher": "smartbizn.com",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:34"
+  },
+  {
+   "title": "\"AI 수요 견고\" 슈퍼마이크로 서프라이즈에…삼전닉스 모처럼 급등",
+   "url": "https://www.hankyung.com/article/2026102150796",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:32"
+  },
+  {
+   "title": "코스피, 폭락 딛고 5700선 탈환…삼성전자 4%·SK하이닉스 6%↑",
+   "url": "https://www.ddaily.co.kr/page/view/2026102109223533706",
+   "source": "네이버 뉴욕증시",
+   "publisher": "ddaily.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:32"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

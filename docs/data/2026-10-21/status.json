@@ -1,0 +1,577 @@
+{
+ "date": "2026-10-21",
+ "run_kind": "update",
+ "started_at_kst": "2026-10-21T14:04:26.770566+09:00",
+ "finished_at_kst": "2026-10-21T14:15:23.592586+09:00",
+ "result": "degraded",
+ "sources": [
+  {
+   "name": "Fed 보도자료",
+   "ok": true,
+   "count": 20,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 1.42
+  },
+  {
+   "name": "Yahoo Finance News",
+   "ok": false,
+   "count": 0,
+   "error": "Client error '404 Not Found' for url 'https://finance.yahoo.com/news/rssindex'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+   "required": false,
+   "category": "US",
+   "elapsed_s": 0.0
+  },
+  {
+   "name": "CNBC Finance",
+   "ok": true,
+   "count": 30,
+   "error": null,
+   "required": false,
+   "category": "US",
+   "elapsed_s": 1.65
+  },
+  {
+   "name": "CNBC Top News",
+   "ok": true,
+   "count": 30,
+   "error": null,
+   "required": false,
+   "category": "US",
+   "elapsed_s": 1.67
+  },
+  {
+   "name": "MarketWatch Top Stories",
+   "ok": true,
+   "count": 10,
+   "error": null,
+   "required": false,
+   "category": "US",
+   "elapsed_s": 1.9
+  },
+  {
+   "name": "Google News 뉴욕증시",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "US",
+   "elapsed_s": 2.01
+  },
+  {
+   "name": "Google News AI stocks",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "US",
+   "elapsed_s": 2.16
+  },
+  {
+   "name": "Google News Wall Street",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "US",
+   "elapsed_s": 2.2
+  },
+  {
+   "name": "한국은행 보도자료",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 0.84
+  },
+  {
+   "name": "연합뉴스 경제",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "KR",
+   "elapsed_s": 1.12
+  },
+  {
+   "name": "BoE 뉴스",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 1.51
+  },
+  {
+   "name": "Google News 경제지표·금리·환율",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 1.6
+  },
+  {
+   "name": "한국경제 증권",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "KR",
+   "elapsed_s": 1.12
+  },
+  {
+   "name": "매일경제 증권",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "KR",
+   "elapsed_s": 1.11
+  },
+  {
+   "name": "더벨 (Google News)",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": true,
+   "category": "KR",
+   "elapsed_s": 1.19
+  },
+  {
+   "name": "Google News Fed inflation",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 1.77
+  },
+  {
+   "name": "ECB 보도자료",
+   "ok": true,
+   "count": 15,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 2.14
+  },
+  {
+   "name": "Google News 코스피",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "KR",
+   "elapsed_s": 1.63
+  },
+  {
+   "name": "Google News 외국인 순매수",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "KR",
+   "elapsed_s": 1.7
+  },
+  {
+   "name": "Google News 유럽 증시",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "EU",
+   "elapsed_s": 1.68
+  },
+  {
+   "name": "Google News 중국 증시",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "CN",
+   "elapsed_s": 1.59
+  },
+  {
+   "name": "Google News China stocks",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "CN",
+   "elapsed_s": 1.79
+  },
+  {
+   "name": "Google News defense stocks",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 1.43
+  },
+  {
+   "name": "Google News European stocks",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "EU",
+   "elapsed_s": 1.98
+  },
+  {
+   "name": "Google News A股 港股",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "CN",
+   "elapsed_s": 1.63
+  },
+  {
+   "name": "Google News oil prices",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 1.09
+  },
+  {
+   "name": "Google News semiconductor",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 1.17
+  },
+  {
+   "name": "Google News geopolitics markets",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 1.23
+  },
+  {
+   "name": "Google News Nikkei",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 1.21
+  },
+  {
+   "name": "네이버 뉴욕증시",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "US",
+   "elapsed_s": 1.23
+  },
+  {
+   "name": "네이버 미국 기술주",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "US",
+   "elapsed_s": 1.32
+  },
+  {
+   "name": "네이버 원달러 환율",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 2.17
+  },
+  {
+   "name": "네이버 연준 금리",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 2.29
+  },
+  {
+   "name": "네이버 미국 국채금리",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 2.16
+  },
+  {
+   "name": "네이버 물가 지표",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "MACRO",
+   "elapsed_s": 2.5
+  },
+  {
+   "name": "네이버 유럽 증시",
+   "ok": true,
+   "count": 19,
+   "error": null,
+   "required": false,
+   "category": "EU",
+   "elapsed_s": 4.4
+  },
+  {
+   "name": "네이버 ECB 금리",
+   "ok": true,
+   "count": 22,
+   "error": null,
+   "required": false,
+   "category": "EU",
+   "elapsed_s": 3.92
+  },
+  {
+   "name": "네이버 중국 증시",
+   "ok": true,
+   "count": 23,
+   "error": null,
+   "required": false,
+   "category": "CN",
+   "elapsed_s": 4.15
+  },
+  {
+   "name": "네이버 홍콩 항셍",
+   "ok": true,
+   "count": 20,
+   "error": null,
+   "required": false,
+   "category": "CN",
+   "elapsed_s": 4.14
+  },
+  {
+   "name": "네이버 중국 경기부양",
+   "ok": true,
+   "count": 15,
+   "error": null,
+   "required": false,
+   "category": "CN",
+   "elapsed_s": 3.97
+  },
+  {
+   "name": "네이버 외국인 순매수",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "KR",
+   "elapsed_s": 7.92
+  },
+  {
+   "name": "네이버 AI 관련주",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 4.02
+  },
+  {
+   "name": "네이버 방산주",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 4.41
+  },
+  {
+   "name": "네이버 일본 증시",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 4.39
+  },
+  {
+   "name": "네이버 코스닥",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "KR",
+   "elapsed_s": 11.65
+  },
+  {
+   "name": "네이버 국제유가",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 7.17
+  },
+  {
+   "name": "네이버 코스피",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "KR",
+   "elapsed_s": 13.03
+  },
+  {
+   "name": "네이버 반도체 주가",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "required": false,
+   "category": "GLOBAL",
+   "elapsed_s": 8.95
+  }
+ ],
+ "failed_sources": [
+  "Yahoo Finance News"
+ ],
+ "coverage_ok": true,
+ "article_count": 400,
+ "stage1_degraded": false,
+ "stage1_partial": false,
+ "market": {
+  "indices": 45,
+  "errors": [],
+  "elapsed_s": 12.6,
+  "constituents": {
+   "us_sp500": [
+    503,
+    503
+   ],
+   "us_ndx": [
+    101,
+    101
+   ],
+   "us_djia": [
+    30,
+    30
+   ],
+   "kr_kospi": [
+    825,
+    825
+   ],
+   "kr_kosdaq": [
+    1755,
+    1760
+   ]
+  }
+ },
+ "topics": {
+  "macro": {
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "attempts": 1
+  },
+  "sectors": {
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "attempts": 2
+  },
+  "us": {
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "attempts": 1
+  },
+  "eu": {
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "attempts": 1
+  },
+  "kr": {
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "attempts": 1
+  },
+  "cn": {
+   "ok": true,
+   "error": null,
+   "warnings": [],
+   "attempts": 1
+  }
+ },
+ "llm": {
+  "engine": "claude-cli",
+  "model": "opus",
+  "billed": false,
+  "stages": {
+   "stage1": {
+    "model": "opus",
+    "input_tokens": 4,
+    "output_tokens": 37983,
+    "cost_estimate_usd": 1.435284,
+    "calls": 2
+   },
+   "stage2:macro": {
+    "model": "opus",
+    "input_tokens": 2,
+    "output_tokens": 14796,
+    "cost_estimate_usd": 0.559432,
+    "calls": 1
+   },
+   "stage2:us": {
+    "model": "opus",
+    "input_tokens": 2,
+    "output_tokens": 16112,
+    "cost_estimate_usd": 0.6094,
+    "calls": 1
+   },
+   "stage2:sectors": {
+    "model": "opus",
+    "input_tokens": 4,
+    "output_tokens": 36713,
+    "cost_estimate_usd": 1.27317,
+    "calls": 2
+   },
+   "stage2:eu": {
+    "model": "opus",
+    "input_tokens": 2,
+    "output_tokens": 15820,
+    "cost_estimate_usd": 0.470603,
+    "calls": 1
+   },
+   "stage2:kr": {
+    "model": "opus",
+    "input_tokens": 2,
+    "output_tokens": 18985,
+    "cost_estimate_usd": 0.573463,
+    "calls": 1
+   },
+   "stage2:cn": {
+    "model": "opus",
+    "input_tokens": 2,
+    "output_tokens": 13611,
+    "cost_estimate_usd": 0.423519,
+    "calls": 1
+   }
+  },
+  "total_input_tokens": 18,
+  "total_output_tokens": 154020,
+  "total_cost_usd": 5.34487,
+  "total_calls": 9,
+  "warnings": []
+ },
+ "warnings": [],
+ "error": null,
+ "elapsed_s": 656.8
+}

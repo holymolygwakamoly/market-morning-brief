@@ -1,0 +1,695 @@
+{
+ "topic": "macro",
+ "name": "거시경제",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-10-21T14:15:23.592586+09:00",
+ "report": {
+  "title": "거시경제 데일리 (2026-10-21): 금통위 하루 전·FOMC 앞둔 고금리 국면, 원화 2년 만에 최강세에 코스피 급락 후 반등 시도",
+  "overview": "미 10년물 금리는 약한 주택지표 영향으로 5.12%(-0.02)까지 내려 이달 고점(5.31%)보다 낮아졌습니다. 다만 3개월물(4.08%)과 5년물(4.93%)은 소폭 올라 단기 긴축 경계가 남아 있습니다. 시장은 다음 주 FOMC(27~28일, 현지시간)에서 금리 동결 확률을 82%로 보고 있으나, 연준이 9월 약 3년 만에 금리를 올렸고 추가 인상 논의가 이어지고 있어 '동결 후 인상 여지'에 무게를 두고 있습니다. 원/달러는 1330.00원(-0.26%)으로 2년 만의 최저권이며, 국채금리 하락·달러 약세(DXY 101.73)·수출기업 달러 매도가 원화 강세를 이끌었습니다. 반면 엔/달러는 158.52엔으로 엔화 약세가 이어졌습니다. 브렌트유는 미·이란 평화협상 기대에 108.79달러(-0.69%)로 내렸지만 중동 긴장과 미국 원유 재고 감소로 반등 압력도 남아 있습니다. 코스피는 전날 3.73% 급락한 뒤 21일 슈퍼마이크로의 실적 전망 호조로 반도체 대형주가 반등하며 장 초반 5700선을 되찾았고, 내일(22일) 한국은행 금통위가 단기 방향을 가를 변수입니다.",
+  "sections": [
+   {
+    "heading": "금리·채권",
+    "body": "10월 20일 미국채 금리는 만기별로 엇갈렸습니다. 10년물은 5.12%로 0.02%p 내렸고(기사 기준 5.117%, 1.9bp 하락), 5년물은 4.93%(+0.01%p), 3개월물은 4.08%(+0.01%p)로 소폭 올랐습니다. WSJ는 주택지표가 잇달아 약하게 나오면서 국채금리가 내렸다고 보도했고, 국내 기사들은 미국 잠정주택판매가 역대 최저치로 떨어진 점을 실물경기 둔화 신호로 짚었습니다. 결과적으로 경기 둔화 우려가 장기물 금리를 끌어내리고, 긴축 경계가 단기물을 받치는 모습입니다. 수익률곡선은 3개월물 4.08% → 5년물 4.93% → 10년물 5.12% 순으로 올라가는 정상적인 오른쪽 상승 형태입니다. 3개월물이 현재 기준금리 상단(3.75~4.00% 중 4.00%)보다 높다는 점은 단기 시장이 추가 인상 가능성을 일부 가격에 반영하고 있다는 뜻으로 해석됩니다. 금리 경로 전망을 보면, 연준은 지난 9월 약 3년 만에 기준금리를 올렸고 연말까지 추가 인상 가능성이 거론됩니다. CME 페드워치 기준 이달 FOMC의 동결 확률은 82%입니다. 시장은 내년 말 미국 기준금리를 4.50~5.00%로 예상하는데, 이는 지금보다 3~4차례 더 올린다는 의미입니다. 미 10년물은 2월 말 4% 아래에서 이달 한때 5.31%까지 치솟았다가 고점에서 조금 내려온 상태입니다. 한 기사는 미 국채금리가 내려왔고 프랑스 국채금리·CDS(국가 부도 위험을 사고파는 보험 성격의 파생상품) 상승에도 다른 시장으로의 위험 전염은 아직 뚜렷하지 않다고 평가했습니다. IMF는 올해 아시아 대부분 경제에서 장기금리가 40~60bp 올랐다고 진단하며, 정책금리 기대뿐 아니라 주요국 재정 요인도 함께 작용했다고 봤습니다. 국내에서는 프랑스 국채금리가 5%에 근접하자 갈 곳을 잃은 자금이 한국 국고채로 들어오는 '반사이익' 기대가 나왔습니다. 다만 초기에는 달러 선호와 원화 약세가 국고채 금리 하락을 제한할 수 있다는 단서가 붙었습니다. 크레딧(회사채) 시장에서는 A급 캐피탈사 조달금리가 6%대까지 오르는 등 여전채(카드·캐피탈사 채권) 조달 여건의 양극화와 중소형사 부담이 커지고 있습니다.",
+    "bullets": [
+     "미 10년물 5.12%(-0.02%p), 5년물 4.93%(+0.01%p), 3개월물 4.08%(+0.01%p): 장기물만 내려간 혼조",
+     "금리 하락 배경: 약한 주택지표, 잠정주택판매 역대 최저",
+     "곡선은 오른쪽 상승 형태, 3개월물이 기준금리 상단(4.00%)보다 높아 추가 인상 기대가 일부 남아 있음",
+     "10월 FOMC 동결 확률 82%(CME 페드워치), 시장은 내년 말 기준금리 4.50~5.00% 예상(3~4차례 추가 인상)",
+     "미 10년물 이달 고점 5.31% 대비 하락, 프랑스 리스크의 전염은 아직 제한적이라는 평가",
+     "아시아 장기금리 올해 40~60bp 상승(IMF), A급 캐피탈사 조달금리 6%대로 크레딧 양극화"
+    ]
+   },
+   {
+    "heading": "환율",
+    "body": "달러인덱스(주요 6개 통화 대비 달러 가치)는 101.73으로 0.25% 내렸고, 원/달러 환율도 1330.00원으로 3.43원(-0.26%) 하락했습니다. 국내 보도에 따르면 원/달러는 2년 만의 최저 수준이며, 서울 외환시장 기준 2.7원 내린 1325.4원이라는 보도도 있습니다. 원화 강세 요인으로는 수출기업의 달러 매도(네고 물량) 유입, 미국 국채금리 하락, 달러화의 단기 조정이 꼽혔습니다. 눈에 띄는 점은 전날 코스피가 3.73% 급락했는데도 환율은 오히려 1320원대로 내려가 주가와 환율이 엇갈린 신호를 보냈다는 것입니다. 한 분석은 금리차 기준 원/달러 적정 수준을 1,290원으로 제시하며, 경상수지 흑자에 따른 달러 공급 증가를 근거로 들었습니다. 9월 원/달러 환율은 전월 대비 3.4% 하락해 생산자물가의 수입가격을 끌어내리는 요인이 됐습니다. 엔/달러는 158.52엔으로 0.45% 올라 엔화 약세가 이어졌습니다. 다카이치 정부 출범 1년을 맞아 일본은 주가 상승보다 금리가 핵심 변수가 됐다는 평가가 나옵니다. 유로/달러는 1.12(-0.09%)로 소폭 약세였는데, 프랑스 재정 불안과 폭력 시위가 유로화의 부담 요인입니다. 위안/달러는 6.69로 변동이 없었습니다. 한국에 주는 함의는 세 가지입니다. 원화 강세는 수입물가 안정에 도움이 되지만, 원화 기준으로 계산되는 수출기업의 매출에는 부담입니다. 엔화 약세와 원화 강세가 겹쳐 일본과 경쟁하는 업종의 가격 경쟁력이 떨어질 수 있습니다. 또 반도체처럼 국내 거래라도 달러로 시세가 매겨지는 품목은 환율 하락이 원화 기준 가격을 낮추는 효과가 있습니다. 수급 측면에서는 21일 장 초반 외국인이 코스피를 순매수한 것으로 보도돼, 원화 강세와 외국인 자금 유입이 함께 나타나는지 확인할 필요가 있습니다.",
+    "bullets": [
+     "원/달러 1330.00원(-3.43원, -0.26%), 2년 만의 최저권. 서울 외환시장 기준 1325.4원(-2.7원) 보도",
+     "달러인덱스 101.73(-0.25%): 미 국채금리 하락과 달러 단기 조정",
+     "원화 강세 요인: 수출업체 네고 물량, 경상흑자에 따른 달러 공급. 금리차 기준 적정 환율 1,290원이라는 분석",
+     "엔/달러 158.52엔(+0.45%)으로 엔화 약세 지속, 원·엔 상대가격 변화로 일본과 경쟁하는 수출업종에 부담 가능",
+     "유로/달러 1.12(-0.09%)는 프랑스 재정·시위 불안, 위안/달러 6.69로 보합",
+     "코스피 급락에도 원화 강세라는 엇갈린 신호, 9월 환율 3.4% 하락이 수입물가 하락으로 연결"
+    ]
+   },
+   {
+    "heading": "원자재",
+    "body": "유가는 결제일이 다른 두 유종이 엇갈렸습니다. WTI는 103.66달러로 2.25달러(+2.22%) 올랐지만 이는 10월 19일 세션 값입니다. 10월 20일 세션의 브렌트유는 108.79달러로 0.76달러(-0.69%) 내렸습니다. 20일 시장은 이란 전쟁을 끝내기 위한 외교 기대, 즉 미·이란 평화협정 기대로 하락했고, WSJ는 '변동성이 큰 장에서 유가 선물이 하락 마감했다'고 전했습니다. 국내 원자재 시황도 'WTI 상승세가 꺾였다'고 정리했습니다. 그러나 21일 아시아 시간대에는 중동 긴장과 미국 원유 재고 감소를 이유로 유가가 다시 오르고 있다는 보도(Investing.com)가 나와, 외교 기대와 공급 불안 사이에서 방향성이 정해지지 않은 상태입니다. 한 투자전략가는 연준이 금리를 올려도 공급 충격에서 비롯된 유가를 낮출 수 있는지 의문을 제기했습니다. 중동 지정학 긴장과 에너지 쇼크는 '끈적한 인플레이션'과 금리 동반 상승의 핵심 배경으로 거론됩니다. 금은 4160.10달러로 21.00달러(-0.50%) 내렸습니다(10월 19일 세션). 국내 금 시세도 한 돈에 65만7천원으로 0.85% 하락했는데, 국제 금값과 원/달러 환율이 함께 내린 영향입니다. 미국 잠정주택판매 부진에 따른 경기 둔화 우려, 10월 FOMC 동결 기대, 달러 조정은 금값을 받치는 요인입니다. 반면 미국·영국·일본 등 주요국의 긴축 신호와 금리 부담은 금값을 누르는 요인으로 평가됩니다. 금값의 다음 분수령으로는 27일 FOMC와 29일 미국 물가지표가 꼽힙니다. 구리는 6.54달러로 0.11% 소폭 올랐고, 구리 관련 별도 기사는 없었습니다. 비트코인은 81,854달러(-0.20%, 10월 19일 세션)였으며, 이후 8만3천달러 안팎을 회복한 뒤 주춤하고 있다는 보도가 있습니다.",
+    "bullets": [
+     "브렌트 108.79달러(-0.69%, 10/20): 미·이란 평화협정 기대로 하락, 변동성 큰 장",
+     "WTI 103.66달러(+2.22%)는 10/19 세션 값이라 브렌트와 하루 시차 있음",
+     "21일 아시아장: 중동 긴장과 미국 원유 재고 감소로 유가 반등 보도, 외교 기대와 공급 불안이 맞서는 구도",
+     "금 4160.10달러(-0.50%), 국내 금 한 돈 65만7천원(-0.85%). 27일 FOMC와 29일 미 물가지표가 분수령",
+     "구리 6.54달러(+0.11%)로 보합권",
+     "연준 금리 인상으로 공급발 유가를 잡을 수 있는지에 대한 회의론"
+    ]
+   },
+   {
+    "heading": "중앙은행",
+    "body": "[Fed] 연준은 9월 약 3년 만에 금리를 올렸고, 현재 기준금리는 3.75~4.00%입니다. 시장은 27~28일(현지시간) FOMC에서 동결을 예상하며 CME 페드워치 기준 동결 확률은 82%입니다. 다만 연준 내부에서는 추가 인상의 속도와 폭을 두고 논의가 계속되고 있으며, 연말까지 추가 인상 가능성도 언급됩니다. 이번 회의에서는 점도표(위원들이 예상하는 기준금리 경로를 점으로 표시한 표)와 향후 경로 신호가 관건이며, 시장은 내년 말 4.50~5.00%를 예상합니다. 일부 보도는 연준 수장 워시의 '침묵'을 언급했습니다. BIS(국제결제은행)는 중앙은행이 금리를 공격적으로 올리면 불필요한 경제적 피해를 초래할 수 있다고 경고했습니다. 로이터 칼럼은 연준 긴축에도 신흥국이 아직 큰 타격을 받지 않고 있다고 평가했습니다. [ECB] IMF는 연준과 함께 ECB도 정책금리를 올렸다고 언급했습니다. 프랑스 국채금리가 5% 가까이 오르자 ECB가 국채 매입 장치인 TPI(통화정책 전달보호장치)를 검토할 수 있다는 관측이 나오며, 시장은 ECB의 안정 조치로 불안이 관리될 가능성에 무게를 두고 있습니다. [BoE] 영란은행의 메건 그린 위원은 인플레이션 위험이 예상보다 크다고 밝혀 매파적(긴축 선호) 시각을 드러냈습니다. [RBA] 호주중앙은행 부총재는 인플레이션 전망이 악화되고 있다면서도 11월 금리 인상 여부는 확신하지 못한다고 말했습니다. 그럼에도 올해 다섯 번째 금리 인상 가능성은 높아졌다는 평가입니다. [BOJ] 다카이치 정권 1년을 맞아 일본은 '금리'가 관건이라는 분석이 나왔고, 엔/달러 158.52엔의 엔화 약세는 BOJ 정책에 부담 요인입니다. [한국은행] 22일 10월 금통위를 앞두고 채권시장 시나리오 점검이 진행되고 있습니다. 9월 생산자물가가 전년 대비 7.7% 오르고 코스피가 급락한 가운데 원화는 강세여서, 물가·환율·경기 판단이 엇갈리는 상황입니다. IMF는 한국이 금리를 올리면 증시가 흔들리는 '정책 딜레마'에 놓였다고 진단했고, 한미 금리차와 자금 유출 위험도 거론됩니다. [인민은행] 관련 발표나 기사는 이번 입력에 없습니다.",
+    "bullets": [
+     "Fed: 기준금리 3.75~4.00%, 27~28일 FOMC 동결 확률 82%, 내부에서 추가 인상 속도·폭 논의 중",
+     "BIS: 공격적 금리 인상은 불필요한 경제적 피해를 낳을 수 있다고 경고",
+     "ECB: 금리 인상 기조, 프랑스 불안에 TPI 검토 가능성 거론",
+     "BoE 그린 위원: 인플레이션 위험이 예상보다 크다고 언급(매파적)",
+     "RBA: 인플레이션 전망 악화, 11월 인상 여부 불확실하나 올해 다섯 번째 인상 가능성 상승",
+     "한국은행: 22일 10월 금통위, 생산자물가 급등과 증시 급락 사이 정책 딜레마",
+     "인민은행: 관련 기사 없음"
+    ]
+   },
+   {
+    "heading": "경제지표",
+    "body": "[한국 9월 생산자물가] 한국은행이 발표한 9월 생산자물가지수는 129.78(2020년=100)로 전월(129.58)보다 0.2% 올라 두 달 연속 상승했고, 전년 같은 달보다는 7.7% 올랐습니다. 농림수산품이 전월 대비 2.6% 올랐는데 농산물은 3.7%, 축산물은 2.7% 상승했습니다. 추석 수요로 배추가 한 달 새 42.9% 급등했고 쇠고기도 크게 올랐습니다. 주택용 전력이 13.4% 오르는 등 전력·가스 요금도 상승했습니다. 반면 D램·OLED 같은 핵심 반도체·디스플레이 품목은 국내 거래라도 달러로 가격이 매겨져 9월 원/달러 하락의 영향을 받았고, 컴퓨터기억장치는 11.8% 내렸습니다. 수입품까지 포함한 물가에서는 환율 하락 효과로 중간재 수입가격이 2.4%, 최종재 수입가격이 2.6% 떨어졌습니다. 수출품까지 포함한 총산출물가는 0.1% 하락했습니다. 생산자물가는 시차를 두고 소비자물가에 반영되는 경향이 있어, 금통위를 앞두고 물가 부담을 키우는 재료입니다. 다만 환율 하락이 수입 물가를 낮추고 있어 상쇄 효과도 있습니다. [미국] 주택지표가 잇달아 부진했고, 특히 잠정주택판매는 역대 최저치로 떨어져 실물 경기 둔화 우려를 키웠고 국채금리 하락으로 이어졌습니다. 다만 최근 예상을 웃돈 물가지표도 있었던 만큼 '성장 둔화와 물가 부담'이 함께 나타나는 국면입니다. [독일] 10월 ZEW 경기기대지수(금융 전문가들이 보는 6개월 뒤 경기 전망)는 28.1로 전월 34.7에서 떨어지며 6개월 만에 하락 전환했습니다. 고물가로 투자와 소비가 부진한 점이 반영됐고, 한편으로 인플레이션 우려는 크게 줄었다는 분석(Haver Analytics)도 있습니다. [향후 일정] 22일 한국은행 금통위, 27~28일(현지시간) FOMC, 29일 미국 물가지표가 이어집니다.",
+    "bullets": [
+     "한국 9월 생산자물가: 129.78, 전월 대비 +0.2%(두 달 연속 상승), 전년 대비 +7.7%",
+     "배추 +42.9%, 주택용 전력 +13.4%, 농산물 +3.7%, 축산물 +2.7%. 반면 컴퓨터기억장치 -11.8%",
+     "환율 하락 효과로 중간재 수입가격 -2.4%, 최종재 -2.6%, 총산출물가 -0.1%",
+     "미국 잠정주택판매 역대 최저 등 주택지표 부진으로 국채금리 하락",
+     "독일 10월 ZEW 28.1(전월 34.7), 6개월 만에 하락 전환, 인플레이션 우려는 크게 완화",
+     "예정: 22일 금통위, 27~28일 FOMC, 29일 미 물가지표"
+    ]
+   },
+   {
+    "heading": "지정학·정책",
+    "body": "[중동·이란] 이란 전쟁 종식을 위한 외교적 해법과 미·이란 평화협정 기대가 유가를 끌어내렸습니다. 하지만 21일 아시아 시간대에는 중동 긴장이 다시 부각되며 유가가 반등했다는 보도가 나와, 협상 관련 뉴스에 따라 에너지 가격이 크게 흔들리는 국면입니다. [프랑스] 폭력 시위가 이어지며 야간 통행금지까지 검토되는 상황입니다. 프랑스 국채금리는 5%에 근접했고 CDS도 오르고 있습니다. 시장에서는 ECB의 TPI 등 안정 장치를 염두에 두고 있으며, 아직 다른 국가로 위험이 번지는 현상은 뚜렷하지 않다는 평가입니다. 2011년 하반기 이탈리아 재정위기 당시처럼 한국 국고채로 자금이 이동할 수 있다는 기대도 나옵니다. [미국 정치·관세] 11월 중간선거를 앞두고 물가 부담이 공화당 표심을 흔들고 있으며, 데이터센터(전력 수요·요금 문제)도 선거 변수로 떠올랐습니다. 트럼프 대통령의 캐나다산 제품 50% 관세는 1930년 관세법 338조를 근거로 한 새 소송에 직면했습니다. 트럼프 대통령이 민주당 의회의 부패 조사에 대비해 개인 변호사를 확보하고 있다는 보도도 있습니다. 5000억 달러 규모 국방예산 증액 구상에 제동이 걸릴 수 있다는 관측에 미국 방산 ETF는 7월 초부터 10월 중순까지 16% 하락했습니다. [AI·기술 규제] 빅테크 CDS 거래가 급증하며 AI 거품 우려가 부각됐습니다. 중국 탄순테크놀로지는 그래픽카드 구매를 공시하면서도 공급 부족과 해외 기술 규제로 납품이 늦어질 수 있다고 밝혀, 미·중 기술 통제가 계속 변수로 남아 있습니다. 국내 증권가는 내년 증시를 좌우할 핵심 변수로 금리와 미·중 관계를 꼽았습니다.",
+    "bullets": [
+     "미·이란 평화협정 기대(유가 하락 요인)와 중동 긴장 재부각(유가 상승 요인)이 맞서는 구도",
+     "프랑스: 폭력 시위로 야간 통금 검토, 국채금리 5% 근접·CDS 상승, ECB TPI 가능성",
+     "미 중간선거: 물가가 공화당에 부담, 데이터센터도 표심 변수",
+     "트럼프 캐나다 50% 관세, 관세법 338조 근거로 새 소송 제기",
+     "미 방산 ETF 7월 초~10월 중순 16% 하락(국방예산 증액 제동 우려)",
+     "빅테크 CDS 급증으로 AI 거품 경계, 해외 기술 규제로 중국 GPU 조달 지연 위험"
+    ]
+   },
+   {
+    "heading": "자산별 함의",
+    "body": "[한국 주식] 코스피는 20일 5552.74(-3.73%), 코스닥은 781.97(-3.33%)로 급락했습니다. AI 투자 부담과 반도체 업황 둔화 우려, AI 인프라 기업 엘리스의 상장 첫날 30%대 폭락이 투자심리를 흔들었습니다. 21일에는 미국 슈퍼마이크로의 깜짝 실적 전망으로 AI 데이터센터 수요가 견조하다는 신호가 나오면서 삼성전자·SK하이닉스가 5~6%대 급등했습니다. 코스피는 오전 9시 20분 5712.03(+2.87%)으로 5700선을 되찾았고, 외국인은 매수, 기관·개인은 매도 중인 것으로 보도됐습니다. 다만 전날 미국장에서 SK하이닉스 ADR(-2.16%), 마이크론(-0.98%), 엔비디아(-0.29%), 필라델피아 반도체지수(-0.29%)가 모두 약했고, 반도체지수는 이달 들어 11% 하락했습니다. 이번 반등이 단기 저가 매수인지 업황 바닥 확인인지는 아직 검증이 필요합니다. 22일 금통위 결과에 따라 장중 변동성이 커질 수 있습니다. [미국 주식] 다우(+1.02%)와 러셀2000(+1.65%)이 나스닥 100(-0.13%)보다 강해 기술주에서 경기민감·중소형주로 돈이 옮겨가는 순환매가 나타났습니다. VIX(변동성지수, 시장의 '공포지수')는 17.31로 6.13% 내려 공포 심리가 진정됐습니다. 21일 아시아 시간대에는 AI 거래 재개로 미국 선물이 오르고 있다는 보도가 있습니다. [채권] 미 10년물이 5%를 웃도는 고금리 구간이 이어지고 있어, FOMC(27~28일)와 29일 물가지표를 확인하기 전까지는 듀레이션(금리 변화에 대한 채권가격 민감도)을 크게 늘리기보다 분할 접근이 합리적입니다. 국고채는 프랑스발 반사이익 기대가 있지만, 금통위 결과와 원화 흐름을 확인할 필요가 있습니다. 크레딧은 A급 캐피탈사 조달금리가 6%대로 올라 신용도별 차별화에 유의해야 합니다. [환율] 원/달러는 1330원대로 2년 만의 최저권이고, 금리차 기준 적정 환율 1,290원이라는 분석과 경상흑자에 따른 달러 공급이 원화 강세를 지지합니다. 다만 FOMC 매파 신호나 위험회피 심리가 커지면 달러가 반등할 수 있습니다. 수출주에는 원화 강세와 엔화 약세(158.52엔)가 동시에 부담으로 작용합니다. [원자재] 유가는 미·이란 외교 뉴스에 따라 크게 움직이는 구간이어서 정유·항공 등 유가 민감 업종의 변동성 관리가 필요합니다. 금은 FOMC와 물가지표를 앞두고 경기 둔화 우려(지지 요인)와 긴축 부담(하락 요인)이 맞서고 있습니다.",
+    "bullets": [
+     "코스피 전날 -3.73% 급락 후 21일 장 초반 +2.87%(5712.03), 삼성전자·SK하이닉스 5~6%대 반등, 외국인 매수 전환",
+     "반등 지속은 미 반도체지수(이달 -11%)와 ADR·마이크론 등 메모리주 흐름 확인 필요, 22일 금통위로 변동성 확대 가능",
+     "미국은 다우·러셀이 강하고 나스닥이 약한 순환매, VIX 17.31(-6.13%)로 공포 심리 진정",
+     "채권: FOMC·29일 물가지표 전까지 분할 접근, 국고채 반사이익 기대와 크레딧 양극화 동시 점검",
+     "환율: 원화 강세 기조(적정 환율 1,290원 분석)이나 FOMC 매파 신호 시 달러 반등 위험, 엔화 약세는 수출주에 부담",
+     "원자재: 유가는 외교 뉴스에 민감, 금은 FOMC 대기 속 방향성 탐색"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "SK하이닉스",
+    "ticker": "000660.KS",
+    "comment": "슈퍼마이크로의 실적 전망 호조에 21일 장 초반 5~6%대 급등했습니다. 다만 전날 미국 ADR은 2.16% 내려 반등이 이어질지 확인이 필요합니다."
+   },
+   {
+    "name": "삼성전자",
+    "ticker": "005930.KS",
+    "comment": "반도체 대형주와 함께 21일 장 초반 5~6%대 반등했고, 삼성전자우는 5.30% 오른 17만4700원에 거래됐습니다."
+   },
+   {
+    "name": "슈퍼마이크로컴퓨터",
+    "ticker": "SMCI",
+    "comment": "깜짝 실적 가이던스로 시간외 거래에서 강세를 보이며 AI 데이터센터 수요가 견조하다는 신호를 줬고, 국내 반도체주 반등의 계기가 됐습니다."
+   },
+   {
+    "name": "엘리스",
+    "ticker": null,
+    "comment": "코스닥 상장 첫날 공모가 대비 30% 넘게 폭락해 외신이 'AI 투자 열풍 종말'의 상징적 신호로 주목했습니다."
+   },
+   {
+    "name": "마이크론",
+    "ticker": "MU",
+    "comment": "20일 미국장에서 0.98% 하락하며 메모리 업황 우려가 남아 있음을 보여줬습니다."
+   },
+   {
+    "name": "엔비디아",
+    "ticker": "NVDA",
+    "comment": "20일 0.29% 하락했습니다. 21일 아시아 시간대에는 AI 거래 재개로 미국 선물이 오르고 있다는 보도가 있습니다."
+   },
+   {
+    "name": "코어위브",
+    "ticker": "CRWV",
+    "comment": "AI 기업에 컴퓨팅 자원을 공급하는 업체로, 이달 들어 20일 정규장까지 주가가 크게 떨어져 AI 인프라 투자 부담을 드러냈습니다."
+   }
+  ],
+  "events_today": [
+   "10/21(수) 한국 증시: 전날 3%대 급락 이후 반도체 대형주 중심 반등이 이어지는지 확인",
+   "10/22(목) 한국은행 10월 금융통화위원회 기준금리 결정",
+   "10/27~28(현지시간) 미국 FOMC: 동결 확률 82%(CME 페드워치), 추가 인상 신호 여부 주목",
+   "10/29 미국 물가지표 발표: 금값과 금리 방향의 분수령",
+   "미·이란 평화협상 관련 뉴스와 미국 원유 재고 발표에 따른 유가 변동",
+   "프랑스 시위·재정 불안과 ECB의 TPI 대응 여부"
+  ],
+  "headlines": [
+   {
+    "text": "한은 금통위 하루 전, FOMC(27~28일) 앞두고 미 10년물 5.12%로 하락. 시장은 동결 82% 반영 속 연준의 추가 인상 여지를 경계",
+    "importance": 5
+   },
+   {
+    "text": "원/달러 1330원(-0.26%)으로 2년 만의 최저권, 코스피는 -3.73% 급락 다음 날 반도체 대형주 반등으로 5700선 회복 시도",
+    "importance": 4
+   },
+   {
+    "text": "브렌트 108.79달러(-0.69%): 미·이란 평화협정 기대와 중동 긴장·재고 감소가 맞서 유가 변동성 확대",
+    "importance": 4
+   }
+  ],
+  "data_caveats": [
+   "WTI·금·구리·비트코인은 10/19 세션 값으로, 10/20 세션인 다른 자산(브렌트 포함)과 하루 시차가 있습니다.",
+   "원/달러 표 값(1330.00원)과 기사 속 서울 외환시장 환율(1325.4원, 1320원대)은 기준 시점이 달라 서로 다릅니다.",
+   "미 국채금리 표는 소수 둘째 자리까지만 표기해 기사 수치(5.117%)와 반올림 차이가 있습니다.",
+   "21일 코스피 수치는 기사에 나온 장 초반 값이며 종가가 아닙니다.",
+   "인민은행 정책이나 중국 거시지표 관련 기사가 이번 입력에 없습니다.",
+   "외국인·기관 수급은 기사에 언급된 방향만 확인할 수 있고, 금액 데이터는 없습니다.",
+   "상당수 기사는 제목·요약만 제공돼 세부 수치를 확인할 수 없습니다."
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "한은 '9월 생산자물가지수' 0.2% 상승… 전년 동월 대비 7.7% 급등",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395834",
+   "source": "네이버 원달러 환율",
+   "publisher": "fntoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:46"
+  },
+  {
+   "title": "전기요금·먹거리 뛰자 9월 생산자물가 0.2%↑…두 달째 상승",
+   "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81881",
+   "source": "네이버 원달러 환율",
+   "publisher": "newsfc.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "9월 생산자물가 전년比 7.7% 상승…원재료·전력 가격 압박 지속 [한국은...",
+   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66151",
+   "source": "네이버 물가 지표",
+   "publisher": "newsroad.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:38"
+  },
+  {
+   "title": "BIS \"중앙은행, 금리 공격적 인상하면 불필요한 경제적 피해 초래\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sSFRvZG5sY1FlTGFiVzBSTFdxODY5TG02VEEzRzZVUlJvVjBjNEduMEdvTjVSUXhEWURrc0hocUQwOUh5WS1BbWZlVnM1c2pCSnQ0cmtkQVFaZVJRSkJXRDY4RDlvSFZhaDlMOEpEUGLSAXRBVV95cUxNem5jMmpOeGIxS1VxNXZOcjRFSkRlMFBVUkJsWExEVjhYdzlBQVpZMk5OQU1LRHYya1ExLWtxTjRRX1dXMHJCOVVraGxUeWZKSXhEQUVLTE9aQ2dKNENhSFhteHZXNlMtZm5IZWN6Yzd2c21fTQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:32"
+  },
+  {
+   "title": "[美 중간선거] 물가에 흔들리는 공화당…데이터센터도 표심 변수",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440296",
+   "source": "네이버 연준 금리",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:26"
+  },
+  {
+   "title": "악재는 그대로인데 시장은 버틴다…고금리·고유가 뒤 '공포 확산' 멈춘...",
+   "url": "https://www.thepowernews.co.kr/view.php?ud=2026102013311962de3f0aa1be_7",
+   "source": "네이버 미국 국채금리",
+   "publisher": "thepowernews.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:16"
+  },
+  {
+   "title": "[IMF 진단 '한국 2026'③] 금리 올리고 증시 흔들리고…'정책 딜레마'",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367553",
+   "source": "네이버 연준 금리",
+   "publisher": "ftoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:56"
+  },
+  {
+   "title": "[국제금융 브리핑] 미·이란 평화협정 기대에 브렌트유 108.79달러...S&P50...",
+   "url": "https://www.tokenpost.kr/news/economy/425217",
+   "source": "네이버 물가 지표",
+   "publisher": "tokenpost.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:32"
+  },
+  {
+   "title": "코스피 하루 만에 3.73% 급락…환율은 1320원대로, 금융시장 '엇갈린 신...",
+   "url": "https://www.geconomy.co.kr/news/article.html?no=324632",
+   "source": "네이버 물가 지표",
+   "publisher": "geconomy.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:18"
+  },
+  {
+   "title": "[10월 금통위 D-1] 채권시장 시나리오는",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vZmlWdmdSVWFFcFBwcGNab1FSVkJxbjVKU1VPRjR6aVluNlBsajNSN1JIQjN1cDVvVWpjcFQ1YmRqTG5VNFVRcmgzRmJ1cXFpd3BoTXc0TEVXQ3NvTEdNRkFXcmpTSFk4SnQ0aHgtY28wZw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 07:55"
+  },
+  {
+   "title": "Australian central banker says inflation outlook worse, unsure about November rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkpNZ19yZ05Hem9Oa0NPdGV1aUhGZzc3emJnVFFWVmZ3TUFBZkdXZlJqZmVCRHF6anpfSTdIODc0anNLa1VQbHpiN0VRejFRejZqck1RdkF0bXpVUzJCdmUwVVM2dHB2cmVxS2d6c3pUSl9WWTZWdHBBV0dDVzhCM0ZIQ015VUg2ZVlyQkRubU9OcWdHNm1tSHplbE9CbVR1eFdEU0wxcWM4eXg2TVBaSjRmWTdRaGkzdl9wcHc1QUM?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 07:14"
+  },
+  {
+   "title": "Bank of England's Greene says inflation risks are bigger than thought",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVNqRlM4X0NJV0Zma2RJY3FySGIwdFN6UlZpN1VtMTFzc3RkalpkMUxXQUZKbGpoTGNjTUtOaFNvYm5kc1F5UHl3ZVFVTU0wcTV0ckwyc3ZUeFlJYWhUanBSU2dmZHEwY3dmZTg4RzdkT1BQeGpJU05nZ3BfcUVWdmNhYXB1T01IdjA1ZDM3c0ZMMEYtblB1QUN3RlRIS00yaUp6amtjSFowOHg1ZVBr?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 05:08"
+  },
+  {
+   "title": "Treasury Yields Fall on String of Weak Housing Data",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 03:51"
+  },
+  {
+   "title": "프랑스 재정불안에 갈 곳 잃은 돈…韓 국고채 ‘반사 이익’ 기대",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610200114&t=NN",
+   "source": "네이버 ECB 금리",
+   "publisher": "wowtv.co.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 21:00"
+  },
+  {
+   "title": "프랑스 국채금리 5% 육박…韓 국고채는 '반사이익'?",
+   "url": "https://news.tf.co.kr/read/economy/2378606.htm",
+   "source": "네이버 ECB 금리",
+   "publisher": "news.tf.co.kr",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 16:56"
+  },
+  {
+   "title": "日 다카이치 1년…주식 환호했지만 이제는 '금리'가 관건",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92ZGRfLXh1bGFKVVgzLTl4ekdfNjNDaWY5aHhDbTZjVWVjN1I5U3lfdTNTWEp5QjFBd2F5dnQxX09UTUg3Tm9fWlAyR052RzlTeUIzOHhUa0x5OVFnblA0amtEUmRreXRxYWlPbE53d1VzQQ?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:46"
+  },
+  {
+   "title": "생산자물가 두 달 연속 상승… 추석 수요에 배추 42%↑",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3441910",
+   "source": "네이버 국제유가",
+   "publisher": "newscj.com",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "\"금리차 기준 달러-원 균형 1,290원…경상흑자에 달러 공급↑\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHS1puYjg4aUdSVHFsS0tmOGZzZGYtLU44VzVabGpVeWFrQW1tRVFvTV9OQ3BERVJ6bEQ2SDFkaHdEc2YtYVpFVm5CZ0o5V2NHTThVVFhsNEFMNnpjM19HdXVnY3h1d1NpQ3AwSktaTHZsdw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "[오늘 금시세] 금 한돈 65만7천원…국제 금값도 하락, 이유는?",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253190",
+   "source": "네이버 물가 지표",
+   "publisher": "topstarnews.net",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "생산자물가 두 달 연속 상승…배추·쇠고기 가격 큰 폭 올라",
+   "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2308354",
+   "source": "네이버 국제유가",
+   "publisher": "daejonilbo.com",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "원·달러 환율, 2.7원 내린 1325.4원 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlNia2VKRzltWEZVR3dOR0s4WjRxRjg4WUZxa3M4WW0xcC0wUEhWckU2WGx6OHRWUWFrcmJST1NRcV9Yel9PLTk3VHFYSjBJTmNCdEg1X0p6TnpuRUlBNngzb0lLcHNPY3lFa1VxNzlVSEczS2tzMTd4SU5GakFpMHhCYmVjZ9IBmgFBVV95cUxNRV9EYUJpX0xrSEwyLXlBSzdYc3hid1dhVGRRRWxQdHZDcmFGNFc1cldHWFo1SmM5ZmtwRVFTanZaOWZKUTBzeVFfZ1BGUVd2OGk5QUM2eFlydHg2WmZKVTNMVDcyR3FDUGpHTmN6WjJIWkkySWpFTWNzTTNjMnZRaUI3OUR4RVVRM0ozTmotRjR5bkI3TmtxYjFR?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "Chosunbiz",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:29"
+  },
+  {
+   "title": "채권시장이 주목해야 하는 4분기 투자 포인트 세 가지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kc2tyX0g1WjBqUF9IS2ZKZzE5WGxqcldGWVBqemY2bkhjOHFWR2FLNG5mcHdLVXN2UzV0QmNEblJ2ZE1pUjFhZDhIei1lY2NvTklxZ2Q4eWhzcnA5bXhadXFhY1BrZ3dpbHBJZXdOU0s5dw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:22"
+  },
+  {
+   "title": "What will it take to be confident about inflation? - Stay-At-Home Macro",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xZnFFUnF1LVBRSGY1Xy1SN0F6RVZ4a3d1SlBFenkzbDRxMU9WMVk1bzd3YThodnRnT0VqVzJMZldGQklid1RoWnlBd1kydVVzUlZqclhFOUN5aWlNbnM0cV9TWVJPcU94ZERfYXdCTldjY1RhOEo2WXVoS2c?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Stay-At-Home Macro",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:21"
+  },
+  {
+   "title": "금시세·금값 21일",
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610210079",
+   "source": "네이버 연준 금리",
+   "publisher": "bntnews.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:18"
+  },
+  {
+   "title": "[오늘 금시세]금값·환율 동반 하락…국내 금 0.85% '뚝'",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=926748",
+   "source": "네이버 미국 국채금리",
+   "publisher": "namdonews.com",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:16"
+  },
+  {
+   "title": "원·달러 환율, 2년 만에 최저 … 원화 강세",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tVEdDQnNSdk1OTHhkT1BwRjB0RFphOFVUazNab193UzI5MVFfM190WFNvdmtnaVBzQWh1emJsRTJyMDRyM3IzUnU4QTd1dUVDRFBSLVpUdHVVNG5NNk9KdkJuMDY?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "용인신문",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:11"
+  },
+  {
+   "title": "이더리움(ETH) 1.75% 상승…숏 청산이 끌어올렸다",
+   "url": "http://coinreaders.com/264308",
+   "source": "네이버 연준 금리",
+   "publisher": "coinreaders.com",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:08"
+  },
+  {
+   "title": "ZEW Survey Shows a Sharp Reduction in Inflation Concerns",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM292eE9yUW5yT2U4MTMwRGtsRzVCVk1mNGIyc1g2cnVZOWxfTkUwRVpuSDFzMG04UTBmUXJEdXhzX1piOG1IcHQ4eno2MlhNbGNobFQyTkRNcDZWbDZSaU02Ri1kSWpwaTFKUUhPdGdYSXY3U3E3OUdrMkN3dm5CcTRyRzVYMnN5YXMzX2xTYVo?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Haver Analytics",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:47"
+  },
+  {
+   "title": "비트코인 8만 3000달러 회복뒤 주춤...“물가 경계감 지속”[디센터 시황...",
+   "url": "https://www.decenter.kr/article/20104101?ref=naverdc",
+   "source": "네이버 연준 금리",
+   "publisher": "decenter.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:46"
+  },
+  {
+   "title": "부채, 우린 괜찮다는 착각은 다음 재앙의 도화선",
+   "url": "https://h21.hani.co.kr/arti/economy/economy_general/60049.html",
+   "source": "네이버 연준 금리",
+   "publisher": "한겨레",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:42"
+  },
+  {
+   "title": "\"내년 증시, 금리·미중 관계가 좌우…주주환원은 수급 버팀목\"<상상인...",
+   "url": "https://www.news2day.co.kr/article/20261021500024",
+   "source": "네이버 연준 금리",
+   "publisher": "news2day.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:36"
+  },
+  {
+   "title": "금리 동결 확률 82%...암호화폐 시장, 워시 침묵 속 반응 '미지근'",
+   "url": "http://coinreaders.com/264298",
+   "source": "네이버 물가 지표",
+   "publisher": "coinreaders.com",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:32"
+  },
+  {
+   "title": "COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1daQTg5d2lOVXV0UWliMmhhb1R0c0MtbVFIRDRTSFBQWmZub2dmNFRTZmJWSDB3ME4xS1U3WnZ3MEtCamNScWNyYy13R25hSEdqOFdCcVZUNFRsTU1MMGxLWVRpSHB5NWxKTkR3d01Bb2ZheGg2WUtRTmZKZTJ4WHJKNG8tc0ZpSEZWUDNYLU5wUTJObmhqTU9wV3dWMVR4NXNqNVBpMUZGejV6M2hSZWZCUVZ5TGFJQUpNcUFkUnZ1dnVoajdBay1B?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "Reuters",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:30"
+  },
+  {
+   "title": "생산자물가 두 달째 상승...배추 42.9%·주택용 전력 13.4%↑",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874626",
+   "source": "네이버 물가 지표",
+   "publisher": "hansbiz.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:28"
+  },
+  {
+   "title": "[원자재 시황] WTI 상승세 꺾였다…뉴욕증시·코인 강세",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728557",
+   "source": "네이버 연준 금리",
+   "publisher": "ebn.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:24"
+  },
+  {
+   "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ1NxcUI2MGluQlNEa0R1bnlERGp6LUZYLXJ5OVl4c0ZtbEFHeExNTmxJTVAxVnZlSlFvOFViNy1hZ3BfWWI5RHh5V25JQWxXVmhCYlczTEhEdzRsbzFLdkh1MmVrNFJtT3VEdURPQW5Vc1lINW4teEpGQWFMdHlBR21vWE1OcTZWZWxSWk0xQjUtaUhxVXRtVW1Bb0pvVGJTdFBjc3NiRmJEQ0xNMEs0LWJWVWV2cHljRHJwME9kSHEteVdBVmN0MDAyVzA3UXdVVjRacktxc1hyZjg1SVR6b1lIUWxhbDFwRElhcVd1Y2kyTGdvNGc?oc=5",
+   "source": "Google News Fed inflation",
+   "publisher": "The Guardian",
+   "lang": "en",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:19"
+  },
+  {
+   "title": "[금리 리셋] ⑦ 끈적한 인플레-금리 동반 상승에 4가지 방어선 - ㊤",
+   "url": "https://www.newspim.com/news/view/20261020000713",
+   "source": "네이버 물가 지표",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 08:00"
+  },
+  {
+   "title": "Investment strategist questions whether Fed rate hikes can lower oil prices",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QZ1l3bGxvMzF1WVV6VlZTVE5GSnVodkYtY3VVOWZvRzZXTm1ieXhOcjZiUnpmbDcwcjFKQy05cnJzR1lLZFZZTHZrQmRla0h5c0s0UHdoNlBNams?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Fox Business",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 07:11"
+  },
+  {
+   "title": "여전채 조달 양극화…A급 캐피탈사 조달금리 6%대, 중소형사 부담 가중",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLTFFTU55NE5KLWJOdXFsRkZJNF9LOEpkYXUzYldLSWZhZmxjRDBLVV9odk9zQjN2VTBqYWFuQlN0MkhJMlQzZEJUWXUwWVkyajZrVml1M1NZYm5hd3ZBdEE0NGI5Ymtna3lnNjkwR21YMjVFYVFfRVd6dGdNaTJreGU5Zw?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "인베스트조선",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 07:10"
+  },
+  {
+   "title": "[韓경제 아킬레스건](28) 금리 상단 격차 : 미국과의 금리 역전과 자금 유출 위험",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RblY3MnhKRks3WHlRUEcySktvS05HTnp5WlBMM3gwaDhhWTl0OWZwS1NhZGpET1RVWlVFUDdZemtUTml4RzR4R0dqS1FJczZjaXd4N2YtTWdCUHhhYzMtZE5TWlRsQ0xTRVE?oc=5",
+   "source": "Google News 경제지표·금리·환율",
+   "publisher": "금융소비자뉴스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 07:00"
+  },
+  {
+   "title": "Crude Oil Prices Fall on Diplomacy Hopes to End Iran War",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXR6WkdySG9hMzBkV3FLcFFlVHFGV3M3Z2MwNExrUGpYY0IwZ3Ezd3FxUXh0a2M1Qml2ZUhhWXdvTHpRbkYza0dJQVFfTms4UHYxME05Sk1mMVd4WXZjM0tOZGN1YzF1ZGVTVlMxRVY0LWUtZ2p3ZS1yTjZocGpiZWhOeDFLZy1mS1lYUWh5NjhiY2g0T045Q0ZFOGdLWVRHanc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barchart.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 04:16"
+  },
+  {
+   "title": "Oil prices rise on M.East tensions, U.S. inventory draw",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXVnZW1aUExZQ3NSMVBJbkVsN3BqZ2hWVTlfcGY5U2Z1Wnh4T3M4ZF9jb1NTQVY4UXczZGdDczlwckNQRnpFOXM2YXJVT1NtRXR5T3BmUHBMakdkQ0UwUUJOcHFZOXRlanJydXlWZGhBZlJJanJTSlZMZGR4S01vYnJ5WGJZSEFfbi1CaHBQdDhLTFY5RG02NWI3elNBeHBGaWl6UGRkb0JWV2c?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "After the initial wave of buying, investors will assess whether semiconductor stocks have bottomed out.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0djQTNPRTc3RUlHd2dOWHZKTFlMS2VJV1I1M3RHQkpzM2dFc0hlYThkTXNWY0lzRnhsTUpsNE9RMHhSNi04eFBiXzMtM0ZpaFJsajV4QTgxdmNMb09WbjQxQVhKZ0tQZ1lQT1RSX2NsX29KWnlaRGItUzhaMi1UTjU5bW1SMVVudWJQcWhpUXl6cl8wOC1sSjlDbUdxSVBlRzdMOE1FbFB1QQ?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Moomoo",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 08:41"
+  },
+  {
+   "title": "한·일·중 묶일 때 홀로 질주…대만, AI 인프라 전반 싹쓸이",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367736",
+   "source": "네이버 중국 증시",
+   "publisher": "ftoday.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:04"
+  },
+  {
+   "title": "AI and semiconductor stocks drop sharply amid i...",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0JsdUh1WDJWNDUzM0lXVHNmeDhXTlFKdFM0SGJ3VGM3ZUlzc2ViQWNFYWs1dlk4Z0VsNXBLalFoLV8tN05LS1BCZFNpWjM3RHdKVFE5dXdSelNiRUNnblpVd0EtdFBSYjI0ZmU0S0JobFpPWUNZV3JrLS1zeWs1NTBsRVJuUmhoOV9ZXzFTa2p1cEY1OVpaWEdjcGxuQ2Zu?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Pluang",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 07:37"
+  },
+  {
+   "title": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDhCbnUwbzFqRTZQb2ZQWmtIWGtBam9ENEc4ak5nNEktMm16NlA0TXJQalJpb1I0X1BDVG9rbVh1d0k1TGU0ZjRabE1IVVNCTmhRM19QQlYtdk9JYkVaQ0xRNXJXSldPenRydmpsczhmX3V6elA2Tmo4MWJrTXphQ0wyNnlDRVM2eGUzeF94MlZBN1NN?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:05"
+  },
+  {
+   "title": "Oil Futures Settle Lower in Volatile Session",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:17"
+  },
+  {
+   "title": "프랑스, 어쩌다 이 지경까지...폭력 시위에 ‘야간 통금’ 검토 [글로벌...",
+   "url": "https://www.sedaily.com/article/20104033?ref=naver",
+   "source": "네이버 방산주",
+   "publisher": "서울경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:01"
+  },
+  {
+   "title": "[글로벌 비즈 브리핑] AI 거품 터질라…빅테크 CDS 거래 급증 外",
+   "url": "https://biz.sbs.co.kr/article_hub/20000341132?division=NAVER",
+   "source": "네이버 중국 증시",
+   "publisher": "SBS",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 04:52"
+  },
+  {
+   "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+   "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 03:06"
+  },
+  {
+   "title": "[특징주] 슈퍼마이크로 호실적 훈풍에 삼성전자·SK하이닉스 동반 강세",
+   "url": "https://www.newspim.com/news/view/20261021000214",
+   "source": "네이버 반도체 주가",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "AI 투자 우려 잠재운 美 슈퍼마이크로…'깜짝' 가이던스에 시간외 거래...",
+   "url": "https://www.ajunews.com/view/20261021093541346",
+   "source": "네이버 반도체 주가",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "상장 첫날 32%↓'폭락' 무슨 일?…\"AI 투자 열풍의 종말\"",
+   "url": "https://economist.co.kr/article/view/ecn202610210007",
+   "source": "네이버 코스닥",
+   "publisher": "economist.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:43"
+  },
+  {
+   "title": "[개장시황] 코스피·코스닥 1%대 상승 출발…급락 딛고 반등 시도",
+   "url": "https://www.newspim.com/news/view/20261021000193",
+   "source": "네이버 코스피",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "어제 215포인트 폭락하더니…코스피 하루 만에 5700선 회복",
+   "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000075284",
+   "source": "네이버 코스피",
+   "publisher": "jnilbo.com",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:40"
+  },
+  {
+   "title": "“외국인들 돌아오나요?”…코스피 3%대 상승, 전날 급락 폭 회복 중",
+   "url": "https://www.mk.co.kr/news/stock/12181409",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스 5~6%대 급등…반도체 대형주 일제히 반등",
+   "url": "https://www.ajunews.com/view/20261021093341345",
+   "source": "네이버 AI 관련주",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "코스피, 반발 매수세에 3% 반등하며 5,700선…코스닥 2.5%↑(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261021041800008?input=1195m",
+   "source": "네이버 AI 관련주",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:35"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

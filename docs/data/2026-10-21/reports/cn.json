@@ -1,0 +1,555 @@
+{
+ "topic": "cn",
+ "name": "중국시장",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 1,
+ "generated_at_kst": "2026-10-21T14:15:23.604854+09:00",
+ "report": {
+  "title": "중국·홍콩 시장 데일리 (2026-10-21) — LPR 17개월 동결 속 상해 강보합, AI 매도세에 항셍 -1.32%",
+  "overview": "10월 20일 중국 본토 증시는 아시아에서 유일하게 상승했습니다. 상해종합지수는 0.12% 오른 3735.37로 마감했고, 심천성분지수는 0.14% 내린 11,801로 약보합에 그쳤습니다. 인민은행은 대출우대금리(LPR)를 1년물 3.0%, 5년물 3.5%로 17개월째 동결했습니다. 3분기 GDP가 예상을 웃돌면서 추가 부양 기대가 약해져 장중에는 약세였지만, 장 막판 저가매수가 들어와 상승으로 돌아섰습니다. 업종별로는 로봇·은행이 강했고 베이징증시 대표지수는 3.88% 급등했습니다. 반면 홍콩 항셍지수는 중양절 휴장 뒤 다시 열린 장에서 AI 투자 우려와 고유가·글로벌 금리 상승 부담에 1.32% 떨어진 23,868로 마감했고, 레노버·SMIC 등 기술주가 약했습니다. 일본 닛케이도 소프트뱅크 급락 여파로 1.30% 하락했습니다. 한국 투자자는 중국 내수 부양이 늦어지는 점(화장품·철강·화학), 중국 빅테크의 AI 칩 수요(반도체 공급망), 그리고 위안화가 6.69로 보합인 가운데 원화가 소폭 강세를 보인 점을 함께 보시는 것이 좋습니다.",
+  "sections": [
+   {
+    "heading": "지수 흐름",
+    "body": "10월 20일 상해종합지수는 4.45포인트(+0.12%) 오른 3735.37로 마감했습니다. 국내 기사들은 아시아 주요 증시 가운데 이례적으로 오른 사례로 다뤘습니다. 연합인포맥스에 따르면 국가통계국이 하루 전 발표한 3분기 GDP가 시장 예상을 웃돌았습니다. 이 때문에 추가 부양책 기대가 약해지면서 장 초반에는 밀렸습니다. Moomoo 오전장 리뷰 기준으로 상해지수는 0.08% 하락 중이었고, TradingView도 오전에 '기술주가 지수를 끌어내렸다'고 전했습니다. 하지만 장 막판 저가매수세가 들어오며 상승으로 돌아섰습니다. 같은 날 인민은행이 LPR을 17개월째 동결한 것도 부양 기대를 낮춘 요인으로 꼽혔습니다. 동방재부에 따르면 3대 지수는 엇갈렸고 거래대금은 1.5조 위안에 못 미쳐 거래가 활발하지 않았습니다. 심천성분지수는 16.13포인트(-0.14%) 내린 11,801로 약보합 마감했습니다. 한편 베이징증권거래소 대표지수는 3.88% 올라 4개월여 만에 가장 큰 폭으로 상승했고, 중소형 성장주로 수급이 쏠렸습니다. 다만 코인리더스 등은 중국 증시가 '3분기에 성장했지만 10주 연속 하락'하고 있다고 보도해, 중기 흐름은 아직 약하다는 평가가 많습니다.\n\n홍콩 항셍지수는 중양절 휴장(19일) 뒤 다시 열린 20일 장에서 319.09포인트(-1.32%) 떨어진 23,868로 마감했습니다. 뉴시스에 따르면 고유가와 글로벌 금리 상승 부담으로 16일 종가보다 196.78포인트(-0.81%) 낮은 23,990.05에서 출발했습니다. H주 지수도 0.62% 내린 8078.52로 시작했습니다. 이후 AI 관련 매도세로 기술주가 밀리면서 낙폭이 커졌습니다(BBN Times). 일본 닛케이225는 841.28포인트(-1.30%) 내린 64,075로 마감했습니다. 금리 상승과 AI 투자자금 조달 우려로 소프트뱅크가 6% 급락한 영향이 컸습니다. 대만 가권지수도 1.13% 내린 46,292.93을 기록하는 등 아시아 전반에 AI 투자 부담이 나타났습니다. 21일 아침에는 미국 기술주 선물이 강세를 보이면서 닛케이가 1.26% 오른 채 출발했습니다. 블룸버그는 'AI 트레이드 부활'로 아시아 증시와 미국 선물이 올랐다고 보도해 분위기가 일부 회복되는 모습입니다.",
+    "bullets": [
+     "상해종합 3735.37 (+4.45, +0.12%): GDP 호조로 부양 기대가 약해져 장중 약세 → 장 막판 저가매수로 상승 마감",
+     "심천성분 11,801 (-16.13, -0.14%): 약보합, A주 거래대금은 1.5조 위안 미만",
+     "베이징증시 대표지수 +3.88%: 4개월여 만에 최대 상승폭",
+     "항셍 23,868 (-319.09, -1.32%): 중양절 휴장 뒤 0.81% 낮게 출발, 기술주 약세로 낙폭 확대",
+     "닛케이225 64,075 (-841.28, -1.30%): 소프트뱅크 -6%. 21일에는 1.26% 오른 채 출발",
+     "대만 가권 -1.13% (46,292.93): 아시아 증시 대부분이 AI 투자 우려로 하락"
+    ]
+   },
+   {
+    "heading": "정책·유동성",
+    "body": "인민은행은 20일 1년물 LPR 3.0%, 5년물 LPR 3.5%를 유지했습니다. 이로써 17개월 연속 동결입니다. 아주경제 등은 내수 부진과 얼어붙은 주택 경기를 감안하면 금리 인하가 필요하다는 의견이 계속 나오지만, 인민은행은 움직이지 않고 있다고 지적했습니다. 이데일리는 이번 동결을 '경제 성장세에 대한 자신감'으로 해석하기도 했습니다. 전문가들은 중국이 당분간 추가 금리 인하보다 기존 부양책 집행과 대출금리 체계 개선에 집중할 것으로 봅니다. 동북아 정세 브리핑도 중국이 단기 부양보다 금융정책의 안정성과 제도 개편에 무게를 두고 있다고 분석했습니다. 3분기 GDP가 예상을 웃돈 상황이어서 대규모 부양책이 늦어질 수 있다는 점이 단기 부담입니다. 뉴스핌은 21일 중국 증시가 '경기 회복 신호와 추가 부양책 기대 사이에서 방향을 찾을 것'으로 전망했습니다.\n\n시장 안정 쪽 움직임도 이어지고 있습니다. 마켓인에 따르면 중국은 증시 조정에 대응해 적극형(액티브) ETF로 7조원대 자금을 끌어들이려 하고 있습니다. 신랑재경도 큰손들이 5억 규모의 A주 액티브 ETF를 '미리 예약'했다고 보도했습니다. 동방재부에 따르면 매입한 자사주를 소각하는 '소각형 자사주 매입'이 늘고 있으며, 7개 기업의 소각 금액이 50억 위안을 넘었습니다. 주주환원 강화 흐름으로 볼 수 있습니다. 화서증권은 'A주 회복형 장세가 점차 전개될 것'이라는 전략 보고서를 냈습니다. 반면 글로벌이코노믹은 시진핑 정부가 조세 피난처에 있는 약 186조 원 규모의 해외 자산에 과세를 강화하면서 중국 부호들이 지분을 팔고 있다고 보도했습니다. 세금을 내기 위한 대규모 블록딜(장외 대량매매)이 홍콩·미국 상장 중국 기업 주가를 흔들 수 있다는 점은 유동성 측면의 위험 요인입니다. 이번 입력 기사에는 북향자금(홍콩 경유 본토 주식 매매 자금) 관련 내용이 없습니다.",
+    "bullets": [
+     "LPR 17개월 연속 동결: 1년물 3.0%, 5년물 3.5% (20일 발표)",
+     "3분기 GDP가 예상을 웃돌아 추가 부양 기대 약화 → 기존 정책 집행·대출금리 체계 개선에 무게",
+     "액티브 ETF로 7조원대 자금 유입 추진, 큰손들의 5억 규모 A주 액티브 ETF 사전 예약 보도",
+     "소각형 자사주 매입 확산: 7개사 소각 금액이 50억 위안 초과",
+     "해외 은닉자산 과세 강화(약 186조 원) → 부호 지분 매도와 블록딜이 홍콩·미국 상장 중국주의 변동성 요인",
+     "북향자금 관련 정보는 이번 기사에 없음"
+    ]
+   },
+   {
+    "heading": "섹터·주도주",
+    "body": "본토 증시에서는 로봇과 은행 업종이 상승을 이끌었습니다(동방재부). Moomoo 오전장 리뷰에 따르면 로봇주가 상한가까지 오르고 엣지 AI(기기 자체에서 돌아가는 AI) 관련주도 급등했습니다. 아주경제 마감 기사는 휴머노이드 로봇 업체 유니트리가 연일 강세라고 전했습니다. 금융계가 집계한 '오늘의 A주 인기 종목 10선'에서는 주양구펀(九阳股份, 소형 가전)과 윈난저예(云南锗业, 게르마늄 소재)가 선두에 섰고, 여러 종목이 연속 상한가를 기록하는 등 개인 투자자 중심의 테마 매매가 뜨거웠습니다. 은행주 강세는 금리 동결과 시장 불안 속에서 방어주로 돈이 몰린 결과로 해석됩니다. 베이징증시 급등과 함께 보면 중소형 테마주로 수급이 쏠린 하루였습니다.\n\n홍콩에서는 기술주가 가장 약했습니다. BBN Times는 AI 매도세가 레노버와 SMIC(중국 최대 파운드리)를 덮쳤다고 보도했고, 중양절 휴장 뒤 기술주 하락이 지수를 끌어내렸다고 전했습니다. 별도 기사에서는 은행·기술주 약세가 메이퇀·샤오미 강세를 상쇄했다는 보도도 있었습니다. 다만 해당 기사의 지수 수치는 표의 마감값과 달라 어느 세션 기준인지 분명하지 않습니다. AI 칩 수요 쪽에서는 선전증시 상장사 탄순테크놀로지가 13일 엔비디아 RTX PRO 5500 그래픽카드 2만 개를 사겠다고 공시했습니다. 기사들은 중국 빅테크의 엔비디아 칩 주문이 350억 달러(약 47조 원) 규모로 몰리고 있다고 전했습니다. 다만 회사 스스로 공급 부족과 해외 기술 규제 때문에 납품이 늦어지거나 물량이 줄 수 있다고 밝혔습니다. 일본에서는 소프트뱅크가 금리 상승과 AI 자금 조달 우려로 6% 급락해 닛케이 하락을 이끌었습니다.",
+    "bullets": [
+     "강세: 로봇(상한가 속출, 유니트리 연일 강세), 엣지 AI, 은행, 베이징증시 중소형주",
+     "A주 인기 종목: 주양구펀·윈난저예가 선두, 여러 종목이 연속 상한가",
+     "약세: 홍콩 기술주(레노버·SMIC), AI·반도체 관련주 전반",
+     "탄순테크놀로지: 엔비디아 RTX PRO 5500 2만 개 구매 공시. 공급 부족·규제로 납품 지연 가능성",
+     "소프트뱅크 -6%: 금리 상승과 AI 투자자금 조달 우려"
+    ]
+   },
+   {
+    "heading": "주요 뉴스",
+    "body": "첫째, 거시 지표입니다. 중국 3분기 GDP가 시장 예상을 웃돌았습니다. 성장 지표는 좋아졌지만 증시는 '10주 연속 하락'이라는 보도가 나올 만큼 실물과 증시의 흐름이 엇갈리고 있습니다. 내수와 부동산 부진은 계속되고 있고, 인민은행은 LPR을 17개월째 동결했습니다. 둘째, AI·반도체입니다. 20일 아시아 증시는 AI 투자 부담으로 대부분 하락했습니다. 머니투데이는 AI뿐 아니라 중동·유럽 등 불확실성이 커졌다고 정리했습니다. BBN Times는 EU와의 무역 우려와 AI 매도세가 중국 증시를 압박했다는 기사도 냈지만, 그 기사의 지수 수치는 표와 맞지 않아 참고만 했습니다. 신한투자증권은 AI 설비투자 테마로 함께 올랐던 한국·일본·중국 증시가 주춤한 반면 대만은 AI 인프라 전반을 독식하며 홀로 질주하고 있다고 분석했습니다. 21일에는 미국 기술주 선물 강세로 'AI 트레이드 부활' 보도와 함께 아시아 증시가 반등을 시도하고 있습니다. 반도체주가 바닥을 쳤는지 확인하려는 움직임도 나타나고 있습니다.\n\n셋째, 중국 빅테크의 엔비디아 칩 주문입니다. 약 350억 달러(47조 원) 규모의 주문이 몰렸다는 보도가 나왔지만, 미국 수출 규제와 공급 부족 때문에 실제 납품 규모는 불확실합니다. 넷째, 지정학과 원자재입니다. 남중국해에서 미·중이 대치하고 있고, 미·일 연합훈련 확대와 대만해협 긴장 등 동북아 안보 이슈가 계속되고 있습니다. 유가는 이란 전쟁 종식을 위한 외교 기대(하락 요인)와 중동 긴장·미국 재고 감소(상승 요인) 사이에서 크게 출렁였습니다. 브렌트유는 108.79달러(-0.69%), WTI는 103.66달러(19일 기준 +2.22%)로 100달러를 웃도는 고유가가 이어져 홍콩 증시 출발에도 부담을 줬습니다. 다섯째, 일본 9월 수출 증가율은 16.7%로 예상을 크게 밑돌았고, 수입도 18.9% 늘어 예상치 19.6%에 못 미쳤습니다. 여섯째, 중국 정부가 부호의 해외 은닉자산 과세를 강화하면서 지분 매각과 블록딜에 따른 홍콩·미국 상장 중국주의 변동성 위험이 거론됩니다.",
+    "bullets": [
+     "중국 3분기 GDP 예상 상회 ↔ 증시는 10주 연속 하락 보도, 실물과 증시 흐름 엇갈림",
+     "아시아 증시가 AI 투자 우려로 대부분 하락, 21일에는 'AI 트레이드 부활'로 반등 시도",
+     "대만만 AI 인프라 수혜로 독주, 한국·일본·중국은 주춤 (신한투자증권)",
+     "중국 빅테크의 엔비디아 칩 주문 약 350억 달러 보도, 규제·공급 부족으로 납품 불확실",
+     "남중국해 미·중 대치, 미·일 훈련 확대, 대만해협 등 지정학 긴장 지속",
+     "브렌트 108.79달러·WTI 103.66달러의 고유가, 이란 외교 기대와 중동 긴장 사이 변동성",
+     "일본 9월 수출 +16.7%로 예상 크게 하회, 수입 +18.9% (예상 19.6%)"
+    ]
+   },
+   {
+    "heading": "한국 영향",
+    "body": "① 중국 소비 관련 업종(화장품·면세·소비재): 인민은행이 17개월째 금리를 동결했고 GDP 호조로 추가 부양 기대도 약해졌습니다. 중국 내수 회복을 노린 화장품·소비재 업종은 정책 모멘텀(주가를 밀어올릴 계기)이 늦어질 수 있습니다. 다만 중국 당국이 액티브 ETF와 자사주 소각 등 증시 안정책을 쓰고 있고, 글로벌이코노믹 보도처럼 대규모 유동성 공급과 내수 부양이 함께 이뤄지면 대중국 수출 기업에 긍정적일 수 있다는 시각도 있습니다. ② 철강·화학: 부동산 부진과 금리 동결은 중국 내 철강·화학 수요 회복을 늦추는 요인입니다. 화학 업종은 브렌트 108.79달러, WTI 103.66달러의 고유가로 원가 부담까지 겹쳐 있습니다. ③ 반도체·반도체 장비: 중국 빅테크의 대규모 엔비디아 칩 주문은 AI 인프라 수요가 강하다는 신호입니다. 하지만 수출 규제와 공급 부족으로 실제 납품은 불확실합니다. SMIC 등 중국 반도체주가 약하고 AI 투자 우려가 아시아 전반으로 번진 점은 한국 반도체·장비주 심리에도 부담입니다. 신한투자증권은 AI 설비투자 테마에서 한국이 대만보다 덜 오르고 있다고 짚었습니다. 21일 'AI 트레이드 부활'로 나타난 반등이 이어지는지 확인할 필요가 있습니다. ④ 2차전지 소재: 이번 입력 기사에는 직접 관련된 중국 정책·수요 뉴스가 없어 판단을 보류합니다. ⑤ 로봇: 중국 본토에서 로봇주가 상한가를 기록하며 강했던 점은 국내 로봇 테마주의 심리에 참고가 될 수 있습니다.\n\n환율을 보면 위안/달러는 6.69로 변동이 없었고, 원/달러는 3.43원(-0.26%) 내린 1330.00원으로 원화가 소폭 강해졌습니다. 달러인덱스가 0.25% 내린 101.73을 기록한 영향이 큽니다. 위안화가 안정적이어서 원화를 위안화와 함께 약하게 만드는 압력은 크지 않았습니다. 엔/달러는 158.52(+0.45%)로 엔화가 약해져, 일본과 경쟁하는 한국 수출 업종에는 가격 경쟁력 측면에서 불리할 수 있습니다. 홍콩 증시 기술주 약세와 중국 부호의 블록딜 우려는 홍콩 상장 중국주에 투자한 국내 투자자나 관련 ETF의 변동성 요인입니다.",
+    "bullets": [
+     "화장품·소비재: LPR 동결과 부양 기대 약화로 중국 내수 모멘텀 지연 가능성",
+     "철강·화학: 부동산 부진과 금리 동결로 수요 회복 지연, 화학은 고유가 원가 부담까지",
+     "반도체·장비: 중국의 AI 칩 수요는 강하지만 규제로 불확실, 아시아 AI 매도세가 심리에 부담",
+     "2차전지 소재: 관련 기사가 없어 판단 보류",
+     "로봇: 중국 로봇주 상한가 강세는 국내 로봇 테마 심리에 참고",
+     "원/달러 1330.00(-0.26%), 위안/달러 6.69 보합 → 위안화발 원화 약세 압력은 제한적",
+     "엔/달러 158.52(+0.45%): 엔화 약세로 한·일 경합 업종의 가격 경쟁 부담"
+    ]
+   }
+  ],
+  "leaders": [
+   {
+    "name": "탄순테크놀로지",
+    "ticker": null,
+    "comment": "선전증시 상장사입니다. 13일 엔비디아 RTX PRO 5500 그래픽카드 2만 개를 사겠다고 공시해 중국 빅테크의 AI 칩 주문 쇄도를 보여주는 사례로 보도됐습니다. 다만 공급 부족과 해외 기술 규제로 납품이 늦어지거나 물량이 줄 수 있다고 밝혔습니다."
+   },
+   {
+    "name": "레노버(Lenovo)",
+    "ticker": "0992.HK",
+    "comment": "20일 AI 매도세가 덮친 홍콩 기술주로 지목됐습니다. 항셍지수가 1.32% 하락하는 데 영향을 줬습니다."
+   },
+   {
+    "name": "SMIC(중신궈지)",
+    "ticker": "0981.HK",
+    "comment": "중국 최대 파운드리입니다. AI·반도체 매도세 속에 레노버와 함께 약세를 보인 대표 종목으로 보도됐습니다."
+   },
+   {
+    "name": "메이퇀(Meituan)",
+    "ticker": "3690.HK",
+    "comment": "은행·기술주 약세 속에서 샤오미와 함께 강세를 보였다는 보도가 있습니다. 다만 기사의 지수 수치가 표의 마감값과 달라 어느 세션 기준인지는 불분명합니다."
+   },
+   {
+    "name": "샤오미(Xiaomi)",
+    "ticker": "1810.HK",
+    "comment": "메이퇀과 함께 상승해 지수 하락을 일부 상쇄했다는 보도가 있습니다. 세션 기준은 불분명합니다."
+   },
+   {
+    "name": "유니트리(Unitree)",
+    "ticker": null,
+    "comment": "중국 휴머노이드 로봇 업체입니다. 20일 본토 증시 마감 기사에서 '연일 강세'로 언급됐고, 로봇 업종 강세를 대표합니다."
+   },
+   {
+    "name": "주양구펀(九阳股份)",
+    "ticker": "002242.SZ",
+    "comment": "금융계가 집계한 21일 'A주 인기 종목 10선' 선두 종목입니다. 개인 투자자 중심의 테마 매매가 활발했습니다."
+   },
+   {
+    "name": "윈난저예(云南锗业)",
+    "ticker": "002428.SZ",
+    "comment": "게르마늄 소재주로, 주양구펀과 함께 A주 인기 종목 선두에 올랐습니다. 여러 종목이 연속 상한가를 기록하는 흐름의 중심에 있었습니다."
+   },
+   {
+    "name": "소프트뱅크그룹",
+    "ticker": "9984.T",
+    "comment": "금리 상승과 AI 투자자금 조달 우려로 6% 급락해 닛케이225 하락(-1.30%)을 이끌었습니다."
+   }
+  ],
+  "events_today": [
+   "10/21 아시아 장: 'AI 트레이드 부활'로 반등 시도 — 닛케이 1.26% 상승 출발, 아시아 증시·미국 선물 상승 보도",
+   "중국 추가 부양책 발표 여부 — LPR 17개월 동결 뒤 시장의 관심 집중 (구체적 일정은 기사에 없음)",
+   "중국 액티브 ETF 자금 유입과 소각형 자사주 매입 동향",
+   "국제유가 변동성 — 이란 외교 진전 여부와 중동 긴장"
+  ],
+  "headlines": [
+   {
+    "text": "중국 LPR 17개월째 동결(1년 3.0%·5년 3.5%)…상해종합 +0.12%(3735.37)로 아시아에서 홀로 상승, 로봇·은행 강세",
+    "importance": 4
+   },
+   {
+    "text": "AI 투자 우려로 아시아 증시 동반 약세: 항셍 -1.32%(23,868, 레노버·SMIC 약세), 닛케이 -1.30%(소프트뱅크 -6%)",
+    "importance": 4
+   },
+   {
+    "text": "중국 빅테크의 엔비디아 칩 주문 약 350억 달러 보도…규제·공급 부족으로 납품은 불확실",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "BBN Times 기사의 '상해종합 3,707.48(2025년 7월 이후 최저)'는 표의 20일 마감(3735.37)과 맞지 않아 어느 세션 기준인지 불명확합니다. 본문 수치에는 반영하지 않았습니다.",
+   "항셍 관련 기사 수치(24,314.17, 24,062.72)는 표의 마감값(23,868)과 달라 장중 값이나 다른 세션 값일 가능성이 있습니다. 지수는 표 기준으로 썼습니다.",
+   "'금리 동결에 약세' 마감 기사 제목은 표의 상해 +0.12%와 방향이 달라 장중 흐름이나 다른 지수 기준일 수 있습니다.",
+   "상해 '+0.39%, 3,730.92' 기사는 직전 거래일(19일) 기준으로 추정됩니다.",
+   "심천성분·항셍·닛케이 지수는 표에서 정수로 반올림돼 있습니다.",
+   "WTI·금·구리·비트코인은 10-19 기준, 나머지는 10-20 기준입니다.",
+   "북향자금 등 수급 데이터와 개별 종목 등락률은 입력에 없습니다.",
+   "중국어 기사는 제목과 요약만 보고 해석했습니다(예: 액티브 ETF '5억'의 통화 단위는 불명확).",
+   "한국 증시 지수와 개별 종목 시세는 입력에 없어 한국 영향은 정성적으로만 서술했습니다."
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "중국, 3분기 성장했는데 증시는 '마이너스'...10주 연속 하락",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwakdXc0NGSF9JcGx4T3hYOUI4dlpCeGhDSFg3elNxeVA3S3NVbjIwT2doM3RCeTFERm1yLXBQbDcxUXdpSWxkcExR?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "코인리더스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:10"
+  },
+  {
+   "title": "SSE Composite Falls to 3,707.48, Hitting Lowest Level Since July 2025 on EU Trade Fears and AI Selloff",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDVUMkxJRWIyYmdHcGQwMm9hbXB4QngtWER5WTBUSEtqdjVON0haSTF6bmVCZ2JGVEhCRGdpT3NNWjJUUjdBRTFYcklJQWp2aHI1ekdKcjZobUhYLVh4dXFpN0FSOUlCdUNKeTU1Sms2Rmk5MUNmT0pFZHZvS2lYM0UxX3VnbVZ4MVFGWDA1Mmc1U3dRY2plRWEwTXNaSzdSUmRxMXhGV20tY0ptVGJVbkJVT1U1QzBYYUdWcHBuRWhNUl9vaGx3UmNMVHFJTE5NQXozRWRuSHg?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 05:03"
+  },
+  {
+   "title": "中 레드테크, 엔비디아 칩 주문 폭주…350억 달러 규모",
+   "url": "https://biz.sbs.co.kr/article_hub/20000341131?division=NAVER",
+   "source": "네이버 중국 증시",
+   "publisher": "SBS",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 04:49"
+  },
+  {
+   "title": "Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits Lenovo and SMIC",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1hTQjdwRU95Q0ZfNnlidzV0em1Qa3EzNlFtZTl2MHR1T1pxOUtmNHE5TVdhSmZTdzRrQS00ZXhhWlJPLWxTMXF5d0xPSVRhR05jNFI0N1YtcE5uQ1JGZWRaU2FMb0V0OS12anlNOFh3NjFKTHVyMnVPeG9DWUp4RzFoX0FqNmNvOXdPNFpGVjlzMjY5dkNjbTFXYXN3YkNiY0hRN25Db0UxakxRcnRsNlVKdGhJaWZhY0ZHZkFXM083MHFJZGdQVGlabFo1eGs?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 22:35"
+  },
+  {
+   "title": "\"47조 원어치 달라\"…中 빅테크 주문 폭주에 엔비디아 '대략 난감'",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610200196&t=NN",
+   "source": "네이버 중국 증시",
+   "publisher": "wowtv.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 22:29"
+  },
+  {
+   "title": "[亞증시-종합] AI 투자우려에 대부분 하락…中만 상승",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3MUtucVZEZ2g2bDZiWTE1cEt0UndWRHFwcWpDRm5xRkxxRVAwTlFSWkQ0RzZyOG5wb25obkRGcFE1LWRXb2NpTXNwcldBOHlvalJCNFdQNUNoRzVlWUhUaVFIS3p0VEU5WmszbDc3V08zdw?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "KB Think",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 17:14"
+  },
+  {
+   "title": "증시 조정에 바빠진 중국, 적극 ETF로 7조원대 자금 유입 추진",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhaGlMRXlQcHgtVkFmc2k4RGRJU3RVZWdKM1I3QjJQY1NpWDE2UTVIeF92N1NRNGs3cXV1aXoybUw3NDR5LTFPVG9WX2M1cnI3eHpHaktjUlR3Y2l6bHpFRHdSTVBINGowWVc3UWZpR3BjbVU?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "마켓인",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 16:36"
+  },
+  {
+   "title": "극심한 내수 부진에도 중국 17개월째 금리 동결",
+   "url": "https://www.ajunews.com/view/20261020104052876",
+   "source": "네이버 중국 경기부양",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 10:46"
+  },
+  {
+   "title": "[속보]경제 성장세 자신? 중국 사실상 기준금리 17개월째 동결",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03283286645614888&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "네이버 중국 경기부양",
+   "publisher": "이데일리",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 10:44"
+  },
+  {
+   "title": "SSE Composite Rises 0.39% to 3,730.92 as China's Q3 GDP Beats Forecasts",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemZScFJEbkkzUXBVYVRfenRBeW1WaEZEaWk5b1RiWWhfZThTTE1zMnRUQ0tiejBxODRDRFlGamk5TUx3cHh2OVFfLTBHeUY1OGE5MWlUR2UtNThNRFRmMFBkZVJUaElMTHJxanhkbjRxMlkxRUxCNlVRSmU3ajJCemVQX0d0M09xRmt3djI5bGpzSndBdGxGRURjcjJSTUNlNlcweEFtZ3ZXRW0tdFBJ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 07:52"
+  },
+  {
+   "title": "巨头提前“预订”，5亿A股主动ETF",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tbmFkSVI4MzFxNEVxcE1XdlJIUkFrS2UtZjVOWnRTUjFxRGc1TGp0aG9qUXRUZE82RkdqVEhkM1lhX2RFaVBzbG5VUHI5UHVkM0tiTng0LWhZS05FMjBob09TbEU4dXdCUy1NR0FVYnZ0azcwVWJXZg?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 09:34"
+  },
+  {
+   "title": "今日A股十大热股：九阳股份云南锗业领衔，多股连板持续爆炒",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1abXE5enYxSnYyQ3RfNXp2STlOVTdVRUZEYnVleXk4RHNUSFVSQnNPZ2d1QU55OEppcTNkTlpZcDUtazdwLUVINGlsNkZlMFU4cVlYT1NzUk8wMnJfbUhZbmhQVUJldlROVXBlWUhoeUtwZw?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "金融界",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 09:33"
+  },
+  {
+   "title": "[동북아 정세 브리핑] 美中 남중국해 대치·美日 연합훈련 확대·대만해...",
+   "url": "http://kor.theasian.asia/archives/419302",
+   "source": "네이버 중국 경기부양",
+   "publisher": "kor.theasian.asia",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 09:08"
+  },
+  {
+   "title": "A股市场注销式回购持续升温，七家公司回购注销金额超五十亿元",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84UUtyWmF5b19KWUVheXF3VGVWdTVwbkJxd0JJV0piOXVEVm1zaXB4TEdCVWVFUm9HeFhhN05Kc2hHT3JFNE9KTWxyd0p1UmpLb08tOUdLUHQwOFFVOGRqTFhVSWhsZw?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:43"
+  },
+  {
+   "title": "【华西策略】A股修复型行情将逐步展开",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbFI5bm1aZWMxVmltZURrVUZBS0E3anNPTWtlb184MUJtRXhRanVFM2FMY3Z0aFRpdmN1SEQ1RldHdHcyeWctby02M2xkYlF4UmU1MkpXZzJpVnhRQjlSaHAyRzF1NlZGTWI3WUs4cUJOM2dJME0zag?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "新浪财经",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:41"
+  },
+  {
+   "title": "[AI MY 뉴스] 21일 중국증시 '경기 회복 시험대…추가 부양책에 쏠린 눈...",
+   "url": "https://www.newspim.com/news/view/20261021000069",
+   "source": "네이버 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:31"
+  },
+  {
+   "title": "SSE Composite Edges Up 0.12% to 3,735.37 as China Holds Loan Prime Rates for a 17th Month",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2d3N19hVmlBVlVuanMyZnJReGNNeGU5aGlNV3VHdTFKbTR0OXRrdzRHbVVEV3RKdU95dVd6VDRCdHR6cTMzekdMd0g1T1B5VjZQTFNMWU03MDA4WDNkME9BbklNVUZPOU9LUGhUT2VuY3h5WGk1RHc5RWV5UnlaM0Y3V1gyR1VQeGdKaExBY0tFdnZqYVJzaGFVS2huN0VNeVc3eHJ1ZVFUUVFyQ3FOUG5PVUo3Wm4weDZlZ09uUExXY0stNUhv?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 06:25"
+  },
+  {
+   "title": "Hong Kong Stock Exchange: Hang Seng Index Falls to 23,867.74 as Tech Slides After Chung Yeung Break",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWFqMUlzUDJWTldtcndvODJFUExYbDJ4djQ5SlU5Snc3MVc4dVhwelNKZnZYZEp2SldNa3UzaGhXOHlJRG1VeDdxdk4ta3dBQTdCWGlSRHZ5aTJsRTUwOVBfX3JpY3ladkViNTE1LWtnZzB4VERsSkU4OWNBdGdRUDg1Ti10dC1Yc0JBOFVCdWlfVHJrcEV6eHJnUk42QVptNmF3MnRLa1hscE1sZ2VDNXQ4UW80Z2NmMnFwMXJKdjNkQmFyTEZPVzBIcGQ0UQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 06:19"
+  },
+  {
+   "title": "조세 피난처에 숨겨둔 186조 원, 시진핑 과세 칼날에 中 부호들 지분 판...",
+   "url": "https://www.g-enews.com/view.php?ud=202610201702415402fbbec65dfb_1",
+   "source": "네이버 중국 증시",
+   "publisher": "g-enews.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 03:30"
+  },
+  {
+   "title": "[월드 e-브리핑] 중국, LPR 17개월째 동결…1년물 3.0%·5년물 3.5%",
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1541162",
+   "source": "네이버 중국 경기부양",
+   "publisher": "obsnews.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 20:48"
+  },
+  {
+   "title": "Shanghai Composite gains 4 points after GDP data - ad-hoc-news.de",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWlhUSVhQMjZ2SjgyMTZyODJyVUZqd1FDQWFCYTVjNXNsd3Vfb0w4LUpvOVQ1MjdsTTVvWGk3SjNkcUpiVHp5aEt6ZEZCRU5lVVpjZ1BRZHR5RjlzQUlRcl9YUHJmbWdDU3o4ZURQejRHemlLdjJ2YmRTS0p4SVhIeXlzYzhJb2xUcnpDOTVLbWxaY0NiY3Q5TUdYQUp1dmw4QVZNSUp2a1lNSFozcUY4?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "ad-hoc-news.de",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 20:04"
+  },
+  {
+   "title": "A股三大指数涨跌不一 成交额不足1.5万亿 机器人与银行板块领涨",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90VHNxQVBXRDd6dUF4X0xQNEFjMEJ6Z1h1NTJkMjhlbDY4Z3RYYjM5cC1TQzlDclYza2NUXzI1azdWMlRnajVnbldTd0taWXlmVDFIYW05WFpHUXFUaTcwaQ?oc=5",
+   "source": "Google News A股 港股",
+   "publisher": "东方财富",
+   "lang": "zh",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 19:06"
+  },
+  {
+   "title": "[중국증시-마감] 저가매수세에 상승",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440210",
+   "source": "네이버 중국 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 18:14"
+  },
+  {
+   "title": "中 베이징증시 대표지수 3.88% 급등, 4개월여 만에 최대 상승폭",
+   "url": "https://www.newspim.com/news/view/20261020001147",
+   "source": "네이버 중국 증시",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 18:06"
+  },
+  {
+   "title": "[中 증시 마감] 금리 동결에 약세...유니트리 연일 강세",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50aUw5ZzU3R3RJREk3Yy1PWktiSnVUMWkyWHhSbEMxeVBGeGRkTERETVRIa1FxNW9tdmNCVVNySlpGaV9oZ2trd0Q2RHd4NzJjVjZQc3lxWlDSAVhBVV95cUxOdGlMOWc1N0d0SURJN2MtT1pLYkp1VDFpMlh4UmxDMXlQRnhkZExERE1USGtRcTVvbXZjQlVTckpaRmlfaGdra3dENkR3eDcyY1Y2UHN5cVpQ?oc=5",
+   "source": "Google News 중국 증시",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 16:05"
+  },
+  {
+   "title": "Hong Kong Stock Exchange: Hang Seng Index Edges Down to 24,314.17 as Banks and Tech Offset Meituan and Xiaomi Rally",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMnItcWI1SkNrX1N5aEdQTFIxNTRaNU1mSnU3bDFSM3BiZmUwQzJ1czNDdFZaZE9uYWJwYkEzRExvZWVocUVOQ2d0NmtmMTlQTFIxcXhBVUFIdmFXbVdBRmRvaGp6TG1HVkluZ0pmcUNkOTBzakJ6RUFTTmU3S011blJrY3RqcVcxSWRVNmhaVk9hVGpLZGtqTmpNbW9RYVM5anFpRU8xY08zTWg2TFN3U292bWtJeklRUGFkbHBReVVMSUJ5ampmbDViS0ViSkhNWlRZQVBvTTlKbFdhSDBrc01VQVFYb2J6cVE?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 15:35"
+  },
+  {
+   "title": "A-Share Midday Review | Shanghai Composite Index dips 0.08%, robotics stocks surge to limit-up, edge AI booms",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUjdIV2FxLU93RDRDX0ZIZmhPckR5MVBRTEEtZ3hKOE5oMzl4MjN5MWszOFhEaTBuVzFudF9zaHJoZEU0Y19Sd0dwS2txQTE3VEdXT1VhSDllUDBYSXZEQmw3bTBxbGZyN3FYY29ybm9tYnA3MEJEOXV0anhiWkJrS1d1bTBrSnhDTEwxRXktSnFjb0NaUTFrN2hwMkNmWnVLWGc?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "Moomoo",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 12:54"
+  },
+  {
+   "title": "[올댓차이나] 홍콩 증시, 고유가·글로벌 금리상승에 반락 개장… H주 0...",
+   "url": "https://www.newsis.com/view/NISX20261020_0003833182",
+   "source": "네이버 홍콩 항셍",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 12:10"
+  },
+  {
+   "title": "Hong Kong's Hang Seng Index opens 0.81% lower",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80YWxReXdNQnRSZWU5dVRhWG1EXzMzLWlaZ1AzRnNQT2lualpfMHZfSGRuc25xTHcxZVdNODJmMFBtZDRHd1g2T1I2Zl9zX1YwY1AtaktFbmNQbzl6bDBjeXpuZnZySmtTSnc4SUFTUDVFQQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "Latest news from Azerbaijan",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 11:14"
+  },
+  {
+   "title": "China Stocks Fall as Tech Sector Drags",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3hXYVNyN3Z0cVM4cnU5R3dMcWg3TTFyWmYzU2tWUFhqTktnQTFUSmNFQWZfRmljLW1kMzREbUJsTnYteVFKckVWcWhncGtRVmcwZFpYM0JSYjVILTBBV1BoTUt0bEsxYUpoRFpfb1JDSDlLZDlMM25Ndm1qYmNwbGJibHhGcU9DNHVyVEdrTG9NdzQ?oc=5",
+   "source": "Google News China stocks",
+   "publisher": "TradingView",
+   "lang": "en",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 10:58"
+  },
+  {
+   "title": "Japan exports post huge miss in September as growth slows to 16.7%",
+   "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "日증시, 美기술주 선물 강세에 상승 출발…닛케이 1.26%↑",
+   "url": "https://www.newsis.com/view/NISX20261021_0003834392",
+   "source": "네이버 미국 기술주",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:26"
+  },
+  {
+   "title": "Nikkei 225 Drops to 64,075.37 as SoftBank Sinks 6% on Rising Yields and AI Funding Fears",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmhnQVprQkp3R3VkeUdNbG9Kc3RRTEw3cUhjVUhDbkVYUkdleUZwTDZyUFZBTFZqbC1mcDM2LS1zWThQTlVsNnhjcm9KTERHaVlFTllySDFzdE1GdWFSQXctSTZkYlJyUTVfWTBUeENzS1VlZjd1R0JINEY1c1JoZE56dGkzQ3p2eUpicGJfYzE5VExidXJiRmNJbnc5OGN2Q1JXS2tJWTVaN1lLTVo4RmFLbDhuX24tLUw0SFZIaw?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "BBN Times",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:01"
+  },
+  {
+   "title": "[도쿄증시-마감] 거센 AI·반도체주 매도세에 1%대 하락",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440208",
+   "source": "네이버 일본 증시",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 17:56"
+  },
+  {
+   "title": "아시아증시, AI 투자 부담감 지속⋯日 닛케이 1.3%↓",
+   "url": "https://www.etoday.co.kr/news/view/2638018",
+   "source": "네이버 중국 증시",
+   "publisher": "etoday.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 17:06"
+  },
+  {
+   "title": "AI·중동·유럽 등 불확실성 증가…닛케이 1.3%↓[Asia마감]",
+   "url": "https://www.mt.co.kr/world/2026/10/20/2026102016123594309",
+   "source": "네이버 홍콩 항셍",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 16:49"
+  },
+  {
+   "title": "Crude Oil Prices Fall on Diplomacy Hopes to End Iran War",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXR6WkdySG9hMzBkV3FLcFFlVHFGV3M3Z2MwNExrUGpYY0IwZ3Ezd3FxUXh0a2M1Qml2ZUhhWXdvTHpRbkYza0dJQVFfTms4UHYxME05Sk1mMVd4WXZjM0tOZGN1YzF1ZGVTVlMxRVY0LWUtZ2p3ZS1yTjZocGpiZWhOeDFLZy1mS1lYUWh5NjhiY2g0T045Q0ZFOGdLWVRHanc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barchart.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 04:16"
+  },
+  {
+   "title": "Oil prices rise on M.East tensions, U.S. inventory draw",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXVnZW1aUExZQ3NSMVBJbkVsN3BqZ2hWVTlfcGY5U2Z1Wnh4T3M4ZF9jb1NTQVY4UXczZGdDczlwckNQRnpFOXM2YXJVT1NtRXR5T3BmUHBMakdkQ0UwUUJOcHFZOXRlanJydXlWZGhBZlJJanJTSlZMZGR4S01vYnJ5WGJZSEFfbi1CaHBQdDhLTFY5RG02NWI3elNBeHBGaWl6UGRkb0JWV2c?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "After the initial wave of buying, investors will assess whether semiconductor stocks have bottomed out.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0djQTNPRTc3RUlHd2dOWHZKTFlMS2VJV1I1M3RHQkpzM2dFc0hlYThkTXNWY0lzRnhsTUpsNE9RMHhSNi04eFBiXzMtM0ZpaFJsajV4QTgxdmNMb09WbjQxQVhKZ0tQZ1lQT1RSX2NsX29KWnlaRGItUzhaMi1UTjU5bW1SMVVudWJQcWhpUXl6cl8wOC1sSjlDbUdxSVBlRzdMOE1FbFB1QQ?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Moomoo",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 08:41"
+  },
+  {
+   "title": "한·일·중 묶일 때 홀로 질주…대만, AI 인프라 전반 싹쓸이",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367736",
+   "source": "네이버 중국 증시",
+   "publisher": "ftoday.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:04"
+  },
+  {
+   "title": "AI and semiconductor stocks drop sharply amid i...",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0JsdUh1WDJWNDUzM0lXVHNmeDhXTlFKdFM0SGJ3VGM3ZUlzc2ViQWNFYWs1dlk4Z0VsNXBLalFoLV8tN05LS1BCZFNpWjM3RHdKVFE5dXdSelNiRUNnblpVd0EtdFBSYjI0ZmU0S0JobFpPWUNZV3JrLS1zeWs1NTBsRVJuUmhoOV9ZXzFTa2p1cEY1OVpaWEdjcGxuQ2Zu?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Pluang",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 07:37"
+  },
+  {
+   "title": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDhCbnUwbzFqRTZQb2ZQWmtIWGtBam9ENEc4ak5nNEktMm16NlA0TXJQalJpb1I0X1BDVG9rbVh1d0k1TGU0ZjRabE1IVVNCTmhRM19QQlYtdk9JYkVaQ0xRNXJXSldPenRydmpsczhmX3V6elA2Tmo4MWJrTXphQ0wyNnlDRVM2eGUzeF94MlZBN1NN?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:05"
+  },
+  {
+   "title": "Oil Futures Settle Lower in Volatile Session",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:17"
+  },
+  {
+   "title": "프랑스, 어쩌다 이 지경까지...폭력 시위에 ‘야간 통금’ 검토 [글로벌...",
+   "url": "https://www.sedaily.com/article/20104033?ref=naver",
+   "source": "네이버 방산주",
+   "publisher": "서울경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:01"
+  }
+ ],
+ "thebell": [],
+ "degraded_selection": false
+}

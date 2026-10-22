@@ -1,0 +1,1232 @@
+{
+ "topic": "sectors",
+ "name": "섹터별 주요뉴스",
+ "ok": true,
+ "error": null,
+ "warnings": [],
+ "attempts": 2,
+ "generated_at_kst": "2026-10-21T14:15:23.595587+09:00",
+ "report": {
+  "title": "섹터별 주요뉴스 — 2026-10-21: 슈퍼마이크로 깜짝 실적에 AI·반도체 투자심리 회복, 미국은 헬스케어·방어주로 순환매",
+  "overview": "20일 미국 증시는 다우(+1.02%)·러셀2000(+1.65%)이 강세를 보였습니다. 반면 나스닥(-0.02%)·필라델피아 반도체(-0.29%)는 약세로 끝나 업종 간 순환매가 뚜렷했습니다. 헬스케어(XLV +2.37%)·바이오(XBI +3.64%)·부동산(XLRE +1.70%)·유틸리티(XLU +1.26%)·금융(XLF +1.20%)이 올랐고, 방산(ITA -0.77%)·반도체(SOXX -0.38%)·기술(XLK -0.28%)은 내렸습니다. 같은 날 코스피는 '엘리스 쇼크'와 AI 순환투자 우려에 외국인·기관이 매도하면서 -3.73% 급락했습니다. 21일 장중에는 슈퍼마이크로의 깜짝 잠정실적(시간외 15% 급등), 국제유가·미 국채금리 진정, 미-이란 협상 기대가 겹쳐 삼성전자(+5.09%)·SK하이닉스(+4.25%)를 중심으로 5,700선 회복을 시도하고 있습니다. 유럽은 프랑스 폭력 시위로 주식·채권·유로화가 함께 약세를 보였고, LIG디펜스앤에어로스페이스(-12.96%)와 미국 방산주가 함께 밀려 방산 업종의 단기 조정이 두드러졌습니다.",
+  "sectors": [
+   {
+    "name": "반도체(메모리·대형주)",
+    "direction": "issue",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "미국과 한국의 방향이 엇갈렸습니다. 미국에서는 20일 장 초반 필라델피아 반도체지수가 2.41%까지 급락했다가 낙폭을 줄여 -0.29%로 마감했습니다. 마이크론(-0.98%)·샌디스크(-0.42%)·SK하이닉스 ADR(-2.16%) 등 메모리주는 약세에 머물렀습니다. 한국에서는 전날 3%대 급락으로 가격 부담이 줄어든 상태에서, 장 마감 후 나온 슈퍼마이크로의 깜짝 잠정실적이 'AI 데이터센터 수요는 견조하다'는 신호로 받아들여졌습니다. 여기에 국제유가·장기금리 진정과 외국인 순매수 전환이 더해져 21일 삼성전자·SK하이닉스가 4~6%대 급반등하며 지수를 끌어올렸습니다. 다만 필라델피아 반도체지수는 이달 들어 11% 하락해 7월 이후 가장 부진한 월간 성적이 예상되고, 시장에서는 '바닥인지 확인하는 단계'라는 평가가 나옵니다.",
+    "news": "슈퍼마이크로가 시장 예상을 크게 웃도는 잠정 매출을 발표해 시간외 주가가 15% 급등했고, Dell·HPE도 동반 상승했습니다. 노무라는 글로벌 메모리 보고서 'AI market concerns and the memory outlook'에서 삼성전자·SK하이닉스 목표주가를 기존대로 유지했습니다(기사상 67만원·470만원). 한화투자증권은 '하이퍼스케일러(대형 클라우드 사업자) 신용위험은 제한적이고 메모리 주가는 매력적'이라며 2027년 이익 성장을 근거로 제시했습니다. 반면 한국은행 9월 생산자물가에서 컴퓨터기억장치 가격은 원화 강세 영향으로 11.8% 내렸습니다.",
+    "leaders": [
+     {
+      "name": "SK하이닉스",
+      "ticker": "000660.KS",
+      "comment": "장중 +4.25%(1,275,000원). 거래대금 4조원으로 코스피 1위이며, 기사상 장 초반 130만원을 돌파하기도 했습니다."
+     },
+     {
+      "name": "삼성전자",
+      "ticker": "005930.KS",
+      "comment": "장중 +5.09%(222,250원). 거래대금 3조원이며, 삼성전자우도 5%대 상승했습니다."
+     },
+     {
+      "name": "Micron Technology",
+      "ticker": "MU",
+      "comment": "20일 -0.98%. 거래대금 174억 달러로 S&P500 1위여서 메모리 업종으로 수급이 몰렸음을 보여줍니다."
+     },
+     {
+      "name": "Sandisk",
+      "ticker": "SNDK",
+      "comment": "20일 -0.42%. 거래대금 86억 달러로 낸드 대표주입니다."
+     },
+     {
+      "name": "Nvidia",
+      "ticker": "NVDA",
+      "comment": "20일 -0.29%. 거래대금 168억 달러로 AI 반도체 심리의 기준 역할을 합니다."
+     }
+    ],
+    "etf_note": "SOXX 500.01(-0.38%), 필라델피아 반도체지수 11,284(-0.29%), XLK 185.44(-0.28%)"
+   },
+   {
+    "name": "반도체 장비·소재",
+    "direction": "issue",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "미국 장비주는 AI 설비투자 지속성에 대한 의구심 속에 S&P500 하락 상위권에 올랐습니다(Lam Research -3.21%, KLA -2.80%). 한국 장비·소재주는 21일 반도체 대형주 반등에 따른 낙수 기대로 급등해 두 시장이 정반대 흐름을 보였습니다. 한국에서는 케이씨텍(+9.99%)·미래산업(+11.49%) 등 장비 관련주가 상승 상위권에 올랐고, 기사에 따르면 예스티도 12%대 올랐습니다. 다만 한국 표는 장중 값이므로 마감까지 유지될지는 지켜봐야 합니다.",
+    "news": "기사에 따르면 반도체 대형주 상승과 함께 관련 장비·소재 기업 주가가 대부분 오르고 있으며, 코스닥에서도 반도체 장비와 로봇 관련 종목이 강세입니다. 미국에서는 장 초반 AI·반도체 주도 매도세로 하락 출발했고, 장비주는 낙폭을 다 만회하지 못했습니다.",
+    "leaders": [
+     {
+      "name": "케이씨텍",
+      "ticker": "281820.KS",
+      "comment": "장중 +9.99%(100,100원), 거래대금 247억원입니다."
+     },
+     {
+      "name": "미래산업",
+      "ticker": "025560.KS",
+      "comment": "장중 +11.49%로 코스피 상승 상위권입니다."
+     },
+     {
+      "name": "Lam Research",
+      "ticker": "LRCX",
+      "comment": "20일 -3.21%로 S&P500 하락 상위권입니다."
+     },
+     {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "comment": "20일 -2.80%로 장비주 약세를 함께 보였습니다."
+     },
+     {
+      "name": "예스티",
+      "ticker": null,
+      "comment": "기사상 21일 장중 12.21% 급등(31,700원)했습니다."
+     }
+    ],
+    "etf_note": null
+   },
+   {
+    "name": "AI 서버·컴퓨팅 인프라",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "최근 AI 인프라 투자의 수익성과 자금 조달 우려로 코어위브가 이달 들어 큰 폭으로 하락하는 등 업종 심리가 크게 위축돼 있었습니다. 이런 상황에서 슈퍼마이크로가 '매출과 수익성이 당초 예상보다 훨씬 강할 수 있다'는 잠정치를 깜짝 공개하자 시간외 거래에서 AI 하드웨어주가 일제히 반등했습니다. 스페이스X도 컴퓨팅 수요 급증을 근거로 한 호실적으로 AI 관련주 전반을 끌어올렸습니다. 이 영향은 아시아 증시와 미국 선물의 'AI 트레이드 부활'로 이어졌습니다.",
+    "news": "MarketWatch는 슈퍼마이크로의 깜짝 발표 후 Dell·HPE가 함께 랠리했다고 보도했고, 블룸버그는 'AI 주식이 슈퍼마이크로 잠정 매출에 안도 랠리'를 펼쳤다고 전했습니다. 스페이스X 호실적으로 미국 기술주가 시간외에서 강세를 보였다는 국내 보도도 있습니다.",
+    "leaders": [
+     {
+      "name": "슈퍼마이크로컴퓨터",
+      "ticker": "SMCI",
+      "comment": "잠정 매출이 예상을 크게 웃돌아 시간외 15% 급등(기사)했습니다."
+     },
+     {
+      "name": "Dell",
+      "ticker": "DELL",
+      "comment": "슈퍼마이크로 발표 후 동반 랠리(MarketWatch)했습니다."
+     },
+     {
+      "name": "HPE",
+      "ticker": "HPE",
+      "comment": "서버 업체로 동반 강세(MarketWatch)를 보였습니다."
+     },
+     {
+      "name": "SpaceX",
+      "ticker": null,
+      "comment": "컴퓨팅 수요 급증과 호실적으로 AI 관련주 전반을 견인(MarketWatch)했습니다."
+     }
+    ],
+    "etf_note": null
+   },
+   {
+    "name": "헬스케어·바이오",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "20일 미국 증시에서 기술주 대신 비(非)기술·방어 업종으로 돈이 옮겨가는 순환매가 나타나면서, 헬스케어(XLV +2.37%)와 바이오(XBI +3.64%)가 11개 섹터 ETF 가운데 상승률 1·2위에 올랐습니다. 미 국채금리 진정은 금리에 민감한 바이오 기업의 가치평가에 우호적으로 작용했습니다. Moderna(+6.69%)·Charles River(+5.14%)·Bristol Myers(+4.84%) 등 대형·중형주가 고르게 올랐고, S&P500 하락 상위에는 DaVita(-6.23%)도 있어 개별 종목 간 차별화는 존재합니다. 한국에서는 21일 바이오가 반도체와 함께 반등 업종으로 거론되지만, 진원생명과학(-80.00%, 거래대금 0) 같은 개별 이벤트 종목도 있어 주의가 필요합니다.",
+    "news": "국내 'Market Brief'는 20일 미국 증시를 '헬스케어·유틸리티·부동산 강세'로 요약했습니다. 더벨은 한미약품 국산 비만약이 오남용 규제 대상에서 제외돼 출시를 앞두고 반사이익이 예상된다고 보도했고, 한편으로 '글로벌 암학회도 바이오 주가를 못 잡는다'는 칼럼도 실었습니다. SBS 시황은 21일 코스피 반등 업종으로 반도체·바이오를 꼽았습니다.",
+    "leaders": [
+     {
+      "name": "Moderna",
+      "ticker": "MRNA",
+      "comment": "20일 +6.69%. 거래대금 41억 달러로 헬스케어 내 최대 규모입니다."
+     },
+     {
+      "name": "Charles River Laboratories",
+      "ticker": "CRL",
+      "comment": "20일 +5.14%. 바이오 전임상(동물실험 등) 위탁 서비스 기업입니다."
+     },
+     {
+      "name": "Bristol Myers Squibb",
+      "ticker": "BMY",
+      "comment": "20일 +4.84%로 대형 제약주 강세를 이끌었습니다."
+     },
+     {
+      "name": "DaVita",
+      "ticker": "DVA",
+      "comment": "20일 -6.23%로 업종 내 약세 예외 종목입니다."
+     },
+     {
+      "name": "진원생명과학",
+      "ticker": "011000.KS",
+      "comment": "장중 -80.00%(거래대금 0). 개별 이벤트로 보이며 업종 흐름과는 무관해 보입니다."
+     }
+    ],
+    "etf_note": "XLV 179.82(+2.37%), XBI 153.24(+3.64%)"
+   },
+   {
+    "name": "방산",
+    "direction": "down",
+    "markets": [
+     "US",
+     "KR",
+     "EU"
+    ],
+    "reason": "미국과 한국 방산주가 함께 약세를 보였습니다. 미국에서는 5,000억 달러 규모 국방예산 증액 구상이 의회 부패 조사 등 정치 리스크로 제동이 걸릴 수 있다는 관측이 나왔습니다. 미국 방산 ETF는 7월 초부터 10월 중순까지 16% 하락한 상태입니다. 여기에 미-이란 종전 외교 기대가 커지면서 전쟁 프리미엄이 줄어드는 흐름입니다. 20일 ITA는 -0.77%였고, 항공·방산 부품주 Howmet(-3.82%)·GE Aerospace(-3.67%)도 S&P500 하락 상위권에 올랐습니다. 한국에서는 LIG디펜스앤에어로스페이스가 거래대금 1,941억원을 동반한 채 -12.96% 급락해 업종 차익실현 압력이 컸습니다. 다만 이란 전쟁에 따른 수요 증가로 방산주가 오른다는 해외 기사도 함께 나와, 지정학 뉴스에 따라 방향이 쉽게 바뀌는 구간입니다.",
+    "news": "서울경제는 국방예산 증액 구상 제동 관측에 미국 방산주가 약세라고 보도했습니다. marketscreener는 이란 전쟁에 따른 수요 증가로 방산주가 상승했다고 전해 상반된 시각이 공존합니다. 더벨에 따르면 수출입은행은 KAI 지분을 매각할 계획이 없다고 밝혔습니다.",
+    "leaders": [
+     {
+      "name": "LIG디펜스앤에어로스페이스",
+      "ticker": "079550.KS",
+      "comment": "장중 -12.96%(477,000원). 거래대금 1,941억원으로 코스피 6위 규모의 매물이 나왔습니다."
+     },
+     {
+      "name": "GE Aerospace",
+      "ticker": "GE",
+      "comment": "20일 -3.67%, 거래대금 27억 달러입니다."
+     },
+     {
+      "name": "Howmet Aerospace",
+      "ticker": "HWM",
+      "comment": "20일 -3.82%로 항공·방산 부품주가 약세였습니다."
+     }
+    ],
+    "etf_note": "ITA 206.15(-0.77%)"
+   },
+   {
+    "name": "산업재·전력 인프라",
+    "direction": "issue",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "산업재 ETF(XLI +0.07%)는 보합권이었지만 안에서는 종목별 차이가 컸습니다. 3M(+5.78%)은 어닝서프라이즈(시장 예상을 크게 웃돈 실적)로, Equifax(+11.33%)는 S&P500 상승 1위로 급등해 다우 강세를 이끌었습니다. 반면 AI 데이터센터 전력·설비 투자와 관련된 Comfort Systems(-4.57%)·Quanta Services(-3.62%)·Eaton(-2.43%)은 AI 인프라 투자 수익성 우려로 하락 상위권에 들었습니다. 21일 한국에서는 AI 투자심리가 회복되면서 엘에스일렉트릭이 +5.54%로 반등해, 전력 인프라주가 AI 심리에 민감하게 연동되는 모습을 보였습니다.",
+    "news": "뉴시스가 인용한 증권가 코멘트에 따르면 20일 미국 증시는 미 10년물 금리·유가 하락, 3M 어닝서프라이즈, 아마존 데이터센터 협력 확대 발표 등에 힘입어 비(非)기술주 중심으로 강세를 보였습니다. 최근 AI 관련주 매도세는 과도했다는 인식이 중론이라는 평가도 나왔습니다.",
+    "leaders": [
+     {
+      "name": "3M",
+      "ticker": "MMM",
+      "comment": "20일 +5.78%. 어닝서프라이즈를 기록했습니다."
+     },
+     {
+      "name": "Equifax",
+      "ticker": "EFX",
+      "comment": "20일 +11.33%로 S&P500 상승 1위입니다."
+     },
+     {
+      "name": "Quanta Services",
+      "ticker": "PWR",
+      "comment": "20일 -3.62%. 전력망 공사 기업으로 AI 인프라 우려가 반영됐습니다."
+     },
+     {
+      "name": "Eaton Corporation",
+      "ticker": "ETN",
+      "comment": "20일 -2.43%. 데이터센터 전력장비 기업입니다."
+     },
+     {
+      "name": "엘에스일렉트릭",
+      "ticker": "010120.KS",
+      "comment": "장중 +5.54%(163,800원), 거래대금 1,119억원입니다."
+     }
+    ],
+    "etf_note": "XLI 166.80(+0.07%)"
+   },
+   {
+    "name": "금융(은행·보험·지주)",
+    "direction": "issue",
+    "markets": [
+     "US",
+     "EU",
+     "KR"
+    ],
+    "reason": "지역별로 방향이 갈렸습니다. 미국 금융(XLF +1.20%)은 금리 진정과 비기술주 순환매 속에 강세였고, 지수 사업자 MSCI가 +5.00% 올랐습니다. 유럽은 프랑스 폭력 시위로 프랑스 국채금리가 하루 14bp 급등하자 BNP파리바·소시에테제네랄 등 주요 은행이 약 3% 하락했습니다. 한국에서는 SK(+11.21%)·SK스퀘어(+2.96%) 등 SK하이닉스 관련 지주사가 반도체 반등과 맞물려 급등한 반면, 한화생명(-7.63%)·SK디스커버리(-9.14%)는 크게 밀려 종목별 차별화가 심합니다.",
+    "news": "아주경제는 프랑스 대규모 시위로 유럽 금융시장이 주식·채권·통화가 함께 떨어지는 '트리플 약세'를 보였다고 전했습니다. 핀포인트뉴스·머니투데이는 반도체 호황 기대에 SK스퀘어 등 'S7' 관련주가 상승세라고 보도했습니다. 더벨은 JB금융의 업스테이지 지분투자(AI 협업 확대)와 금융권 과징금 규정 개정 막바지 소식을 전했습니다.",
+    "leaders": [
+     {
+      "name": "SK",
+      "ticker": "034730.KS",
+      "comment": "장중 +11.21%(476,000원), 거래대금 898억원입니다."
+     },
+     {
+      "name": "SK스퀘어",
+      "ticker": "402340.KS",
+      "comment": "장중 +2.96%, 거래대금 3,868억원. 기사상 'S7' 랠리에 포함됩니다."
+     },
+     {
+      "name": "MSCI",
+      "ticker": "MSCI",
+      "comment": "20일 +5.00%로 미국 금융 섹터 상승을 주도했습니다."
+     },
+     {
+      "name": "한화생명",
+      "ticker": "088350.KS",
+      "comment": "장중 -7.63%로 보험주 약세 예외 종목입니다."
+     },
+     {
+      "name": "BNP파리바",
+      "ticker": null,
+      "comment": "프랑스 시위 여파로 약 3% 하락(기사)했습니다."
+     }
+    ],
+    "etf_note": "XLF 55.72(+1.20%)"
+   },
+   {
+    "name": "경기소비재·자동차",
+    "direction": "issue",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "미국 경기소비재 ETF는 +0.91%로 올랐지만 안에서는 엇갈렸습니다. Hasbro(+11.20%)·Tesla(+1.54%)가 상승을 이끈 반면 General Motors(-6.84%)·Genuine Parts(-5.12%)는 S&P500 하락 상위권에 올라 자동차·부품주가 약했습니다. 테슬라는 스페이스X와의 합병론이 다시 부각되며 거래대금 115억 달러로 주목받았습니다. 캐나다산 제품에 대한 50% 관세를 둘러싼 소송은 북미 공급망에 걸친 자동차 업종에 정책 불확실성으로 남아 있습니다. 한국에서는 금호에이치티(+15.74%)·명신산업(+9.14%) 등 자동차 부품주가 상승 상위권에 올랐습니다.",
+    "news": "지디넷코리아는 스페이스X·테슬라 합병론이 수면 위로 떠올랐다며, 댄 아이브스가 '합병은 성사 여부가 아니라 시기의 문제'라고 평가했다고 보도했습니다. CNBC는 트럼프 대통령이 1930년 관세법 338조를 근거로 부과한 캐나다산 50% 관세에 새 소송이 제기됐다고 전했습니다.",
+    "leaders": [
+     {
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "comment": "20일 +1.54%, 거래대금 115억 달러. 스페이스X 합병론이 부각됐습니다."
+     },
+     {
+      "name": "Hasbro",
+      "ticker": "HAS",
+      "comment": "20일 +11.20%로 S&P500 상승 2위입니다."
+     },
+     {
+      "name": "General Motors",
+      "ticker": "GM",
+      "comment": "20일 -6.84%로 S&P500 하락 1위입니다."
+     },
+     {
+      "name": "Genuine Parts Company",
+      "ticker": "GPC",
+      "comment": "20일 -5.12%로 자동차 부품 유통주가 약세였습니다."
+     },
+     {
+      "name": "금호에이치티",
+      "ticker": "214330.KS",
+      "comment": "장중 +15.74%로 한국 자동차 부품주 강세를 보였습니다."
+     }
+    ],
+    "etf_note": "XLY 115.50(+0.91%)"
+   },
+   {
+    "name": "경기방어·금리민감(유틸리티·부동산·필수소비재)",
+    "direction": "up",
+    "markets": [
+     "US"
+    ],
+    "reason": "미 국채금리가 진정되고 VIX(변동성 지수)가 17.31(-6.13%)로 내려간 가운데, AI·기술주 대신 배당·방어 성격의 업종으로 자금이 옮겨갔습니다. 부동산(XLRE +1.70%)·유틸리티(XLU +1.26%)·필수소비재(XLP +0.62%)가 S&P500(+0.28%)보다 크게 올랐습니다. S&P500 구성종목 503개 중 404개가 오른 '폭넓은 상승'이었다는 점에서, 대형 기술주에 쏠렸던 흐름이 분산되는 신호로 볼 수 있습니다. 부동산에서는 Alexandria Real Estate(+4.97%)가 두드러졌습니다.",
+    "news": "국내 'Market Brief'는 20일 미국 증시를 '헬스케어·유틸리티·부동산 업종 강세'로 요약했고, 여러 기사가 미 국채금리 진정과 국제유가 하락을 미국 증시 상승 요인으로 꼽았습니다.",
+    "leaders": [
+     {
+      "name": "Alexandria Real Estate Equities",
+      "ticker": "ARE",
+      "comment": "20일 +4.97%로 부동산 섹터 상승 상위입니다."
+     }
+    ],
+    "etf_note": "XLRE 42.38(+1.70%), XLU 41.88(+1.26%), XLP 87.75(+0.62%)"
+   },
+   {
+    "name": "소프트웨어·IT서비스",
+    "direction": "up",
+    "markets": [
+     "US",
+     "KR"
+    ],
+    "reason": "AI 하드웨어 설비투자 우려가 커지는 사이 미국에서는 소프트웨어·IT서비스 종목이 상대적으로 강했습니다. Gartner(+5.74%)·Tyler Technologies(+4.74%)가 S&P500 상승 상위권에 올랐습니다. 한국에서는 NHN이 장중 +11.91%로 급등했고, 상장 첫날 공모가 대비 31.93% 폭락했던 AI 인프라 기업 엘리스가 21일 상한가(29.92%)로 급반등했습니다. AI 관련 중소형주 투자심리가 과매도(지나치게 많이 팔린 상태) 이후 빠르게 되돌아가는 모습입니다.",
+    "news": "이코노미스트·아주경제·서울경제는 엘리스가 상장 첫날 6만1,600원(공모가 9만500원 대비 -31.93%)으로 마감했고, 로이터·CNBC·블룸버그가 이를 'AI 투자 열풍 종말'의 상징적 신호로 집중 조명했다고 전했습니다. 엘리스는 이튿날 상한가로 반등했습니다. 더벨은 JB금융이 업스테이지 지분투자로 AI 협업을 확대한다고 보도했습니다.",
+    "leaders": [
+     {
+      "name": "NHN",
+      "ticker": "181710.KS",
+      "comment": "장중 +11.91%(57,200원), 거래대금 106억원입니다."
+     },
+     {
+      "name": "Gartner",
+      "ticker": "IT",
+      "comment": "20일 +5.74%입니다."
+     },
+     {
+      "name": "Tyler Technologies",
+      "ticker": "TYL",
+      "comment": "20일 +4.74%입니다."
+     },
+     {
+      "name": "엘리스",
+      "ticker": null,
+      "comment": "상장 첫날 -31.93% 후 21일 상한가(29.92%, 기사)를 기록했습니다."
+     }
+    ],
+    "etf_note": null
+   },
+   {
+    "name": "건설·엔지니어링",
+    "direction": "up",
+    "markets": [
+     "KR"
+    ],
+    "reason": "21일 코스피 반등 과정에서 삼성E&A가 +9.05%(거래대금 824억원)로 대형주 중 두드러진 상승률을 보였습니다. 국제유가·장기금리 진정과 미-이란 협상 기대로 중동 지정학 리스크가 완화되는 국면은, 중동 플랜트 수주 비중이 큰 엔지니어링주의 심리에 우호적입니다. 다만 입력 기사에서 삼성E&A의 개별 상승 사유는 확인되지 않아, 업종 전반의 추세로 보기에는 근거가 제한적입니다.",
+    "news": "더벨은 '현엔(현대엔지니어링) 시공' 중외근린공원 1BL의 4,500억원 자금 조달 마무리와 현대건설의 토목 경쟁력 과제를 다뤘습니다. 머니투데이는 미-이란 협상 기대로 투자심리가 회복됐다고 보도했습니다.",
+    "leaders": [
+     {
+      "name": "삼성E&A",
+      "ticker": "028050.KS",
+      "comment": "장중 +9.05%(47,550원), 거래대금 824억원입니다."
+     }
+    ],
+    "etf_note": null
+   }
+  ],
+  "ai_sector": "AI 섹터는 '우려 정점 → 실적 확인에 따른 안도' 국면으로 넘어가는 분기점에 있습니다. 10월 들어 AI 인프라 투자의 수익성, 순환투자 구조(AI 기업과 공급사가 서로 투자·구매하며 매출을 키우는 구조), 데이터센터 자금 조달 우려가 겹쳤습니다. 그 결과 필라델피아 반도체지수는 이달 11% 하락해 7월 이후 가장 부진한 월간 성적이 예상되고, AI 컴퓨팅 임대업체 코어위브도 이달 들어 큰 폭으로 떨어졌습니다. 빅테크 CDS(신용부도스와프: 기업 부도 위험에 대비하는 보험 성격의 파생상품) 거래가 급증했다는 보도는 시장이 'AI 거품'의 신용 측면까지 따지기 시작했다는 뜻입니다. 20일에는 한국 AI 인프라 기업 엘리스가 상장 첫날 공모가 대비 31.93% 폭락했고, 로이터·CNBC·블룸버그가 이를 'AI 투자 열풍 종말'의 신호로 해석했습니다. 이 여파로 미국 기술주가 하락 출발했고, 코스피는 -3.73%(외국인 5,333억원·기관 1조48억원 순매도, 기사)로 아시아에서 가장 크게 떨어졌습니다. 한국의 낙폭이 컸던 이유로는 반도체 대형주의 높은 지수 비중과 외국인 매도 집중이 꼽혔습니다.\n분위기를 바꾼 것은 실적입니다. 슈퍼마이크로가 매출·수익성이 예상보다 훨씬 강할 수 있다는 잠정치를 깜짝 공개해 시간외 15% 급등했고, Dell·HPE도 함께 올랐습니다. 스페이스X도 '컴퓨팅 수요가 폭발적'이라는 호실적으로 AI 관련주 전반을 끌어올렸습니다. 블룸버그는 21일 아시아 증시와 미국 선물이 'AI 트레이드 부활'로 상승했다고 전했습니다. 같은 날 코스피에서는 SK하이닉스(+4.25%, 거래대금 4조원)·삼성전자(+5.09%, 3조원)가 반등을 주도했고, 장 초반 외국인이 933억원 순매수(기사)로 돌아섰습니다.\n밸류에이션(주가 수준) 측면에서는 증권가가 '최근 AI 관련주 매도는 과도했다'고 보는 시각이 우세합니다. 노무라는 메모리 보고서에서 삼성전자·SK하이닉스 목표주가를 유지했고, 한화투자증권은 하이퍼스케일러 신용위험이 제한적이며 2027년 이익 성장을 고려하면 메모리 주가가 매력적이라고 평가했습니다. 지역별로는 신한투자증권이 '대만이 AI 인프라 전반을 싹쓸이하며 한·일·중보다 가장 빠르게 회복했다'고 분석해, AI 수혜가 지역별로 차별화되고 있음을 보여줍니다.\n다만 20일 미국 본장에서는 Micron(-0.98%)·Nvidia(-0.29%)·AMD(-0.62%)·Meta(-1.59%)가 모두 하락했고, 장비주(Lam -3.21%, KLA -2.80%)와 전력 인프라주(Quanta -3.62%, Eaton -2.43%)가 하락 상위권에 올랐습니다. 슈퍼마이크로 효과가 21일 미국 정규장에서 실제로 확인되는지가 관건입니다. Moomoo 기사처럼 '첫 매수 물결 이후 반도체가 바닥을 쳤는지 평가하는' 국면이므로, 단기적으로는 실적 발표 일정에 따라 변동성이 크게 남아 있을 것으로 보입니다. 일본 9월 수출이 16.7% 증가로 예상에 크게 못 미친 점과, 한국 9월 PPI에서 컴퓨터기억장치 가격이 11.8% 하락(환율 영향)한 점도 함께 점검할 변수입니다.",
+  "cross_events": [
+   {
+    "heading": "이란 전쟁 종전 외교 vs 중동 긴장: 유가 변동성 확대",
+    "body": "국제유가는 이란 전쟁 종전을 위한 외교 기대와 중동 긴장이 엇갈리면서 방향을 잡지 못하고 있습니다. Barchart는 외교 기대에 원유가 하락했다고, Investing.com은 중동 긴장과 미국 원유 재고 감소로 상승했다고 보도했고, WSJ는 '변동성 큰 세션 끝에 하락 마감'이라고 전했습니다. 시세 표에서도 WTI는 103.66달러(+2.22%, 10-19 기준), 브렌트는 108.79달러(-0.69%, 10-20 기준)로 엇갈렸습니다. 후티 반군의 공격이 이어지고 있다는 보도(Marine Link)와 미국의 러시아 에너지 제재 조치 평가도 유가 변수입니다. 한국 증시에서는 '미-이란 협상 기대로 유가 하락, 장기금리 진정, 달러 약세'가 21일 반등 배경으로 꼽혔습니다. 종전 기대는 방산주의 전쟁 프리미엄을 줄이는 요인이고, 유가 안정은 항공·화학 등 원가 부담 업종과 금리 민감주에 우호적입니다.",
+    "bullets": [
+     "WTI 103.66달러(+2.22%, 10-19), 브렌트 108.79달러(-0.69%, 10-20): 100달러대 고유가 속 등락",
+     "미-이란 협상 기대 → 유가·장기금리 진정 → 코스피 반등 요인(머니투데이)",
+     "후티 공격 지속은 홍해 해상 운송 리스크 요인",
+     "미국의 러시아 에너지 제재 조치는 공급 측 변수",
+     "방산: ITA -0.77%, LIG디펜스앤에어로스페이스 -12.96%로 전쟁 프리미엄 축소",
+     "에너지 ETF XLE +0.25%로 유가 방향 혼조를 반영"
+    ]
+   },
+   {
+    "heading": "프랑스 폭력 시위와 유럽 '트리플 약세'",
+    "body": "프랑스에서 폭력 시위가 격화되고 야간 통행금지까지 검토되면서, 프랑스 10년물 국채금리가 하루 새 14bp 급등해 4.93%로 5%에 다가섰습니다. 주식·채권·유로화가 동시에 떨어지는 '트리플 약세'가 나타났습니다. CAC40은 장중 1.5% 하락해 유럽 주요국 중 가장 부진했고, BNP파리바·소시에테제네랄 등 주요 은행주가 약 3% 내렸습니다. 기사에 따르면 프랑스 국채금리는 이란 전쟁 이후 G7 가운데 가장 많이 올랐고, 향후 예산안이 변수입니다. 시세 표 기준 20일 마감은 CAC40 -0.38%, 유로스톡스50 -0.38%, 스톡스600 -0.14%로 장중보다 낙폭을 줄였습니다. '긴축이냐 민심이냐'의 재정 갈등이 이어지면 유럽 은행·명품·산업재의 상대적 부진이 길어질 수 있습니다.",
+    "bullets": [
+     "프랑스 국채금리 하루 14bp 급등, 4.93%(기사)",
+     "CAC40 7,838.49(-0.38%), 유로스톡스50 6,121.66(-0.38%), DAX -0.06%, FTSE100 -0.29%",
+     "BNP파리바·소시에테제네랄 약 3% 하락(기사)",
+     "OAT-Bund 스프레드(프랑스·독일 국채 금리 차이)가 프랑스 증시의 핵심 변수(CNBC 인용)",
+     "유로화가 달러·파운드 대비 약세"
+    ]
+   },
+   {
+    "heading": "AI 투자 사이클의 신용·순환투자 우려와 실적 반박",
+    "body": "AI 인프라 투자 지속성에 대한 의구심이 반도체·전력 인프라·데이터센터·AI 신규 상장주 등 여러 업종에 동시에 영향을 주고 있습니다. 빅테크 CDS 거래 급증, 코어위브 급락, 엘리스 상장 첫날 폭락이 '거품' 논쟁을 키웠고, IMF-세계은행 회의(방콕)에서도 부채·AI·우크라이나가 주요 의제였습니다. 반면 슈퍼마이크로 잠정 매출과 스페이스X 호실적은 실제 수요가 탄탄하다는 반박 근거가 됐습니다. 우려가 한국에 미친 영향은 커서, 20일 코스피 -3.73%·코스닥 -3.33%로 닛케이(-1.30%)·항셍(-1.32%)보다 하락폭이 컸습니다. 중국 탄순테크놀로지가 RTX PRO 5500 2만 개 구매를 공시하면서 공급 부족·해외 기술 규제로 납품 지연 가능성을 언급한 점은, 수출 규제가 여전히 AI 하드웨어 공급망의 변수임을 보여줍니다.",
+    "bullets": [
+     "엘리스 IPO(공모 규모 약 1억~1.5억 달러) 첫날 -31.93% → 외신 'AI 열풍 종말' 해석 → 이튿날 상한가",
+     "슈퍼마이크로 시간외 +15%, Dell·HPE 동반 상승",
+     "20일 코스피 외국인 5,333억원·기관 1조48억원 순매도(기사)",
+     "대만 증시는 AI 인프라 수혜를 독식하며 한·일·중 대비 강세(신한투자증권)",
+     "탄순테크놀로지: 해외 기술 규제로 GPU 납품 지연 가능성 공시"
+    ]
+   },
+   {
+    "heading": "관세·제재·거시지표: 정책 불확실성과 금리 진정",
+    "body": "무역 정책 측면에서는 트럼프 대통령이 1930년 관세법 338조를 근거로 캐나다산 제품에 부과한 50% 관세에 새 소송이 제기돼, 관세의 법적 근거를 둘러싼 다툼이 이어지고 있습니다. 미국의 러시아 에너지 제재 조치도 유가에 영향을 주는 정책 변수입니다. 거시지표로는 일본 9월 수출 증가율이 16.7%로 예상에 크게 못 미쳤고(수입도 18.9%로 예상치 19.6% 하회), 아시아 수출 모멘텀(증가 추세)이 둔화하는 신호입니다. 한국 9월 생산자물가는 전월 대비 0.2%, 전년 동월 대비 7.7% 올라 전기요금·먹거리 중심의 상방 압력을 보였습니다. 반면 원/달러 환율이 전월 대비 3.4% 하락하면서 수입가격과 달러 기준 반도체 가격(컴퓨터기억장치 -11.8%)을 낮췄습니다. 미 국채금리 진정과 VIX 하락(17.31, -6.13%)은 금리 민감 업종과 소형주(러셀2000 +1.65%)에 우호적이었습니다.",
+    "bullets": [
+     "캐나다산 50% 관세 대상 '338조' 소송 제기(CNBC)",
+     "일본 9월 수출 +16.7%로 예상 크게 하회(CNBC)",
+     "한국 9월 PPI 전월 +0.2%, 전년 동월 +7.7%; 컴퓨터기억장치 -11.8%",
+     "9월 원/달러 환율 전월 대비 3.4% 하락 → 수입물가 하락 요인",
+     "VIX 17.31(-6.13%), 러셀2000 2,773.42(+1.65%)"
+    ]
+   }
+  ],
+  "events_today": [
+   "21일 미국 정규장에서 슈퍼마이크로 깜짝 잠정실적 효과(Dell·HPE·AI 반도체 동반 강세)가 이어지는지 확인",
+   "미국 3분기 실적 시즌 지속: 20일 3M 어닝서프라이즈 이후 산업재·기술주 실적 발표 흐름",
+   "미-이란 종전 외교 협상 진행 상황과 후티 공격 등 중동 긴장(유가·방산주 변수)",
+   "프랑스 시위 격화 여부와 예산안 향방, 프랑스 10년물 국채금리 5% 돌파 여부",
+   "엘리스 상장 2거래일 이후 주가 흐름(국내외 AI 인프라 투자심리 가늠자)",
+   "10월 필라델피아 반도체지수 월간 성적(이달 -11%) 마무리 흐름",
+   "캐나다 관세 관련 338조 소송 진행 상황"
+  ],
+  "headlines": [
+   {
+    "text": "슈퍼마이크로 '깜짝' 잠정실적에 AI 투자 우려 완화…코스피 반도체 대형주 급반등(삼성전자 +5.09%, SK하이닉스 +4.25% 장중)",
+    "importance": 5
+   },
+   {
+    "text": "미국 증시 순환매: 헬스케어(XLV +2.37%)·바이오(XBI +3.64%)·부동산·유틸리티 강세, 반도체(SOXX -0.38%)·방산(ITA -0.77%) 약세",
+    "importance": 4
+   },
+   {
+    "text": "이란 종전 외교 기대와 중동 긴장이 교차하며 유가 변동성 확대…방산주는 국방예산 제동 관측까지 겹쳐 약세",
+    "importance": 3
+   }
+  ],
+  "data_caveats": [
+   "코스피 구성종목 표는 2026-10-21 장중 값으로, 마감 기준과 다를 수 있습니다. 지수 표의 코스피·코스닥은 10-20 종가입니다.",
+   "원자재 표의 WTI·금·구리·비트코인은 10-19 기준, 브렌트는 10-20 기준이라 날짜가 섞여 있습니다.",
+   "외국인·기관 수급 수치는 기사에 인용된 장 초반 값만 있으며, 별도 수급 데이터는 제공되지 않았습니다.",
+   "슈퍼마이크로·SpaceX·Dell·HPE는 시세 표에 없어 기사에 나온 내용만 인용했습니다.",
+   "일부 기사 요약은 잘려 있어(예: 코어위브 하락률) 정확한 수치를 확인할 수 없습니다.",
+   "유가 관련 기사들의 방향(상승/하락)이 서로 엇갈려, 기사가 나온 시점에 따라 해석이 달라질 수 있습니다."
+  ],
+  "disclaimer": "본 보고서는 투자 조언이 아닙니다. 투자 판단과 책임은 투자자 본인에게 있습니다."
+ },
+ "articles": [
+  {
+   "title": "Crude Oil Prices Fall on Diplomacy Hopes to End Iran War",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXR6WkdySG9hMzBkV3FLcFFlVHFGV3M3Z2MwNExrUGpYY0IwZ3Ezd3FxUXh0a2M1Qml2ZUhhWXdvTHpRbkYza0dJQVFfTms4UHYxME05Sk1mMVd4WXZjM0tOZGN1YzF1ZGVTVlMxRVY0LWUtZ2p3ZS1yTjZocGpiZWhOeDFLZy1mS1lYUWh5NjhiY2g0T045Q0ZFOGdLWVRHanc?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Barchart.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 04:16"
+  },
+  {
+   "title": "Oil prices rise on M.East tensions, U.S. inventory draw",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXVnZW1aUExZQ3NSMVBJbkVsN3BqZ2hWVTlfcGY5U2Z1Wnh4T3M4ZF9jb1NTQVY4UXczZGdDczlwckNQRnpFOXM2YXJVT1NtRXR5T3BmUHBMakdkQ0UwUUJOcHFZOXRlanJydXlWZGhBZlJJanJTSlZMZGR4S01vYnJ5WGJZSEFfbi1CaHBQdDhLTFY5RG02NWI3elNBeHBGaWl6UGRkb0JWV2c?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Investing.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "After the initial wave of buying, investors will assess whether semiconductor stocks have bottomed out.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0djQTNPRTc3RUlHd2dOWHZKTFlMS2VJV1I1M3RHQkpzM2dFc0hlYThkTXNWY0lzRnhsTUpsNE9RMHhSNi04eFBiXzMtM0ZpaFJsajV4QTgxdmNMb09WbjQxQVhKZ0tQZ1lQT1RSX2NsX29KWnlaRGItUzhaMi1UTjU5bW1SMVVudWJQcWhpUXl6cl8wOC1sSjlDbUdxSVBlRzdMOE1FbFB1QQ?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Moomoo",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 08:41"
+  },
+  {
+   "title": "한·일·중 묶일 때 홀로 질주…대만, AI 인프라 전반 싹쓸이",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367736",
+   "source": "네이버 중국 증시",
+   "publisher": "ftoday.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 08:04"
+  },
+  {
+   "title": "AI and semiconductor stocks drop sharply amid i...",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0JsdUh1WDJWNDUzM0lXVHNmeDhXTlFKdFM0SGJ3VGM3ZUlzc2ViQWNFYWs1dlk4Z0VsNXBLalFoLV8tN05LS1BCZFNpWjM3RHdKVFE5dXdSelNiRUNnblpVd0EtdFBSYjI0ZmU0S0JobFpPWUNZV3JrLS1zeWs1NTBsRVJuUmhoOV9ZXzFTa2p1cEY1OVpaWEdjcGxuQ2Zu?oc=5",
+   "source": "Google News semiconductor",
+   "publisher": "Pluang",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 07:37"
+  },
+  {
+   "title": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDhCbnUwbzFqRTZQb2ZQWmtIWGtBam9ENEc4ak5nNEktMm16NlA0TXJQalJpb1I0X1BDVG9rbVh1d0k1TGU0ZjRabE1IVVNCTmhRM19QQlYtdk9JYkVaQ0xRNXJXSldPenRydmpsczhmX3V6elA2Tmo4MWJrTXphQ0wyNnlDRVM2eGUzeF94MlZBN1NN?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:05"
+  },
+  {
+   "title": "Oil Futures Settle Lower in Volatile Session",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "WSJ",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:17"
+  },
+  {
+   "title": "프랑스, 어쩌다 이 지경까지...폭력 시위에 ‘야간 통금’ 검토 [글로벌...",
+   "url": "https://www.sedaily.com/article/20104033?ref=naver",
+   "source": "네이버 방산주",
+   "publisher": "서울경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 06:01"
+  },
+  {
+   "title": "[글로벌 비즈 브리핑] AI 거품 터질라…빅테크 CDS 거래 급증 外",
+   "url": "https://biz.sbs.co.kr/article_hub/20000341132?division=NAVER",
+   "source": "네이버 중국 증시",
+   "publisher": "SBS",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-21 04:52"
+  },
+  {
+   "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+   "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 03:06"
+  },
+  {
+   "title": "Brent Crude Prices Slip Amidst Houthi Attacks",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamdxNDFDd2JKVFl6ZGdFdE9vVVhmbklqUWhsdjloS0FUdkY0bExCQkM3TWJ2UTdyeTBxaFJPVWRkYlVGc3FtTW9SVXZ2VjFFck5xemdkUG94VGFGeS0wQUN3ejhBTWhGOFhYRmpRLXp3aEx4SkpxNVFDd3hBNy00LTdB?oc=5",
+   "source": "Google News oil prices",
+   "publisher": "Marine Link",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 02:10"
+  },
+  {
+   "title": "Defense Stocks Gain on Rising Demand Amid War in Iran",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlNqRXBEU2h4RUJvdnZ3QnBxaXk3U1cwaW1SSWR1OHpjVXhqTVdmM3czTUdnSnhhNTFRUjQzcVpQZlRzSGdBcFN0clkwaElINXF4eGJETEVEQnZGMEtmWGYwUXpfcTd0WGRxQjc4VGFzd29oVjRnZ2VEQzZVOXk0cUVxSEdVM2Nwd2d2VTlzMzZkNHQ2c1NWdDdDVEVQOUZqMlJ1OWtzU1pxUQ?oc=5",
+   "source": "Google News defense stocks",
+   "publisher": "marketscreener.com",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 00:40"
+  },
+  {
+   "title": "Oil prices fall as markets assess U.S. move on Russian energy sanctions",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zNnBQQVZfMk1wQXA5S1dvZ3ZhbFl2WXRZOHVYRkFQTDRtSFpwX3p4V0dDVlBaX0lSWHhySXJNQTRidG5GOVZXWE1vUV8?oc=5",
+   "source": "Google News geopolitics markets",
+   "publisher": "سانا",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 14:53"
+  },
+  {
+   "title": "The world’s finance chiefs see new risks — and less China angst",
+   "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+   "source": "CNBC Finance",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-20 14:27"
+  },
+  {
+   "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street - KWKT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1lSazI2VDVUUm40bnpjckh2YTdVaEk1UVRQYTFDdWlCaFhzRkh5YXgzTDg4UXA4TlVVcS1JRjlhWHV6UTNLTFp4a1dTQjhGOUJKRjhTeFpCeVluTHpNUXZrVzdWcEQ4UGRDal9Bc0lxR2tENDVpbENzRjFSclNqR2FoejJCNFVITVB1SkJCMWV3eEFvdFdmeTB6WnhySjM4OFRHVVRkcmFuNllCaXV5eGt1UVNzNmgza25kYjZxY9IBxAFBVV95cUxPd2Z3LTN3ZEJ0YnRtblpURW13RVV3MDJ1MjR5bjd6NUliZ1l1d05JZnBmdmdQaHc5b1JvNnJqb3d1V2pIOHp1U3UwUTU5MGZLR250T3piREFsdEN4Z19GYlpVRjNtakFjdVhqM2FyVHFEd3ZhRVE2RlBjU2tuNjJ6ZFpYbmhJb21SSGhybGVWQnVLNHBDV1c4eGpFRVdyU2ZMZDNJbVJOUWhhUUsta2NFVTQtdTRZcERTTU9sRmhaYWR3VHdq?oc=5",
+   "source": "Google News Nikkei",
+   "publisher": "KWKT - FOX 44",
+   "lang": "en",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-20 12:20"
+  },
+  {
+   "title": "[특징주] 슈퍼마이크로 호실적 훈풍에 삼성전자·SK하이닉스 동반 강세",
+   "url": "https://www.newspim.com/news/view/20261021000214",
+   "source": "네이버 반도체 주가",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "AI 투자 우려 잠재운 美 슈퍼마이크로…'깜짝' 가이던스에 시간외 거래...",
+   "url": "https://www.ajunews.com/view/20261021093541346",
+   "source": "네이버 반도체 주가",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "상장 첫날 32%↓'폭락' 무슨 일?…\"AI 투자 열풍의 종말\"",
+   "url": "https://economist.co.kr/article/view/ecn202610210007",
+   "source": "네이버 코스닥",
+   "publisher": "economist.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:43"
+  },
+  {
+   "title": "[개장시황] 코스피·코스닥 1%대 상승 출발…급락 딛고 반등 시도",
+   "url": "https://www.newspim.com/news/view/20261021000193",
+   "source": "네이버 코스피",
+   "publisher": "뉴스핌",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "어제 215포인트 폭락하더니…코스피 하루 만에 5700선 회복",
+   "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000075284",
+   "source": "네이버 코스피",
+   "publisher": "jnilbo.com",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:40"
+  },
+  {
+   "title": "“외국인들 돌아오나요?”…코스피 3%대 상승, 전날 급락 폭 회복 중",
+   "url": "https://www.mk.co.kr/news/stock/12181409",
+   "source": "매일경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스 5~6%대 급등…반도체 대형주 일제히 반등",
+   "url": "https://www.ajunews.com/view/20261021093341345",
+   "source": "네이버 AI 관련주",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "코스피, 반발 매수세에 3% 반등하며 5,700선…코스닥 2.5%↑(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261021041800008?input=1195m",
+   "source": "네이버 AI 관련주",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:35"
+  },
+  {
+   "title": "유가 진정에 투심 회복···코스피 5700선 반등",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=157050",
+   "source": "네이버 뉴욕증시",
+   "publisher": "smartbizn.com",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:34"
+  },
+  {
+   "title": "\"AI 수요 견고\" 슈퍼마이크로 서프라이즈에…삼전닉스 모처럼 급등",
+   "url": "https://www.hankyung.com/article/2026102150796",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:32"
+  },
+  {
+   "title": "코스피, 폭락 딛고 5700선 탈환…삼성전자 4%·SK하이닉스 6%↑",
+   "url": "https://www.ddaily.co.kr/page/view/2026102109223533706",
+   "source": "네이버 뉴욕증시",
+   "publisher": "ddaily.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:32"
+  },
+  {
+   "title": "코스피, 반도체주 강세에 1%대 반등...삼성전자 3%·SK하이닉스 4%↑",
+   "url": "https://www.m-economynews.com/news/article.html?no=71916",
+   "source": "네이버 뉴욕증시",
+   "publisher": "m-economynews.com",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:30"
+  },
+  {
+   "title": "코스피, 전날 급락 딛고 장초반 3%대 강세…삼전닉스 4~6%↑",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=202610210925345089be44c0aacd_30",
+   "source": "네이버 외국인 순매수",
+   "publisher": "beyondpost.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:28"
+  },
+  {
+   "title": "'AI 서버' 슈퍼마이크로, 매출 깜짝 호조…시간외 주가 15% 폭등",
+   "url": "https://www.news1.kr/world/international-economy/6326770",
+   "source": "네이버 뉴욕증시",
+   "publisher": "뉴스1",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:28"
+  },
+  {
+   "title": "코스피, 국제유가·금리 안정에 반등…삼전·SK닉스 3%대 상승",
+   "url": "https://www.hankyung.com/article/2026102150236",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:20"
+  },
+  {
+   "title": "[마켓라이브] 삼전·닉스 6% 급등…코스피 매수 사이드카",
+   "url": "https://www.hankyung.com/article/202610214989i",
+   "source": "한국경제 증권",
+   "publisher": null,
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:18"
+  },
+  {
+   "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+   "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:15"
+  },
+  {
+   "title": "[속보] 코스피 2% 상승…5,660선 출발",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSRWYyZ2lZSU1IR1d6X2tMZXRURV90bHM4ZjhUVkxhczNQSEJSQnNQOGJ0ZFNVQXZiRks4TC0tM1kwYkVCa00tZ0xUdzdmNi0tM0xsR05OYWFBNjBpdzF3djV1T1BFMW8?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "연합뉴스TV",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:06"
+  },
+  {
+   "title": "코스피, 2%대 반등하며 5,666 출발…코스닥도 1.46%↑",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbWJXYTNOSnZGRVpBWk9uT1dNQ2g1TjZJdWhYMXZneWxTNkY4Z1JDRXhVT1JxWF9lTkx2a2ZrR1pxUEhuQ1dSdTk4QjFXVGdpVmNnZ3BELWExdmvSAWBBVV95cUxPamRpTGNpQ3hfOVdtSXRuZDNEQkdvdE9tenZBXzdNZHF2cXVYdnZmQnNWNmJIc3lveGt5NmxmQlVnUWgyc1FlQjd3WnRBVkpxRW0ybEVrblQ5TWZ6MmNMOGk?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:05"
+  },
+  {
+   "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+   "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 08:10"
+  },
+  {
+   "title": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXV6SV9KdFBtdTBlYnZjb0RObThaNS1VcHRDSDZYUFNXemJYbGVHYklKSGdkenJGUEJmTzVTRU9pbHJMLWVOa0xxN3A5bFc1cDQtUlZ0TXRWLUpKcnEyTXRQRGZIR1NCeDV5THBsV011WDZQME5rbmdCcW96OGxrQW5CMUdtcVNPdFNUNlpETl9UR25EX1h6LXMyWWFQdmdESWZMc0hhWThTZF82X2g3bTAxWnRVQQ?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "Bloomberg.com",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 07:14"
+  },
+  {
+   "title": "AI 순환투자 우려에 코스피 ‘휘청’…5,500선도 위협",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SX3Y3UzFFR2tSOW5ON011TjVoTE9jcE1FZVVuS3FGNkRpRnFLaEFJWXc0X0gzV0tMSVJscVh0ckwwY0stVEdIU3ZKUk1Ta2UxRWhCcDNULVkwT0k?oc=5",
+   "source": "Google News 코스피",
+   "publisher": "KBS 뉴스",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 06:35"
+  },
+  {
+   "title": "US markets open lower as AI stocks lead sell-offs",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VTXZFaVRDZTNkMmR4VG4wdU1xQ2tGMFVHNi02VmoxRkkxSjNNQm5hM05xYnE0VmEwaXU0aWV5QW93c25idEs5U1NONldPcEg1Z29uZmpvNWw?oc=5",
+   "source": "Google News AI stocks",
+   "publisher": "BBC",
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 01:54"
+  },
+  {
+   "title": "코스피 3.73% 급락 마감…외국인·기관 1조5천억원 매도",
+   "url": "http://www.kjdaily.com/article.php?aid=1792509921689718276",
+   "source": "네이버 일본 증시",
+   "publisher": "kjdaily.com",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 00:28"
+  },
+  {
+   "title": "[마감시황] AI 투자 우려 다시 고개···코스피 장중 5500선 붕괴",
+   "url": "https://www.polinews.co.kr/news/articleView.html?idxno=746328",
+   "source": "네이버 홍콩 항셍",
+   "publisher": "polinews.co.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 18:05"
+  },
+  {
+   "title": "코스피 215포인트 폭락…삼성전자·SK하이닉스까지 줄줄이 추락",
+   "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000075166",
+   "source": "네이버 홍콩 항셍",
+   "publisher": "jnilbo.com",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 16:52"
+  },
+  {
+   "title": "“한국만 유독 왜 이러나”…‘엘리스 쇼크’에 다시 번진 AI 공포 [머니...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261020027238613",
+   "source": "네이버 홍콩 항셍",
+   "publisher": "ekn.kr",
+   "lang": "ko",
+   "category": "CN",
+   "published_at_kst": "2026-10-20 16:26"
+  },
+  {
+   "title": "[종합] 佛 대규모 시위에 유럽 금융시장 '트리플 약세'…이탈리아 경기...",
+   "url": "https://www.ajunews.com/view/20261020143452642",
+   "source": "네이버 유럽 증시",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 15:22"
+  },
+  {
+   "title": "佛국채금리 하루새 14bp 급등…시위 격화에 5% 눈앞",
+   "url": "https://view.asiae.co.kr/article/2026102008505524426",
+   "source": "네이버 유럽 증시",
+   "publisher": "아시아경제",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 10:49"
+  },
+  {
+   "title": "프랑스 폭동에 주식·채권·유로화 동반 약세…\"긴축이냐 민심이냐\"",
+   "url": "https://www.newsis.com/view/NISX20261020_0003832703",
+   "source": "네이버 유럽 증시",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 10:28"
+  },
+  {
+   "title": "프랑스 국채 투매 심화…폭동 여파에 금리 4.93% 급등",
+   "url": "https://www.g-enews.com/view.php?ud=2026102008392418389a1f309431_1",
+   "source": "네이버 유럽 증시",
+   "publisher": "g-enews.com",
+   "lang": "ko",
+   "category": "EU",
+   "published_at_kst": "2026-10-20 08:42"
+  },
+  {
+   "title": "[서울데이터랩]코스피, 하루 만에 반등 출발…반도체주 강세에 5673.95",
+   "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/21/20261021500038?wlog_tag3=naver",
+   "source": "네이버 코스피",
+   "publisher": "서울신문",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "[서울데이터랩] 코스닥, 장 초반 802.50까지 오르며 2%대 강세…기관 순...",
+   "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/21/20261021500039?wlog_tag3=naver",
+   "source": "네이버 국제유가",
+   "publisher": "서울신문",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "[미국주식 Market Brief] 헬스케어·유틸리티·부동산 업종이 강세를 보...",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395839",
+   "source": "네이버 미국 기술주",
+   "publisher": "fntoday.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:48"
+  },
+  {
+   "title": "코스피, 삼전닉스 반등에 5700선 탈환…코스닥도 상승",
+   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=900148",
+   "source": "네이버 코스닥",
+   "publisher": "newsworks.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:48"
+  },
+  {
+   "title": "반도체 호황 기대에 S7株 상승… SK스퀘어도 폭등랠리",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497119",
+   "source": "네이버 AI 관련주",
+   "publisher": "pinpointnews.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:48"
+  },
+  {
+   "title": "삼전·하이닉스 흔들려도, 노무라는 그대로...\"67만원·470만원 간다\"",
+   "url": "https://www.insight.co.kr/news/578563",
+   "source": "네이버 반도체 주가",
+   "publisher": "insight.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:48"
+  },
+  {
+   "title": "한은 '9월 생산자물가지수' 0.2% 상승… 전년 동월 대비 7.7% 급등",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395834",
+   "source": "네이버 원달러 환율",
+   "publisher": "fntoday.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:46"
+  },
+  {
+   "title": "'머스크 초거대 제국' 탄생하나…스페이스X·테슬라 합병 수면 위로",
+   "url": "https://zdnet.co.kr/view/?no=20261021090511",
+   "source": "네이버 미국 기술주",
+   "publisher": "지디넷코리아",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:45"
+  },
+  {
+   "title": "Japan exports post huge miss in September as growth slows to 16.7%",
+   "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+   "source": "CNBC Top News",
+   "publisher": null,
+   "lang": "en",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "전기요금·먹거리 뛰자 9월 생산자물가 0.2%↑…두 달째 상승",
+   "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81881",
+   "source": "네이버 원달러 환율",
+   "publisher": "newsfc.co.kr",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "[이 시각 시황] 코스피 3% 급반등·코스닥 800선 회복…반도체·바이오·...",
+   "url": "https://biz.sbs.co.kr/article_hub/20000341185?division=NAVER",
+   "source": "네이버 코스닥",
+   "publisher": "SBS",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:44"
+  },
+  {
+   "title": "코스피 3% 올라 5700선 회복…반도체 대형주 중심 반등[개장시황]",
+   "url": "https://www.news1.kr/finance/general-stock/6326789",
+   "source": "네이버 외국인 순매수",
+   "publisher": "뉴스1",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "[개장시황] 코스피, 5700선 회복...반발 매수에 3% 가까이 반등",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=556864",
+   "source": "네이버 AI 관련주",
+   "publisher": "joongangenews.com",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "외신도 주목한 ‘상장 첫날 급락’…엘리스, 하루 만에 상한가 [이런국...",
+   "url": "https://www.sedaily.com/article/20104152?ref=naver",
+   "source": "네이버 AI 관련주",
+   "publisher": "서울경제",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "[속보] SK하이닉스 130만원 돌파·삼성전자 22만원대 급등…반도체주 동...",
+   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617677",
+   "source": "네이버 반도체 주가",
+   "publisher": "cbci.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "삼성전자·SK하이닉스 날았다…코스피 2% 급등 출발",
+   "url": "http://www.newskr.kr/news/articleView.html?idxno=107328",
+   "source": "네이버 코스닥",
+   "publisher": "newskr.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "[핫타임]AI 투자 열풍의 종말이라던 '엘리스'…첫날 부진 딛고 '급반등'",
+   "url": "https://www.ajunews.com/view/20261021093150316",
+   "source": "네이버 코스닥",
+   "publisher": "아주경제",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:42"
+  },
+  {
+   "title": "코스피, 반발 매수세에 5700선 반등 출발…SK하이닉스·삼성전자 강세",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610210921272780418",
+   "source": "네이버 외국인 순매수",
+   "publisher": "dnews.co.kr",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:40"
+  },
+  {
+   "title": "미-이란 협상 기대감에 투심 회복… SK스퀘어 등 'S7'도 상승세",
+   "url": "https://www.mt.co.kr/stock/2026/10/21/2026102109241540528",
+   "source": "네이버 국제유가",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:39"
+  },
+  {
+   "title": "AI 투자심리 개선…삼전 4.85%·하이닉스 6.3% 급등[특징주]",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026102109284073033",
+   "source": "네이버 뉴욕증시",
+   "publisher": "newsway.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:38"
+  },
+  {
+   "title": "5700선 넘어선 코스피 [포토]",
+   "url": "https://news.tf.co.kr/read/photomovie/2378723.htm",
+   "source": "네이버 뉴욕증시",
+   "publisher": "news.tf.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:37"
+  },
+  {
+   "title": "코스피, 장 초반 3%대 상승해 5700선 회복…삼전·닉스 급반등",
+   "url": "https://www.newsis.com/view/NISX20261021_0003834484",
+   "source": "네이버 미국 기술주",
+   "publisher": "뉴시스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:37"
+  },
+  {
+   "title": "\"67만전자·470만닉스 온다\"…'주목할 종목' 선정 배경은",
+   "url": "https://economist.co.kr/article/view/ecn202610210006",
+   "source": "네이버 반도체 주가",
+   "publisher": "economist.co.kr",
+   "lang": "ko",
+   "category": "GLOBAL",
+   "published_at_kst": "2026-10-21 09:37"
+  },
+  {
+   "title": "\"한국 AI기업 상장날 -32%\" 미 증시도 흔들었다...\"기술주 투심 위축\" - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01bWRVa1J6Wk9hUkFIZmVLSWZOWVJMd2pibFNydmtyNkdsZ2dqMHhQVVBKZEJPVjgzV29peXh1dVQ5Y2lHb2hLWEVVbUt1SGxKalJPNmszczE2d3FQalBudzlrMWFkQ1Fz0gFuQVVfeXFMTl93NkJQRncwd0J4Tkdhamc1cU5xNFZRekJGMU5UdEJpQnBlQjFYeXhOaklRVGhqd2JYYVZwbWVnQWRMR2tfandHOXJDa2RmekFhZTRKWjExSjZsQWlaRWxJQlJmbnozdTBfSnlqcVE?oc=5",
+   "source": "Google News 뉴욕증시",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "\"하이퍼스케일러 신용위험 제한적…메모리 주가는 매력적\"",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440305",
+   "source": "네이버 미국 국채금리",
+   "publisher": "연합인포맥스",
+   "lang": "ko",
+   "category": "MACRO",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "\"한국 AI기업 상장날 -32%\" 미 증시도 흔들었다...\"기술주 투심 위축\"",
+   "url": "https://www.mt.co.kr/world/2026/10/21/2026102108360173395",
+   "source": "네이버 뉴욕증시",
+   "publisher": "머니투데이",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "코스피, 3% 상승 56660선 기록...삼전닉스 강세",
+   "url": "https://www.cstimes.com/news/articleView.html?idxno=724723",
+   "source": "네이버 미국 기술주",
+   "publisher": "cstimes.com",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "[특징주] 삼성전자, 장초반 4%대 반등 중…SK하이닉스도 5.6%↑",
+   "url": "https://www.yna.co.kr/view/AKR20261021039300008?input=1195m",
+   "source": "네이버 뉴욕증시",
+   "publisher": "연합뉴스",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:36"
+  },
+  {
+   "title": "코스피, 장중 3% 올라 5700 돌파...스페이스X 호실적에 美 기술주 애프터...",
+   "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145954",
+   "source": "네이버 미국 기술주",
+   "publisher": "opinionnews.co.kr",
+   "lang": "ko",
+   "category": "US",
+   "published_at_kst": "2026-10-21 09:36"
+  }
+ ],
+ "thebell": [
+  {
+   "title": "보난자팩토리, 금융기관 협업 '광폭행보'",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHM2NHZDQzdxN3NmbXNJYkwtTDNYaVNNTzVMdzdkREctRFdQYkFmVW1BY0x5Y3pDMUZnUHMxNzE4QWhINk44cFU0R2JfaGFTSU9nZVRQWVg2MUd5TjFiM2F0UzVObi0wMFYtYXdkY2F0bm9ma3B1ckdUSWdFLThwWE8ycllvTkdwZFA0?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:49"
+  },
+  {
+   "title": "[스타트업 IR 포인트] 무인탐사연구소, 누리호서 부품 검증…2028년 달 표면 실증",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd1dOR1RoYm85cDdRSFkyRUl4dl9YSFBVT283SkNISGRYZW94UjM1UHEtWHBuVmlYeXowOWNkQ1IzaWsxUVVTUGM1NDNkM0lmV1RFN0cxNko1VGQ1cTE5cklXV2JYbmRYQ3FCRjhNRXY1dnhqS3F2MXhXQnU0QjJNaEp2Z3JIYjFIRTU0?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:33"
+  },
+  {
+   "title": "[Policy Radar] 금융권 과징금, 법 개정은 계류 규정 개정은 막바지",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZWxZSlhJMmhqaHRGQXFKSW9EN1FSRkpiS2hvdEZRSVFvVTd5SGZXN3R2VVdncGlCTlpkOUpzdC1hU1k1cWtaczRXMU53MkIxMnZnSS1GdWFvZEM5aEVOcC0yRFZ4ZFJwc1JzNU03LUdNdHBZWlE4NkVpWWxTUEhMYjJxX1F0VHpHbXhB?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 09:14"
+  },
+  {
+   "title": "[thebell desk] 현대건설, '토목 명가'의 이름을 지키려면",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHR3SEhNOXJnTGR1MUZPeC1vTEtUYVpWRXFiVDNIWFFyWXdrb1lFOXo4b3BJd1dOTC1tYVB0WDd6ZEJMdU9zWWNDYW1LN0d1SXJhODdudjRmak9IZHBVTFl4d29fWk9hcU9CVURKcFBMWkx2WmpfWENwSkR4MFJJaFJzb1FQQ1c5U2Jz?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 08:33"
+  },
+  {
+   "title": "[한미약품 국산 비만약 결실] 오남용 규제 대상 제외…'에페' 출시 앞두고 반사이익",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWjJhRHZMNEk5VnNSZnc1SnpwMVhIMVZ1b093Yk1HUHZvS2FzNDhTdktDSVFUTl9MSldvZEZnYjgyT0tqdHFmWU5LRlF6aG5RZjhsZ1pnMDlyekpvNUlqMUozRElsTEZaZ01KSV9RUUxoY1lzRUl6VFlpM0hEZWIyLUJQTlExYzN6aENR?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 08:15"
+  },
+  {
+   "title": "KAI 지분 매각 계획 없다는 수출입은행",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUE9abzQ3c25WSkV1cUxtVXhzc29ZU0RtWmt6c2J3NTZqQ0dEdklXbkQ2ekN0LWVSc0FGVmNOYXFrM3R4c0VGd3ZpRDZNZDZIdXNGS2RBZG9BMFdOM0NVNl8zakhMdHc2SG1pWnIwV3JodGhMSHl6aHM1RDZjc2YxVXdleUtCY3gzQ3c4?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 07:58"
+  },
+  {
+   "title": "JB금융, 업스테이지 지분투자로 AI 협업 확장",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNm5heEZpak5EOGk3b084ZW12VVZjbUY3ejdqTDZGOEZGMUpDZW1RcWpubmcxV1FfTld5N0pEMmxWZ0JweGNpS0V0SHBnb1JUSkZEb182a01EOFhIVEJqbi1xWG5fRzlTb1Y0MHg5Z0dsM2hkTmFOY0VFZF9WaUE2YlIxZXJRZEJGWklV?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 07:48"
+  },
+  {
+   "title": "비댁스, 인젝티브 손잡고 'KRW1 결제 인프라 구축 추진'",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWE1UanlMUHlCTmZ1a2ZvQlVnWTlKWkxodDlydXNNcmk0SU1KcEtkZ1hvRFdOMFhiUzFRbDhnUzhvWWxPR3BXZ0ZpMTM5OTl6VnhrS2hZYXVIV2RBLTJiZnliY3BEMFVudGk3dHpGcHR4V2lCOHdiNHc0aGNQYjdhSm5NWTRBTHJCbVdN?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 07:32"
+  },
+  {
+   "title": "[thebell desk] 글로벌 암학회도 못 잡는 바이오 주가",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU1FiQ0poTlpIWGtvTFZBVTBCR2dwQXNrU21UNkxZanhtLXR3NThDSTgxdEEtZ0hlUHlmR3JhNmNmejkxa0syYmY5djJ0ei1FajAtYjliSWtFV0dRX0d2emlwTUpIUGV4OXdRZnlDRjNOZ0I3OGd5SHFIVnpPLUlqczRZNTJ1a2RKanVF?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 07:19"
+  },
+  {
+   "title": "[thebell note] VC와 AC, 각자도생을 넘어",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalFDRkE2dzBPT1BLS3N3d1Y5dTh2QVpLdC1vbXlkTmlRZnJNM19VZHJXZ2pLbEl1SV9QdTF6Z285OHZOU045UjV3Q3RvdS0tT1cxc3gyTVB2c2R6VVJIc19XUVZpRE1yU0J2OU1wTVBvaEh4WWIzUU51WGRVUU1OUDdFMC1pb0wzRGI0?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 07:01"
+  },
+  {
+   "title": "'현엔 시공' 중외근린공원 1BL, 4500억 조달 마무리",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa215b0xaWUdPdVR3eHR1bUdvVVhjb01vazRXSUstUG41d2hOeWlUTTF5SWNCN0FGMzFTSzRTWlI5djg2dVg1N1RaRHFDUEZCak1QOWFUOV9XOGh3YWxTTXhvd3AxS0JCT0s1M0ljcVBuTm9Ia25OMnJoUWdtS29yajM5Wm9QMVducDhz?oc=5",
+   "source": "더벨 (Google News)",
+   "publisher": "더벨",
+   "lang": "ko",
+   "category": "KR",
+   "published_at_kst": "2026-10-21 07:01"
+  }
+ ],
+ "degraded_selection": false
+}
